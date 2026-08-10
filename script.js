@@ -1,6 +1,24 @@
 document.addEventListener("DOMContentLoaded", () => {
     
     // ============================================
+    // 0. RELOJ UTC EN TIEMPO REAL (NUEVO)
+    // ============================================
+    const relojUTC = document.getElementById("reloj-utc");
+    
+    if (relojUTC) {
+        const actualizarRelojUTC = () => {
+            const ahora = new Date();
+            const horas = String(ahora.getUTCHours()).padStart(2, '0');
+            const minutos = String(ahora.getUTCMinutes()).padStart(2, '0');
+            const segundos = String(ahora.getUTCSeconds()).padStart(2, '0');
+            relojUTC.textContent = `${horas}:${minutos}:${segundos} UTC`;
+        };
+        
+        actualizarRelojUTC();
+        setInterval(actualizarRelojUTC, 1000);
+    }
+    
+    // ============================================
     // 1. REVELADO AL HACER SCROLL
     // ============================================
     const tarjetas = document.querySelectorAll(".tarjeta-premio");
@@ -18,8 +36,8 @@ document.addEventListener("DOMContentLoaded", () => {
     // ============================================
     // 2. SISTEMA "MOSTRAR MÁS" IMÁGENES
     // ============================================
-    const IMAGENES_INICIALES = 6;      // Cuántas imágenes mostrar al inicio
-    const IMAGENES_POR_CARGA = 6;      // Cuántas añadir cada vez que se hace clic
+    const IMAGENES_INICIALES = 6;
+    const IMAGENES_POR_CARGA = 6;
     
     const galerias = document.querySelectorAll(".galeria-tarjeta");
     
@@ -29,13 +47,11 @@ document.addEventListener("DOMContentLoaded", () => {
         
         if (!boton) return;
         
-        // Si hay menos imágenes que el límite inicial, no mostrar el botón
         if (imagenes.length <= IMAGENES_INICIALES) {
             boton.style.display = "none";
             return;
         }
         
-        // Ocultar imágenes que exceden el límite inicial
         imagenes.forEach((img, i) => {
             if (i >= IMAGENES_INICIALES) {
                 img.classList.add("oculto");
@@ -44,22 +60,18 @@ document.addEventListener("DOMContentLoaded", () => {
         
         let imagenesVisibles = IMAGENES_INICIALES;
         
-        // Evento del botón "Mostrar más"
         boton.addEventListener("click", () => {
             const nuevasVisibles = Math.min(imagenesVisibles + IMAGENES_POR_CARGA, imagenes.length);
             
-            // Mostrar las nuevas imágenes
             for (let i = imagenesVisibles; i < nuevasVisibles; i++) {
                 imagenes[i].classList.remove("oculto");
             }
             
             imagenesVisibles = nuevasVisibles;
             
-            // Si ya se mostraron todas, ocultar el botón
             if (imagenesVisibles >= imagenes.length) {
                 boton.style.display = "none";
             } else {
-                // Actualizar el texto del botón con el contador
                 const restantes = imagenes.length - imagenesVisibles;
                 boton.textContent = `➕ Mostrar más imágenes (${restantes} restantes)`;
             }
@@ -86,7 +98,6 @@ document.addEventListener("DOMContentLoaded", () => {
             if (!miniatura) return;
 
             const galeriaContenedor = miniatura.closest(".galeria-tarjeta");
-            // Solo incluir imágenes visibles en el lightbox
             imagenesGaleriaActual = Array.from(galeriaContenedor.querySelectorAll("img:not(.oculto)"));
             indiceActual = imagenesGaleriaActual.indexOf(miniatura);
 
