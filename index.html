@@ -3,44 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Galería de Radioaficionado</title>
+    <title>Premios EA1062RCU</title>
     <style>
-        body { font-family: Arial, sans-serif; background-color: #f4f4f9; color: #333; margin: 0; padding: 20px; text-align: center; }
-        header { background-color: #0056b3; color: white; padding: 20px; border-radius: 8px; margin-bottom: 20px; }
-        h1 { margin: 0; font-size: 2.5em; }
-        p { font-size: 1.1em; color: #666; }
-        .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; max-width: 1200px; margin: 0 auto; padding: 10px; }
-        .gallery-item { background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s; }
-        .gallery-item:hover { transform: scale(1.03); }
-        .gallery-item img { width: 100%; height: 220px; object-fit: cover; display: block; }
-        .caption { padding: 15px; font-weight: bold; font-size: 1em; color: #444; border-top: 1px solid #eee; }
+        body { font-family: Arial, sans-serif; background-color: #f5f7fa; color: #333; margin: 0; padding: 10px; text-align: center; }
+        header { background-color: #003366; color: white; padding: 20px 10px; border-radius: 6px; margin-bottom: 20px; }
+        h1 { margin: 0; font-size: 1.8em; letter-spacing: 1px; }
+        p { margin: 5px 0 0 0; font-size: 1em; opacity: 0.9; }
+        .grid-premios { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; max-width: 1000px; margin: 0 auto; padding: 10px; }
+        .premio-card { background: white; padding: 10px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); border: 1px solid #e1e4e8; }
+        .premio-card img { width: 100%; height: auto; border-radius: 4px; display: block; background-color: #eaeaea; }
+        .texto-premio { font-size: 0.95em; font-weight: bold; margin-top: 10px; color: #111; }
     </style>
 </head>
 <body>
 
     <header>
-        <h1>Mi Estación de Radio / Galería</h1>
-        <p>Bienvenidos a mi espacio visual de radioafición. Aquí comparto mis fotos, activaciones y diplomas.</p>
+        <h1>EA1062RCU</h1>
+        <p>Mis Premios y Diplomas de Radioafición</p>
     </header>
 
-    <main class="gallery">
-        <!-- IMAGEN 1 -->
-        <div class="gallery-item">
-            <img src="https://unsplash.com" alt="Mi Shack de Radio">
-            <div class="caption">Mi Shack de Radio / Estación Actual</div>
+    <main class="grid-premios">
+
+        <!-- PREMIO 1 -->
+        <div class="premio-card">
+            <img src="URL_DE_TU_DIPLOMA_1" alt="Premio 1" loading="lazy">
+            <div class="texto-premio">🏆 Diploma / Premio 1</div>
         </div>
 
-        <!-- IMAGEN 2 -->
-        <div class="gallery-item">
-            <img src="https://unsplash.com" alt="Mis Antenas">
-            <div class="caption">Mis Antenas y Sistemas Elevados</div>
+        <!-- PREMIO 2 -->
+        <div class="premio-card">
+            <img src="URL_DE_TU_DIPLOMA_2" alt="Premio 2" loading="lazy">
+            <div class="texto-premio">🏆 Diploma / Premio 2</div>
         </div>
 
-        <!-- IMAGEN 3 -->
-        <div class="gallery-item">
-            <img src="https://unsplash.com" alt="Diplomas y QSLs">
-            <div class="caption">Diplomas Obtenidos y Tarjetas QSL</div>
+        <!-- PREMIO 3 -->
+        <div class="premio-card">
+            <img src="URL_DE_TU_DIPLOMA_3" alt="Premio 3" loading="lazy">
+            <div class="texto-premio">🏆 Diploma / Premio 3</div>
         </div>
+
+        <!-- NOTA: Para meter tus 50 premios, solo copia el bloque de arriba (desde <div class="premio-card"> hasta </div>) y pégalo abajo las veces que necesites -->
+
     </main>
 
 </body>
