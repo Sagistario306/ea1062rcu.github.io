@@ -78,39 +78,6 @@ body {
     border-color: var(--color-secundario);
 }
 
-/* ==========================================
-   4. PROTECCIÓN ULTRA-CRÍTICA PARA IMÁGENES
-   ========================================== */
-.imagen-wrapper {
-    width: 100%;
-    height: 220px; /* Altura ideal fija */
-    background-color: #f1f5f9; /* Fondo gris sutil si la imagen no existe */
-    position: relative;
-    display: block;
-}
-
-/* Si la imagen da error o no existe, esto evita que se rompa el diseño */
-.imagen-wrapper img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover; /* Mantiene la proporción de la imagen sin deformarla */
-    display: block;
-    color: transparent; /* Oculta el texto molesto de archivo roto */
-}
-
-/* Indicador visual temporal en lo que subes tus fotos */
-.imagen-wrapper::before {
-    content: "Imagen de Sección";
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: var(--color-texto-secundario);
-    font-size: 0.9rem;
-    font-weight: 500;
-    opacity: 0.5;
-    pointer-events: none;
-}
 
 /* ==========================================
    5. CONTENIDO DE TEXTO
@@ -139,13 +106,7 @@ body {
     .tarjeta-premio {
         flex-direction: row; /* En PC la imagen se pone a la izquierda y el texto a la derecha */
     }
-    
-    .imagen-wrapper {
-        width: 40%; /* La imagen toma el 40% del espacio horizontal */
-        height: auto; /* Se adapta a la altura del texto de la tarjeta */
-        min-height: 200px;
-    }
-    
+     
     .contenido-tarjeta {
         width: 60%;
         display: flex;
@@ -180,4 +141,35 @@ body {
         transform: translateY(0) !important;
         transition: none !important;
     }
+
+   /* ==========================================
+   8. NUEVA REGLA: GALERÍA MASIVA INTELIGENTE
+   ========================================== */
+.galeria-tarjeta {
+    display: grid;
+    /* Crea columnas automáticas de mínimo 120px; entran más fotos en PC y menos en móvil */
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 12px;
+    padding: 0 24px 24px 24px; /* Espaciado interno inferior */
 }
+
+.galeria-tarjeta img {
+    width: 100%;
+    height: 90px;               /* Altura uniforme estilo miniatura */
+    object-fit: cover;          /* Corta la imagen proporcionalmente sin deformarla */
+    border-radius: 6px;
+    border: 1px solid var(--color-borde);
+    background-color: #f1f5f9;  /* Fondo gris sutil mientras carga */
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+/* Efecto hover interactivo sobre las miniaturas */
+.galeria-tarjeta img:hover {
+    transform: scale(1.05);     /* Efecto de zoom sutil al pasar el mouse */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
+    border-color: var(--color-secundario);
+    z-index: 10;
+}
+
+
