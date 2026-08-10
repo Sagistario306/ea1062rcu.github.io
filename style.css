@@ -100,21 +100,6 @@ body {
 }
 
 /* ==========================================
-   6. RESPONSIVIDAD DINÁMICA (Para pantallas grandes)
-   ========================================== */
-@media (min-width: 650px) {
-    .tarjeta-premio {
-        flex-direction: row; /* En PC la imagen se pone a la izquierda y el texto a la derecha */
-    }
-     
-    .contenido-tarjeta {
-        width: 60%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center; /* Centra el texto verticalmente respecto a la imagen */
-    }
-}
-/* ==========================================
    7. ANIMACIONES DINÁMICAS (JavaScript + CSS)
    ========================================== */
 
