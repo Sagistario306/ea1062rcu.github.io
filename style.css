@@ -228,6 +228,50 @@ body {
     transition: transform 0.2s ease, color 0.2s ease;
 }
 
+/* ==========================================
+   10. BOTONES DE NAVEGACIÓN (FLECHAS LIGHTBOX)
+   ========================================== */
+.lightbox-flecha {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(30, 41, 59, 0.4); /* Fondo sutil oscuro */
+    color: #ffffff;
+    font-size: 28px;
+    border: none;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+    user-select: none; /* Evita que el usuario seleccione el texto de la flecha */
+    z-index: 1010;
+}
+
+/* Posición de cada flecha */
+.lightbox-flecha.anterior { left: 24px; }
+.lightbox-flecha.siguiente { right: 24px; }
+
+/* Efecto visual al pasar el cursor */
+.lightbox-flecha:hover {
+    background-color: var(--color-secundario);
+    transform: translateY(-50%) scale(1.08);
+}
+
+/* Ocultar flechas en pantallas muy pequeñas para no tapar el diploma */
+@media (max-width: 500px) {
+    .lightbox-flecha {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+    }
+    .lightbox-flecha.anterior { left: 8px; }
+    .lightbox-flecha.siguiente { right: 8px; }
+}
+
 .lightbox-cerrar:hover {
     color: var(--color-secundario);
     transform: scale(1.1);
