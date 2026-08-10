@@ -144,11 +144,19 @@
     </section>
 
 </main>
-   
-    <!-- Vincular el archivo JavaScript de forma optimizada -->
-    <script src="script.js" defer></script>
-</body>
-</html>
 
+        <!-- ... Resto de tus secciones y tarjetas de premios ... -->
+    </main>
+
+    <!-- VENTANA FLOTANTE (LIGHTBOX MODAL) -->
+    <div id="lightbox-modal" class="lightbox">
+        <!-- El botón para cerrar la imagen en grande -->
+        <button class="lightbox-cerrar" aria-label="Cerrar imagen">&times;</button>
+        <!-- Aquí es donde JavaScript inyectará la foto seleccionada -->
+        <img class="lightbox-contenido" id="lightbox-img" src="" alt="Diploma ampliado">
+    </div>
+
+    <!-- Tu script que ya tenías -->
+    <script src="script.js" defer></script>
 </body>
 </html>
