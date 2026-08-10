@@ -1,46 +1,56 @@
-/* Buenas prácticas globales de rendimiento */
+/* 1. RESET GLOBAL CRÍTICO: Evita desbordamientos y descuadres */
 *, *::before, *::after {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
-/* Reemplaza tu CSS anterior por este bloque optimizado */
+/* 2. CONTENEDOR EN UNA SOLA COLUMNA */
 .contenedor-premios {
     display: grid;
-    grid-template-columns: 1fr;
-    gap: 20px;
+    grid-template-columns: 1fr; /* Fuerza una única columna */
+    gap: 24px;                  /* Separación uniforme entre tarjetas */
     width: 100%;
-    max-width: 750px;
-    margin: 0 auto;
-    padding: 16px;
-    /* Ayuda al navegador a renderizar más rápido si hay mucho contenido */
-    content-visibility: auto; 
+    max-width: 700px;           /* Ancho óptimo para lectura y móviles */
+    margin: 40px auto;          /* Centra la columna en la pantalla */
+    padding: 0 20px;
 }
 
+/* 3. DISEÑO DE CADA TARJETA DE PREMIO */
 .tarjeta-premio {
     background-color: #ffffff;
     border: 1px solid #e2e8f0;
-    border-radius: 6px;
-    padding: 20px;
-    /* Evita repintados innecesarios del navegador al hacer animaciones */
-    will-change: transform, box-shadow;
-    transition: transform 0.15s ease-out, box-shadow 0.15s ease-out;
+    border-radius: 12px;
+    padding: 24px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    display: flex;
+    flex-direction: column;     /* Organiza el contenido internamente hacia abajo */
+    gap: 12px;                  /* Espacio entre título, imagen y texto */
 }
 
-/* Efectos acelerados por hardware */
-.tarjeta-premio:hover {
-    transform: translateY(-1px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+/* 4. PROTECCIÓN ULTRA-CRÍTICA PARA IMÁGENES NO CARGADAS */
+.tarjeta-premio img {
+    width: 100%;                /* Ocupa todo el ancho disponible de la tarjeta */
+    height: 200px;              /* Altura fija fija temporal para que no colapse el diseño */
+    object-fit: cover;          /* Evita que la imagen futura se deforme */
+    background-color: #f7fafc;  /* Fondo gris sutil mientras subes las imágenes */
+    border-radius: 8px;
+    border: 1px dashed #cbd5e0; /* Borde punteado que avisa dónde irá la foto */
+    display: block;
+    
+    /* Esta línea oculta el texto feo de "imagen rota" del navegador */
+    color: transparent; 
 }
 
+/* Títulos y textos limpios */
 .tarjeta-premio h2 {
-    margin: 0 0 10px 0;
     color: #1a202c;
     font-size: 1.4rem;
     font-weight: 600;
 }
 
 .tarjeta-premio p {
-    margin: 0;
     color: #4a5568;
-    line-height: 1.5;
+    line-height: 1.6;
+    font-size: 1rem;
 }
