@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
     tarjetas.forEach(tarjeta => aparecerAlHacerScroll.observe(tarjeta));
 
     // ---------------------------------------------------------
-    // 2. CORRECCIÓN DEL LIGHTBOX CON NAVEGACIÓN POR FLECHAS
+    // 2. CONTROL DEL LIGHTBOX CON NAVEGACIÓN EN SERIE (CORREGIDO)
     // ---------------------------------------------------------
     const modal = document.getElementById("lightbox-modal");
     const imgModal = document.getElementById("lightbox-img");
@@ -32,34 +32,30 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (modal && imgModal && contenedorPrincipal) {
         
-        // Delegación de eventos ultra-precisa para el carrusel horizontal
+        // Delegación de eventos precisa para capturar clics en las miniaturas
         contenedorPrincipal.addEventListener("click", (evento) => {
-            // Buscamos si el clic ocurrió en una imagen que está dentro de una galería
             const miniatura = evento.target.closest(".galeria-tarjeta img");
-            if (!miniatura) return; // Si no es una foto, ignoramos el clic
+            if (!miniatura) return; 
 
-            // Encontramos el carrusel específico de esa tarjeta de premio
             const galeriaContenedor = miniatura.closest(".galeria-tarjeta");
-            
-            // Guardamos la lista de todas las fotos de esa sección en un array
             imagenesGaleriaActual = Array.from(galeriaContenedor.querySelectorAll("img"));
-            
-            // Identificamos el índice de la foto cliqueada
             indiceActual = imagenesGaleriaActual.indexOf(miniatura);
 
-            // Cargamos la imagen grande y abrimos el Lightbox
             actualizarImagenModal();
             modal.classList.add("activo");
-            document.body.style.overflow = "hidden"; // Bloquea el scroll de fondo
+            document.body.style.overflow = "hidden"; 
         });
 
-        // Función para renderizar el diploma en grande
+        // FUNCIÓN CORREGIDA: Extrae y limpia la propiedad src nativa para evitar enlaces rotos
         const actualizarImagenModal = () => {
             if (imagenesGaleriaActual.length === 0) return;
             const fotoSeleccionada = imagenesGaleriaActual[indiceActual];
             
-            imgModal.src = fotoSeleccionada.src;
-            imgModal.alt = fotoSeleccionada.alt;
+            if (fotoSeleccionada) {
+                // Usamos el atributo exacto del DOM para que GitHub resuelva la ruta real de la foto
+                imgModal.setAttribute("src", fotoSeleccionada.getAttribute("src"));
+                imgModal.setAttribute("alt", fotoSeleccionada.getAttribute("alt") || "Diploma EA1062RCU");
+            }
         };
 
         // Avanzar a la siguiente foto de la sección
@@ -79,27 +75,42 @@ document.addEventListener("DOMContentLoaded", () => {
         // Cierre limpio de la ventana flotante
         const cerrarLightbox = () => {
             modal.classList.remove("activo");
-            document.body.style.overflow = ""; // Devuelve el scroll normal a la web
-            setTimeout(() => { imgModal.src = ""; imagenesGaleriaActual = []; }, 250); 
+            document.body.style.overflow = ""; 
+            setTimeout(() => { imgModal.src = ""; imagenesGaleriaActual = []; }, 200); 
         };
 
-        // Eventos para los botones de las flechas y cierre
+        // Eventos para los controles
         flechaSig.addEventListener("click", (e) => { e.stopPropagation(); siguienteImagen(); });
         flechaAnt.addEventListener("click", (e) => { e.stopPropagation(); anteriorImagen(); });
         botonCerrar.addEventListener("click", cerrarLightbox);
 
-        // Cerrar si se hace clic en la parte oscura exterior de la pantalla
         modal.addEventListener("click", (evento) => {
             if (evento.target === modal) cerrarLightbox();
         });
 
-        // Soporte para teclado físico (Flechas e Izquierda/Derecha en PC)
         document.addEventListener("keydown", (evento) => {
             if (!modal.classList.contains("activo")) return;
-            
             if (evento.key === "ArrowRight") siguienteImagen();
             if (evento.key === "ArrowLeft") anteriorImagen();
             if (evento.key === "Escape") cerrarLightbox();
         });
     }
+
+    // ---------------------------------------------------------
+    // 3. RELOJ UTC DINÁMICO EN TIEMPO REAL
+    // ---------------------------------------------------------
+    const actualizarRelojUTC = () => {
+        const elementoReloj = document.getElementById("reloj-utc");
+        if (!elementoReloj) return;
+
+        const ahora = new Date();
+        const horas = String(ahora.getUTCHours()).padStart(2, '0');
+        const minutos = String(ahora.getUTCMinutes()).padStart(2, '0');
+        const segundos = String(ahora.getUTCSeconds()).padStart(2, '0');
+
+        elementoReloj.textContent = `${horas}:${minutos}:${segundos} UTC`;
+    };
+
+    actualizarRelojUTC();
+    setInterval(actualizarRelojUTC, 1000);
 });
