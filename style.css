@@ -172,4 +172,64 @@ body {
     z-index: 10;
 }
 
+/* ==========================================
+   9. EFECTO LIGHTBOX (IMÁGENES EN GRANDE)
+   ========================================== */
+.lightbox {
+    display: none;             /* Oculto por defecto */
+    position: fixed;
+    z-index: 1000;             /* Se coloca por encima de todo el diseño */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(15, 23, 42, 0.9); /* Fondo oscuro semitransparente */
+    backdrop-filter: blur(8px); /* Difumina sutilmente el fondo para dar elegancia */
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Cuando JS active esta clase, el modal se mostrará */
+.lightbox.activo {
+    display: flex;
+}
+
+/* Diseño de la imagen ampliada */
+.lightbox-contenido {
+    max-width: 90%;
+    max-height: 85vh;          /* No supera el 85% de la altura de la pantalla */
+    object-fit: contain;       /* Evita que el diploma se deforme o estire */
+    border-radius: 8px;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+    
+    /* Animación de entrada suave (Efecto Zoom) */
+    transform: scale(0.95);
+    opacity: 0;
+    transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), opacity 0.3s ease;
+}
+
+.lightbox.activo .lightbox-contenido {
+    transform: scale(1);
+    opacity: 1;
+}
+
+/* Botón de cierre elegantemente posicionado */
+.lightbox-cerrar {
+    position: absolute;
+    top: 20px;
+    right: 25px;
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 300;
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.lightbox-cerrar:hover {
+    color: var(--color-secundario);
+    transform: scale(1.1);
+}
 
