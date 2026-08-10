@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galería de Radioaficionado</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f9; color: #333; margin: 0; padding: 20px; text-align: center; }
+        header { background-color: #0056b3; color: white; padding: 20px; border-radius: 8px; margin-bottom: 20px; }
+        h1 { margin: 0; font-size: 2.5em; }
+        p { font-size: 1.1em; color: #666; }
+        .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; max-width: 1200px; margin: 0 auto; padding: 10px; }
+        .gallery-item { background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s; }
+        .gallery-item:hover { transform: scale(1.03); }
+        .gallery-item img { width: 100%; height: 220px; object-fit: cover; display: block; }
+        .caption { padding: 15px; font-weight: bold; font-size: 1em; color: #444; border-top: 1px solid #eee; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Mi Estación de Radio / Galería</h1>
+        <p>Bienvenidos a mi espacio visual de radioafición. Aquí comparto mis fotos, activaciones y diplomas.</p>
+    </header>
+
+    <main class="gallery">
+        <!-- IMAGEN 1 -->
+        <div class="gallery-item">
+            <img src="https://unsplash.com" alt="Mi Shack de Radio">
+            <div class="caption">Mi Shack de Radio / Estación Actual</div>
+        </div>
+
+        <!-- IMAGEN 2 -->
+        <div class="gallery-item">
+            <img src="https://unsplash.com" alt="Mis Antenas">
+            <div class="caption">Mis Antenas y Sistemas Elevados</div>
+        </div>
+
+        <!-- IMAGEN 3 -->
+        <div class="gallery-item">
+            <img src="https://unsplash.com" alt="Diplomas y QSLs">
+            <div class="caption">Diplomas Obtenidos y Tarjetas QSL</div>
+        </div>
+    </main>
+
+</body>
+</html>
