@@ -1,30 +1,28 @@
-// Código limpio sin bucles pesados ni funciones redundantes
-(function() {
-    "use strict";
+document.addEventListener("DOMContentLoaded", () => {
+    // Seleccionamos todas las tarjetas de premios
+    const tarjetas = document.querySelectorAll(".tarjeta-premio");
     
-    const inicializarPremios = () => {
-        const contenedor = document.querySelector(".contenedor-premios");
-        if (!contenedor) return; // Retorno inmediato si no existe (evita errores en consola)
-
-        // Usamos delegación de eventos en el contenedor padre (Mucho más rápido que un bucle por cada tarjeta)
-        contenedor.addEventListener("click", (evento) => {
-            const tarjeta = evento.target.closest(".tarjeta-premio");
-            if (!tarjeta) return;
-
-            // Quita la clase activa de cualquier otra tarjeta
-            contenedor.querySelectorAll(".tarjeta-premio.activa").forEach(t => {
-                if (t !== tarjeta) t.classList.remove("activa");
-            });
-
-            // Alterna la clase en la tarjeta clickeada
-            tarjeta.classList.toggle("activa");
-        });
+    // Configuración del detector de movimiento (Scroll)
+    const opciones = {
+        root: null,          // Usa la pantalla del navegador como referencia
+        rootMargin: "0px",   // Sin márgenes extra
+        threshold: 0.15      // La animación se activa cuando se ve el 15% de la tarjeta
     };
 
-    // Se ejecuta tan pronto como el HTML está listo, sin esperar imágenes pesadas
-    if (document.readyState === "loading") {
-        document.addEventListener("DOMContentLoaded", inicializarPremios);
-    } else {
-        inicializarPremios();
-    }
-})();
+    // Función que añade la clase visible cuando la tarjeta entra en pantalla
+    const aparecerAlHacerScroll = new IntersectionObserver((entradas, observador) => {
+        entradas.forEach(entrada => {
+            if (entrada.isIntersecting) {
+                // Añade la clase que activa la animación CSS
+                entrada.target.classList.add("tarjeta-visible");
+                // Deja de observar la tarjeta para ahorrar memoria RAM
+                observador.unobserve(entrada.target);
+            }
+        });
+    }, opciones);
+
+    // Activamos el observador en cada una de las tarjetas
+    tarjetas.forEach(tarjeta => {
+        aparecerAlHacerScroll.observe(tarjeta);
+    });
+});
