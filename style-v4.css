@@ -177,24 +177,25 @@ body {
    7. BLINDAJE ABSOLUTO DEL LIGHTBOX (CENTRADOR)
    ========================================== */
 .lightbox {
-    display: none !important; /* Oculto al cargar */
+    display: none !important; /* Totalmente oculto al abrir la web */
     position: fixed !important;
-    z-index: 999999 !important; /* Flota encima de todo */
+    z-index: 999999 !important; /* Por encima de todo */
     top: 0 !important;
     left: 0 !important;
     right: 0 !important;
     bottom: 0 !important;
     width: 100vw !important;
     height: 100vh !important;
-    background-color: rgba(6, 9, 17, 0.97) !important;
+    background-color: rgba(6, 9, 17, 0.98) !important; /* Fondo noche oscuro */
     backdrop-filter: blur(12px) !important;
     justify-content: center !important;
     align-items: center !important;
     box-sizing: border-box !important;
 }
 
+/* Solo se activa con el click mediante JS */
 .lightbox.activo {
-    display: flex !important; /* Se activa con el click */
+    display: flex !important; 
 }
 
 .lightbox-contenido {
@@ -225,7 +226,7 @@ body {
     display: flex !important;
     align-items: center !important;
     justify-content: center !important;
-    z-index: 1000000 !important;
+    z-index: 1000001 !important;
 }
 
 .lightbox-flecha.anterior { left: 40px !important; }
@@ -241,7 +242,7 @@ body {
     background: none !important;
     border: none !important;
     cursor: pointer !important;
-    z-index: 1000000 !important;
+    z-index: 1000001 !important;
 }
 
 /* Responsividad */
