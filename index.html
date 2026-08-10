@@ -4,13 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Premios - EA1062RCU</title>
-    <!-- Enlace a tu archivo de estilos -->
-    <!-- Reemplaza tu línea actual de estilos por esta exactamente -->
-<link rel="stylesheet" href="style-v10.css">
- 
+    <link rel="stylesheet" href="style-v10.css">
 </head>
 <body>
-
 
 <main class="contenedor-premios">
     
@@ -19,46 +15,37 @@
         <p>Explora mis actividades de radioafición y galardones.</p>
     </header>
 
-    <!-- BLOQUE ACERCA DE LA ESTACIÓN (EA1062RCU / SWL) -->
-<section class="seccion-acerca">
-    <div class="icono-estacion">📡</div>
-    <div class="texto-acerca">
-        <h2>Acerca de EA1062RCU / SWL</h2>
-        <p>
-            Bienvenido al portal oficial de <strong>EA1062RCU</strong>, una estación apasionada por la radioafición y la escucha en onda corta (<strong>SWL</strong>). Dedicada al monitoreo constante del espectro radioeléctrico, la captura de telemetría y el análisis de señales globales. Nuestro objetivo es promover la experimentación técnica, colaborar en redes dinámicas como APRS, participar activamente en activaciones de radio de campo (WWBOTA) y conectar con corresponsales de todo el mundo, documentando cada logro a través de nuestros diplomas y galardones.
-        </p>
-    </div>
-</section>
+    <!-- BLOQUE ACERCA DE LA ESTACIÓN -->
+    <section class="seccion-acerca">
+        <div class="icono-estacion">📡</div>
+        <div class="texto-acerca">
+            <h2>Acerca de EA1062RCU / SWL</h2>
+            <p>
+                Bienvenido al portal oficial de <strong>EA1062RCU</strong>, una estación apasionada por la radioafición y la escucha en onda corta (<strong>SWL</strong>). Dedicada al monitoreo constante del espectro radioeléctrico, la captura de telemetría y el análisis de señales globales. Nuestro objetivo es promover la experimentación técnica, colaborar en redes dinámicas como APRS, participar activamente en activaciones de radio de campo (WWBOTA) y conectar con corresponsales de todo el mundo, documentando cada logro a través de nuestros diplomas y galardones.
+            </p>
+        </div>
+    </section>
 
-<!-- CONTENEDOR DE WIDGETS TÉCNICOS (REORDENADO) -->
-<section class="contenedor-widgets">
+    <!-- WIDGETS TÉCNICOS -->
+    <section class="contenedor-widgets">
+        <div class="tarjeta-widget">
+            <h3>Hora Oficial UTC (Radioafición)</h3>
+            <div id="reloj-utc" class="reloj-digital">00:00:00 UTC</div>
+            <p class="nota-widget">Usa siempre la hora UTC para registrar tus comunicados y confirmar tus QSL/SWL.</p>
+        </div>
 
-    <!-- Widget 1: Ahora la Hora Oficial UTC está arriba -->
-    <div class="tarjeta-widget">
-        <h3>Hora Oficial UTC (Radioafición)</h3>
-        <div id="reloj-utc" class="reloj-digital">00:00:00 UTC</div>
-        <p class="nota-widget">Usa siempre la hora UTC para registrar tus comunicados y confirmar tus QSL/SWL.</p>
-    </div>
+        <div class="tarjeta-widget">
+            <h3>Hunters Bunkers Recents</h3>
+            <p><iframe src="https://wwbota.net/widget/?call=EA1062RCU&hunter=1" width="600" height="800" style="border:0;" scrolling="no"></iframe></p>
+        </div>
+    </section>
 
-    <!-- Widget 2: Hunter Bunkers abajo -->
-    <div class="tarjeta-widget">
-        <h3>Hunters Bunkers Recents</h3>
-        <p><iframe src="https://wwbota.net/widget/?call=EA1062RCU&hunter=1" width="600" height="800" style="border:0;" scrolling="no"></iframe></p>
-    </div>
-
-</section>
-
-    
-    <!-- Tarjeta 1: Rincón del Radioaficionado (Formato Corregido) -->
+    <!-- TARJETA 1: RINCÓN DEL RADIOAFICIONADO -->
     <section class="tarjeta-premio">
-        
-        <!-- 1. El enunciado SIEMPRE arriba -->
         <div class="contenido-tarjeta">
             <h2>Rincón del Radioaficionado</h2>
             <p>Espacio dedicado a la comunidad, intercambio de experiencias, actividades en general y eventos especiales.</p>
         </div>
-        
-        <!-- Contenedor Horizontal Obligatorio para las imágenes -->
         <div class="galeria-tarjeta">         
             <img src="imagenes/rincon/rincon (1).webp" alt="Certificado 1" loading="lazy" width="300" height="200">
             <img src="imagenes/rincon/rincon (2).webp" alt="Certificado 2" loading="lazy" width="300" height="200">
@@ -75,14 +62,13 @@
             <img src="imagenes/rincon/rincon (13).webp" alt="Certificado 13" loading="lazy" width="300" height="200">
         </div>
     </section>
-          
-        <!-- 1. El enunciado SIEMPRE arriba -->
+
+    <!-- TARJETA 2: WWBOTA -->
+    <section class="tarjeta-premio">
         <div class="contenido-tarjeta">
             <h2>WWBOTA</h2>
             <p>Sigue de cerca nuestras las activaciones de Bunkers on the Air y eventos especiales.</p>
         </div>
-        
-        <!-- Contenedor Horizontal Obligatorio para las imágenes -->
         <div class="galeria-tarjeta"> 
             <img src="imagenes/wwbota/wwbota (1).webp" alt="WWBOTA 1" loading="lazy" width="300" height="200">
             <img src="imagenes/wwbota/wwbota (2).webp" alt="WWBOTA 2" loading="lazy" width="300" height="200">
@@ -107,13 +93,12 @@
         </div>
     </section>
 
-    <!-- 1. El enunciado SIEMPRE arriba -->
+    <!-- TARJETA 3: APRS -->
+    <section class="tarjeta-premio">
         <div class="contenido-tarjeta">
             <h2>APRS</h2>
             <p>Monitoreo y telemetría en tiempo real. Balizas de posicionamiento y repetidores locales.</p>
         </div>
-        
-       <!-- Contenedor Horizontal Obligatorio para las imágenes -->
         <div class="galeria-tarjeta"> 
             <img src="imagenes/aprs/aprs (1).webp" alt="APRS 1" loading="lazy" width="300" height="200">
             <img src="imagenes/aprs/aprs (2).webp" alt="APRS 2" loading="lazy" width="300" height="200">
@@ -146,55 +131,36 @@
             <img src="imagenes/aprs/aprs (29).webp" alt="APRS 29" loading="lazy" width="300" height="200">
         </div>
     </section>
-    
-     <!-- 1. El enunciado SIEMPRE arriba -->
+
+    <!-- TARJETA 4: OTROS PREMIOS -->
+    <section class="tarjeta-premio">
         <div class="contenido-tarjeta">
             <h2>Otros Premios</h2>
             <p>Colección completa de diplomas obtenidos por la estación EA1062RCU.</p>
         </div>
-        
-        <!-- Contenedor Horizontal Obligatorio para las imágenes -->
         <div class="galeria-tarjeta"> 
             <img src="imagenes/otros-premios/premios (1).webp" alt="Diploma 1" loading="lazy" width="300" height="200">
             <img src="imagenes/otros-premios/premios (2).webp" alt="Diploma 2" loading="lazy" width="300" height="200">
             <img src="imagenes/otros-premios/premios (3).webp" alt="Diploma 3" loading="lazy" width="300" height="200">
             <img src="imagenes/otros-premios/premios (4).webp" alt="Diploma 4" loading="lazy" width="300" height="200">
             <img src="imagenes/otros-premios/premios (5).webp" alt="Diploma 5" loading="lazy" width="300" height="200">
-            <img src="imagenes/otros-premios/premios (6).webp" alt="Diploma 6" loading="lazy" width="300" height="200">
+            <img src="imagenes/otros-premios/premios (6).webp" alt="Diploma 6" loading="lazy" width="300" height="200">   
             <img src="imagenes/otros-premios/premios (7).webp" alt="Diploma 7" loading="lazy" width="300" height="200">
             <img src="imagenes/otros-premios/premios (8).webp" alt="Diploma 8" loading="lazy" width="300" height="200">
             <img src="imagenes/otros-premios/premios (9).webp" alt="Diploma 9" loading="lazy" width="300" height="200">
             <img src="imagenes/otros-premios/premios (10).webp" alt="Diploma 10" loading="lazy" width="300" height="200">
-            <img src="imagenes/otros-premios/premios (11).webp" alt="Diploma 10" loading="lazy" width="300" height="200">
+            <img src="imagenes/otros-premios/premios (11).webp" alt="Diploma 11" loading="lazy" width="300" height="200">
             <img src="imagenes/otros-premios/premios (12).webp" alt="Diploma 12" loading="lazy" width="300" height="200">
             <img src="imagenes/otros-premios/premios (13).webp" alt="Diploma 13" loading="lazy" width="300" height="200">
-            <img src="imagenes/otros-premios/premios (14).webp" alt="Diploma 14" loading="lazy" width="300" height="200">
-            <img src="imagenes/otros-premios/premios (15).webp" alt="Diploma 15" loading="lazy" width="300" height="200">
-            <img src="imagenes/otros-premios/premios (16).webp" alt="Diploma 16" loading="lazy" width="300" height="200">
-            <img src="imagenes/otros-premios/premios (17).webp" alt="Diploma 17" loading="lazy" width="300" height="200">
-            <img src="imagenes/otros-premios/premios (18).webp" alt="Diploma 18" loading="lazy" width="300" height="200">
-            <img src="imagenes/otros-premios/premios (19).webp" alt="Diploma 19" loading="lazy" width="300" height="200">
-            <img src="imagenes/otros-premios/premios (20).webp" alt="Diploma 20" loading="lazy" width="300" height="200">
             <img src="imagenes/otros-premios/premios (21).webp" alt="Diploma 21" loading="lazy" width="300" height="200">
             <img src="imagenes/otros-premios/premios (22).webp" alt="Diploma 22" loading="lazy" width="300" height="200">
             <img src="imagenes/otros-premios/premios (23).webp" alt="Diploma 23" loading="lazy" width="300" height="200">
             <img src="imagenes/otros-premios/premios (24).webp" alt="Diploma 24" loading="lazy" width="300" height="200">
-      </div>
+        </div>
     </section>
 
-</main>
-              
-        <!-- Flecha Izquierda (<) -->
-        <button class="lightbox-flecha anterior" aria-label="Imagen anterior">&#10094;</button>
-        
-        <!-- Contenedor de la foto ampliada -->
-        <img class="lightbox-contenido" id="lightbox-img" src="" alt="Diploma ampliado">
-        
-        <!-- Flecha Derecha (>) -->
-        <button class="lightbox-flecha siguiente" aria-label="Siguiente imagen">&#10095;</button>
-    </div>
-
-    <div id="lightbox-modal" class="lightbox">
+    <!-- LIGHTBOX UNIFICADO (UN SOLO BLOQUE) -->
+<div id="lightbox-modal" class="lightbox">
     <button class="lightbox-cerrar" aria-label="Cerrar ventana">&times;</button>
     <button class="lightbox-flecha anterior" aria-label="Imagen anterior">&#10094;</button>
     <img class="lightbox-contenido" id="lightbox-img" src="" alt="Diploma ampliado">
@@ -205,8 +171,7 @@
     <p>© 2026 EA1062RCU / SWL. Todos los derechos reservados.</p>
     <p style="font-size: 0.8rem; margin-top: 4px;">Estación de Monitoreo y Escucha en Onda Corta</p>
 </footer>
-    
-<!-- Tus scripts de control -->
-<script src="script.js?v=9.0" defer></script>
+
+<script src="script.js?v=10.0" defer></script>
 </body>
 </html>
