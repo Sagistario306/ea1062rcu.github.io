@@ -183,10 +183,6 @@
 
 </main>
 
-         <!-- VENTANA FLOTANTE ACTUALIZADA (CON FLECHAS DE NAVEGACIÓN) -->
-    <div id="lightbox-modal" class="lightbox">
-        <button class="lightbox-cerrar" aria-label="Cerrar ventana">&times;</button>
-
         <footer style="text-align: center; padding: 40px 20px; color: #64748b; font-size: 0.9rem;">
     <p>© 2026 EA1062RCU / SWL. Todos los derechos reservados.</p>
     <p style="font-size: 0.8rem; margin-top: 4px;">Estación de Monitoreo y Escucha en Onda Corta</p>
@@ -203,5 +199,17 @@
     </div>
 
     <script src="script.js" defer></script>
+
+        <!-- VENTANA FLOTANTE DEL LIGHTBOX (Asegúrate de que esté aquí) -->
+    <div id="lightbox-modal" class="lightbox">
+        <button class="lightbox-cerrar" aria-label="Cerrar ventana">&times;</button>
+        <button class="lightbox-flecha anterior" aria-label="Imagen anterior">&#10094;</button>
+        <img class="lightbox-contenido" id="lightbox-img" src="" alt="Diploma ampliado">
+        <button class="lightbox-flecha siguiente" aria-label="Siguiente imagen">&#10095;</button>
+    </div>
+
+    <!-- Enlace a tu script de control -->
+    <script src="script.js" defer></script>
+    
 </body>
 </html>
