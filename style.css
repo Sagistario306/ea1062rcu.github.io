@@ -1,56 +1,155 @@
-/* 1. RESET GLOBAL CRÍTICO: Evita desbordamientos y descuadres */
+/* ==========================================
+   1. RESETEO Y VARIABLES GLOBALES (Rendimiento)
+   ========================================== */
+:root {
+    --color-fondo: #f8fafc;
+    --color-tarjeta: #ffffff;
+    --color-primario: #1e3a8a; /* Azul tecnológico */
+    --color-secundario: #3b82f6; /* Azul brillante dinámico */
+    --color-texto-principal: #1e293b;
+    --color-texto-secundario: #64748b;
+    --color-borde: #e2e8f0;
+    --fuente-principal: system-ui, -apple-system, sans-serif;
+}
+
 *, *::before, *::after {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
-/* 2. CONTENEDOR EN UNA SOLA COLUMNA */
+body {
+    background-color: var(--color-fondo);
+    font-family: var(--fuente-principal);
+    color: var(--color-texto-principal);
+    line-height: 1.5;
+    padding: 20px 0;
+}
+
+/* ==========================================
+   2. CONTENEDOR EN GRID (Una sola columna)
+   ========================================== */
 .contenedor-premios {
     display: grid;
-    grid-template-columns: 1fr; /* Fuerza una única columna */
-    gap: 24px;                  /* Separación uniforme entre tarjetas */
-    width: 100%;
-    max-width: 700px;           /* Ancho óptimo para lectura y móviles */
-    margin: 40px auto;          /* Centra la columna en la pantalla */
-    padding: 0 20px;
+    grid-template-columns: 1fr; /* Fuerza una columna estricta */
+    gap: 30px;                  /* Espaciado elegante entre tarjetas */
+    width: 90%;
+    max-width: 800px;           /* Evita que se estire demasiado en pantallas gigantes */
+    margin: 0 auto;             /* Centra todo en la pantalla */
+    padding: 20px 0;
 }
 
-/* 3. DISEÑO DE CADA TARJETA DE PREMIO */
+/* Encabezado del sitio */
+.encabezado-seccion {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.encabezado-seccion h1 {
+    color: var(--color-primario);
+    font-size: 2.2rem;
+    margin-bottom: 8px;
+}
+
+.encabezado-seccion p {
+    color: var(--color-texto-secundario);
+    font-size: 1.1rem;
+}
+
+/* ==========================================
+   3. ESTILO DE LAS TARJETAS (Efecto Dinámico)
+   ========================================== */
 .tarjeta-premio {
-    background-color: #ffffff;
-    border: 1px solid #e2e8f0;
-    border-radius: 12px;
-    padding: 24px;
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    background-color: var(--color-tarjeta);
+    border: 1px solid var(--color-borde);
+    border-radius: 14px;
+    overflow: hidden; /* Corta los bordes de la imagen para que coincidan con la tarjeta */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
     display: flex;
-    flex-direction: column;     /* Organiza el contenido internamente hacia abajo */
-    gap: 12px;                  /* Espacio entre título, imagen y texto */
+    flex-direction: column; /* Por defecto se organiza hacia abajo (Móviles) */
+    transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1), 
+                box-shadow 0.25s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/* 4. PROTECCIÓN ULTRA-CRÍTICA PARA IMÁGENES NO CARGADAS */
-.tarjeta-premio img {
-    width: 100%;                /* Ocupa todo el ancho disponible de la tarjeta */
-    height: 200px;              /* Altura fija fija temporal para que no colapse el diseño */
-    object-fit: cover;          /* Evita que la imagen futura se deforme */
-    background-color: #f7fafc;  /* Fondo gris sutil mientras subes las imágenes */
-    border-radius: 8px;
-    border: 1px dashed #cbd5e0; /* Borde punteado que avisa dónde irá la foto */
+/* Animación sutil al pasar el mouse */
+.tarjeta-premio:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(30, 58, 138, 0.08);
+    border-color: var(--color-secundario);
+}
+
+/* ==========================================
+   4. PROTECCIÓN ULTRA-CRÍTICA PARA IMÁGENES
+   ========================================== */
+.imagen-wrapper {
+    width: 100%;
+    height: 220px; /* Altura ideal fija */
+    background-color: #f1f5f9; /* Fondo gris sutil si la imagen no existe */
+    position: relative;
     display: block;
-    
-    /* Esta línea oculta el texto feo de "imagen rota" del navegador */
-    color: transparent; 
 }
 
-/* Títulos y textos limpios */
-.tarjeta-premio h2 {
-    color: #1a202c;
+/* Si la imagen da error o no existe, esto evita que se rompa el diseño */
+.imagen-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Mantiene la proporción de la imagen sin deformarla */
+    display: block;
+    color: transparent; /* Oculta el texto molesto de archivo roto */
+}
+
+/* Indicador visual temporal en lo que subes tus fotos */
+.imagen-wrapper::before {
+    content: "Imagen de Sección";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: var(--color-texto-secundario);
+    font-size: 0.9rem;
+    font-weight: 500;
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+/* ==========================================
+   5. CONTENIDO DE TEXTO
+   ========================================== */
+.contenido-tarjeta {
+    padding: 24px;
+}
+
+.contenido-tarjeta h2 {
+    color: var(--color-primario);
     font-size: 1.4rem;
-    font-weight: 600;
+    margin-bottom: 12px;
+    font-weight: 700;
 }
 
-.tarjeta-premio p {
-    color: #4a5568;
+.contenido-tarjeta p {
+    color: var(--color-texto-secundario);
+    font-size: 0.95rem;
     line-height: 1.6;
-    font-size: 1rem;
+}
+
+/* ==========================================
+   6. RESPONSIVIDAD DINÁMICA (Para pantallas grandes)
+   ========================================== */
+@media (min-width: 650px) {
+    .tarjeta-premio {
+        flex-direction: row; /* En PC la imagen se pone a la izquierda y el texto a la derecha */
+    }
+    
+    .imagen-wrapper {
+        width: 40%; /* La imagen toma el 40% del espacio horizontal */
+        height: auto; /* Se adapta a la altura del texto de la tarjeta */
+        min-height: 200px;
+    }
+    
+    .contenido-tarjeta {
+        width: 60%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center; /* Centra el texto verticalmente respecto a la imagen */
+    }
 }
