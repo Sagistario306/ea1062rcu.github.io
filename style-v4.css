@@ -310,3 +310,117 @@ body {
         font-size: 2rem !important;
     }
 }
+
+/* ==========================================
+   MODIFICACIÓN DE CONTRASTE ALTO (TEXTOS BLANCOS)
+   ========================================== */
+
+/* Forzamos a que TODOS los enunciados y textos descriptivos de las tarjetas sean ultra legibles */
+.contenido-tarjeta p, 
+.texto-acerca p,
+.tarjeta-premio p,
+.encabezado-seccion p {
+    color: #e2e8f0 !important; /* Gris blanco brillante de alta visibilidad */
+    font-size: 1rem !important;
+    font-weight: 400 !important;
+}
+
+/* Los títulos internos de cada sección en un color blanco llamativo o azul brillante claro */
+.contenido-tarjeta h2, 
+.texto-acerca h2,
+.tarjeta-widget h3 {
+    color: #ffffff !important; /* Títulos en blanco puro */
+    font-size: 1.6rem !important;
+    font-weight: 700 !important;
+    margin-bottom: 8px !important;
+}
+
+/* AJUSTE PREMIUM PARA LAS TARJETAS: 
+   Para que el texto blanco se lea perfecto, las tarjetas deben ser oscuras 
+   o transparentes tipo cristal tecnológico (Glassmorphism) */
+.tarjeta-premio, 
+.seccion-acerca, 
+.tarjeta-widget {
+    background-color: rgba(15, 23, 42, 0.85) !important; /* Fondo azul noche translúcido muy elegante */
+    border: 1px solid rgba(255, 255, 255, 0.08) !important;
+    border-radius: 16px !important;
+    backdrop-filter: blur(12px) !important; /* Efecto cristal de alta gama */
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.7) !important;
+    overflow: hidden !important;
+}
+
+/* ==========================================
+   8. CORREGIDO: CARRUSEL HORIZONTAL FLUIDO DE MINIATURAS
+   ========================================== */
+.galeria-tarjeta {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: nowrap !important;       /* Prohíbe estrictamente que las imágenes bajen */
+    gap: 12px !important;               /* Espacio compacto entre diplomas */
+    padding: 16px 24px 24px 24px !important;
+    overflow-x: auto !important;         /* Activa la barra de desplazamiento lateral */
+    overflow-y: hidden !important;       /* Oculta cualquier desborde vertical */
+    width: 100% !important;
+    box-sizing: border-box !important;
+    scroll-snap-type: x mandatory !important;
+    -webkit-overflow-scrolling: touch !important; /* Deslizamiento táctil ultra suave */
+}
+
+/* Miniaturas más pequeñas como te gustaban antes */
+.galeria-tarjeta img {
+    flex: 0 0 130px !important;         /* Ancho fijo pequeño para cada diploma */
+    width: 130px !important;
+    height: 90px !important;            /* Altura compacta estilizada */
+    object-fit: cover !important;       /* Evita que los diplomas se deformen */
+    border-radius: 8px !important;
+    border: 1px solid rgba(255, 255, 255, 0.15) !important;
+    background-color: #1e293b !important;
+    cursor: pointer !important;
+    scroll-snap-align: start !important;
+    transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+/* Efecto hover sutil al pasar el mouse por encima de la miniatura */
+.galeria-tarjeta img:hover {
+    transform: scale(1.05) translateY(-2px) !important;
+    border-color: #3b82f6 !important;
+    box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3) !important;
+}
+
+/* Personalización de la barra lateral para que sea muy delgada y elegante */
+.galeria-tarjeta::-webkit-scrollbar {
+    height: 5px !important;             /* Barra ultra delgada */
+}
+.galeria-tarjeta::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.05) !important;
+    border-radius: 10px !important;
+}
+.galeria-tarjeta::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2) !important;
+    border-radius: 10px !important;
+}
+.galeria-tarjeta::-webkit-scrollbar-thumb:hover {
+    background: #3b82f6 !important;
+}
+
+/* ==========================================
+   ALTO CONTRASTE PARA LOS ENUNCIADOS OCULTOS
+   ========================================== */
+.encabezado-seccion p,
+.contenido-tarjeta p,
+.texto-acerca p,
+.tarjeta-premio p,
+.seccion-acerca p {
+    color: #f1f5f9 !important;          /* Color blanco/gris brillante de máxima lectura */
+    font-size: 0.95rem !important;
+    opacity: 0.95 !important;
+}
+
+.encabezado-seccion h1,
+.contenido-tarjeta h2,
+.texto-acerca h2,
+.tarjeta-widget h3 {
+    color: #ffffff !important;          /* Títulos en blanco puro resaltado */
+}
+
+}
