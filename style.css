@@ -19,12 +19,25 @@
 }
 
 body {
-    background-color: var(--color-fondo);
+    /* 1. Fondo base con degradado suave inspirado en tecnología de radio */
+    background-color: #f3f4f6;
+    background-image: 
+        /* Líneas horizontales finas de la rejilla técnica */
+        linear-gradient(rgba(30, 58, 138, 0.02) 1px, transparent 1px),
+        /* Líneas verticales finas de la rejilla técnica */
+        linear-gradient(90deg, rgba(30, 58, 138, 0.02) 1px, transparent 1px),
+        /* Degradado de iluminación de fondo azulado sutil */
+        radial-gradient(circle at top, #f0f4f8 0%, #e2e8f0 100%);
+    
+    /* Tamaño de cada celda de la rejilla de radio (estilo papel técnico o radar) */
+    background-size: 24px 24px, 24px 24px, 100% 100%;
+    
     font-family: var(--fuente-principal);
     color: var(--color-texto-principal);
     line-height: 1.5;
     padding: 20px 0;
 }
+
 
 /* ==========================================
    2. CONTENEDOR EN GRID (Una sola columna)
@@ -381,4 +394,25 @@ body {
         padding: 20px;
     }
 }
+
+/* ==========================================
+   12. ÚLTIMOS RETOQUES ESTÉTICOS FINALES
+   ========================================== */
+
+/* Añade un borde sutil dinámico al bloque "Acerca de" que recuerde a las ondas */
+.seccion-acerca {
+    border-left: 4px solid var(--color-secundario) !important;
+}
+
+/* Agrega un pequeño icono o detalle estético al título principal */
+.encabezado-seccion h1::before {
+    content: "📡 ";
+    font-size: 1.8rem;
+}
+
+/* Mejora la legibilidad de las miniaturas en la galería horizontal */
+.galeria-tarjeta img {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+}
+
 
