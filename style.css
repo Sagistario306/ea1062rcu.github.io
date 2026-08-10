@@ -1,40 +1,46 @@
-/* Contenedor en cuadrícula de una sola columna */
-.contenedor-premios {
-    display: grid;
-    grid-template-columns: 1fr; /* Una sola columna que ocupa todo el ancho */
-    gap: 24px;                  /* Espacio de separación entre las secciones */
-    width: 100%;
-    max-width: 800px;           /* Limita el ancho máximo para que sea legible en PC */
-    margin: 0 auto;             /* Centra el contenedor en la pantalla */
-    padding: 20px;
+/* Buenas prácticas globales de rendimiento */
+*, *::before, *::after {
     box-sizing: border-box;
 }
 
-/* Estilo estilizado para cada sección de premio */
+/* Reemplaza tu CSS anterior por este bloque optimizado */
+.contenedor-premios {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    width: 100%;
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 16px;
+    /* Ayuda al navegador a renderizar más rápido si hay mucho contenido */
+    content-visibility: auto; 
+}
+
 .tarjeta-premio {
-    background-color: #ffffff;  /* Fondo blanco para contraste */
-    border: 1px solid #e0e0e0;  /* Borde sutil */
-    border-radius: 8px;         /* Esquinas suavemente redondeadas */
+    background-color: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
     padding: 20px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05); /* Sombra suave */
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    /* Evita repintados innecesarios del navegador al hacer animaciones */
+    will-change: transform, box-shadow;
+    transition: transform 0.15s ease-out, box-shadow 0.15s ease-out;
 }
 
-/* Efecto visual al pasar el cursor */
+/* Efectos acelerados por hardware */
 .tarjeta-premio:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
-/* Ajustes de tipografía básicos */
 .tarjeta-premio h2 {
-    margin-top: 0;
-    color: #1a365d;             /* Tono azul oscuro profesional */
-    font-size: 1.5rem;
+    margin: 0 0 10px 0;
+    color: #1a202c;
+    font-size: 1.4rem;
+    font-weight: 600;
 }
 
 .tarjeta-premio p {
+    margin: 0;
     color: #4a5568;
-    line-height: 1.6;
-    margin-bottom: 0;
+    line-height: 1.5;
 }
