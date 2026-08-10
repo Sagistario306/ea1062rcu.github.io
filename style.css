@@ -142,34 +142,58 @@ body {
         transition: none !important;
     }
 
-   /* ==========================================
-   8. NUEVA REGLA: GALERÍA MASIVA INTELIGENTE
+ /* ==========================================
+   8. MODIFICADO: GALERÍA HORIZONTAL FLUIDA
    ========================================== */
 .galeria-tarjeta {
-    display: grid;
-    /* Crea columnas automáticas de mínimo 120px; entran más fotos en PC y menos en móvil */
-    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-    gap: 12px;
-    padding: 0 24px 24px 24px; /* Espaciado interno inferior */
+    display: flex;              /* Alinea las imágenes una al lado de la otra */
+    flex-wrap: nowrap;          /* Fuerza a que se mantengan en una sola fila horizontal */
+    gap: 14px;
+    padding: 0 24px 24px 24px;
+    overflow-x: auto;           /* Activa la barra de desplazamiento horizontal */
+    overflow-y: hidden;         /* Oculta cualquier desbordamiento vertical */
+    
+    /* Propiedades para un deslizamiento táctil ultra suave en móviles */
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
 }
 
 .galeria-tarjeta img {
-    width: 100%;
-    height: 90px;               /* Altura uniforme estilo miniatura */
-    object-fit: cover;          /* Corta la imagen proporcionalmente sin deformarla */
-    border-radius: 6px;
+    flex: 0 0 140px;            /* No permite que las fotos se encojan; ancho fijo de 140px */
+    height: 100px;              /* Altura uniforme elegante */
+    object-fit: cover;
+    border-radius: 8px;
     border: 1px solid var(--color-borde);
-    background-color: #f1f5f9;  /* Fondo gris sutil mientras carga */
+    background-color: #f1f5f9;
     cursor: pointer;
+    scroll-snap-align: start;   /* Hace que la foto se "imante" perfectamente al deslizar */
     transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
 }
 
-/* Efecto hover interactivo sobre las miniaturas */
+/* Efecto hover interactivo */
 .galeria-tarjeta img:hover {
-    transform: scale(1.05);     /* Efecto de zoom sutil al pasar el mouse */
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
+    transform: scale(1.04);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
     border-color: var(--color-secundario);
-    z-index: 10;
+}
+
+/* Personalización de la barra de desplazamiento para que se vea bonita y moderna */
+.galeria-tarjeta::-webkit-scrollbar {
+    height: 6px;                /* Barra delgada para que no estorbe */
+}
+
+.galeria-tarjeta::-webkit-scrollbar-track {
+    background: #f1f5f9;
+    border-radius: 10px;
+}
+
+.galeria-tarjeta::-webkit-scrollbar-thumb {
+    background: #cbd5e1;        /* Color gris sutil para el indicador */
+    border-radius: 10px;
+}
+
+.galeria-tarjeta::-webkit-scrollbar-thumb:hover {
+    background: var(--color-secundario); /* Cambia de color al pasar el mouse por la barra */
 }
 
 /* ==========================================
