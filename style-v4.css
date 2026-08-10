@@ -426,14 +426,11 @@ body {
 }
 
 /* ==========================================
-   9. FIJACIÓN ABSOLUTA EN EL CENTRO (CORREGIDO)
+   9. CORRECCIÓN DEFINITIVA DEL LIGHTBOX (CENTRADOR FLOTANTE)
    ========================================== */
 .lightbox {
-    /* CAMBIO CLAVE: Cambia display: flex por display: none para que cargue OCULTO */
-    display: none !important; 
-    
-    position: fixed !important;
-    z-index: 999999 !important; /* Por encima de todo */
+    display: none !important; /* Oculto al abrir la web */
+    position: fixed !important; /* FIJO en la pantalla, prohíbe irse abajo */
     top: 0 !important;
     left: 0 !important;
     right: 0 !important;
@@ -442,12 +439,72 @@ body {
     height: 100vh !important;
     background-color: rgba(6, 9, 17, 0.96) !important; /* Fondo noche oscuro traslúcido */
     backdrop-filter: blur(12px) !important;
+    
+    /* Centrador absoluto de alta potencia */
     justify-content: center !important;
     align-items: center !important;
+    z-index: 999999 !important; /* Por encima de todo el contenido */
     box-sizing: border-box !important;
 }
 
-/* ESTA REGLA SÓLO SE ACTIVA CUANDO EL JAVASCRIPT HACE CLIC EN LA FOTO */
+/* CLASE CRÍTICA: JavaScript activa esto al hacer clic en la miniatura */
 .lightbox.activo {
-    display: flex !important; /* Pasa de oculto a visible al instante */
+    display: flex !important; /* Cambia a caja flexible centradora al instante */
+}
+
+/* La imagen ampliada centrada */
+.lightbox-contenido {
+    max-width: 85vw !important;
+    max-height: 80vh !important;
+    width: auto !important;
+    height: auto !important;
+    object-fit: contain !important; /* Evita que el diploma se estire o deforme */
+    border-radius: 12px !important;
+    box-shadow: 0 25px 60px -10px rgba(0, 0, 0, 0.9) !important;
+    border: 2px solid rgba(255, 255, 255, 0.15) !important;
+    margin: auto !important; /* Auto-centrado de respaldo por el navegador */
+}
+
+/* ==========================================
+   10. BOTONES DE LAS FLECHAS DE NAVEGACIÓN
+   ========================================== */
+.lightbox-flecha {
+    position: absolute !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    background-color: #1e293b !important; /* Fondo oscuro sólido */
+    color: #ffffff !important;            /* Flechas blancas visibles */
+    font-size: 35px !important;
+    font-weight: bold !important;
+    border: 2px solid #334155 !important;
+    width: 60px !important;
+    height: 60px !important;
+    border-radius: 50% !important;
+    cursor: pointer !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    z-index: 1000000 !important;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.5) !important;
+}
+
+.lightbox-flecha.anterior { left: 40px !important; }
+.lightbox-flecha.siguiente { right: 40px !important; }
+
+.lightbox-flecha:hover {
+    background-color: #2563eb !important;
+    color: #ffffff !important;
+}
+
+/* Botón cerrar (X) */
+.lightbox-cerrar {
+    position: absolute !important;
+    top: 30px !important;
+    right: 40px !important;
+    color: #ffffff !important;
+    font-size: 50px !important;
+    background: none !important;
+    border: none !important;
+    cursor: pointer !important;
+    z-index: 1000000 !important;
 }
