@@ -1,0 +1,96 @@
+/* Configuración General */
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background-color: #f4f6f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Cabecera Estilo Radioafición */
+header {
+    background: linear-gradient(135deg, #002244, #004488);
+    color: white;
+    padding: 30px 15px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    letter-spacing: 2px;
+}
+
+header p {
+    margin: 10px 0 0 0;
+    font-size: 1.1em;
+    opacity: 0.9;
+}
+
+/* Contenedor Principal */
+.container {
+    max-width: 1100px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+/* Títulos de las Secciones */
+.seccion-premios {
+    margin-bottom: 50px;
+}
+
+.seccion-premios h2 {
+    text-align: left;
+    color: #003366;
+    border-bottom: 3px solid #0056b3;
+    padding-bottom: 8px;
+    font-size: 1.6em;
+    margin-bottom: 20px;
+}
+
+/* Cuadrícula de Obligatoriamente 2 Columnas */
+.grid-premios {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+}
+
+/* Tarjetas de los Premios */
+.premio-card {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    border: 1px solid #e1e4e8;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    cursor: pointer;
+}
+
+.premio-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+}
+
+.premio-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    display: block;
+    background-color: #eaeaea;
+}
+
+.texto-premio {
+    font-size: 1em;
+    font-weight: bold;
+    margin-top: 12px;
+    color: #222;
+    text-align: center;
+}
+
+/* Adaptación para pantallas de teléfonos muy pequeñas */
+@media (max-width: 600px) {
+    .grid-premios {
+        grid-template-columns: 1fr; /* Pasa a 1 columna solo si es un móvil pequeño */
+    }
+}
