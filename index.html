@@ -4,47 +4,81 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Premios EA1062RCU</title>
-    <style>
-        body { font-family: Arial, sans-serif; background-color: #f5f7fa; color: #333; margin: 0; padding: 10px; text-align: center; }
-        header { background-color: #003366; color: white; padding: 20px 10px; border-radius: 6px; margin-bottom: 20px; }
-        h1 { margin: 0; font-size: 1.8em; letter-spacing: 1px; }
-        p { margin: 5px 0 0 0; font-size: 1em; opacity: 0.9; }
-        .grid-premios { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; max-width: 1000px; margin: 0 auto; padding: 10px; }
-        .premio-card { background: white; padding: 10px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); border: 1px solid #e1e4e8; }
-        .premio-card img { width: 100%; height: auto; border-radius: 4px; display: block; background-color: #eaeaea; }
-        .texto-premio { font-size: 0.95em; font-weight: bold; margin-top: 10px; color: #111; }
-    </style>
+    <!-- Vinculamos el archivo CSS externo -->
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
     <header>
         <h1>EA1062RCU</h1>
-        <p>Mis Premios y Diplomas de Radioafición</p>
+        <p>Galería Oficial de Premios, Diplomas y Actividades</p>
     </header>
 
-    <main class="grid-premios">
+    <main class="container">
 
-        <!-- PREMIO 1 -->
-        <div class="premio-card">
-            <img src="URL_DE_TU_DIPLOMA_1" alt="Premio 1" loading="lazy">
-            <div class="texto-premio">🏆 Diploma / Premio 1</div>
-        </div>
+        <!-- SECCIÓN 1: RINCÓN DEL RADIOAFICIONADO -->
+        <section class="seccion-premios">
+            <h2>🎙️ Rincón del Radioaficionado</h2>
+            <div class="grid-premios">
+                <div class="premio-card">
+                    <img src="imagenes/rincon1.jpg" alt="Premio Rincón 1" loading="lazy">
+                    <div class="texto-premio">Diploma Rincón del Radioaficionado #1</div>
+                </div>
+                <div class="premio-card">
+                    <img src="imagenes/rincon2.jpg" alt="Premio Rincón 2" loading="lazy">
+                    <div class="texto-premio">Diploma Rincón del Radioaficionado #2</div>
+                </div>
+            </div>
+        </section>
 
-        <!-- PREMIO 2 -->
-        <div class="premio-card">
-            <img src="URL_DE_TU_DIPLOMA_2" alt="Premio 2" loading="lazy">
-            <div class="texto-premio">🏆 Diploma / Premio 2</div>
-        </div>
+        <!-- SECCIÓN 2: WWBOTA -->
+        <section class="seccion-premios">
+            <h2>⛰️ WWBOTA (World Wide BOTA)</h2>
+            <div class="grid-premios">
+                <div class="premio-card">
+                    <img src="imagenes/wwbota1.jpg" alt="Premio WWBOTA 1" loading="lazy">
+                    <div class="texto-premio">Activación WWBOTA #1</div>
+                </div>
+                <div class="premio-card">
+                    <img src="imagenes/wwbota2.jpg" alt="Premio WWBOTA 2" loading="lazy">
+                    <div class="texto-premio">Activación WWBOTA #2</div>
+                </div>
+            </div>
+        </section>
 
-        <!-- PREMIO 3 -->
-        <div class="premio-card">
-            <img src="URL_DE_TU_DIPLOMA_3" alt="Premio 3" loading="lazy">
-            <div class="texto-premio">🏆 Diploma / Premio 3</div>
-        </div>
+        <!-- SECCIÓN 3: APRS -->
+        <section class="seccion-premios">
+            <h2>🛰️ APRS (Automatic Packet Reporting System)</h2>
+            <div class="grid-premios">
+                <div class="premio-card">
+                    <img src="imagenes/aprs1.jpg" alt="Premio APRS 1" loading="lazy">
+                    <div class="texto-premio">Logro Sistema APRS</div>
+                </div>
+                <div class="premio-card">
+                    <img src="imagenes/aprs2.jpg" alt="Premio APRS 2" loading="lazy">
+                    <div class="texto-premio">Certificado de Enrutamiento APRS</div>
+                </div>
+            </div>
+        </section>
 
-        <!-- NOTA: Para meter tus 50 premios, solo copia el bloque de arriba (desde <div class="premio-card"> hasta </div>) y pégalo abajo las veces que necesites -->
+        <!-- SECCIÓN 4: OTROS PREMIOS -->
+        <section class="seccion-premios">
+            <h2>🏆 Otros Premios</h2>
+            <div class="grid-premios">
+                <div class="premio-card">
+                    <img src="imagenes/otros1.jpg" alt="Otros Premios 1" loading="lazy">
+                    <div class="texto-premio">Reconocimiento Especial</div>
+                </div>
+                <div class="premio-card">
+                    <img src="imagenes/otros2.jpg" alt="Otros Premios 2" loading="lazy">
+                    <div class="texto-premio">Diploma Adicional</div>
+                </div>
+            </div>
+        </section>
 
     </main>
 
+    <!-- Vinculamos el archivo JavaScript externo -->
+    <script href="script.js"></script>
 </body>
 </html>
