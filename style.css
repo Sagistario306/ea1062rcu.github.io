@@ -327,9 +327,9 @@ body {
    11. WIDGETS INTERACTIVOS (COLUMNA VERTICAL ESTRICTA)
    ========================================== */
 .contenedor-widgets {
-    display: flex;
-    flex-direction: column;     /* Fuerza a que los widgets se pongan uno encima del otro */
-    gap: 20px;                  /* Espacio de separación uniforme entre ambos */
+    display: flex !important;
+    flex-direction: column !important; /* Fuerza el orden uno encima del otro */
+    gap: 20px !important;
     margin-bottom: 40px;
     width: 100%;
 }
