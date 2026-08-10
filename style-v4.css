@@ -424,3 +424,33 @@ body {
 }
 
 }
+
+/* ==========================================
+   ESTILOS CRÍTICOS PARA MOSTRAR EL LIGHTBOX
+   ========================================== */
+.lightbox {
+    display: none !important; /* Oculto por defecto */
+    position: fixed !important;
+    z-index: 9999 !important; /* Se coloca por encima de todo el diseño */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(10, 15, 29, 0.95) !important; /* Fondo oscuro */
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+/* ESTA REGLA ES LA QUE ABRE LA IMAGEN AL HACER CLIC */
+.lightbox.activo {
+    display: flex !important; /* Cambia de oculto a visible instantáneamente */
+}
+
+.lightbox-contenido {
+    max-width: 90% !important;
+    max-height: 85vh !important;
+    object-fit: contain !important;
+    border-radius: 8px;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.8);
+}
