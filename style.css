@@ -2,7 +2,7 @@
    1. VARIABLES GLOBALES DE ALTO CONTRASTE
    ========================================== */
 :root {
-    --color-fondo: #0a0f1d !important;      /* Azul noche profundo */
+    --color-fondo: #0a0f1d !important;
     --color-tarjeta: rgba(15, 23, 42, 0.85) !important; /* Cristal oscuro translúcido */
     --color-primario: #ffffff !important;   /* Títulos en blanco puro */
     --color-secundario: #3b82f6 !important; /* Azul dinámico */
@@ -104,7 +104,7 @@ body {
 }
 
 /* ==========================================
-   5. CARRUSEL HORIZONTAL DE MINIATURAS
+   5. CARRUSEL HORIZONTAL DE MINIATURAS (RESTAURADO)
    ========================================== */
 .galeria-tarjeta {
     display: flex !important;
@@ -140,7 +140,7 @@ body {
 .galeria-tarjeta::-webkit-scrollbar-thumb { background: rgba(255, 255, 255, 0.2) !important; border-radius: 10px; }
 
 /* ==========================================
-   6. WIDGETS UNO ENCIMA DEL OTRO (APILADOS)
+   6. WIDGETS UNO ENCIMA DEL OTRO (CORREGIDO SIN CORTES)
    ========================================== */
 .contenedor-widgets {
     display: flex !important;
@@ -177,25 +177,24 @@ body {
    7. BLINDAJE ABSOLUTO DEL LIGHTBOX (CENTRADOR)
    ========================================== */
 .lightbox {
-    display: none !important; /* Totalmente oculto al abrir la web */
+    display: none !important; /* Oculto al cargar */
     position: fixed !important;
-    z-index: 999999 !important; /* Por encima de todo */
+    z-index: 999999 !important; /* Flota encima de todo */
     top: 0 !important;
     left: 0 !important;
     right: 0 !important;
     bottom: 0 !important;
     width: 100vw !important;
     height: 100vh !important;
-    background-color: rgba(6, 9, 17, 0.98) !important; /* Fondo noche oscuro */
+    background-color: rgba(6, 9, 17, 0.97) !important;
     backdrop-filter: blur(12px) !important;
     justify-content: center !important;
     align-items: center !important;
     box-sizing: border-box !important;
 }
 
-/* Solo se activa con el click mediante JS */
 .lightbox.activo {
-    display: flex !important; 
+    display: flex !important; /* Se activa con el click */
 }
 
 .lightbox-contenido {
@@ -226,7 +225,7 @@ body {
     display: flex !important;
     align-items: center !important;
     justify-content: center !important;
-    z-index: 1000001 !important;
+    z-index: 1000000 !important;
 }
 
 .lightbox-flecha.anterior { left: 40px !important; }
@@ -242,7 +241,7 @@ body {
     background: none !important;
     border: none !important;
     cursor: pointer !important;
-    z-index: 1000001 !important;
+    z-index: 1000000 !important;
 }
 
 /* Responsividad */
