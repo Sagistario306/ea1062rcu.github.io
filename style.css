@@ -1,69 +1,40 @@
-/* Reset básico y tipografía */
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f0f2f5;
-    margin: 0;
-    padding: 0;
-}
-
-header {
-    background-color: #003366;
-    color: #fff;
-    padding: 2rem 1rem;
-    text-align: center;
-}
-
-.container {
-    max-width: 1200px;
-    margin: 20px auto;
-    padding: 0 15px;
-}
-
-.section-awards h2 {
-    color: #003366;
-    border-bottom: 2px solid #d4af37;
-    padding-bottom: 5px;
-    margin-top: 40px;
-}
-
-/* Configuración de la cuadrícula de 2 columnas */
-.award-grid {
+/* Contenedor en cuadrícula de una sola columna */
+.contenedor-premios {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* 2 columnas iguales */
-    gap: 20px;
-    margin-top: 20px;
-}
-
-.award-card {
-    background: #fff;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-    transition: transform 0.3s ease;
-}
-
-.award-card:hover {
-    transform: scale(1.02);
-}
-
-.award-card img {
+    grid-template-columns: 1fr; /* Una sola columna que ocupa todo el ancho */
+    gap: 24px;                  /* Espacio de separación entre las secciones */
     width: 100%;
-    height: auto;
-    display: block;
-    object-fit: cover; /* Asegura que la imagen llene el contenedor */
+    max-width: 800px;           /* Limita el ancho máximo para que sea legible en PC */
+    margin: 0 auto;             /* Centra el contenedor en la pantalla */
+    padding: 20px;
+    box-sizing: border-box;
 }
 
-.award-info {
-    padding: 15px;
-    font-weight: bold;
-    text-align: center;
-    color: #333;
-    border-top: 1px solid #eee;
+/* Estilo estilizado para cada sección de premio */
+.tarjeta-premio {
+    background-color: #ffffff;  /* Fondo blanco para contraste */
+    border: 1px solid #e0e0e0;  /* Borde sutil */
+    border-radius: 8px;         /* Esquinas suavemente redondeadas */
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05); /* Sombra suave */
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-/* Responsivo para móviles muy pequeños */
-@media (max-width: 480px) {
-    .award-grid {
-        grid-template-columns: 1fr; /* 1 columna en móviles pequeños */
-    }
+/* Efecto visual al pasar el cursor */
+.tarjeta-premio:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Ajustes de tipografía básicos */
+.tarjeta-premio h2 {
+    margin-top: 0;
+    color: #1a365d;             /* Tono azul oscuro profesional */
+    font-size: 1.5rem;
+}
+
+.tarjeta-premio p {
+    color: #4a5568;
+    line-height: 1.6;
+    margin-bottom: 0;
 }
