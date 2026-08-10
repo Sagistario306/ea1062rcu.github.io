@@ -254,3 +254,36 @@ body {
         font-size: 2rem !important;
     }
 }
+
+/* ==========================================
+   8. BOTÓN "MOSTRAR MÁS" (NUEVO)
+   ========================================== */
+.boton-mostrar-mas {
+    display: block;
+    margin: 0 auto 24px auto;
+    padding: 12px 32px;
+    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+    color: white;
+    border: none;
+    border-radius: 50px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(59, 130, 246, 0.4);
+}
+
+.boton-mostrar-mas:hover {
+    background: linear-gradient(135deg, #1d4ed8, #1e40af);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(59, 130, 246, 0.6);
+}
+
+.boton-mostrar-mas:active {
+    transform: translateY(0);
+}
+
+/* Ocultar imágenes que exceden el límite inicial */
+.galeria-tarjeta img.oculto {
+    display: none !important;
+}
