@@ -145,18 +145,20 @@
 
 </main>
 
-        <!-- ... Resto de tus secciones y tarjetas de premios ... -->
-    </main>
-
-    <!-- VENTANA FLOTANTE (LIGHTBOX MODAL) -->
+         <!-- VENTANA FLOTANTE ACTUALIZADA (CON FLECHAS DE NAVEGACIÓN) -->
     <div id="lightbox-modal" class="lightbox">
-        <!-- El botón para cerrar la imagen en grande -->
-        <button class="lightbox-cerrar" aria-label="Cerrar imagen">&times;</button>
-        <!-- Aquí es donde JavaScript inyectará la foto seleccionada -->
+        <button class="lightbox-cerrar" aria-label="Cerrar ventana">&times;</button>
+        
+        <!-- Flecha Izquierda (<) -->
+        <button class="lightbox-flecha anterior" aria-label="Imagen anterior">&#10094;</button>
+        
+        <!-- Contenedor de la foto ampliada -->
         <img class="lightbox-contenido" id="lightbox-img" src="" alt="Diploma ampliado">
+        
+        <!-- Flecha Derecha (>) -->
+        <button class="lightbox-flecha siguiente" aria-label="Siguiente imagen">&#10095;</button>
     </div>
 
-    <!-- Tu script que ya tenías -->
     <script src="script.js" defer></script>
 </body>
 </html>
