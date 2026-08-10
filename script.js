@@ -1,6 +1,8 @@
 document.addEventListener("DOMContentLoaded", () => {
     
+    // ============================================
     // 1. REVELADO AL HACER SCROLL
+    // ============================================
     const tarjetas = document.querySelectorAll(".tarjeta-premio");
     const opcionesScroll = { root: null, rootMargin: "0px", threshold: 0.10 };
     const aparecerAlHacerScroll = new IntersectionObserver((entradas, observador) => {
@@ -13,7 +15,60 @@ document.addEventListener("DOMContentLoaded", () => {
     }, opcionesScroll);
     tarjetas.forEach(tarjeta => aparecerAlHacerScroll.observe(tarjeta));
 
-    // 2. CONTROL DEL LIGHTBOX INTEGRAL
+    // ============================================
+    // 2. SISTEMA "MOSTRAR MÁS" IMÁGENES
+    // ============================================
+    const IMAGENES_INICIALES = 6;      // Cuántas imágenes mostrar al inicio
+    const IMAGENES_POR_CARGA = 6;      // Cuántas añadir cada vez que se hace clic
+    
+    const galerias = document.querySelectorAll(".galeria-tarjeta");
+    
+    galerias.forEach((galeria, indice) => {
+        const imagenes = galeria.querySelectorAll("img");
+        const boton = document.querySelector(`.boton-mostrar-mas[data-galeria="${indice}"]`);
+        
+        if (!boton) return;
+        
+        // Si hay menos imágenes que el límite inicial, no mostrar el botón
+        if (imagenes.length <= IMAGENES_INICIALES) {
+            boton.style.display = "none";
+            return;
+        }
+        
+        // Ocultar imágenes que exceden el límite inicial
+        imagenes.forEach((img, i) => {
+            if (i >= IMAGENES_INICIALES) {
+                img.classList.add("oculto");
+            }
+        });
+        
+        let imagenesVisibles = IMAGENES_INICIALES;
+        
+        // Evento del botón "Mostrar más"
+        boton.addEventListener("click", () => {
+            const nuevasVisibles = Math.min(imagenesVisibles + IMAGENES_POR_CARGA, imagenes.length);
+            
+            // Mostrar las nuevas imágenes
+            for (let i = imagenesVisibles; i < nuevasVisibles; i++) {
+                imagenes[i].classList.remove("oculto");
+            }
+            
+            imagenesVisibles = nuevasVisibles;
+            
+            // Si ya se mostraron todas, ocultar el botón
+            if (imagenesVisibles >= imagenes.length) {
+                boton.style.display = "none";
+            } else {
+                // Actualizar el texto del botón con el contador
+                const restantes = imagenes.length - imagenesVisibles;
+                boton.textContent = `➕ Mostrar más imágenes (${restantes} restantes)`;
+            }
+        });
+    });
+
+    // ============================================
+    // 3. CONTROL DEL LIGHTBOX INTEGRAL
+    // ============================================
     const modal = document.getElementById("lightbox-modal");
     const imgModal = document.getElementById("lightbox-img");
     const botonCerrar = document.querySelector(".lightbox-cerrar");
@@ -27,11 +82,12 @@ document.addEventListener("DOMContentLoaded", () => {
     if (modal && imgModal && contenedorPrincipal) {
         
         contenedorPrincipal.addEventListener("click", (evento) => {
-            const miniatura = evento.target.closest(".galeria-tarjeta img");
+            const miniatura = evento.target.closest(".galeria-tarjeta img:not(.oculto)");
             if (!miniatura) return;
 
             const galeriaContenedor = miniatura.closest(".galeria-tarjeta");
-            imagenesGaleriaActual = Array.from(galeriaContenedor.querySelectorAll("img"));
+            // Solo incluir imágenes visibles en el lightbox
+            imagenesGaleriaActual = Array.from(galeriaContenedor.querySelectorAll("img:not(.oculto)"));
             indiceActual = imagenesGaleriaActual.indexOf(miniatura);
 
             actualizarImagenModal();
@@ -42,10 +98,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const actualizarImagenModal = () => {
             if (imagenesGaleriaActual.length === 0) return;
             const fotoSeleccionada = imagenesGaleriaActual[indiceActual];
-            
-            // Corrección de Ruta Absoluta para evitar el fallo de imagen rota
-            const rutaLimpia = fotoSeleccionada.getAttribute('src');
-            imgModal.src = rutaLimpia;
+            imgModal.src = fotoSeleccionada.getAttribute('src');
             imgModal.alt = fotoSeleccionada.alt || "Diploma EA1062RCU";
         };
 
