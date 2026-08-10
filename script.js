@@ -101,5 +101,26 @@ document.addEventListener("DOMContentLoaded", () => {
             if (evento.key === "ArrowLeft") anteriorImagen();   // Flecha izquierda del teclado
             if (evento.key === "Escape") cerrarLightbox();      // Tecla de Escape
         });
+
+            // ---------------------------------------------------------
+    // SECCIÓN 3: RELOJ UTC DINÁMICO EN TIEMPO REAL
+    // ---------------------------------------------------------
+    const actualizarRelojUTC = () => {
+        const elementoReloj = document.getElementById("reloj-utc");
+        if (!elementoReloj) return;
+
+        const ahora = new Date();
+        // Extraemos las horas, minutos y segundos en formato UTC nativo
+        const horas = String(ahora.getUTCHours()).padStart(2, '0');
+        const minutos = String(ahora.getUTCMinutes()).padStart(2, '0');
+        const segundos = String(ahora.getUTCSeconds()).padStart(2, '0');
+
+        elementoReloj.textContent = `${horas}:${minutos}:${segundos} UTC`;
+    };
+
+    // Actualiza el reloj inmediatamente y luego cada segundo de forma automática
+    actualizarRelojUTC();
+    setInterval(actualizarRelojUTC, 1000);
+
     }
 });
