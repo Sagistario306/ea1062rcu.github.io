@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Estadísticas - EA1062RCU</title>
+<link rel="stylesheet" href="style-v10.css">
+<style>
+  .panel {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 14px; padding: 10px 24px 24px 24px;
+  }
+  .caja {
+    background: #0f172a; border: 1px solid rgba(255,255,255,0.12);
+    border-radius: 12px; padding: 16px; text-align: center;
+  }
+  .caja .num { font-size: 2rem; font-weight: 800; color: #3b82f6; }
+  .caja .lbl { font-size: .8rem; color: #94a3b8; }
+  .lista { padding: 0 24px 24px 24px; color: #f1f5f9; }
+  .lista h3 { color: #fff; margin-bottom: 10px; }
+  .pais-fila {
+    display: flex; justify-content: space-between;
+    padding: 6px 12px; border-bottom: 1px solid rgba(255,255,255,0.08);
+  }
+  .boton-adif {
+    display: inline-block; margin: 0 24px 24px 24px; padding: 12px 30px;
+    background: linear-gradient(135deg, #f59e0b, #b45309);
+    color: white; text-decoration: none; border-radius: 50px; font-weight: bold;
+  }
+  .fecha-update { text-align: center; color: #94a3b8; font-size: .8rem; padding-bottom: 14px; }
+</style>
+</head>
+<body>
+<main class="contenedor-premios">
+  <header class="encabezado-seccion">
+    <h1>📊 Estadísticas en Vivo</h1>
+    <p>Monitoreo SWL de EA1062RCU · actualización diaria 23:00 UTC</p>
+  </header>
+
+  <section class="tarjeta-premio tarjeta-visible">
+    <div class="panel">
+      <div class="caja"><div class="num" id="st-total">0</div><div class="lbl">ESTACIONES ESTE MES</div></div>
+      <div class="caja"><div class="num" id="st-paises">0</div><div class="lbl">PAÍSES</div></div>
+      <div class="caja"><div class="num" id="st-hoy">0</div><div class="lbl">NUEVAS HOY</div></div>
+    </div>
+    <p class="fecha-update" id="st-fecha"></p>
+
+    <div class="lista">
+      <h3>🌍 Estaciones por país</h3>
+      <div id="lista-paises"></div>
+      <h3 style="margin-top:18px;">🕐 Últimas estaciones escuchadas</h3>
+      <div id="lista-ultimas"></div>
+    </div>
+
+    <a class="boton-adif" href="logs/EA1062RCU_SWL_completo.adi"
+       download="EA1062RCU_SWL_log.adi">📓 DESCARGAR LOG ADIF</a>
+  </section>
+
+  <p style="text-align:center;">
+    <a href="index.html" style="color:#3b82f6;">← Inicio</a> ·
+    <a href="eqsl.html" style="color:#3b82f6;">📮 Descargar eQSL</a>
+  </p>
+</main>
+
+<script>
+fetch('qsl_index.json?v=' + Date.now())
+  .then(r => r.ok ? r.json() : [])
+  .then(indice => {
+    const hoy = new Date().toISOString().slice(0, 10);
+    const paises = {};
+    indice.forEach(e => paises[e.pais] = (paises[e.pais] || 0) + 1);
+
+    document.getElementById('st-total').textContent = indice.length;
+    document.getElementById('st-paises').textContent = Object.keys(paises).length;
+    document.getElementById('st-hoy').textContent =
+      indice.filter(e => e.fecha.slice(0, 10) === hoy).length;
+    document.getElementById('st-fecha').textContent =
+      '🔄 Última actualización: ' + new Date().toLocaleString();
+
+    document.getElementById('lista-paises').innerHTML =
+      Object.entries(paises).sort((a, b) => b[1] - a[1])
+        .map(([p, n]) => `<div class="pais-fila"><span>${p}</span><strong>${n}</strong></div>`)
+        .join('') || '<p style="color:#94a3b8">Aún sin datos este mes.</p>';
+
+    document.getElementById('lista-ultimas').innerHTML =
+      indice.slice(-10).reverse()
+        .map(e => `<div class="pais-fila"><span>${e.indicativo} · ${e.pais}</span><span>${e.fecha}</span></div>`)
+        .join('') || '<p style="color:#94a3b8">Esperando primeras estaciones… 📡</p>';
+  });
+</script>
+</body>
+</html>
