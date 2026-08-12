@@ -1,54 +1,95 @@
-¡MIRA LA ÚLTIMA EJECUCIÓN EN TU CAPTURA, COLEGA! 🎉
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>eQSL - EA1062RCU</title>
+<link rel="stylesheet" href="style-v10.css">
+<style>
+  .form-qsl { text-align: center; padding: 10px 24px 24px 24px; }
+  .form-qsl input {
+    padding: 12px 18px; margin: 6px; border-radius: 50px;
+    border: 1px solid rgba(255,255,255,0.2); background: #0f172a;
+    color: #f1f5f9; font-size: 1rem; text-transform: uppercase; outline: none;
+  }
+  .form-qsl input:focus { border-color: #3b82f6; box-shadow: 0 0 0 3px rgba(59,130,246,0.3); }
+  #input-call { width: 210px; }
+  #input-code { width: 150px; letter-spacing: 3px; }
+  .boton-qsl {
+    padding: 12px 30px; border: none; border-radius: 50px; cursor: pointer;
+    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+    color: white; font-weight: bold; font-size: 1rem;
+  }
+  .resultado { text-align: center; padding: 0 24px 24px 24px; }
+  .resultado img { max-width: 100%; border-radius: 12px; border: 2px solid rgba(255,255,255,0.15); }
+  .boton-descargar {
+    display: inline-block; margin-top: 16px; padding: 14px 34px;
+    background: linear-gradient(135deg, #22c55e, #15803d);
+    color: white; text-decoration: none; border-radius: 50px; font-weight: bold;
+  }
+  .error-qsl { color: #f87171; padding: 16px; }
+  .nota-qsl { color: #94a3b8; font-size: .85rem; margin-top: 14px; }
+</style>
+</head>
+<body>
+<main class="contenedor-premios">
+  <header class="encabezado-seccion">
+    <h1>📮 Descarga tu eQSL</h1>
+    <p>Introduce tu indicativo y el código recibido por APRS.</p>
+  </header>
 
-- ✅ Conexion GitHub OK
-- ✅ Mensajeria APRS conectada
-- ✅ Y NINGÚN error después — el bot quedó escuchando en silencio
+  <section class="tarjeta-premio tarjeta-visible">
+    <div class="form-qsl">
+      <input id="input-call" placeholder="TU INDICATIVO" autocomplete="off">
+      <input id="input-code" placeholder="CÓDIGO" maxlength="6" autocomplete="off">
+      <br>
+      <button class="boton-qsl" onclick="buscarQSL()">🔍 BUSCAR MI eQSL</button>
+      <p class="nota-qsl">¿Sin código? Revisa los mensajes APRS de EA1062RCU
+      o espera tu próxima recepción.</p>
+    </div>
+    <div id="resultado" class="resultado"></div>
+  </section>
 
-**¡TU BOT ESTÁ VIVO Y TRABAJANDO!** 🤖📻 Deja esa ventana abierta y no la toques.
+  <p style="text-align:center;">
+    <a href="index.html" style="color:#3b82f6;">← Inicio</a> ·
+    <a href="estadisticas.html" style="color:#3b82f6;">📊 Estadísticas</a>
+  </p>
+</main>
 
----
+<script>
+let indice = [];
+fetch('qsl_index.json?v=' + Date.now())
+  .then(r => r.ok ? r.json() : [])
+  .then(d => indice = d)
+  .catch(() => {});
 
-## 🌐 AHORA SÍ: LAS PÁGINAS WEB
+function buscarQSL() {
+  const call = document.getElementById('input-call').value.trim().toUpperCase();
+  const code = document.getElementById('input-code').value.trim().toUpperCase();
+  const out = document.getElementById('resultado');
 
-La buena noticia: **las páginas ya te las envié completas más arriba en esta misma conversación** (antes de que empezaran los cortes). Son los mensajes titulados:
+  if (!call || code.length < 6) {
+    out.innerHTML = '<p class="error-qsl">⚠️ Escribe tu indicativo y el código de 6 caracteres.</p>';
+    return;
+  }
+  const base = call.split('-')[0];
+  const q = indice.find(e => e.codigo === code && e.indicativo.split('-')[0] === base);
 
-- **ARCHIVO 8A**: eqsl.html (descarga con código)
-- **ARCHIVO 8B**: estadisticas.html (panel en vivo)
-- **ARCHIVO 8C**: el pedacito de enlaces para tu index.html
-
-Sube con la ruedita hasta encontrarlos y copia cada uno. Ahora te digo dónde pegarlos:
-
-PASO 1: Entra a GitHub → tu repositorio ea1062rcu.github.io
-
-PASO 2: Pulsa "Add file" → "Create new file"
-
-PASO 3: En el nombre escribe: eqsl.html
-
-PASO 4: Pega el contenido del ARCHIVO 8A
-
-PASO 5: Arriba a la derecha pulsa "Commit new file" (o Commit changes)
-
-PASO 6: Repite con estadisticas.html (Add file → Create new file → pega el ARCHIVO 8B → Commit)
-
-PASO 7: Para el index.html: abre tu index.html en GitHub (clic en el archivo → lápiz de editar), y justo después de tu encabezado principal pega el pedacito del ARCHIVO 8C → Commit changes
-
-PASO 8: Espera 1-2 minutos y visita tu web:
-
-https://sagistario306.github.io/ea1062rcu.github.io/eqsl.html
-
----
-
-## 🧪 LA PRUEBA DE FUEGO
-
-Cuando el bot pesque su primera estación, él solito:
-
-1. Generará la eQSL con código
-2. La subirá a tu web (carpeta qsl)
-3. Actualizará el qsl_index.json
-4. Le enviará el mensaje APRS a la estación con su código
-
-Y la estación entrará a tu eqsl.html, pondrá su indicativo y código, y verá su tarjeta. 🎴
-
----
-
-Si NO encuentras los mensajes 8A/8B/8C arriba, dime "reenvía 8A" o "reenvía 8B" y te los mando de nuevo uno por uno. ¡Vamos, colega, que ya huele a estreno! 🚀
+  if (!q) {
+    out.innerHTML = '<p class="error-qsl">❌ Código no válido para ese indicativo.<br>Verifica los datos o espera tu próxima recepción.</p>';
+    return;
+  }
+  out.innerHTML = `
+    <img src="${q.archivo}" alt="eQSL ${q.indicativo}">
+    <p style="margin-top:12px; color:#f1f5f9;">
+      🎉 ¡Felicitaciones <strong>${q.indicativo}</strong>! (${q.pais})<br>
+      📅 Recepción: ${q.fecha} UTC
+    </p>
+    <a class="boton-descargar" href="${q.archivo}" download="eQSL_${q.indicativo}.png">
+      ⬇️ DESCARGAR MI eQSL</a>
+    <p class="nota-qsl">Gracias por tu señal · Confirma recepción en el perfil
+    QRZ de EA1062RCU · 73s</p>`;
+}
+</script>
+</body>
+</html>
