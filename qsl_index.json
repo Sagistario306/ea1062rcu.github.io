@@ -1167,5 +1167,12 @@
   "fecha": "2026-08-13 13:46:29",
   "pais": "Espana",
   "archivo": "qsl/QSL_EB4HDM_2026-08.png"
+ },
+ {
+  "indicativo": "EB4HDM",
+  "codigo": "AF6Q2U",
+  "fecha": "2026-08-13 13:46:34",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EB4HDM_2026-08_EV.png"
  }
 ]
