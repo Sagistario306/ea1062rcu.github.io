@@ -1671,5 +1671,12 @@
   "fecha": "2026-08-13 13:52:38",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE2UGO-N_2026-08.png"
+ },
+ {
+  "indicativo": "CE2UGO-N",
+  "codigo": "6N2C7J",
+  "fecha": "2026-08-13 13:52:43",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE2UGO-N_2026-08_EV.png"
  }
 ]
