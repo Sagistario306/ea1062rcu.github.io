@@ -481,5 +481,12 @@
   "fecha": "2026-08-13 13:17:18",
   "pais": "Japon",
   "archivo": "qsl/QSL_JR5YHL-13_2026-08.png"
+ },
+ {
+  "indicativo": "JR5YHL-13",
+  "codigo": "3R3KTC",
+  "fecha": "2026-08-13 13:17:33",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JR5YHL-13_2026-08_EV.png"
  }
 ]
