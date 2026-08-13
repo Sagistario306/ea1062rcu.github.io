@@ -1461,5 +1461,12 @@
   "fecha": "2026-08-13 13:49:55",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA2RKS-S_2026-08.png"
+ },
+ {
+  "indicativo": "EA2RKS-S",
+  "codigo": "QS575E",
+  "fecha": "2026-08-13 13:50:00",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA2RKS-S_2026-08_EV.png"
  }
 ]
