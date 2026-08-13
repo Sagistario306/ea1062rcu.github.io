@@ -453,5 +453,12 @@
   "fecha": "2026-08-13 13:16:20",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2MEM-20_2026-08.png"
+ },
+ {
+  "indicativo": "XE2MEM-20",
+  "codigo": "DBF62E",
+  "fecha": "2026-08-13 13:16:30",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2MEM-20_2026-08_EV.png"
  }
 ]
