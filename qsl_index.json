@@ -82,5 +82,12 @@
   "fecha": "2026-08-13 13:06:55",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA4IHO-10_2026-08_EV.png"
+ },
+ {
+  "indicativo": "EGLPAS",
+  "codigo": "47SSG9",
+  "fecha": "2026-08-13 13:07:04",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EGLPAS_2026-08.png"
  }
 ]
