@@ -1615,5 +1615,12 @@
   "fecha": "2026-08-13 13:51:53",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA2EPL-S_2026-08.png"
+ },
+ {
+  "indicativo": "EA2EPL-S",
+  "codigo": "8F4BCF",
+  "fecha": "2026-08-13 13:51:58",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA2EPL-S_2026-08_EV.png"
  }
 ]
