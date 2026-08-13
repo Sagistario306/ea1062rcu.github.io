@@ -1846,5 +1846,12 @@
   "fecha": "2026-08-13 13:55:10",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1MW-9_2026-08_EV.png"
+ },
+ {
+  "indicativo": "HK4G-5",
+  "codigo": "GNDUPQ",
+  "fecha": "2026-08-13 13:55:18",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK4G-5_2026-08.png"
  }
 ]
