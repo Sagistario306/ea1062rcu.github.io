@@ -1069,5 +1069,12 @@
   "fecha": "2026-08-13 13:45:22",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2EB-15_2026-08.png"
+ },
+ {
+  "indicativo": "XE2EB-15",
+  "codigo": "4B9F42",
+  "fecha": "2026-08-13 13:45:26",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2EB-15_2026-08_EV.png"
  }
 ]
