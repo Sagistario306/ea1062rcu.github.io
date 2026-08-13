@@ -1349,5 +1349,12 @@
   "fecha": "2026-08-13 13:48:39",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE6CCV-7_2026-08.png"
+ },
+ {
+  "indicativo": "CE6CCV-7",
+  "codigo": "JJY8V8",
+  "fecha": "2026-08-13 13:48:44",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE6CCV-7_2026-08_EV.png"
  }
 ]
