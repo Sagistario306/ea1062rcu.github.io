@@ -4114,5 +4114,19 @@
   "fecha": "2026-08-13 21:10:17",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2J-2_2026-08.png"
+ },
+ {
+  "indicativo": "XE2J-2",
+  "codigo": "U9EHNR",
+  "fecha": "2026-08-13 21:10:29",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2J-2_2026-08_EV.png"
+ },
+ {
+  "indicativo": "XE2J",
+  "codigo": "U9EHNR",
+  "fecha": "2026-08-13 21:10:29",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2J-2_2026-08_EV.png"
  }
 ]
