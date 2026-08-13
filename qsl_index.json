@@ -271,5 +271,12 @@
   "fecha": "2026-08-13 13:11:25",
   "pais": "Espana",
   "archivo": "qsl/QSL_ED2YAA-1_2026-08.png"
+ },
+ {
+  "indicativo": "ED2YAA-1",
+  "codigo": "JJ28VD",
+  "fecha": "2026-08-13 13:11:35",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_ED2YAA-1_2026-08_EV.png"
  }
 ]
