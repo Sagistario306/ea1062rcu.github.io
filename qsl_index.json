@@ -1895,5 +1895,12 @@
   "fecha": "2026-08-13 13:55:50",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HJ1M-5_2026-08.png"
+ },
+ {
+  "indicativo": "HJ1M-5",
+  "codigo": "Y6C6RW",
+  "fecha": "2026-08-13 13:55:55",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ1M-5_2026-08_EV.png"
  }
 ]
