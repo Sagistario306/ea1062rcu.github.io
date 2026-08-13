@@ -3988,5 +3988,19 @@
   "fecha": "2026-08-13 21:08:31",
   "pais": "Peru",
   "archivo": "qsl/QSL_OBJRP1_2026-08_EV.png"
+ },
+ {
+  "indicativo": "EA5GIL-S",
+  "codigo": "DGXGK3",
+  "fecha": "2026-08-13 21:09:10",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA5GIL-S_2026-08.png"
+ },
+ {
+  "indicativo": "EA5GIL",
+  "codigo": "DGXGK3",
+  "fecha": "2026-08-13 21:09:10",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA5GIL-S_2026-08.png"
  }
 ]
