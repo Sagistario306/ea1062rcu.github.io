@@ -47,5 +47,12 @@
   "fecha": "2026-08-13 13:06:02",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE3RFM-9_2026-08.png"
+ },
+ {
+  "indicativo": "XE3RFM-9",
+  "codigo": "QJN6GK",
+  "fecha": "2026-08-13 13:06:12",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE3RFM-9_2026-08_EV.png"
  }
 ]
