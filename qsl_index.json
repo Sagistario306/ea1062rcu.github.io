@@ -1048,5 +1048,12 @@
   "fecha": "2026-08-13 13:45:06",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE3JAC-10_2026-08_EV.png"
+ },
+ {
+  "indicativo": "EA7KAV-30",
+  "codigo": "GBJYJ4",
+  "fecha": "2026-08-13 13:45:11",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA7KAV-30_2026-08.png"
  }
 ]
