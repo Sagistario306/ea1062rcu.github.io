@@ -1601,5 +1601,12 @@
   "fecha": "2026-08-13 13:51:43",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA1JAO-7_2026-08.png"
+ },
+ {
+  "indicativo": "EA1JAO-7",
+  "codigo": "QV2KDC",
+  "fecha": "2026-08-13 13:51:48",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA1JAO-7_2026-08_EV.png"
  }
 ]
