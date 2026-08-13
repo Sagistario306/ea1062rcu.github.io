@@ -229,5 +229,12 @@
   "fecha": "2026-08-13 13:10:26",
   "pais": "Uruguay",
   "archivo": "qsl/QSL_CX2FA-D_2026-08.png"
+ },
+ {
+  "indicativo": "CX2FA-D",
+  "codigo": "AMEFY5",
+  "fecha": "2026-08-13 13:10:35",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX2FA-D_2026-08_EV.png"
  }
 ]
