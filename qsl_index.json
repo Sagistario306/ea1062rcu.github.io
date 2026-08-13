@@ -1055,5 +1055,12 @@
   "fecha": "2026-08-13 13:45:11",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA7KAV-30_2026-08.png"
+ },
+ {
+  "indicativo": "EA7KAV-30",
+  "codigo": "XSTCGN",
+  "fecha": "2026-08-13 13:45:17",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA7KAV-30_2026-08_EV.png"
  }
 ]
