@@ -761,5 +761,12 @@
   "fecha": "2026-08-13 13:40:34",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP4FJC_2026-08.png"
+ },
+ {
+  "indicativo": "KP4FJC",
+  "codigo": "4TCHHY",
+  "fecha": "2026-08-13 13:40:39",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4FJC_2026-08_EV.png"
  }
 ]
