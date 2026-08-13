@@ -3848,5 +3848,19 @@
   "fecha": "2026-08-13 21:06:29",
   "pais": "Filipinas",
   "archivo": "qsl/QSL_DV7GDL-10_2026-08_EV.png"
+ },
+ {
+  "indicativo": "HK6Y-1",
+  "codigo": "PVA8Z5",
+  "fecha": "2026-08-13 21:07:10",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK6Y-1_2026-08.png"
+ },
+ {
+  "indicativo": "HK6Y",
+  "codigo": "PVA8Z5",
+  "fecha": "2026-08-13 21:07:10",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK6Y-1_2026-08.png"
  }
 ]
