@@ -122,5 +122,37 @@ function buscarQSL() {
   if (code && inCode) inCode.value = code.toUpperCase();
 })();
 </script> 
+<script>
+(function () {
+  var p = new URLSearchParams(location.search);
+  var call = p.get("call"), code = p.get("code");
+  if (!call && !code) return;
+
+  function buscar(ids, nombres, ph) {
+    var i, el;
+    for (i = 0; i < ids.length; i++) {
+      el = document.getElementById(ids[i]);
+      if (el) return el;
+    }
+    for (i = 0; i < nombres.length; i++) {
+      el = document.querySelector('input[name="' + nombres[i] + '"]');
+      if (el) return el;
+    }
+    for (i = 0; i < ph.length; i++) {
+      el = document.querySelector('input[placeholder*="' + ph[i] + '"]');
+      if (el) return el;
+    }
+    return null;
+  }
+
+  var inCall = buscar(["indicativo","call","callsign"],
+                      ["indicativo","call"], ["indica","call","indic"]);
+  var inCode = buscar(["codigo","code","cod"],
+                      ["codigo","code"], ["codigo","code","codig"]);
+
+  if (call && inCall) inCall.value = call.toUpperCase();
+  if (code && inCode) inCode.value = code.toUpperCase();
+})();
+</script>  
 </body>
 </html>
