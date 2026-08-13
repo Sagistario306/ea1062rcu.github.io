@@ -1664,5 +1664,12 @@
   "fecha": "2026-08-13 13:52:34",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1RBV-7_2026-08_EV.png"
+ },
+ {
+  "indicativo": "CE2UGO-N",
+  "codigo": "DATV66",
+  "fecha": "2026-08-13 13:52:38",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE2UGO-N_2026-08.png"
  }
 ]
