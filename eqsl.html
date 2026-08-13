@@ -153,6 +153,52 @@ function buscarQSL() {
   if (call && inCall) inCall.value = call.toUpperCase();
   if (code && inCode) inCode.value = code.toUpperCase();
 })();
-</script>  
+</script>
+<script>
+(function(){
+  function normCall(c){ return (c||"").trim().toUpperCase().split("-")[0]; }
+  function normCode(c){ return (c||"").trim().toUpperCase(); }
+
+  var inputs = document.querySelectorAll("input");
+  var btn = null;
+  var botones = document.querySelectorAll("button, a, [role=button]");
+  for (var i=0;i<botones.length;i++){
+    if ((botones[i].textContent||"").toUpperCase().indexOf("BUSCAR") >= 0){ btn = botones[i]; break; }
+  }
+  if (inputs.length < 2 || !btn){ console.log("eqsl: faltan elementos", inputs.length, btn); return; }
+
+  var inCall = inputs[0], inCode = inputs[1];
+  var zona = document.createElement("div");
+  zona.style.marginTop = "18px";
+  zona.style.textAlign = "center";
+  btn.parentNode.insertBefore(zona, btn.nextSibling);
+
+  btn.addEventListener("click", function(ev){
+    ev.preventDefault();
+    zona.innerHTML = "⏳ Buscando tu eQSL...";
+    fetch("qsl_index.json?ts=" + Date.now())
+      .then(function(r){ return r.json(); })
+      .then(function(idx){
+        var call = normCall(inCall.value), code = normCode(inCode.value);
+        var hit = null;
+        for (var i=0;i<idx.length;i++){
+          if (normCode(idx[i].codigo) === code &&
+              (normCall(idx[i].indicativo) === call ||
+               (idx[i].indicativo||"").toUpperCase() === (inCall.value||"").trim().toUpperCase())) { hit = idx[i]; break; }
+        }
+        if (!hit){
+          zona.innerHTML = "❌ Código no encontrado para <b>" + inCall.value +
+            "</b>.<br><small>Revisa el mensaje APRS de EA1062RCU · escribe el indicativo con o sin SSID.</small>";
+          return;
+        }
+        zona.innerHTML = "✅ ¡Encontrada, " + hit.indicativo + "!<br>" +
+          "<a href='" + hit.archivo + "' target='_blank' download " +
+          "style='color:#4da3ff;font-weight:bold;font-size:18px'>⬇ DESCARGAR MI eQSL</a><br>" +
+          "<small>" + hit.fecha + " · " + hit.pais + "</small>";
+      })
+      .catch(function(e){ zona.innerHTML = "⚠️ Error de red: " + e; });
+  });
+})();
+</script>
 </body>
 </html>
