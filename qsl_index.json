@@ -313,5 +313,12 @@
   "fecha": "2026-08-13 13:12:30",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W2LGX-3_2026-08.png"
+ },
+ {
+  "indicativo": "9W2LGX-3",
+  "codigo": "NZBTNA",
+  "fecha": "2026-08-13 13:12:45",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2LGX-3_2026-08_EV.png"
  }
 ]
