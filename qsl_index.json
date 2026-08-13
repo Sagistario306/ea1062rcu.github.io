@@ -1818,5 +1818,12 @@
   "fecha": "2026-08-13 13:54:37",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W8EDY-13_2026-08_EV.png"
+ },
+ {
+  "indicativo": "CE3FOT-15",
+  "codigo": "BUG9MB",
+  "fecha": "2026-08-13 13:54:42",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3FOT-15_2026-08.png"
  }
 ]
