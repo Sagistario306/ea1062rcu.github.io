@@ -474,5 +474,12 @@
   "fecha": "2026-08-13 13:16:51",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA1FBN_2026-08_EV.png"
+ },
+ {
+  "indicativo": "JR5YHL-13",
+  "codigo": "SRSM8P",
+  "fecha": "2026-08-13 13:17:18",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JR5YHL-13_2026-08.png"
  }
 ]
