@@ -383,5 +383,12 @@
   "fecha": "2026-08-13 13:14:15",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2FAR-2_2026-08.png"
+ },
+ {
+  "indicativo": "9M2FAR-2",
+  "codigo": "7JCTAE",
+  "fecha": "2026-08-13 13:14:25",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9M2FAR-2_2026-08_EV.png"
  }
 ]
