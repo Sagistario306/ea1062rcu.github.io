@@ -3932,5 +3932,19 @@
   "fecha": "2026-08-13 21:07:56",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA1FP-N_2026-08_EV.png"
+ },
+ {
+  "indicativo": "ED5YAL-15",
+  "codigo": "HCYYJR",
+  "fecha": "2026-08-13 21:08:07",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_ED5YAL-15_2026-08.png"
+ },
+ {
+  "indicativo": "ED5YAL",
+  "codigo": "HCYYJR",
+  "fecha": "2026-08-13 21:08:07",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_ED5YAL-15_2026-08.png"
  }
 ]
