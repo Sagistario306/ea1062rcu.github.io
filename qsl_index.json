@@ -1475,5 +1475,12 @@
   "fecha": "2026-08-13 13:50:06",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA1UF-14_2026-08.png"
+ },
+ {
+  "indicativo": "EA1UF-14",
+  "codigo": "DR52H8",
+  "fecha": "2026-08-13 13:50:18",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA1UF-14_2026-08_EV.png"
  }
 ]
