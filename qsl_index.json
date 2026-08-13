@@ -1720,5 +1720,12 @@
   "fecha": "2026-08-13 13:53:14",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2VP-WX_2026-08_EV.png"
+ },
+ {
+  "indicativo": "CE2VOV-D",
+  "codigo": "ECQ59G",
+  "fecha": "2026-08-13 13:53:19",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE2VOV-D_2026-08.png"
  }
 ]
