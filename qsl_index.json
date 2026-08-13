@@ -1657,5 +1657,12 @@
   "fecha": "2026-08-13 13:52:29",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1RBV-7_2026-08.png"
+ },
+ {
+  "indicativo": "XE1RBV-7",
+  "codigo": "GKV7W2",
+  "fecha": "2026-08-13 13:52:34",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1RBV-7_2026-08_EV.png"
  }
 ]
