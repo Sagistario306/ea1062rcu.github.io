@@ -369,5 +369,12 @@
   "fecha": "2026-08-13 13:13:56",
   "pais": "Espana",
   "archivo": "qsl/QSL_EB2EMZ-5_2026-08.png"
+ },
+ {
+  "indicativo": "EB2EMZ-5",
+  "codigo": "MZHKQG",
+  "fecha": "2026-08-13 13:14:05",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EB2EMZ-5_2026-08_EV.png"
  }
 ]
