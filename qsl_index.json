@@ -3820,5 +3820,19 @@
   "fecha": "2026-08-13 13:56:08",
   "pais": "Filipinas",
   "archivo": "qsl/QSL_DX1E-7_2026-08.png"
+ },
+ {
+  "indicativo": "DV7GDL-10",
+  "codigo": "XYC276",
+  "fecha": "2026-08-13 21:06:18",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DV7GDL-10_2026-08.png"
+ },
+ {
+  "indicativo": "DV7GDL",
+  "codigo": "XYC276",
+  "fecha": "2026-08-13 21:06:18",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DV7GDL-10_2026-08.png"
  }
 ]
