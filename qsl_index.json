@@ -1853,5 +1853,12 @@
   "fecha": "2026-08-13 13:55:18",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK4G-5_2026-08.png"
+ },
+ {
+  "indicativo": "HK4G-5",
+  "codigo": "E67Y8F",
+  "fecha": "2026-08-13 13:55:24",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK4G-5_2026-08_EV.png"
  }
 ]
