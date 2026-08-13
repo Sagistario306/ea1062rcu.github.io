@@ -3876,5 +3876,19 @@
   "fecha": "2026-08-13 21:07:25",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK6Y-1_2026-08_EV.png"
+ },
+ {
+  "indicativo": "EA7OC-10",
+  "codigo": "SM5TXU",
+  "fecha": "2026-08-13 21:07:31",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA7OC-10_2026-08.png"
+ },
+ {
+  "indicativo": "EA7OC",
+  "codigo": "SM5TXU",
+  "fecha": "2026-08-13 21:07:31",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA7OC-10_2026-08.png"
  }
 ]
