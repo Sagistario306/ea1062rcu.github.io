@@ -1,9 +1,24 @@
 {
- "fecha": "2026-08-12",
- "total_mes": 1,
+ "fecha": "2026-08-13",
+ "total_mes": 151,
  "paises": {
-  "España": 1
+  "Espana": 51,
+  "Filipinas": 5,
+  "Malasia": 22,
+  "Mexico": 14,
+  "Indonesia": 22,
+  "Uruguay": 1,
+  "Japon": 6,
+  "Honduras": 1,
+  "Argentina": 7,
+  "Costa Rica": 1,
+  "Colombia": 6,
+  "Chile": 10,
+  "Panama": 2,
+  "Puerto Rico": 1,
+  "Venezuela": 1,
+  "Peru": 1
  },
  "descargadas": 0,
- "pendientes": 1
+ "pendientes": 151
 }
