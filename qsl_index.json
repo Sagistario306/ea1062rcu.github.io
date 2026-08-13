@@ -1559,5 +1559,12 @@
   "fecha": "2026-08-13 13:51:14",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE3WIT-5_2026-08.png"
+ },
+ {
+  "indicativo": "CE3WIT-5",
+  "codigo": "HN7MM7",
+  "fecha": "2026-08-13 13:51:19",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3WIT-5_2026-08_EV.png"
  }
 ]
