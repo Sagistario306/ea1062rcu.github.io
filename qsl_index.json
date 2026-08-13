@@ -1902,5 +1902,12 @@
   "fecha": "2026-08-13 13:55:55",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HJ1M-5_2026-08_EV.png"
+ },
+ {
+  "indicativo": "DX1E-7",
+  "codigo": "A5M26B",
+  "fecha": "2026-08-13 13:56:08",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DX1E-7_2026-08.png"
  }
 ]
