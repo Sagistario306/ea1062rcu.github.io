@@ -222,5 +222,12 @@
   "fecha": "2026-08-13 13:10:16",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W8JMR-13_2026-08_EV.png"
+ },
+ {
+  "indicativo": "CX2FA-D",
+  "codigo": "BE2667",
+  "fecha": "2026-08-13 13:10:26",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX2FA-D_2026-08.png"
  }
 ]
