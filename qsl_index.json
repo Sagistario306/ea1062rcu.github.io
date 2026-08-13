@@ -348,5 +348,12 @@
   "fecha": "2026-08-13 13:13:26",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2VP-40_2026-08_EV.png"
+ },
+ {
+  "indicativo": "HR1AHR-10",
+  "codigo": "64PFXA",
+  "fecha": "2026-08-13 13:13:35",
+  "pais": "Honduras",
+  "archivo": "qsl/QSL_HR1AHR-10_2026-08.png"
  }
 ]
