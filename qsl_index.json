@@ -495,5 +495,12 @@
   "fecha": "2026-08-13 13:17:45",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA4GEL-5_2026-08.png"
+ },
+ {
+  "indicativo": "EA4GEL-5",
+  "codigo": "H66EV5",
+  "fecha": "2026-08-13 13:17:56",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA4GEL-5_2026-08_EV.png"
  }
 ]
