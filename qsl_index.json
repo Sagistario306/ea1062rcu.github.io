@@ -1223,5 +1223,12 @@
   "fecha": "2026-08-13 13:47:08",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA4JAD_2026-08.png"
+ },
+ {
+  "indicativo": "EA4JAD",
+  "codigo": "Y24Y83",
+  "fecha": "2026-08-13 13:47:13",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA4JAD_2026-08_EV.png"
  }
 ]
