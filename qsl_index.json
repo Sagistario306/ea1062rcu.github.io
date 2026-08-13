@@ -1643,5 +1643,12 @@
   "fecha": "2026-08-13 13:52:19",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU4FRN-5_2026-08.png"
+ },
+ {
+  "indicativo": "LU4FRN-5",
+  "codigo": "T5WWMX",
+  "fecha": "2026-08-13 13:52:24",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU4FRN-5_2026-08_EV.png"
  }
 ]
