@@ -173,5 +173,12 @@
   "fecha": "2026-08-13 13:09:09",
   "pais": "Espana",
   "archivo": "qsl/QSL_EB7DFA-1_2026-08.png"
+ },
+ {
+  "indicativo": "EB7DFA-1",
+  "codigo": "SEPU6F",
+  "fecha": "2026-08-13 13:09:18",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EB7DFA-1_2026-08_EV.png"
  }
 ]
