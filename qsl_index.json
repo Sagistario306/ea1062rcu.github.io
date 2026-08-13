@@ -3960,5 +3960,19 @@
   "fecha": "2026-08-13 21:08:14",
   "pais": "Espana",
   "archivo": "qsl/QSL_ED5YAL-15_2026-08_EV.png"
+ },
+ {
+  "indicativo": "OBJRP1",
+  "codigo": "GFA89N",
+  "fecha": "2026-08-13 21:08:21",
+  "pais": "Peru",
+  "archivo": "qsl/QSL_OBJRP1_2026-08.png"
+ },
+ {
+  "indicativo": "OBJRP1",
+  "codigo": "GFA89N",
+  "fecha": "2026-08-13 21:08:21",
+  "pais": "Peru",
+  "archivo": "qsl/QSL_OBJRP1_2026-08.png"
  }
 ]
