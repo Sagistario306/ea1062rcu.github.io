@@ -3834,5 +3834,19 @@
   "fecha": "2026-08-13 21:06:18",
   "pais": "Filipinas",
   "archivo": "qsl/QSL_DV7GDL-10_2026-08.png"
+ },
+ {
+  "indicativo": "DV7GDL-10",
+  "codigo": "ZPWA25",
+  "fecha": "2026-08-13 21:06:29",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DV7GDL-10_2026-08_EV.png"
+ },
+ {
+  "indicativo": "DV7GDL",
+  "codigo": "ZPWA25",
+  "fecha": "2026-08-13 21:06:29",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DV7GDL-10_2026-08_EV.png"
  }
 ]
