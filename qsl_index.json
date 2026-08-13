@@ -1405,5 +1405,12 @@
   "fecha": "2026-08-13 13:49:17",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1DZL-D_2026-08.png"
+ },
+ {
+  "indicativo": "LU1DZL-D",
+  "codigo": "2V6B3K",
+  "fecha": "2026-08-13 13:49:22",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1DZL-D_2026-08_EV.png"
  }
 ]
