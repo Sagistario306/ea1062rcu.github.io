@@ -1713,5 +1713,12 @@
   "fecha": "2026-08-13 13:53:09",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2VP-WX_2026-08.png"
+ },
+ {
+  "indicativo": "XE2VP-WX",
+  "codigo": "6KTZZQ",
+  "fecha": "2026-08-13 13:53:14",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2VP-WX_2026-08_EV.png"
  }
 ]
