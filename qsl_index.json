@@ -1832,5 +1832,12 @@
   "fecha": "2026-08-13 13:54:48",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE3FOT-15_2026-08_EV.png"
+ },
+ {
+  "indicativo": "XE1MW-9",
+  "codigo": "RG7ETE",
+  "fecha": "2026-08-13 13:55:04",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1MW-9_2026-08.png"
  }
 ]
