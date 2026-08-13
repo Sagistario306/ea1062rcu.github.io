@@ -4184,5 +4184,19 @@
   "fecha": "2026-08-13 21:11:16",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M4RDG-3_2026-08_EV.png"
+ },
+ {
+  "indicativo": "JA3TRH-N",
+  "codigo": "ZJHS6P",
+  "fecha": "2026-08-13 21:11:22",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA3TRH-N_2026-08.png"
+ },
+ {
+  "indicativo": "JA3TRH",
+  "codigo": "ZJHS6P",
+  "fecha": "2026-08-13 21:11:22",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA3TRH-N_2026-08.png"
  }
 ]
