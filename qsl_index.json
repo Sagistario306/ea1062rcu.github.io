@@ -726,5 +726,12 @@
   "fecha": "2026-08-13 13:39:49",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1DVI-D_2026-08_EV.png"
+ },
+ {
+  "indicativo": "HOGBAK-10",
+  "codigo": "PBP9S6",
+  "fecha": "2026-08-13 13:39:56",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HOGBAK-10_2026-08.png"
  }
 ]
