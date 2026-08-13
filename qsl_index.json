@@ -397,5 +397,12 @@
   "fecha": "2026-08-13 13:14:34",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA7LCU-5_2026-08.png"
+ },
+ {
+  "indicativo": "EA7LCU-5",
+  "codigo": "6BTR2B",
+  "fecha": "2026-08-13 13:14:44",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA7LCU-5_2026-08_EV.png"
  }
 ]
