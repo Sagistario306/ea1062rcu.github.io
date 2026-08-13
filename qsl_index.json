@@ -4128,5 +4128,19 @@
   "fecha": "2026-08-13 21:10:29",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2J-2_2026-08_EV.png"
+ },
+ {
+  "indicativo": "9W2KKK-1",
+  "codigo": "79ZMAH",
+  "fecha": "2026-08-13 21:10:36",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2KKK-1_2026-08.png"
+ },
+ {
+  "indicativo": "9W2KKK",
+  "codigo": "79ZMAH",
+  "fecha": "2026-08-13 21:10:36",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2KKK-1_2026-08.png"
  }
 ]
