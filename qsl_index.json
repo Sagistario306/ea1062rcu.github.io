@@ -663,5 +663,12 @@
   "fecha": "2026-08-13 13:39:00",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE4ERM-11_2026-08.png"
+ },
+ {
+  "indicativo": "CE4ERM-11",
+  "codigo": "TUV7R4",
+  "fecha": "2026-08-13 13:39:05",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE4ERM-11_2026-08_EV.png"
  }
 ]
