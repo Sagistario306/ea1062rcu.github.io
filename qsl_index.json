@@ -845,5 +845,12 @@
   "fecha": "2026-08-13 13:42:38",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE1NAH_2026-08.png"
+ },
+ {
+  "indicativo": "CE1NAH",
+  "codigo": "T4XWAS",
+  "fecha": "2026-08-13 13:42:43",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE1NAH_2026-08_EV.png"
  }
 ]
