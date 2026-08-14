@@ -3890,5 +3890,12 @@
   "fecha": "2026-08-14 14:25:27",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU4EOU_2026-08.png"
+ },
+ {
+  "indicativo": "HOUGH",
+  "codigo": "QF9UBV",
+  "fecha": "2026-08-14 14:25:34",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HOUGH_2026-08.png"
  }
 ]
