@@ -2833,5 +2833,12 @@
   "fecha": "2026-08-14 14:04:15",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA1EYE_2026-08.png"
+ },
+ {
+  "indicativo": "XE2CT",
+  "codigo": "CAU4P4",
+  "fecha": "2026-08-14 14:04:22",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2CT_2026-08.png"
  }
 ]
