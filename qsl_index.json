@@ -3134,5 +3134,12 @@
   "fecha": "2026-08-14 14:10:03",
   "pais": "Espana",
   "archivo": "qsl/QSL_ED3ZAR_2026-08.png"
+ },
+ {
+  "indicativo": "DX3L",
+  "codigo": "NM99FB",
+  "fecha": "2026-08-14 14:10:12",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DX3L_2026-08.png"
  }
 ]
