@@ -3820,5 +3820,12 @@
   "fecha": "2026-08-14 14:23:51",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU7HCN_2026-08.png"
+ },
+ {
+  "indicativo": "ED1ZAI",
+  "codigo": "F3HR67",
+  "fecha": "2026-08-14 14:23:59",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_ED1ZAI_2026-08.png"
  }
 ]
