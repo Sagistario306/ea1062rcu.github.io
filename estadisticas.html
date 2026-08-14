@@ -48,7 +48,7 @@
     <div class="lista">
       <h3>🌍 Estaciones por país</h3>
       <div id="lista-paises"></div>
-      <h3 style="margin-top:18px;">🕐 Últimas estaciones escuchadas</h3>
+      <h3 style="margin-top:18px;">🕐 Últimas estaciones confirmadas</h3>
       <div id="lista-ultimas"></div>
     </div>
 
@@ -67,13 +67,25 @@ fetch('qsl_index.json?v=' + Date.now())
   .then(r => r.ok ? r.json() : [])
   .then(indice => {
     const hoy = new Date().toISOString().slice(0, 10);
-    const paises = {};
-    indice.forEach(e => paises[e.pais] = (paises[e.pais] || 0) + 1);
 
-    document.getElementById('st-total').textContent = indice.length;
+    // ✅ v3.0: UNA sola entrada por estacion (indicativo base),
+    //    conservando su fecha mas reciente
+    const unicas = {};
+    indice.forEach(e => {
+      if (!unicas[e.indicativo] || e.fecha > unicas[e.indicativo].fecha) {
+        unicas[e.indicativo] = e;
+      }
+    });
+    const estaciones = Object.values(unicas);
+
+    // paises = estaciones unicas por pais
+    const paises = {};
+    estaciones.forEach(e => paises[e.pais] = (paises[e.pais] || 0) + 1);
+
+    document.getElementById('st-total').textContent = estaciones.length;
     document.getElementById('st-paises').textContent = Object.keys(paises).length;
     document.getElementById('st-hoy').textContent =
-      indice.filter(e => e.fecha.slice(0, 10) === hoy).length;
+      estaciones.filter(e => e.fecha.slice(0, 10) === hoy).length;
     document.getElementById('st-fecha').textContent =
       '🔄 Última actualización: ' + new Date().toLocaleString();
 
@@ -82,8 +94,9 @@ fetch('qsl_index.json?v=' + Date.now())
         .map(([p, n]) => `<div class="pais-fila"><span>${p}</span><strong>${n}</strong></div>`)
         .join('') || '<p style="color:#94a3b8">Aún sin datos este mes.</p>';
 
+    // ✅ ultimas 10 estaciones UNICAS, mas recientes primero
     document.getElementById('lista-ultimas').innerHTML =
-      indice.slice(-10).reverse()
+      estaciones.sort((a, b) => b.fecha.localeCompare(a.fecha)).slice(0, 10)
         .map(e => `<div class="pais-fila"><span>${e.indicativo} · ${e.pais}</span><span>${e.fecha}</span></div>`)
         .join('') || '<p style="color:#94a3b8">Esperando primeras estaciones… 📡</p>';
   });
