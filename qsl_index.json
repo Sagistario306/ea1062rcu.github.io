@@ -3526,5 +3526,12 @@
   "fecha": "2026-08-14 14:17:53",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LW5DB_2026-08.png"
+ },
+ {
+  "indicativo": "CE3MAD",
+  "codigo": "7H94T9",
+  "fecha": "2026-08-14 14:18:04",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3MAD_2026-08.png"
  }
 ]
