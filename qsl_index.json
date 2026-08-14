@@ -2623,5 +2623,12 @@
   "fecha": "2026-08-14 14:00:28",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2EDU_2026-08.png"
+ },
+ {
+  "indicativo": "HOWARD",
+  "codigo": "4HX9ZB",
+  "fecha": "2026-08-14 14:00:34",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HOWARD_2026-08.png"
  }
 ]
