@@ -2315,5 +2315,12 @@
   "fecha": "2026-08-14 13:55:01",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1EE_2026-08.png"
+ },
+ {
+  "indicativo": "CE1RLP",
+  "codigo": "475JTG",
+  "fecha": "2026-08-14 13:55:08",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE1RLP_2026-08.png"
  }
 ]
