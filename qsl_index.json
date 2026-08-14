@@ -2574,5 +2574,12 @@
   "fecha": "2026-08-14 13:59:46",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP1MRA_2026-08.png"
+ },
+ {
+  "indicativo": "JR3VG",
+  "codigo": "8RDPKG",
+  "fecha": "2026-08-14 13:59:52",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JR3VG_2026-08.png"
  }
 ]
