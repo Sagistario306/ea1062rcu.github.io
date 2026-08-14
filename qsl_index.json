@@ -2861,5 +2861,12 @@
   "fecha": "2026-08-14 14:04:43",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK4CRP_2026-08.png"
+ },
+ {
+  "indicativo": "TI2FRN",
+  "codigo": "HAVEX6",
+  "fecha": "2026-08-14 14:04:49",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2FRN_2026-08.png"
  }
 ]
