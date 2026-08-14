@@ -2609,5 +2609,12 @@
   "fecha": "2026-08-14 14:00:14",
   "pais": "Ecuador",
   "archivo": "qsl/QSL_HC6AC_2026-08.png"
+ },
+ {
+  "indicativo": "JH6RKO",
+  "codigo": "M29QQG",
+  "fecha": "2026-08-14 14:00:21",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JH6RKO_2026-08.png"
  }
 ]
