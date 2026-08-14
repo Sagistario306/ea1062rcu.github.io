@@ -2679,5 +2679,12 @@
   "fecha": "2026-08-14 14:01:21",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA7HBM_2026-08.png"
+ },
+ {
+  "indicativo": "HK7LT",
+  "codigo": "8NVX3D",
+  "fecha": "2026-08-14 14:01:27",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK7LT_2026-08.png"
  }
 ]
