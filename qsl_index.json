@@ -2385,5 +2385,12 @@
   "fecha": "2026-08-14 13:56:30",
   "pais": "Peru",
   "archivo": "qsl/QSL_OA4ENN_2026-08.png"
+ },
+ {
+  "indicativo": "EC1CS",
+  "codigo": "TRZR7Q",
+  "fecha": "2026-08-14 13:56:36",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EC1CS_2026-08.png"
  }
 ]
