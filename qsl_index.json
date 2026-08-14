@@ -3484,5 +3484,12 @@
   "fecha": "2026-08-14 14:17:00",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2SAT_2026-08.png"
+ },
+ {
+  "indicativo": "CE1IQ",
+  "codigo": "7R65WS",
+  "fecha": "2026-08-14 14:17:06",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE1IQ_2026-08.png"
  }
 ]
