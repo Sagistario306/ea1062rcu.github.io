@@ -2630,5 +2630,12 @@
   "fecha": "2026-08-14 14:00:34",
   "pais": "Panama",
   "archivo": "qsl/QSL_HOWARD_2026-08.png"
+ },
+ {
+  "indicativo": "EA2CSG",
+  "codigo": "BVZSQ6",
+  "fecha": "2026-08-14 14:00:40",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA2CSG_2026-08.png"
  }
 ]
