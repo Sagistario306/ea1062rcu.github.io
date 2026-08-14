@@ -3575,5 +3575,12 @@
   "fecha": "2026-08-14 14:19:04",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU9FW_2026-08.png"
+ },
+ {
+  "indicativo": "TG5ALY",
+  "codigo": "B257EP",
+  "fecha": "2026-08-14 14:19:11",
+  "pais": "Guatemala",
+  "archivo": "qsl/QSL_TG5ALY_2026-08.png"
  }
 ]
