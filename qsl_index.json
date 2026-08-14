@@ -2448,5 +2448,12 @@
   "fecha": "2026-08-14 13:57:38",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK4CL_2026-08.png"
+ },
+ {
+  "indicativo": "HOYT",
+  "codigo": "RASVZR",
+  "fecha": "2026-08-14 13:57:45",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HOYT_2026-08.png"
  }
 ]
