@@ -2728,5 +2728,12 @@
   "fecha": "2026-08-14 14:02:09",
   "pais": "Uruguay",
   "archivo": "qsl/QSL_CX9ABQ_2026-08.png"
+ },
+ {
+  "indicativo": "YC2UTC",
+  "codigo": "24HGNJ",
+  "fecha": "2026-08-14 14:02:14",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YC2UTC_2026-08.png"
  }
 ]
