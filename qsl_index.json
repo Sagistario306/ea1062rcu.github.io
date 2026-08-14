@@ -2399,5 +2399,12 @@
   "fecha": "2026-08-14 13:56:46",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2N_2026-08.png"
+ },
+ {
+  "indicativo": "KP3T",
+  "codigo": "W3K45U",
+  "fecha": "2026-08-14 13:56:52",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP3T_2026-08.png"
  }
 ]
