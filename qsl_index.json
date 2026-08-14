@@ -2427,5 +2427,12 @@
   "fecha": "2026-08-14 13:57:14",
   "pais": "Espana",
   "archivo": "qsl/QSL_ED5YBF_2026-08.png"
+ },
+ {
+  "indicativo": "LW2HAH",
+  "codigo": "963WRV",
+  "fecha": "2026-08-14 13:57:25",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW2HAH_2026-08.png"
  }
 ]
