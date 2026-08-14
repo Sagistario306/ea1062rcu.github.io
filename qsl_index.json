@@ -2854,5 +2854,12 @@
   "fecha": "2026-08-14 14:04:37",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE3JBG_2026-08.png"
+ },
+ {
+  "indicativo": "HK4CRP",
+  "codigo": "3FHZYX",
+  "fecha": "2026-08-14 14:04:43",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK4CRP_2026-08.png"
  }
 ]
