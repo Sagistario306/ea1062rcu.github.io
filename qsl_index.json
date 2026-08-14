@@ -3827,5 +3827,12 @@
   "fecha": "2026-08-14 14:23:59",
   "pais": "Espana",
   "archivo": "qsl/QSL_ED1ZAI_2026-08.png"
+ },
+ {
+  "indicativo": "LW7EDH",
+  "codigo": "S2ETCC",
+  "fecha": "2026-08-14 14:24:06",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW7EDH_2026-08.png"
  }
 ]
