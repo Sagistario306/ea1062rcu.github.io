@@ -3253,5 +3253,12 @@
   "fecha": "2026-08-14 14:12:31",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA1CUE_2026-08.png"
+ },
+ {
+  "indicativo": "CE6AIG",
+  "codigo": "79VKVC",
+  "fecha": "2026-08-14 14:12:40",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE6AIG_2026-08.png"
  }
 ]
