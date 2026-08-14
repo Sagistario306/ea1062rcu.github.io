@@ -2749,5 +2749,12 @@
   "fecha": "2026-08-14 14:02:29",
   "pais": "Japon",
   "archivo": "qsl/QSL_JR5WG_2026-08.png"
+ },
+ {
+  "indicativo": "CE3MRO",
+  "codigo": "74E8CP",
+  "fecha": "2026-08-14 14:02:38",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3MRO_2026-08.png"
  }
 ]
