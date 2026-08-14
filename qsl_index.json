@@ -2714,5 +2714,12 @@
   "fecha": "2026-08-14 14:01:56",
   "pais": "Japon",
   "archivo": "qsl/QSL_JR2TTA_2026-08.png"
+ },
+ {
+  "indicativo": "KP4CA",
+  "codigo": "NKNJSS",
+  "fecha": "2026-08-14 14:02:01",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4CA_2026-08.png"
  }
 ]
