@@ -2406,5 +2406,12 @@
   "fecha": "2026-08-14 13:56:52",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP3T_2026-08.png"
+ },
+ {
+  "indicativo": "EARC",
+  "codigo": "DTEPMY",
+  "fecha": "2026-08-14 13:56:58",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EARC_2026-08.png"
  }
 ]
