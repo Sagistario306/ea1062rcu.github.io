@@ -2175,5 +2175,12 @@
   "fecha": "2026-08-14 13:52:05",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1JLO_2026-08.png"
+ },
+ {
+  "indicativo": "EA5I",
+  "codigo": "MJXQRF",
+  "fecha": "2026-08-14 13:52:18",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA5I_2026-08.png"
  }
 ]
