@@ -3442,5 +3442,12 @@
   "fecha": "2026-08-14 14:16:14",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE3EA_2026-08.png"
+ },
+ {
+  "indicativo": "EA5JUM",
+  "codigo": "TRKNTF",
+  "fecha": "2026-08-14 14:16:20",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA5JUM_2026-08.png"
  }
 ]
