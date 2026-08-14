@@ -2721,5 +2721,12 @@
   "fecha": "2026-08-14 14:02:01",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP4CA_2026-08.png"
+ },
+ {
+  "indicativo": "CX9ABQ",
+  "codigo": "G6MVSN",
+  "fecha": "2026-08-14 14:02:09",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX9ABQ_2026-08.png"
  }
 ]
