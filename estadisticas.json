@@ -1,24 +1,26 @@
 {
- "fecha": "2026-08-13",
- "total_mes": 151,
+ "fecha": "2026-08-14",
+ "total_mes": 445,
  "paises": {
-  "Espana": 51,
-  "Filipinas": 5,
-  "Malasia": 22,
-  "Mexico": 14,
-  "Indonesia": 22,
-  "Uruguay": 1,
-  "Japon": 6,
+  "Espana": 154,
+  "Filipinas": 17,
+  "Malasia": 65,
+  "Mexico": 31,
+  "Indonesia": 49,
+  "Uruguay": 4,
+  "Japon": 24,
   "Honduras": 1,
-  "Argentina": 7,
-  "Costa Rica": 1,
-  "Colombia": 6,
-  "Chile": 10,
-  "Panama": 2,
-  "Puerto Rico": 1,
+  "Argentina": 39,
+  "Costa Rica": 3,
+  "Colombia": 17,
+  "Chile": 20,
+  "Panama": 7,
+  "Puerto Rico": 8,
   "Venezuela": 1,
-  "Peru": 1
+  "Peru": 2,
+  "Ecuador": 1,
+  "Guatemala": 2
  },
  "descargadas": 0,
- "pendientes": 151
+ "pendientes": 445
 }
