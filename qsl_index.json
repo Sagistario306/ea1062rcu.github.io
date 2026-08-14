@@ -2392,5 +2392,12 @@
   "fecha": "2026-08-14 13:56:36",
   "pais": "Espana",
   "archivo": "qsl/QSL_EC1CS_2026-08.png"
+ },
+ {
+  "indicativo": "XE2N",
+  "codigo": "B545JC",
+  "fecha": "2026-08-14 13:56:46",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2N_2026-08.png"
  }
 ]
