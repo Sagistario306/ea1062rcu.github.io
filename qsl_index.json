@@ -2700,5 +2700,12 @@
   "fecha": "2026-08-14 14:01:40",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU2CPJ_2026-08.png"
+ },
+ {
+  "indicativo": "CE4LAP",
+  "codigo": "AP6WHV",
+  "fecha": "2026-08-14 14:01:49",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE4LAP_2026-08.png"
  }
 ]
