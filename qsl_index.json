@@ -2637,5 +2637,12 @@
   "fecha": "2026-08-14 14:00:40",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA2CSG_2026-08.png"
+ },
+ {
+  "indicativo": "9W2USY",
+  "codigo": "NCRACT",
+  "fecha": "2026-08-14 14:00:48",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2USY_2026-08.png"
  }
 ]
