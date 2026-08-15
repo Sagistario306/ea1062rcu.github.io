@@ -4310,5 +4310,12 @@
   "fecha": "2026-08-15 00:02:31",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA1MZ_2026-08.png"
+ },
+ {
+  "indicativo": "HJ1MLA",
+  "codigo": "74RU99",
+  "fecha": "2026-08-15 00:02:36",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ1MLA_2026-08.png"
  }
 ]
