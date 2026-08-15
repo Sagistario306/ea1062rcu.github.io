@@ -4261,5 +4261,12 @@
   "fecha": "2026-08-15 00:01:55",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M4GHZ_2026-08.png"
+ },
+ {
+  "indicativo": "XE2NLM",
+  "codigo": "7RFC2M",
+  "fecha": "2026-08-15 00:02:00",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2NLM_2026-08.png"
  }
 ]
