@@ -4254,5 +4254,12 @@
   "fecha": "2026-08-15 00:01:50",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK6RM_2026-08.png"
+ },
+ {
+  "indicativo": "9M4GHZ",
+  "codigo": "RPEZPQ",
+  "fecha": "2026-08-15 00:01:55",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9M4GHZ_2026-08.png"
  }
 ]
