@@ -4821,5 +4821,12 @@
   "fecha": "2026-08-15 00:09:30",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_NP4TX_2026-08.png"
+ },
+ {
+  "indicativo": "LU2DGE",
+  "codigo": "NJ2S69",
+  "fecha": "2026-08-15 00:09:36",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU2DGE_2026-08.png"
  }
 ]
