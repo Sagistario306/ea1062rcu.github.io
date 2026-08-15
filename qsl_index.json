@@ -4877,5 +4877,12 @@
   "fecha": "2026-08-15 00:10:14",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA1GCN_2026-08.png"
+ },
+ {
+  "indicativo": "XE1BRX",
+  "codigo": "NB724V",
+  "fecha": "2026-08-15 00:10:20",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1BRX_2026-08.png"
  }
 ]
