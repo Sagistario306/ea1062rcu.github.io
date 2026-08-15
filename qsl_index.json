@@ -4457,5 +4457,12 @@
   "fecha": "2026-08-15 00:04:40",
   "pais": "Espana",
   "archivo": "qsl/QSL_EC7TL_2026-08.png"
+ },
+ {
+  "indicativo": "XE1ZKC",
+  "codigo": "Z8ZMDR",
+  "fecha": "2026-08-15 00:04:45",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1ZKC_2026-08.png"
  }
 ]
