@@ -4296,5 +4296,12 @@
   "fecha": "2026-08-15 00:02:21",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU4DRH_2026-08.png"
+ },
+ {
+  "indicativo": "XE2MFT",
+  "codigo": "EVFEQ4",
+  "fecha": "2026-08-15 00:02:26",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2MFT_2026-08.png"
  }
 ]
