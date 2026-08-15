@@ -5318,5 +5318,12 @@
   "fecha": "2026-08-15 14:10:37",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA1IRT_2026-08.png"
+ },
+ {
+  "indicativo": "HK1I",
+  "codigo": "EKV3CR",
+  "fecha": "2026-08-15 14:10:46",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK1I_2026-08.png"
  }
 ]
