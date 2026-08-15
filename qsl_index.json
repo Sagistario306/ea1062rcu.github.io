@@ -4422,5 +4422,12 @@
   "fecha": "2026-08-15 00:04:15",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2XEH_2026-08.png"
+ },
+ {
+  "indicativo": "EA6AMI",
+  "codigo": "BGWPE5",
+  "fecha": "2026-08-15 00:04:20",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA6AMI_2026-08.png"
  }
 ]
