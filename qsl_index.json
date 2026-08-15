@@ -5829,5 +5829,12 @@
   "fecha": "2026-08-15 14:21:32",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU7COM_2026-08.png"
+ },
+ {
+  "indicativo": "EA8BYO",
+  "codigo": "TCX7RA",
+  "fecha": "2026-08-15 14:21:38",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA8BYO_2026-08.png"
  }
 ]
