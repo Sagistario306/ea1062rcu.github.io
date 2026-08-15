@@ -4961,5 +4961,12 @@
   "fecha": "2026-08-15 14:04:06",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2KEN_2026-08.png"
+ },
+ {
+  "indicativo": "HP1RPB",
+  "codigo": "UHMNB3",
+  "fecha": "2026-08-15 14:04:14",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP1RPB_2026-08.png"
  }
 ]
