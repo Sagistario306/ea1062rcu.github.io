@@ -5234,5 +5234,12 @@
   "fecha": "2026-08-15 14:09:01",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2ESN_2026-08.png"
+ },
+ {
+  "indicativo": "HK5F",
+  "codigo": "BGZ3G6",
+  "fecha": "2026-08-15 14:09:16",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK5F_2026-08.png"
  }
 ]
