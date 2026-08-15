@@ -4429,5 +4429,12 @@
   "fecha": "2026-08-15 00:04:20",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA6AMI_2026-08.png"
+ },
+ {
+  "indicativo": "HC3RB",
+  "codigo": "2PC9ST",
+  "fecha": "2026-08-15 00:04:26",
+  "pais": "Ecuador",
+  "archivo": "qsl/QSL_HC3RB_2026-08.png"
  }
 ]
