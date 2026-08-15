@@ -4226,5 +4226,12 @@
   "fecha": "2026-08-15 00:01:30",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_NP3WP_2026-08.png"
+ },
+ {
+  "indicativo": "EA3GZL",
+  "codigo": "MWFSP6",
+  "fecha": "2026-08-15 00:01:35",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA3GZL_2026-08.png"
  }
 ]
