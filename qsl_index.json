@@ -4863,5 +4863,12 @@
   "fecha": "2026-08-15 00:10:03",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA1FHY_2026-08.png"
+ },
+ {
+  "indicativo": "CE2OF",
+  "codigo": "EW4VDP",
+  "fecha": "2026-08-15 00:10:09",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE2OF_2026-08.png"
  }
 ]
