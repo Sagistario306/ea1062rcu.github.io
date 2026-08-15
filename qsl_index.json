@@ -5332,5 +5332,12 @@
   "fecha": "2026-08-15 14:10:52",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK4AM_2026-08.png"
+ },
+ {
+  "indicativo": "CE4NQS",
+  "codigo": "RFJWUY",
+  "fecha": "2026-08-15 14:10:56",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE4NQS_2026-08.png"
  }
 ]
