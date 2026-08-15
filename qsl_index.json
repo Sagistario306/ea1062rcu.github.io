@@ -5640,5 +5640,12 @@
   "fecha": "2026-08-15 14:18:30",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1ALV_2026-08.png"
+ },
+ {
+  "indicativo": "ECHO",
+  "codigo": "NZXACJ",
+  "fecha": "2026-08-15 14:18:45",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_ECHO_2026-08.png"
  }
 ]
