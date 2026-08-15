@@ -6053,5 +6053,12 @@
   "fecha": "2026-08-15 14:25:27",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA5EN_2026-08.png"
+ },
+ {
+  "indicativo": "LU3CSN",
+  "codigo": "56EH39",
+  "fecha": "2026-08-15 14:25:32",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU3CSN_2026-08.png"
  }
 ]
