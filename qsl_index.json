@@ -4492,5 +4492,12 @@
   "fecha": "2026-08-15 00:05:07",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HJ4LGH_2026-08.png"
+ },
+ {
+  "indicativo": "JH0JRL",
+  "codigo": "MT5228",
+  "fecha": "2026-08-15 00:05:12",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JH0JRL_2026-08.png"
  }
 ]
