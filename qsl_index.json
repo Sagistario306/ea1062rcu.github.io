@@ -4968,5 +4968,12 @@
   "fecha": "2026-08-15 14:04:14",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP1RPB_2026-08.png"
+ },
+ {
+  "indicativo": "LU4DQ",
+  "codigo": "73B8NW",
+  "fecha": "2026-08-15 14:04:19",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU4DQ_2026-08.png"
  }
 ]
