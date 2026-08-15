@@ -5920,5 +5920,12 @@
   "fecha": "2026-08-15 14:23:11",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU8MPR_2026-08.png"
+ },
+ {
+  "indicativo": "EA5CKO",
+  "codigo": "CEUDN4",
+  "fecha": "2026-08-15 14:23:19",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA5CKO_2026-08.png"
  }
 ]
