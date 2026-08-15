@@ -5563,5 +5563,12 @@
   "fecha": "2026-08-15 14:15:04",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA7LME_2026-08.png"
+ },
+ {
+  "indicativo": "JH7QJG",
+  "codigo": "4GFQYW",
+  "fecha": "2026-08-15 14:15:10",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JH7QJG_2026-08.png"
  }
 ]
