@@ -4219,5 +4219,12 @@
   "fecha": "2026-08-15 00:01:24",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1AO_2026-08.png"
+ },
+ {
+  "indicativo": "NP3WP",
+  "codigo": "TNUSSN",
+  "fecha": "2026-08-15 00:01:30",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP3WP_2026-08.png"
  }
 ]
