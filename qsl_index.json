@@ -5045,5 +5045,12 @@
   "fecha": "2026-08-15 14:05:36",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP2DFA_2026-08.png"
+ },
+ {
+  "indicativo": "EA6AMR",
+  "codigo": "H2TGZ9",
+  "fecha": "2026-08-15 14:05:41",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA6AMR_2026-08.png"
  }
 ]
