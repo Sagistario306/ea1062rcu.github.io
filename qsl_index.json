@@ -4331,5 +4331,12 @@
   "fecha": "2026-08-15 00:02:47",
   "pais": "Espana",
   "archivo": "qsl/QSL_ED2YAH_2026-08.png"
+ },
+ {
+  "indicativo": "XE2JA",
+  "codigo": "G9YC7R",
+  "fecha": "2026-08-15 00:03:01",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2JA_2026-08.png"
  }
 ]
