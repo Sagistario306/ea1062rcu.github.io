@@ -4268,5 +4268,12 @@
   "fecha": "2026-08-15 00:02:00",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2NLM_2026-08.png"
+ },
+ {
+  "indicativo": "XE2ITZ",
+  "codigo": "VUM2BR",
+  "fecha": "2026-08-15 00:02:05",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2ITZ_2026-08.png"
  }
 ]
