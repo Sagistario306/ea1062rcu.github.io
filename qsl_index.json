@@ -5325,5 +5325,12 @@
   "fecha": "2026-08-15 14:10:46",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK1I_2026-08.png"
+ },
+ {
+  "indicativo": "HK4AM",
+  "codigo": "2WCHKH",
+  "fecha": "2026-08-15 14:10:52",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK4AM_2026-08.png"
  }
 ]
