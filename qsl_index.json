@@ -4625,5 +4625,12 @@
   "fecha": "2026-08-15 00:06:52",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2KIO_2026-08.png"
+ },
+ {
+  "indicativo": "XE1M",
+  "codigo": "ZTZ2ZE",
+  "fecha": "2026-08-15 00:07:06",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1M_2026-08.png"
  }
 ]
