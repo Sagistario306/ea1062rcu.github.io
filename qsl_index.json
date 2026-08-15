@@ -5913,5 +5913,12 @@
   "fecha": "2026-08-15 14:23:03",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA1AY_2026-08.png"
+ },
+ {
+  "indicativo": "LU8MPR",
+  "codigo": "RFNAHU",
+  "fecha": "2026-08-15 14:23:11",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU8MPR_2026-08.png"
  }
 ]
