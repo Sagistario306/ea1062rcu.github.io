@@ -5661,5 +5661,12 @@
   "fecha": "2026-08-15 14:18:57",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE3RHA_2026-08.png"
+ },
+ {
+  "indicativo": "LW1HBD",
+  "codigo": "KA63VM",
+  "fecha": "2026-08-15 14:19:05",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW1HBD_2026-08.png"
  }
 ]
