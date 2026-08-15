@@ -5115,5 +5115,12 @@
   "fecha": "2026-08-15 14:07:07",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2TLT_2026-08.png"
+ },
+ {
+  "indicativo": "TI0ATI",
+  "codigo": "FT7GY9",
+  "fecha": "2026-08-15 14:07:13",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI0ATI_2026-08.png"
  }
 ]
