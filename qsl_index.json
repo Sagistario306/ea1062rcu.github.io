@@ -4464,5 +4464,12 @@
   "fecha": "2026-08-15 00:04:45",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1ZKC_2026-08.png"
+ },
+ {
+  "indicativo": "EA5XQ",
+  "codigo": "WMXE7P",
+  "fecha": "2026-08-15 00:04:51",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA5XQ_2026-08.png"
  }
 ]
