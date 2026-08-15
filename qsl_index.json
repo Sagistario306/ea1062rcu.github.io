@@ -4562,5 +4562,12 @@
   "fecha": "2026-08-15 00:06:00",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA1HJA_2026-08.png"
+ },
+ {
+  "indicativo": "EA3CH",
+  "codigo": "QSWK97",
+  "fecha": "2026-08-15 00:06:05",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA3CH_2026-08.png"
  }
 ]
