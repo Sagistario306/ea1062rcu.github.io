@@ -4450,5 +4450,12 @@
   "fecha": "2026-08-15 00:04:35",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU5DTF_2026-08.png"
+ },
+ {
+  "indicativo": "EC7TL",
+  "codigo": "WV4JHF",
+  "fecha": "2026-08-15 00:04:40",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EC7TL_2026-08.png"
  }
 ]
