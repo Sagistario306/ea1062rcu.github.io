@@ -4611,5 +4611,12 @@
   "fecha": "2026-08-15 00:06:38",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA3HUL_2026-08.png"
+ },
+ {
+  "indicativo": "JA3QOS",
+  "codigo": "2NMECF",
+  "fecha": "2026-08-15 00:06:44",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA3QOS_2026-08.png"
  }
 ]
