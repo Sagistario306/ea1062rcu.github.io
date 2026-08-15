@@ -4905,5 +4905,19 @@
   "fecha": "2026-08-15 00:10:37",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2NCH_2026-08.png"
+ },
+ {
+  "indicativo": "9W2PTP",
+  "codigo": "AKVEFG",
+  "fecha": "2026-08-15 13:12:56",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2PTP_2026-08.png"
+ },
+ {
+  "indicativo": "9W2EXZ",
+  "codigo": "549QVQ",
+  "fecha": "2026-08-15 14:03:26",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2EXZ_2026-08.png"
  }
 ]
