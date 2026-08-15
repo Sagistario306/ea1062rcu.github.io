@@ -5388,5 +5388,12 @@
   "fecha": "2026-08-15 14:12:03",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA3JJZ_2026-08.png"
+ },
+ {
+  "indicativo": "XE2OK",
+  "codigo": "6MHZR3",
+  "fecha": "2026-08-15 14:12:12",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2OK_2026-08.png"
  }
 ]
