@@ -6914,5 +6914,12 @@
   "fecha": "2026-08-16 01:00:38",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA2KR_2026-08.png"
+ },
+ {
+  "indicativo": "DV3X",
+  "codigo": "BS86RH",
+  "fecha": "2026-08-16 01:00:43",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DV3X_2026-08.png"
  }
 ]
