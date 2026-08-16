@@ -7243,5 +7243,12 @@
   "fecha": "2026-08-16 01:06:52",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LW8EXS_2026-08.png"
+ },
+ {
+  "indicativo": "CE3TKG",
+  "codigo": "TXQR32",
+  "fecha": "2026-08-16 01:06:57",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3TKG_2026-08.png"
  }
 ]
