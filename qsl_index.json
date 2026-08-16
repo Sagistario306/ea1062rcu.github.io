@@ -7040,5 +7040,12 @@
   "fecha": "2026-08-16 01:02:45",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M8HAZ_2026-08.png"
+ },
+ {
+  "indicativo": "TI5M",
+  "codigo": "VA5BPF",
+  "fecha": "2026-08-16 01:02:58",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI5M_2026-08.png"
  }
 ]
