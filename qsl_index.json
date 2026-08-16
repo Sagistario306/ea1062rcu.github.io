@@ -7684,5 +7684,12 @@
   "fecha": "2026-08-16 01:13:54",
   "pais": "Espana",
   "archivo": "qsl/QSL_EC4DA2_2026-08.png"
+ },
+ {
+  "indicativo": "XIT",
+  "codigo": "X2CT3J",
+  "fecha": "2026-08-16 01:13:59",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XIT_2026-08.png"
  }
 ]
