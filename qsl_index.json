@@ -8258,5 +8258,12 @@
   "fecha": "2026-08-16 01:23:56",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU8ESQ_2026-08.png"
+ },
+ {
+  "indicativo": "NP4PC",
+  "codigo": "3URH3X",
+  "fecha": "2026-08-16 01:24:01",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4PC_2026-08.png"
  }
 ]
