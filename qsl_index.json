@@ -6956,5 +6956,12 @@
   "fecha": "2026-08-16 01:01:23",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA1BEP_2026-08.png"
+ },
+ {
+  "indicativo": "YD6HRD",
+  "codigo": "BKMV66",
+  "fecha": "2026-08-16 01:01:31",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YD6HRD_2026-08.png"
  }
 ]
