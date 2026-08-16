@@ -6907,5 +6907,12 @@
   "fecha": "2026-08-16 01:00:32",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1EVP_2026-08.png"
+ },
+ {
+  "indicativo": "EA2KR",
+  "codigo": "DMCH2M",
+  "fecha": "2026-08-16 01:00:38",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA2KR_2026-08.png"
  }
 ]
