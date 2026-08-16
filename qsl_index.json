@@ -7705,5 +7705,12 @@
   "fecha": "2026-08-16 01:14:12",
   "pais": "Filipinas",
   "archivo": "qsl/QSL_DV2KHA_2026-08.png"
+ },
+ {
+  "indicativo": "CEDRMT",
+  "codigo": "3X8SR9",
+  "fecha": "2026-08-16 01:14:17",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CEDRMT_2026-08.png"
  }
 ]
