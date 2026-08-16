@@ -8237,5 +8237,12 @@
   "fecha": "2026-08-16 01:23:36",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA5SI_2026-08.png"
+ },
+ {
+  "indicativo": "CVARS",
+  "codigo": "Y63SCZ",
+  "fecha": "2026-08-16 01:23:43",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CVARS_2026-08.png"
  }
 ]
