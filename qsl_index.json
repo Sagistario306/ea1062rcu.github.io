@@ -8055,5 +8055,12 @@
   "fecha": "2026-08-16 01:20:02",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W2EJA_2026-08.png"
+ },
+ {
+  "indicativo": "CERD",
+  "codigo": "DGD6FY",
+  "fecha": "2026-08-16 01:20:10",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CERD_2026-08.png"
  }
 ]
