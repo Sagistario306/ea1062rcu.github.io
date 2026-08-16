@@ -6249,5 +6249,12 @@
   "fecha": "2026-08-16 00:01:01",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2JUE_2026-08.png"
+ },
+ {
+  "indicativo": "CE3HBO",
+  "codigo": "EVPH7A",
+  "fecha": "2026-08-16 00:01:48",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3HBO_2026-08.png"
  }
 ]
