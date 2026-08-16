@@ -7103,5 +7103,12 @@
   "fecha": "2026-08-16 01:04:05",
   "pais": "Honduras",
   "archivo": "qsl/QSL_HR2DDL_2026-08.png"
+ },
+ {
+  "indicativo": "YD1BPG",
+  "codigo": "NPYZ38",
+  "fecha": "2026-08-16 01:04:10",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YD1BPG_2026-08.png"
  }
 ]
