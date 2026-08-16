@@ -7453,5 +7453,12 @@
   "fecha": "2026-08-16 01:10:30",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU9DPS_2026-08.png"
+ },
+ {
+  "indicativo": "NP4M",
+  "codigo": "K5D2QA",
+  "fecha": "2026-08-16 01:10:37",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4M_2026-08.png"
  }
 ]
