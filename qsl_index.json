@@ -6256,5 +6256,12 @@
   "fecha": "2026-08-16 00:01:48",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE3HBO_2026-08.png"
+ },
+ {
+  "indicativo": "LW1DTS",
+  "codigo": "23ZZRX",
+  "fecha": "2026-08-16 00:02:16",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW1DTS_2026-08.png"
  }
 ]
