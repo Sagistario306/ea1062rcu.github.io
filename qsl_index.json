@@ -7859,5 +7859,12 @@
   "fecha": "2026-08-16 01:17:00",
   "pais": "Espana",
   "archivo": "qsl/QSL_ED7ZAC_2026-08.png"
+ },
+ {
+  "indicativo": "ED7ZAN",
+  "codigo": "WEZA9T",
+  "fecha": "2026-08-16 01:17:05",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_ED7ZAN_2026-08.png"
  }
 ]
