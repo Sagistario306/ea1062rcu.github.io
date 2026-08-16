@@ -6452,5 +6452,12 @@
   "fecha": "2026-08-16 00:08:12",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU8LCT_2026-08.png"
+ },
+ {
+  "indicativo": "EA2FGU",
+  "codigo": "WEMS6H",
+  "fecha": "2026-08-16 00:08:18",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA2FGU_2026-08.png"
  }
 ]
