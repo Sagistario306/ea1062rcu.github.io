@@ -7579,5 +7579,12 @@
   "fecha": "2026-08-16 01:12:23",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M4GTD_2026-08.png"
+ },
+ {
+  "indicativo": "CVALE",
+  "codigo": "9E885K",
+  "fecha": "2026-08-16 01:12:28",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CVALE_2026-08.png"
  }
 ]
