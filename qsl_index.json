@@ -7390,5 +7390,12 @@
   "fecha": "2026-08-16 01:09:11",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA1IDU_2026-08.png"
+ },
+ {
+  "indicativo": "HP1LDF",
+  "codigo": "TEZ9EU",
+  "fecha": "2026-08-16 01:09:26",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP1LDF_2026-08.png"
  }
 ]
