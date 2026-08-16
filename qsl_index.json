@@ -6998,5 +6998,12 @@
   "fecha": "2026-08-16 01:02:03",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2OR_2026-08.png"
+ },
+ {
+  "indicativo": "EC5M",
+  "codigo": "6WQF4U",
+  "fecha": "2026-08-16 01:02:11",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EC5M_2026-08.png"
  }
 ]
