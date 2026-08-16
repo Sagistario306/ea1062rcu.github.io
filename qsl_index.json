@@ -6494,5 +6494,12 @@
   "fecha": "2026-08-16 00:09:54",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE3WAQ_2026-08.png"
+ },
+ {
+  "indicativo": "CE3SUR",
+  "codigo": "WTY2EU",
+  "fecha": "2026-08-16 00:10:05",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3SUR_2026-08.png"
  }
 ]
