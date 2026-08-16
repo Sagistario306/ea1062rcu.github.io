@@ -6879,5 +6879,12 @@
   "fecha": "2026-08-16 00:59:59",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA5AFP_2026-08.png"
+ },
+ {
+  "indicativo": "DX1CW",
+  "codigo": "9436Q8",
+  "fecha": "2026-08-16 01:00:14",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DX1CW_2026-08.png"
  }
 ]
