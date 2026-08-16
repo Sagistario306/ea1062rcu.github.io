@@ -7348,5 +7348,12 @@
   "fecha": "2026-08-16 01:08:30",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI2RC_2026-08.png"
+ },
+ {
+  "indicativo": "XE2W",
+  "codigo": "QA7GTR",
+  "fecha": "2026-08-16 01:08:35",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2W_2026-08.png"
  }
 ]
