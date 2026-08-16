@@ -6235,5 +6235,12 @@
   "fecha": "2026-08-16 00:00:40",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2TCP_2026-08.png"
+ },
+ {
+  "indicativo": "LU1VG",
+  "codigo": "WADWVT",
+  "fecha": "2026-08-16 00:00:48",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1VG_2026-08.png"
  }
 ]
