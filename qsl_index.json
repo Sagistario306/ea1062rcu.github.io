@@ -8538,5 +8538,12 @@
   "fecha": "2026-08-17 00:11:05",
   "pais": "Uruguay",
   "archivo": "qsl/QSL_CX5ACA_2026-08.png"
+ },
+ {
+  "indicativo": "LU1PA",
+  "codigo": "VC6CW5",
+  "fecha": "2026-08-17 00:11:33",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1PA_2026-08.png"
  }
 ]
