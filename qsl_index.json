@@ -9238,5 +9238,12 @@
   "fecha": "2026-08-17 01:00:57",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2ZZD_2026-08.png"
+ },
+ {
+  "indicativo": "CX4IC",
+  "codigo": "5AMKAY",
+  "fecha": "2026-08-17 01:01:08",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX4IC_2026-08.png"
  }
 ]
