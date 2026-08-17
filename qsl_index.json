@@ -9938,5 +9938,12 @@
   "fecha": "2026-08-17 01:42:31",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1CDF_2026-08.png"
+ },
+ {
+  "indicativo": "CEF4",
+  "codigo": "JU2JJ5",
+  "fecha": "2026-08-17 01:42:43",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CEF4_2026-08.png"
  }
 ]
