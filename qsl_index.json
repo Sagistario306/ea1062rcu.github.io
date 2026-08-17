@@ -9392,5 +9392,12 @@
   "fecha": "2026-08-17 01:13:56",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE3GC_2026-08.png"
+ },
+ {
+  "indicativo": "HP1DBK",
+  "codigo": "FEVTD3",
+  "fecha": "2026-08-17 01:14:06",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP1DBK_2026-08.png"
  }
 ]
