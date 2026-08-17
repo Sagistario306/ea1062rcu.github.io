@@ -9385,5 +9385,12 @@
   "fecha": "2026-08-17 01:13:33",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI2AZ_2026-08.png"
+ },
+ {
+  "indicativo": "CE3GC",
+  "codigo": "GKYFWC",
+  "fecha": "2026-08-17 01:13:56",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3GC_2026-08.png"
  }
 ]
