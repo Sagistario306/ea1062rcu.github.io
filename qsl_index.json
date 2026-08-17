@@ -9245,5 +9245,12 @@
   "fecha": "2026-08-17 01:01:08",
   "pais": "Uruguay",
   "archivo": "qsl/QSL_CX4IC_2026-08.png"
+ },
+ {
+  "indicativo": "LU1MSC",
+  "codigo": "4RM4RA",
+  "fecha": "2026-08-17 01:01:39",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1MSC_2026-08.png"
  }
 ]
