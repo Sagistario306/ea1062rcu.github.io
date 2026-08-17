@@ -9210,5 +9210,12 @@
   "fecha": "2026-08-17 01:00:03",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2OCX_2026-08.png"
+ },
+ {
+  "indicativo": "XE2G",
+  "codigo": "F3DCZE",
+  "fecha": "2026-08-17 01:00:13",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2G_2026-08.png"
  }
 ]
