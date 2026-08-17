@@ -9959,5 +9959,12 @@
   "fecha": "2026-08-17 01:42:56",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE8TDO_2026-08.png"
+ },
+ {
+  "indicativo": "KP4IP",
+  "codigo": "945KEB",
+  "fecha": "2026-08-17 01:43:13",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4IP_2026-08.png"
  }
 ]
