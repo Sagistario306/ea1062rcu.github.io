@@ -8370,5 +8370,12 @@
   "fecha": "2026-08-17 00:03:01",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA4DGY_2026-08.png"
+ },
+ {
+  "indicativo": "CE3TDM",
+  "codigo": "QJ996P",
+  "fecha": "2026-08-17 00:04:03",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3TDM_2026-08.png"
  }
 ]
