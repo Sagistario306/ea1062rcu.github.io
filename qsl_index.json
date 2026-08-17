@@ -8356,5 +8356,12 @@
   "fecha": "2026-08-17 00:01:42",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1MC_2026-08.png"
+ },
+ {
+  "indicativo": "EA5IGN",
+  "codigo": "DCQGG2",
+  "fecha": "2026-08-17 00:02:31",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA5IGN_2026-08.png"
  }
 ]
