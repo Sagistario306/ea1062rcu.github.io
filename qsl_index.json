@@ -9728,5 +9728,12 @@
   "fecha": "2026-08-17 01:30:34",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M4CTD_2026-08.png"
+ },
+ {
+  "indicativo": "TI2HAS",
+  "codigo": "CPTCR9",
+  "fecha": "2026-08-17 01:30:43",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2HAS_2026-08.png"
  }
 ]
