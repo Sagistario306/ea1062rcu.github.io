@@ -10302,5 +10302,12 @@
   "fecha": "2026-08-17 02:05:15",
   "pais": "Venezuela",
   "archivo": "qsl/QSL_YV4BDF_2026-08.png"
+ },
+ {
+  "indicativo": "TI0RC",
+  "codigo": "UBUBVF",
+  "fecha": "2026-08-17 02:08:03",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI0RC_2026-08.png"
  }
 ]
