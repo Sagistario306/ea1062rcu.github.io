@@ -9084,5 +9084,12 @@
   "fecha": "2026-08-17 00:28:18",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK3G_2026-08.png"
+ },
+ {
+  "indicativo": "TI2STB",
+  "codigo": "A78TT2",
+  "fecha": "2026-08-17 00:29:03",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2STB_2026-08.png"
  }
 ]
