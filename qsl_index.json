@@ -8433,5 +8433,12 @@
   "fecha": "2026-08-17 00:07:12",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU9DA_2026-08.png"
+ },
+ {
+  "indicativo": "CE3CUP",
+  "codigo": "664772",
+  "fecha": "2026-08-17 00:07:28",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3CUP_2026-08.png"
  }
 ]
