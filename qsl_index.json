@@ -10148,5 +10148,12 @@
   "fecha": "2026-08-17 01:48:55",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP4SC_2026-08.png"
+ },
+ {
+  "indicativo": "CX1AA",
+  "codigo": "ADMRAA",
+  "fecha": "2026-08-17 01:49:02",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX1AA_2026-08.png"
  }
 ]
