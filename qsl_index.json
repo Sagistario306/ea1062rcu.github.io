@@ -8531,5 +8531,12 @@
   "fecha": "2026-08-17 00:10:55",
   "pais": "Japon",
   "archivo": "qsl/QSL_JR1VM_2026-08.png"
+ },
+ {
+  "indicativo": "CX5ACA",
+  "codigo": "JY6TPX",
+  "fecha": "2026-08-17 00:11:05",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX5ACA_2026-08.png"
  }
 ]
