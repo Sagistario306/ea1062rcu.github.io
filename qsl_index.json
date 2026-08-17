@@ -10050,5 +10050,12 @@
   "fecha": "2026-08-17 01:45:56",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2KJT_2026-08.png"
+ },
+ {
+  "indicativo": "NP4JM",
+  "codigo": "FDMMRS",
+  "fecha": "2026-08-17 01:46:03",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4JM_2026-08.png"
  }
 ]
