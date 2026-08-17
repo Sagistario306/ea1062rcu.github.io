@@ -9917,5 +9917,12 @@
   "fecha": "2026-08-17 01:42:06",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2BLR_2026-08.png"
+ },
+ {
+  "indicativo": "TI2CLX",
+  "codigo": "RT89UH",
+  "fecha": "2026-08-17 01:42:17",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2CLX_2026-08.png"
  }
 ]
