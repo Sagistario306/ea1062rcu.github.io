@@ -9308,5 +9308,12 @@
   "fecha": "2026-08-17 01:03:30",
   "pais": "Singapur",
   "archivo": "qsl/QSL_9V1CE_2026-08.png"
+ },
+ {
+  "indicativo": "HK3PQI",
+  "codigo": "D348NS",
+  "fecha": "2026-08-17 01:03:40",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK3PQI_2026-08.png"
  }
 ]
