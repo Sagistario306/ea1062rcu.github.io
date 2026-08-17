@@ -10211,5 +10211,12 @@
   "fecha": "2026-08-17 01:51:36",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE3VNA_2026-08.png"
+ },
+ {
+  "indicativo": "CX5AL",
+  "codigo": "KWFUNP",
+  "fecha": "2026-08-17 01:51:55",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX5AL_2026-08.png"
  }
 ]
