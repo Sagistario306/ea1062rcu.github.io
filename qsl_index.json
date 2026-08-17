@@ -9399,5 +9399,12 @@
   "fecha": "2026-08-17 01:14:06",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP1DBK_2026-08.png"
+ },
+ {
+  "indicativo": "HC1FQ",
+  "codigo": "43BHFG",
+  "fecha": "2026-08-17 01:14:26",
+  "pais": "Ecuador",
+  "archivo": "qsl/QSL_HC1FQ_2026-08.png"
  }
 ]
