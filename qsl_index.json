@@ -8713,5 +8713,12 @@
   "fecha": "2026-08-17 00:17:19",
   "pais": "Japon",
   "archivo": "qsl/QSL_JR9HGN_2026-08.png"
+ },
+ {
+  "indicativo": "HORNMT",
+  "codigo": "HRT49N",
+  "fecha": "2026-08-17 00:17:35",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HORNMT_2026-08.png"
  }
 ]
