@@ -9378,5 +9378,12 @@
   "fecha": "2026-08-17 01:13:23",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP2NG_2026-08.png"
+ },
+ {
+  "indicativo": "TI2AZ",
+  "codigo": "DZWXYF",
+  "fecha": "2026-08-17 01:13:33",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2AZ_2026-08.png"
  }
 ]
