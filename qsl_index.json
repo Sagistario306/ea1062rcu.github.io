@@ -9539,5 +9539,12 @@
   "fecha": "2026-08-17 01:23:24",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU3IBM_2026-08.png"
+ },
+ {
+  "indicativo": "CE1AZP",
+  "codigo": "PT64BC",
+  "fecha": "2026-08-17 01:23:45",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE1AZP_2026-08.png"
  }
 ]
