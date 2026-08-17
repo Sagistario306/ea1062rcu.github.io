@@ -8328,5 +8328,12 @@
   "fecha": "2026-08-17 00:00:25",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1MMG_2026-08.png"
+ },
+ {
+  "indicativo": "CE3DY",
+  "codigo": "FJUJFN",
+  "fecha": "2026-08-17 00:00:52",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3DY_2026-08.png"
  }
 ]
