@@ -10176,5 +10176,12 @@
   "fecha": "2026-08-17 01:50:01",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI2FAF_2026-08.png"
+ },
+ {
+  "indicativo": "HP1DUA",
+  "codigo": "CZ9AGT",
+  "fecha": "2026-08-17 01:50:10",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP1DUA_2026-08.png"
  }
 ]
