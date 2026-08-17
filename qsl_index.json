@@ -9476,5 +9476,12 @@
   "fecha": "2026-08-17 01:20:05",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE7DE_2026-08.png"
+ },
+ {
+  "indicativo": "LU9BGN",
+  "codigo": "X2T8CQ",
+  "fecha": "2026-08-17 01:20:15",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU9BGN_2026-08.png"
  }
 ]
