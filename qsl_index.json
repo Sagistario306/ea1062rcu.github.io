@@ -9840,5 +9840,12 @@
   "fecha": "2026-08-17 01:35:32",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI3DSA_2026-08.png"
+ },
+ {
+  "indicativo": "HJ1BNL",
+  "codigo": "PRN9Q6",
+  "fecha": "2026-08-17 01:35:50",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ1BNL_2026-08.png"
  }
 ]
