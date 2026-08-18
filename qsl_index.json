@@ -11702,5 +11702,12 @@
   "fecha": "2026-08-18 20:04:56",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP1RY_2026-08.png"
+ },
+ {
+  "indicativo": "HK3QUE",
+  "codigo": "PER2QS",
+  "fecha": "2026-08-18 20:10:28",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK3QUE_2026-08.png"
  }
 ]
