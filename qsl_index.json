@@ -12514,5 +12514,12 @@
   "fecha": "2026-08-19 01:00:00",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU8EHB_2026-08.png"
+ },
+ {
+  "indicativo": "LU3ARN",
+  "codigo": "B7W2Q5",
+  "fecha": "2026-08-19 01:01:00",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU3ARN_2026-08.png"
  }
 ]
