@@ -12535,5 +12535,12 @@
   "fecha": "2026-08-19 01:02:32",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU9DUV_2026-08.png"
+ },
+ {
+  "indicativo": "XE2KUI",
+  "codigo": "PGT2QF",
+  "fecha": "2026-08-19 01:02:55",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2KUI_2026-08.png"
  }
 ]
