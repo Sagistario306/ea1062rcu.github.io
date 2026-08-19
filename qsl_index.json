@@ -11975,5 +11975,12 @@
   "fecha": "2026-08-19 00:03:00",
   "pais": "Espana",
   "archivo": "qsl/QSL_ED1ZAS_2026-08.png"
+ },
+ {
+  "indicativo": "ED1ZAU",
+  "codigo": "9VQEWT",
+  "fecha": "2026-08-19 00:03:21",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_ED1ZAU_2026-08.png"
  }
 ]
