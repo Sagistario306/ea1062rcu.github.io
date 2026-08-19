@@ -13200,5 +13200,12 @@
   "fecha": "2026-08-19 22:02:55",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK3YVE_2026-08.png"
+ },
+ {
+  "indicativo": "NP3PD",
+  "codigo": "UAVYAP",
+  "fecha": "2026-08-19 22:08:26",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP3PD_2026-08.png"
  }
 ]
