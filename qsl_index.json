@@ -13172,5 +13172,12 @@
   "fecha": "2026-08-19 20:59:01",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP3EGD_2026-08.png"
+ },
+ {
+  "indicativo": "HR2ORP",
+  "codigo": "WRNMG8",
+  "fecha": "2026-08-19 21:04:43",
+  "pais": "Honduras",
+  "archivo": "qsl/QSL_HR2ORP_2026-08.png"
  }
 ]
