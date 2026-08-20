@@ -13305,5 +13305,12 @@
   "fecha": "2026-08-20 00:01:00",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA1IWI_2026-08.png"
+ },
+ {
+  "indicativo": "LU4MNE",
+  "codigo": "85A8F7",
+  "fecha": "2026-08-20 00:01:49",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU4MNE_2026-08.png"
  }
 ]
