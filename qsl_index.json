@@ -14299,5 +14299,12 @@
   "fecha": "2026-08-20 11:15:53",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE2RTK_2026-08.png"
+ },
+ {
+  "indicativo": "LU1DIT",
+  "codigo": "R8WAUT",
+  "fecha": "2026-08-20 11:40:11",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1DIT_2026-08.png"
  }
 ]
