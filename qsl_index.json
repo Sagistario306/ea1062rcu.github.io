@@ -14600,5 +14600,12 @@
   "fecha": "2026-08-20 20:01:12",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP1LNK_2026-08.png"
+ },
+ {
+  "indicativo": "LW1ECE",
+  "codigo": "UKNPXT",
+  "fecha": "2026-08-20 20:57:25",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW1ECE_2026-08.png"
  }
 ]
