@@ -13291,5 +13291,12 @@
   "fecha": "2026-08-19 23:59:55",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE3K_2026-08.png"
+ },
+ {
+  "indicativo": "JH7UAX",
+  "codigo": "NTDD5W",
+  "fecha": "2026-08-20 00:00:04",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JH7UAX_2026-08.png"
  }
 ]
