@@ -14383,5 +14383,12 @@
   "fecha": "2026-08-20 13:28:00",
   "pais": "Peru",
   "archivo": "qsl/QSL_OA4DZK_2026-08.png"
+ },
+ {
+  "indicativo": "CE1LTL",
+  "codigo": "JCAS8H",
+  "fecha": "2026-08-20 13:40:10",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE1LTL_2026-08.png"
  }
 ]
