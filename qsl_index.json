@@ -13298,5 +13298,12 @@
   "fecha": "2026-08-20 00:00:04",
   "pais": "Japon",
   "archivo": "qsl/QSL_JH7UAX_2026-08.png"
+ },
+ {
+  "indicativo": "EA1IWI",
+  "codigo": "63WRVY",
+  "fecha": "2026-08-20 00:01:00",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA1IWI_2026-08.png"
  }
 ]
