@@ -13312,5 +13312,12 @@
   "fecha": "2026-08-20 00:01:49",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU4MNE_2026-08.png"
+ },
+ {
+  "indicativo": "EC4TR",
+  "codigo": "TT95B6",
+  "fecha": "2026-08-20 00:03:32",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EC4TR_2026-08.png"
  }
 ]
