@@ -14621,5 +14621,12 @@
   "fecha": "2026-08-20 21:06:42",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU4AGR_2026-08.png"
+ },
+ {
+  "indicativo": "KP4TT",
+  "codigo": "SNAFZ9",
+  "fecha": "2026-08-20 21:09:21",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4TT_2026-08.png"
  }
 ]
