@@ -15370,5 +15370,12 @@
   "fecha": "2026-08-21 06:30:05",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1KMG_2026-08.png"
+ },
+ {
+  "indicativo": "XE2CR",
+  "codigo": "8KCSFU",
+  "fecha": "2026-08-21 08:08:28",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2CR_2026-08.png"
  }
 ]
