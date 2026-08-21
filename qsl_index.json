@@ -15713,5 +15713,12 @@
   "fecha": "2026-08-21 22:14:24",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE3AEA_2026-08.png"
+ },
+ {
+  "indicativo": "HC3MC",
+  "codigo": "BDRVHZ",
+  "fecha": "2026-08-21 23:02:21",
+  "pais": "Ecuador",
+  "archivo": "qsl/QSL_HC3MC_2026-08.png"
  }
 ]
