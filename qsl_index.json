@@ -15265,5 +15265,12 @@
   "fecha": "2026-08-21 02:21:11",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1LAB_2026-08.png"
+ },
+ {
+  "indicativo": "TI4DMR",
+  "codigo": "5E2ZTE",
+  "fecha": "2026-08-21 02:49:09",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI4DMR_2026-08.png"
  }
 ]
