@@ -16742,5 +16742,12 @@
   "fecha": "2026-08-22 15:24:35",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU5HAT_2026-08.png"
+ },
+ {
+  "indicativo": "HR5HAC",
+  "codigo": "CYUZGW",
+  "fecha": "2026-08-22 16:29:52",
+  "pais": "Honduras",
+  "archivo": "qsl/QSL_HR5HAC_2026-08.png"
  }
 ]
