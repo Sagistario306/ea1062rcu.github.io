@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DX HONOR ROLL - EA1062RCU</title>
+<link rel="stylesheet" href="style-v10.css">
+<style>
+  .tabla-club { width: 92%; max-width: 800px; margin: 20px auto; border-collapse: collapse;
+                background: #0f172a; color: #f1f5f9; border-radius: 12px; overflow: hidden; }
+  .tabla-club th { background: #1e293b; color: #fbbf24; padding: 12px; text-align: left; }
+  .tabla-club td { padding: 10px 12px; border-top: 1px solid rgba(255,255,255,0.08); }
+  .num-oro { color: #fbbf24; font-weight: bold; }
+  .encabezado-seccion h1 { color: #fbbf24; }
+</style>
+</head>
+<body>
+<main class="contenedor-premios">
+  <header class="encabezado-seccion">
+    <h1>🏆 DX HONOR ROLL EA1062RCU</h1>
+    <p>Estaciones que confirmaron su eQSL en QRZ.com — la élite de la reciprocidad.</p>
+  </header>
+  <table class="tabla-club">
+    <thead><tr><th>#</th><th>Indicativo</th><th>Ingreso</th><th>Confirmaciones</th></tr></thead>
+    <tbody id="cuerpo-club"></tbody>
+  </table>
+  <p style="text-align:center; color:#94a3b8;">
+    ¿Quieres entrar? Confirma tu eQSL de EA1062RCU en QRZ.com y aparecerás aquí
+    con tu tarjeta dorada. 🤝
+  </p>
+  <p style="text-align:center;">
+    <a href="index.html" style="color:#3b82f6;">← Inicio</a> ·
+    <a href="eqsl.html" style="color:#3b82f6;">📮 Buscar mi eQSL</a>
+  </p>
+</main>
+<script>
+fetch('club_index.json?v=' + Date.now())
+  .then(r => r.ok ? r.json() : [])
+  .then(d => {
+    const tb = document.getElementById('cuerpo-club');
+    d.sort((a,b) => a.num - b.num);
+    tb.innerHTML = d.map(m =>
+      `<tr><td class="num-oro">#${String(m.num).padStart(3,'0')}</td>` +
+      `<td><strong>${m.indicativo}</strong></td>` +
+      `<td>${m.ingreso || ''}</td><td>${m.total || 1}</td></tr>`).join('');
+    if (!d.length) tb.innerHTML =
+      '<tr><td colspan="4">Aún sin miembros — ¡sé el primero en confirmar! 🌟</td></tr>';
+  })
+  .catch(() => {});
+</script>
+</body>
+</html>
