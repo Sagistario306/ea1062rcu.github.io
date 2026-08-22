@@ -44,8 +44,7 @@
       <input id="input-code" placeholder="CÓDIGO" maxlength="6" autocomplete="off">
       <br>
       <button class="boton-qsl" onclick="buscarQSL()">🔍 BUSCAR MI eQSL</button>
-      <p class="nota-qsl">¿Sin código? Revisa los mensajes APRS de EA1062RCU
-      o espera tu próxima recepción.</p>
+      <p class="nota-qsl">¿Sin código? Revisa los mensajes APRS de EA1062RCU o espera tu próxima recepción.</p>
     </div>
     <div id="resultado" class="resultado"></div>
   </section>
@@ -54,15 +53,50 @@
     <a href="index.html" style="color:#3b82f6;">← Inicio</a> ·
     <a href="estadisticas.html" style="color:#3b82f6;">📊 Estadísticas</a>
   </p>
+
+  <!-- ✅ v3.26: CÓMO CONFIRMAR + RECIPROCIDAD -->
+  <section style="max-width:700px;margin:30px auto;padding:20px;border:1px solid #333;border-radius:10px;background:#111;color:#eee;font-family:sans-serif">
+    <h2 style="color:#4fc3f7">✅ Cómo confirmar tu eQSL (2 minutos)</h2>
+    <ol>
+      <li>Entra en <a href="https://www.qrz.com" style="color:#4fc3f7">QRZ.com</a> e inicia sesión.</li>
+      <li>Ve a <b>Logbook → Add QSO</b>.</li>
+      <li>Escribe: callsign <b>EA1062RCU</b>, fecha del reporte, banda <b>2M</b>, modo <b>PKT</b>.</li>
+      <li>Guarda. ¡Listo! Tu próxima tarjeta queda garantizada. 73</li>
+    </ol>
+    <p style="color:#aaa">Reciprocidad: si recibes, confirmas. 🤝</p>
+  </section>
 </main>
 
 <script>
 let indice = [];
+
+// Cargar índice al iniciar
 fetch('qsl_index.json?v=' + Date.now())
   .then(r => r.ok ? r.json() : [])
   .then(d => indice = d)
-  .catch(() => {});
+  .catch(() => console.log('Error cargando índice'));
 
+// Auto-rellenar desde URL parameters
+(function () {
+  const p = new URLSearchParams(location.search);
+  const call = p.get("call"), code = p.get("code");
+  
+  if (call) {
+    const inCall = document.getElementById('input-call');
+    if (inCall) inCall.value = call.toUpperCase();
+  }
+  if (code) {
+    const inCode = document.getElementById('input-code');
+    if (inCode) inCode.value = code.toUpperCase();
+  }
+  
+  // Si ambos parámetros están presentes, buscar automáticamente
+  if (call && code) {
+    setTimeout(buscarQSL, 500);
+  }
+})();
+
+// Función principal de búsqueda
 function buscarQSL() {
   const call = document.getElementById('input-call').value.trim().toUpperCase();
   const code = document.getElementById('input-code').value.trim().toUpperCase();
@@ -72,13 +106,18 @@ function buscarQSL() {
     out.innerHTML = '<p class="error-qsl">⚠️ Escribe tu indicativo y el código de 6 caracteres.</p>';
     return;
   }
+
   const base = call.split('-')[0];
-  const q = indice.find(e => e.codigo === code && e.indicativo.split('-')[0] === base);
+  const q = indice.find(e => 
+    e.codigo === code && 
+    e.indicativo.split('-')[0] === base
+  );
 
   if (!q) {
     out.innerHTML = '<p class="error-qsl">❌ Código no válido para ese indicativo.<br>Verifica los datos o espera tu próxima recepción.</p>';
     return;
   }
+
   out.innerHTML = `
     <img src="${q.archivo}" alt="eQSL ${q.indicativo}">
     <p style="margin-top:12px; color:#f1f5f9;">
@@ -87,129 +126,8 @@ function buscarQSL() {
     </p>
     <a class="boton-descargar" href="${q.archivo}" download="eQSL_${q.indicativo}.png">
       ⬇️ DESCARGAR MI eQSL</a>
-    <p class="nota-qsl">Gracias por tu señal · Confirma recepción en el perfil
-    QRZ de EA1062RCU · 73s</p>`;
+    <p class="nota-qsl">Gracias por tu señal · Confirma recepción en el perfil QRZ de EA1062RCU · 73s</p>`;
 }
-<script>
-(function () {
-  var p = new URLSearchParams(location.search);
-  var call = p.get("call"), code = p.get("code");
-  if (!call && !code) return;
-
-  function buscar(ids, nombres, ph) {
-    var i, el;
-    for (i = 0; i < ids.length; i++) {
-      el = document.getElementById(ids[i]);
-      if (el) return el;
-    }
-    for (i = 0; i < nombres.length; i++) {
-      el = document.querySelector('input[name="' + nombres[i] + '"]');
-      if (el) return el;
-    }
-    for (i = 0; i < ph.length; i++) {
-      el = document.querySelector('input[placeholder*="' + ph[i] + '"]');
-      if (el) return el;
-    }
-    return null;
-  }
-
-  var inCall = buscar(["indicativo","call","callsign"],
-                      ["indicativo","call"], ["indica","call"]);
-  var inCode = buscar(["codigo","code","cod"],
-                      ["codigo","code"], ["codigo","code"]);
-
-  if (call && inCall) inCall.value = call.toUpperCase();
-  if (code && inCode) inCode.value = code.toUpperCase();
-})();
-</script> 
-<script>
-(function () {
-  var p = new URLSearchParams(location.search);
-  var call = p.get("call"), code = p.get("code");
-  if (!call && !code) return;
-
-  function buscar(ids, nombres, ph) {
-    var i, el;
-    for (i = 0; i < ids.length; i++) {
-      el = document.getElementById(ids[i]);
-      if (el) return el;
-    }
-    for (i = 0; i < nombres.length; i++) {
-      el = document.querySelector('input[name="' + nombres[i] + '"]');
-      if (el) return el;
-    }
-    for (i = 0; i < ph.length; i++) {
-      el = document.querySelector('input[placeholder*="' + ph[i] + '"]');
-      if (el) return el;
-    }
-    return null;
-  }
-
-  var inCall = buscar(["indicativo","call","callsign"],
-                      ["indicativo","call"], ["indica","call","indic"]);
-  var inCode = buscar(["codigo","code","cod"],
-                      ["codigo","code"], ["codigo","code","codig"]);
-
-  if (call && inCall) inCall.value = call.toUpperCase();
-  if (code && inCode) inCode.value = code.toUpperCase();
-})();
 </script>
-<script>
-(function(){
-  function normCall(c){ return (c||"").trim().toUpperCase().split("-")[0]; }
-  function normCode(c){ return (c||"").trim().toUpperCase(); }
-
-  var inputs = document.querySelectorAll("input");
-  var btn = null;
-  var botones = document.querySelectorAll("button, a, [role=button]");
-  for (var i=0;i<botones.length;i++){
-    if ((botones[i].textContent||"").toUpperCase().indexOf("BUSCAR") >= 0){ btn = botones[i]; break; }
-  }
-  if (inputs.length < 2 || !btn){ console.log("eqsl: faltan elementos", inputs.length, btn); return; }
-
-  var inCall = inputs[0], inCode = inputs[1];
-  var zona = document.createElement("div");
-  zona.style.marginTop = "18px";
-  zona.style.textAlign = "center";
-  btn.parentNode.insertBefore(zona, btn.nextSibling);
-
-  btn.addEventListener("click", function(ev){
-    ev.preventDefault();
-    zona.innerHTML = "⏳ Buscando tu eQSL...";
-    fetch("qsl_index.json?ts=" + Date.now())
-      .then(function(r){ return r.json(); })
-      .then(function(idx){
-        var call = normCall(inCall.value), code = normCode(inCode.value);
-        var hit = null;
-        for (var i=0;i<idx.length;i++){
-          if (normCode(idx[i].codigo) === code &&
-              (normCall(idx[i].indicativo) === call ||
-               (idx[i].indicativo||"").toUpperCase() === (inCall.value||"").trim().toUpperCase())) { hit = idx[i]; break; }
-        }
-        if (!hit){
-          zona.innerHTML = "❌ Código no encontrado para <b>" + inCall.value +
-            "</b>.<br><small>Revisa el mensaje APRS de EA1062RCU · escribe el indicativo con o sin SSID.</small>";
-          return;
-        }
-        zona.innerHTML = "✅ ¡Encontrada, " + hit.indicativo + "!<br>" +
-          "<a href='" + hit.archivo + "' target='_blank' download " +
-          "style='color:#4da3ff;font-weight:bold;font-size:18px'>⬇ DESCARGAR MI eQSL</a><br>" +
-          "<small>" + hit.fecha + " · " + hit.pais + "</small>";
-      })
-      .catch(function(e){ zona.innerHTML = "⚠️ Error de red: " + e; });
-  });
-})();
-</script>
-<!-- ✅ v3.26: CÓMO CONFIRMAR + RECIPROCIDAD -->
-<section style="max-width:700px;margin:30px auto;padding:20px;border:1px solid #333;border-radius:10px;background:#111;color:#eee;font-family:sans-serif">
-  <h2 style="color:#4fc3f7">✅ Cómo confirmar tu eQSL (2 minutos)</h2>
-  <ol>
-    <li>Entra en <a href="https://www.qrz.com" style="color:#4fc3f7">QRZ.com</a> e inicia sesión.</li>
-    <li>Ve a <b>Logbook → Add QSO</b>.</li>
-    <li>Escribe: callsign <b>EA1062RCU</b>, fecha del reporte, banda <b>2M</b>, modo <b>PKT</b>.</li>
-    <li>Guarda. ¡Listo! Tu próxima tarjeta queda garantizada. 73</li>
-  </ol>
-  <p style="color:#aaa">Reciprocidad: si recibes, confirmas. 🤝</p>
-</section>
 </body>
 </html>
