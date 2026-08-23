@@ -18198,5 +18198,12 @@
   "fecha": "2026-08-23 23:09:54",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_NP4AF_2026-08.png"
+ },
+ {
+  "indicativo": "CX8AF",
+  "codigo": "TPP35P",
+  "fecha": "2026-08-23 23:12:47",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX8AF_2026-08.png"
  }
 ]
