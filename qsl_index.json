@@ -17561,5 +17561,12 @@
   "fecha": "2026-08-23 02:22:00",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU4TDG_2026-08.png"
+ },
+ {
+  "indicativo": "HC1Y",
+  "codigo": "4U6T72",
+  "fecha": "2026-08-23 02:57:03",
+  "pais": "Ecuador",
+  "archivo": "qsl/QSL_HC1Y_2026-08.png"
  }
 ]
