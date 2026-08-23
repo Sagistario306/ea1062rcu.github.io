@@ -6,12 +6,25 @@
 <title>DX HONOR ROLL - EA1062RCU</title>
 <link rel="stylesheet" href="style-v10.css">
 <style>
-  .tabla-club { width: 92%; max-width: 800px; margin: 20px auto; border-collapse: collapse;
+  .tabla-club { width: 92%; max-width: 900px; margin: 20px auto; border-collapse: collapse;
                 background: #0f172a; color: #f1f5f9; border-radius: 12px; overflow: hidden; }
   .tabla-club th { background: #1e293b; color: #fbbf24; padding: 12px; text-align: left; }
   .tabla-club td { padding: 10px 12px; border-top: 1px solid rgba(255,255,255,0.08); }
-  .num-oro { color: #fbbf24; font-weight: bold; }
+  .num-oro { color: #fbbf24; font-weight: bold; font-size: 1.1em; }
+  .nivel { font-weight: bold; padding: 3px 10px; border-radius: 6px; font-size: 0.85em; }
+  .nivel-VIP       { background: #fbbf24; color: #0f172a; }
+  .nivel-ESMERALDA { background: #34d399; color: #0f172a; }
+  .nivel-PLATINUM  { background: #e5e7eb; color: #0f172a; }
+  .nivel-MASTER    { background: #c084fc; color: #0f172a; }
+  .nivel-DIAMOND   { background: #67e8f9; color: #0f172a; }
   .encabezado-seccion h1 { color: #fbbf24; }
+  .stats-club { text-align: center; color: #94a3b8; margin: 10px 0; }
+  .stats-club strong { color: #4fc3f7; }
+  .contacto { text-align: center; color: #94a3b8; margin: 30px 0 10px; }
+  .contacto a { color: #fbbf24; font-weight: bold; }
+  @media (max-width: 600px) {
+    .tabla-club th, .tabla-club td { padding: 8px 6px; font-size: 0.9em; }
+  }
 </style>
 </head>
 <body>
@@ -19,39 +32,81 @@
   <header class="encabezado-seccion">
     <h1>🏆 DX HONOR ROLL EA1062RCU</h1>
     <p>Estaciones que confirmaron su eQSL en QRZ.com — la élite de la reciprocidad.</p>
+    <p class="stats-club" id="stats-club"></p>
   </header>
+
   <table class="tabla-club">
-    <thead><tr><th>#</th><th>Indicativo</th><th>Ingreso</th><th>Confirmaciones</th></tr></thead>
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Indicativo</th>
+        <th>Nivel</th>
+        <th>Ingreso</th>
+        <th>Conf.</th>
+      </tr>
+    </thead>
     <tbody id="cuerpo-club"></tbody>
   </table>
-  <p style="text-align:center; color:#94a3b8;">
+
+  <p style="text-align:center; color:#94a3b8; max-width:600px; margin: 20px auto;">
     ¿Quieres entrar? Confirma tu eQSL de EA1062RCU en QRZ.com y aparecerás aquí
-    con tu tarjeta dorada. 🤝
+    con tu tarjeta dorada. 🤝 Escalera: VIP → ESMERALDA → PLATINUM → MASTER → DIAMOND
   </p>
+
+  <p class="contacto">
+    📧 Contacto oficial del Club: 
+    <a href="mailto:club.ea1062rcu@gmail.com">club.ea1062rcu@gmail.com</a>
+  </p>
+
   <p style="text-align:center;">
     <a href="index.html" style="color:#3b82f6;">← Inicio</a> ·
     <a href="eqsl.html" style="color:#3b82f6;">📮 Buscar mi eQSL</a>
   </p>
 </main>
+
 <script>
+const NIVELES = [
+  [12, "DIAMOND"], [9, "MASTER"], [6, "PLATINUM"],
+  [3, "ESMERALDA"], [1, "VIP"]
+];
+function nivelDe(t) {
+  for (const [th, n] of NIVELES) if (t >= th) return n;
+  return "VIP";
+}
+
 fetch('club_index.json?v=' + Date.now())
   .then(r => r.ok ? r.json() : [])
   .then(d => {
     const tb = document.getElementById('cuerpo-club');
+    const st = document.getElementById('stats-club');
     d.sort((a,b) => a.num - b.num);
-    tb.innerHTML = d.map(m =>
-      `<tr><td class="num-oro">#${String(m.num).padStart(3,'0')}</td>` +
-      `<td><strong>${m.indicativo}</strong></td>` +
-      `<td>${m.ingreso || ''}</td><td>${m.total || 1}</td></tr>`).join('');
-    if (!d.length) tb.innerHTML =
-      '<tr><td colspan="4">Aún sin miembros — ¡sé el primero en confirmar! 🌟</td></tr>';
+
+    // estadísticas por nivel
+    const porNivel = {};
+    d.forEach(m => {
+      const n = m.nivel || nivelDe(m.total || 1);
+      porNivel[n] = (porNivel[n] || 0) + 1;
+    });
+    const stats = NIVELES.map(([, n]) =>
+      `${n}: <strong>${porNivel[n] || 0}</strong>`).join(' · ');
+    st.innerHTML = `🏆 <strong>${d.length}</strong> miembros · ${stats}`;
+
+    tb.innerHTML = d.map(m => {
+      const nivel = m.nivel || nivelDe(m.total || 1);
+      return `<tr>
+        <td class="num-oro">#${String(m.num).padStart(3,'0')}</td>
+        <td><strong>${m.indicativo}</strong></td>
+        <td><span class="nivel nivel-${nivel}">${nivel}</span></td>
+        <td>${m.ingreso || ''}</td>
+        <td>${m.total || 1}/12</td>
+      </tr>`;
+    }).join('');
+
+    if (!d.length) {
+      tb.innerHTML = '<tr><td colspan="5">Aún sin miembros — ¡sé el primero en confirmar! 🌟</td></tr>';
+    }
   })
-  .catch(() => {});
-  <p style="text-align:center; color:#94a3b8;">
-  📧 Contacto oficial: 
-  <a href="mailto:club.ea1062rcu@gmail.com" style="color:#fbbf24;">
-    club.ea1062rcu@gmail.com</a>
-</p>
+  .catch(e => console.error('Error cargando club_index.json:', e));
 </script>
 </body>
 </html>
