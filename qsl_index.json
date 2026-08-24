@@ -18457,5 +18457,12 @@
   "fecha": "2026-08-24 00:31:27",
   "pais": "Japon",
   "archivo": "qsl/QSL_JA1RAM_2026-08.png"
+ },
+ {
+  "indicativo": "EA1IC",
+  "codigo": "RHEMVB",
+  "fecha": "2026-08-24 00:33:00",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA1IC_2026-08.png"
  }
 ]
