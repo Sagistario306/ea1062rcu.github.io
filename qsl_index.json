@@ -18562,5 +18562,12 @@
   "fecha": "2026-08-24 02:05:51",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE2LOH_2026-08.png"
+ },
+ {
+  "indicativo": "ECS5524",
+  "codigo": "HVXTES",
+  "fecha": "2026-08-24 02:24:02",
+  "pais": "España",
+  "archivo": "qsl/QSL_ECS5524_2026-08.png"
  }
 ]
