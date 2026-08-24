@@ -14,12 +14,14 @@
   }
   .form-qsl input:focus { border-color: #3b82f6; box-shadow: 0 0 0 3px rgba(59,130,246,0.3); }
   #input-call { width: 210px; }
+  #input-call2 { width: 210px; }
   #input-code { width: 150px; letter-spacing: 3px; }
   .boton-qsl {
     padding: 12px 30px; border: none; border-radius: 50px; cursor: pointer;
     background: linear-gradient(135deg, #3b82f6, #1d4ed8);
     color: white; font-weight: bold; font-size: 1rem;
   }
+  .boton-verde { background: linear-gradient(135deg, #22c55e, #15803d); }
   .resultado { text-align: center; padding: 0 24px 24px 24px; }
   .resultado img { max-width: 100%; border-radius: 12px; border: 2px solid rgba(255,255,255,0.15); }
   .boton-descargar {
@@ -28,6 +30,7 @@
     color: white; text-decoration: none; border-radius: 50px; font-weight: bold;
   }
   .error-qsl { color: #f87171; padding: 16px; }
+  .ok-qsl { color: #4ade80; padding: 16px; }
   .nota-qsl { color: #94a3b8; font-size: .85rem; margin-top: 14px; }
 </style>
 </head>
@@ -35,7 +38,7 @@
 <main class="contenedor-premios">
   <header class="encabezado-seccion">
     <h1>📮 Descarga tu eQSL</h1>
-    <p>Introduce tu indicativo y el código recibido por APRS.</p>
+    <p>Introduce tu indicativo y el código recibido.</p>
   </header>
 
   <section class="tarjeta-premio tarjeta-visible">
@@ -44,9 +47,24 @@
       <input id="input-code" placeholder="CÓDIGO" maxlength="6" autocomplete="off">
       <br>
       <button class="boton-qsl" onclick="buscarQSL()">🔍 BUSCAR MI eQSL</button>
-      <p class="nota-qsl">¿Sin código? Revisa los mensajes APRS de EA1062RCU o espera tu próxima recepción.</p>
+      <p class="nota-qsl">¿Sin código? Usa «¿Fui detectado?» más abajo y revisa los comentarios de tu tarjeta en eQSL.cc.</p>
     </div>
     <div id="resultado" class="resultado"></div>
+  </section>
+
+  <!-- 🛡️ v4.7 CAPA C: ¿FUI DETECTADO? (consulta pública SIN revelar código) -->
+  <section class="tarjeta-premio tarjeta-visible" style="margin-top:20px;">
+    <header class="encabezado-seccion">
+      <h1>🔎 ¿Fui detectado?</h1>
+      <p>¿No tienes código? Consulta aquí si el bot te escuchó este mes.</p>
+    </header>
+    <div class="form-qsl">
+      <input id="input-call2" placeholder="TU INDICATIVO" autocomplete="off"
+             onkeydown="if(event.key==='Enter')fuiDetectado()">
+      <br>
+      <button class="boton-qsl boton-verde" onclick="fuiDetectado()">🔎 CONSULTAR DETECCIÓN</button>
+    </div>
+    <div id="resultado2" class="resultado"></div>
   </section>
 
   <p style="text-align:center;">
@@ -80,7 +98,7 @@ fetch('qsl_index.json?v=' + Date.now())
 (function () {
   const p = new URLSearchParams(location.search);
   const call = p.get("call"), code = p.get("code");
-  
+
   if (call) {
     const inCall = document.getElementById('input-call');
     if (inCall) inCall.value = call.toUpperCase();
@@ -89,7 +107,7 @@ fetch('qsl_index.json?v=' + Date.now())
     const inCode = document.getElementById('input-code');
     if (inCode) inCode.value = code.toUpperCase();
   }
-  
+
   // Si ambos parámetros están presentes, buscar automáticamente
   if (call && code) {
     setTimeout(buscarQSL, 500);
@@ -108,8 +126,8 @@ function buscarQSL() {
   }
 
   const base = call.split('-')[0];
-  const q = indice.find(e => 
-    e.codigo === code && 
+  const q = indice.find(e =>
+    e.codigo === code &&
     e.indicativo.split('-')[0] === base
   );
 
@@ -127,6 +145,38 @@ function buscarQSL() {
     <a class="boton-descargar" href="${q.archivo}" download="eQSL_${q.indicativo}.png">
       ⬇️ DESCARGAR MI eQSL</a>
     <p class="nota-qsl">Gracias por tu señal · Confirma recepción en el perfil QRZ de EA1062RCU · 73s</p>`;
+}
+
+// 🛡️ v4.7 CAPA C: consulta pública de detección (SIN revelar el código)
+function fuiDetectado() {
+  const call = document.getElementById('input-call2').value.trim().toUpperCase();
+  const out = document.getElementById('resultado2');
+
+  if (!call) {
+    out.innerHTML = '<p class="error-qsl">⚠️ Escribe tu indicativo.</p>';
+    return;
+  }
+
+  const base = call.split('-')[0];
+  const hits = indice.filter(e => e.indicativo.split('-')[0] === base);
+
+  if (!hits.length) {
+    out.innerHTML = '<p class="error-qsl">❌ Sin detecciones este mes para <b>' + base +
+      '</b>.<br>El bot escucha 144.390 MHz PKT/APRS 24/7. ¡Sigue en el aire! 73</p>';
+    return;
+  }
+
+  const filas = hits.map(q => '📅 ' + q.fecha + ' UTC · ' + q.pais).join('<br>');
+
+  out.innerHTML = `
+    <p class="ok-qsl" style="font-size:1.02rem;">
+      ✅ <strong>${base}</strong>: el bot te escuchó este mes.<br><br>
+      ${filas}<br><br>
+      🔑 Tu <b>CÓDIGO ÚNICO</b> está en los <b>comentarios</b> de tu tarjeta
+      en <b>eQSL.cc</b> (Inbox).<br>
+      Cópialo y pégalo en el formulario de arriba para descargar tu eQSL coleccionable.<br>
+      Luego confirma el QSO en QRZ.com para tu diploma. 73
+    </p>`;
 }
 </script>
 </body>
