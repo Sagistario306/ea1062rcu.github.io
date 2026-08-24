@@ -18240,5 +18240,12 @@
   "fecha": "2026-08-24 00:00:15",
   "pais": "España",
   "archivo": "qsl/QSL_EA5RW_2026-08.png"
+ },
+ {
+  "indicativo": "HI8D",
+  "codigo": "MGHZES",
+  "fecha": "2026-08-24 00:00:44",
+  "pais": "Republica Dominicana",
+  "archivo": "qsl/QSL_HI8D_2026-08.png"
  }
 ]
