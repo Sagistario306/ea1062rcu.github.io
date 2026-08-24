@@ -19024,5 +19024,12 @@
   "fecha": "2026-08-24 19:01:04",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE3CCJ_2026-08.png"
+ },
+ {
+  "indicativo": "TI2TID",
+  "codigo": "XURADP",
+  "fecha": "2026-08-24 19:14:33",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2TID_2026-08.png"
  }
 ]
