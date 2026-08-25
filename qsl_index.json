@@ -19479,5 +19479,12 @@
   "fecha": "2026-08-25 00:54:34",
   "pais": "Japon",
   "archivo": "qsl/QSL_JA9DJH_2026-08.png"
+ },
+ {
+  "indicativo": "CE3FFC",
+  "codigo": "JAMUDR",
+  "fecha": "2026-08-25 00:56:12",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3FFC_2026-08.png"
  }
 ]
