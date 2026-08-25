@@ -54,7 +54,6 @@
     <div id="resultado" class="resultado"></div>
   </section>
 
-  <!-- 🛡️ v4.7 CAPA C: ¿FUI DETECTADO? -->
   <section class="tarjeta-premio tarjeta-visible" style="margin-top:20px;">
     <header class="encabezado-seccion">
       <h1>🔎 ¿Fui detectado?</h1>
@@ -74,7 +73,6 @@
     <a href="estadisticas.html" style="color:#3b82f6;">📊 Estadísticas</a>
   </p>
 
-  <!-- ✅ v3.26: CÓMO CONFIRMAR + RECIPROCIDAD -->
   <section style="max-width:700px;margin:30px auto;padding:20px;border:1px solid #333;border-radius:10px;background:#111;color:#eee;font-family:sans-serif">
     <h2 style="color:#4fc3f7">✅ Cómo confirmar tu eQSL (2 minutos)</h2>
     <ol>
@@ -89,6 +87,8 @@
 
 <script>
 let indice = [];
+// 🛰️ v5.0: proxy write-back (Apps Script)
+const URL_WRITEBACK = 'https://script.google.com/macros/s/AKfycbxHfWASG7dyAgSxVy2AIV4rAGPJ7i27xvPzf14hD19BUXHSNtsV0VHhcPnnRTEk061M/exec';
 
 fetch('qsl_index.json?v=' + Date.now())
   .then(r => r.ok ? r.json() : [])
@@ -139,7 +139,7 @@ function buscarQSL() {
       📅 Recepción: ${q.fecha} UTC
     </p>
     <a class="boton-descargar" href="${q.archivo}" download="eQSL_${q.indicativo}.png"
-       onclick="mostrarCTA()">⬇️ DESCARGAR MI eQSL</a>
+       onclick="mostrarCTA('${base}','${code}')">⬇️ DESCARGAR MI eQSL</a>
 
     <div id="cta-box" style="display:none; margin:20px auto 0; max-width:560px;
          padding:20px 24px; border:2px solid #fbbf24; border-radius:14px;
@@ -165,7 +165,12 @@ function buscarQSL() {
     <p class="nota-qsl">Gracias por tu señal · Confirma recepción en el perfil QRZ de EA1062RCU · 73s</p>`;
 }
 
-function mostrarCTA() {
+// 🛰️ v5.0: avisa al proxy que esta estación descargó (write-back)
+function mostrarCTA(base, code) {
+  try {
+    fetch(URL_WRITEBACK, {method:'POST', mode:'no-cors',
+      body: JSON.stringify({call: base, code: code})}).catch(()=>{});
+  } catch(e) {}
   setTimeout(function () {
     const box = document.getElementById('cta-box');
     if (box) {
