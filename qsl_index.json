@@ -20032,5 +20032,12 @@
   "fecha": "2026-08-25 09:00:28",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI3MMA_2026-08.png"
+ },
+ {
+  "indicativo": "HI8PAP",
+  "codigo": "5VRVW8",
+  "fecha": "2026-08-25 09:33:11",
+  "pais": "Republica Dominicana",
+  "archivo": "qsl/QSL_HI8PAP_2026-08.png"
  }
 ]
