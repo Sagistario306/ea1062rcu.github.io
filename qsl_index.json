@@ -20025,5 +20025,12 @@
   "fecha": "2026-08-25 08:40:58",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2NCC_2026-08.png"
+ },
+ {
+  "indicativo": "TI3MMA",
+  "codigo": "QGEN8U",
+  "fecha": "2026-08-25 09:00:28",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI3MMA_2026-08.png"
  }
 ]
