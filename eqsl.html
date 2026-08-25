@@ -32,6 +32,7 @@
   .error-qsl { color: #f87171; padding: 16px; }
   .ok-qsl { color: #4ade80; padding: 16px; }
   .nota-qsl { color: #94a3b8; font-size: .85rem; margin-top: 14px; }
+  .link-bot { color: #4fc3f7; text-decoration: none; font-weight: bold; }
 </style>
 </head>
 <body>
@@ -47,12 +48,13 @@
       <input id="input-code" placeholder="CÓDIGO" maxlength="6" autocomplete="off">
       <br>
       <button class="boton-qsl" onclick="buscarQSL()">🔍 BUSCAR MI eQSL</button>
-      <p class="nota-qsl">¿Sin código? Usa «¿Fui detectado?» más abajo y revisa los comentarios de tu tarjeta en eQSL.cc.</p>
+      <p class="nota-qsl">¿Sin código? Usa «¿Fui detectado?» más abajo y revisa los comentarios de tu tarjeta en eQSL.cc.<br>
+      🤖 ¿Sin cuenta eQSL? Pide tu código al bot: <a class="link-bot" href="https://t.me/ea1062rcu_eqsl_bot" target="_blank">t.me/ea1062rcu_eqsl_bot</a></p>
     </div>
     <div id="resultado" class="resultado"></div>
   </section>
 
-  <!-- 🛡️ v4.7 CAPA C: ¿FUI DETECTADO? (consulta pública SIN revelar código) -->
+  <!-- 🛡️ v4.7 CAPA C: ¿FUI DETECTADO? -->
   <section class="tarjeta-premio tarjeta-visible" style="margin-top:20px;">
     <header class="encabezado-seccion">
       <h1>🔎 ¿Fui detectado?</h1>
@@ -88,17 +90,14 @@
 <script>
 let indice = [];
 
-// Cargar índice al iniciar
 fetch('qsl_index.json?v=' + Date.now())
   .then(r => r.ok ? r.json() : [])
   .then(d => indice = d)
   .catch(() => console.log('Error cargando índice'));
 
-// Auto-rellenar desde URL parameters
 (function () {
   const p = new URLSearchParams(location.search);
   const call = p.get("call"), code = p.get("code");
-
   if (call) {
     const inCall = document.getElementById('input-call');
     if (inCall) inCall.value = call.toUpperCase();
@@ -107,14 +106,11 @@ fetch('qsl_index.json?v=' + Date.now())
     const inCode = document.getElementById('input-code');
     if (inCode) inCode.value = code.toUpperCase();
   }
-
-  // Si ambos parámetros están presentes, buscar automáticamente
   if (call && code) {
     setTimeout(buscarQSL, 500);
   }
 })();
 
-// Función principal de búsqueda
 function buscarQSL() {
   const call = document.getElementById('input-call').value.trim().toUpperCase();
   const code = document.getElementById('input-code').value.trim().toUpperCase();
@@ -145,7 +141,6 @@ function buscarQSL() {
     <a class="boton-descargar" href="${q.archivo}" download="eQSL_${q.indicativo}.png"
        onclick="mostrarCTA()">⬇️ DESCARGAR MI eQSL</a>
 
-    <!-- 🏆 v4.8 CTA POST-DESCARGA: gancho del diploma en el pico emocional -->
     <div id="cta-box" style="display:none; margin:20px auto 0; max-width:560px;
          padding:20px 24px; border:2px solid #fbbf24; border-radius:14px;
          background:rgba(251,191,36,0.08); color:#f1f5f9; text-align:center;">
@@ -170,7 +165,6 @@ function buscarQSL() {
     <p class="nota-qsl">Gracias por tu señal · Confirma recepción en el perfil QRZ de EA1062RCU · 73s</p>`;
 }
 
-// 🏆 v4.8: muestra el gancho del diploma al pulsar DESCARGAR
 function mostrarCTA() {
   setTimeout(function () {
     const box = document.getElementById('cta-box');
@@ -181,7 +175,6 @@ function mostrarCTA() {
   }, 400);
 }
 
-// 🛡️ v4.7 CAPA C: consulta pública de detección (SIN revelar el código)
 function fuiDetectado() {
   const call = document.getElementById('input-call2').value.trim().toUpperCase();
   const out = document.getElementById('resultado2');
@@ -209,7 +202,10 @@ function fuiDetectado() {
       🔑 Tu <b>CÓDIGO ÚNICO</b> está en los <b>comentarios</b> de tu tarjeta
       en <b>eQSL.cc</b> (Inbox).<br>
       Cópialo y pégalo en el formulario de arriba para descargar tu eQSL coleccionable.<br>
-      Luego confirma el QSO en QRZ.com para tu diploma. 73
+      Luego confirma el QSO en QRZ.com para tu diploma. 73<br><br>
+      🤖 ¿Sin cuenta eQSL? Pide tu código al bot
+      <a class="link-bot" href="https://t.me/ea1062rcu_eqsl_bot" target="_blank">t.me/ea1062rcu_eqsl_bot</a>
+      (<code>/codigo ${base}</code>).
     </p>`;
 }
 </script>
