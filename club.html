@@ -25,6 +25,41 @@
   @media (max-width: 600px) {
     .tabla-club th, .tabla-club td { padding: 8px 6px; font-size: 0.9em; }
   }
+
+  /* 🤖 v2: banner mesa de ayuda */
+  .banner-mesa {
+    max-width: 900px; margin: 0 auto 24px auto;
+    padding: 18px 22px; border-radius: 14px;
+    background: linear-gradient(135deg, rgba(59,130,246,0.15), rgba(79,195,247,0.10));
+    border: 1px solid rgba(79,195,247,0.35);
+    color: #e2e8f0; font-size: 0.98rem;
+    text-align: center;
+  }
+  .banner-mesa strong { color: #4fc3f7; }
+  .banner-mesa a {
+    color: #fbbf24; font-weight: bold; text-decoration: none;
+    border-bottom: 1px dotted #fbbf24;
+  }
+  .banner-mesa .botones-mesa {
+    margin-top: 12px; display: flex; justify-content: center;
+    gap: 14px; flex-wrap: wrap;
+  }
+  .banner-mesa .botones-mesa a {
+    display: inline-block; padding: 10px 22px; border-radius: 50px;
+    color: #0f172a; font-weight: bold; text-decoration: none;
+    border-bottom: none; font-size: 0.95rem;
+  }
+  .banner-mesa .botones-mesa .btn-azul {
+    background: linear-gradient(135deg, #3b82f6, #1d4ed8); color: white;
+  }
+  .banner-mesa .botones-mesa .btn-dorado {
+    background: linear-gradient(135deg, #fbbf24, #d97706); color: #0f172a;
+  }
+  .banner-mini {
+    max-width: 900px; margin: 18px auto 0 auto; text-align: center;
+    color: #94a3b8; font-size: 0.85rem;
+  }
+  .banner-mini a { color: #4fc3f7; font-weight: bold; }
 </style>
 </head>
 <body>
@@ -34,6 +69,21 @@
     <p>Estaciones que confirmaron su eQSL en QRZ.com — la élite de la reciprocidad.</p>
     <p class="stats-club" id="stats-club"></p>
   </header>
+
+  <!-- 🤖 v2: BANNER MESA DE AYUDA (visible arriba de la tabla) -->
+  <div class="banner-mesa">
+    🤖 <strong>MESA DE AYUDA 24/7</strong> — ¿El bot te escuchó pero no tienes tu código?<br>
+    Elige tu caso y recupéralo al instante:
+    <div class="botones-mesa">
+      <a class="btn-azul" href="eqsl.html">📮 Con eQSL · buscar mi tarjeta</a>
+      <a class="btn-dorado" href="https://t.me/ea1062rcu_eqsl_bot" target="_blank">
+        🤖 Sin eQSL · pedir código al bot
+      </a>
+    </div>
+    <div style="margin-top:10px; font-size:0.85rem; color:#94a3b8;">
+      En Telegram escribe: <code style="background:#1e293b;padding:2px 6px;border-radius:4px;">/codigo TU_CALL</code>
+    </div>
+  </div>
 
   <table class="tabla-club">
     <thead>
@@ -56,6 +106,13 @@
   <p class="contacto">
     📧 Contacto oficial del Club: 
     <a href="mailto:club.ea1062rcu@gmail.com">club.ea1062rcu@gmail.com</a>
+  </p>
+
+  <!-- 🤖 v2: recordatorio permanente al pie -->
+  <p class="banner-mini">
+    🤖 ¿Sin código? Pídelo al bot en
+    <a href="https://t.me/ea1062rcu_eqsl_bot" target="_blank">t.me/ea1062rcu_eqsl_bot</a>
+    · <code>/codigo TU_CALL</code>
   </p>
 
   <p style="text-align:center;">
@@ -81,7 +138,6 @@ fetch('club_index.json?v=' + Date.now())
     const st = document.getElementById('stats-club');
     d.sort((a,b) => a.num - b.num);
 
-    // estadísticas por nivel
     const porNivel = {};
     d.forEach(m => {
       const n = m.nivel || nivelDe(m.total || 1);
