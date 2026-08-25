@@ -19234,5 +19234,12 @@
   "fecha": "2026-08-25 00:00:57",
   "pais": "Japon",
   "archivo": "qsl/QSL_JR4MET_2026-08.png"
+ },
+ {
+  "indicativo": "JR2NAK",
+  "codigo": "JCP5XG",
+  "fecha": "2026-08-25 00:01:01",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JR2NAK_2026-08.png"
  }
 ]
