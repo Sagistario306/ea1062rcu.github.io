@@ -1,10 +1,10 @@
 {
  "fecha": "2026-08-26",
- "total_mes": 2874,
+ "total_mes": 2875,
  "paises": {
   "Espana": 513,
   "Filipinas": 75,
-  "Malasia": 395,
+  "Malasia": 396,
   "Mexico": 170,
   "Indonesia": 300,
   "Uruguay": 35,
@@ -35,5 +35,5 @@
   "Guyana": 2
  },
  "descargadas": 0,
- "pendientes": 2874
+ "pendientes": 2875
 }
