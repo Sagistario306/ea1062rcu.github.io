@@ -21407,9 +21407,16 @@
  },
  {
   "indicativo": "EA1HFE",
-  "codigo": "ST24DQ",
+  "codigo": "BA7P52",
   "fecha": "2026-08-27 03:59:05",
   "pais": "España",
   "archivo": "qsl/QSL_EA1HFE_2026-08.png"
+ },
+ {
+  "indicativo": "EA4FWU",
+  "codigo": "CTGZ84",
+  "fecha": "2026-08-27 03:59:15",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA4FWU_2026-08.png"
  }
 ]
