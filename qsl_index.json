@@ -22730,16 +22730,23 @@
  },
  {
   "indicativo": "9W2DEF",
-  "codigo": "VWHTNZ",
+  "codigo": "HE3E5H",
   "fecha": "2026-08-28 12:31:27",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W2DEF_2026-08.png"
  },
  {
   "indicativo": "9W2JKL",
-  "codigo": "QWF4EY",
-  "fecha": "2026-08-28 12:32:52",
+  "codigo": "NEJYRC",
+  "fecha": "2026-08-28 12:32:51",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W2JKL_2026-08.png"
+ },
+ {
+  "indicativo": "9W8ABM",
+  "codigo": "J8W63V",
+  "fecha": "2026-08-28 13:26:07",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W8ABM_2026-08.png"
  }
 ]
