@@ -22730,9 +22730,16 @@
  },
  {
   "indicativo": "9W2DEF",
-  "codigo": "VWHTNZ",
+  "codigo": "HE3E5H",
   "fecha": "2026-08-28 12:31:27",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W2DEF_2026-08.png"
+ },
+ {
+  "indicativo": "9W2JKL",
+  "codigo": "NEJYRC",
+  "fecha": "2026-08-28 12:32:51",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2JKL_2026-08.png"
  }
 ]
