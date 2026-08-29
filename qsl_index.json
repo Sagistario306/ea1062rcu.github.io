@@ -23623,5 +23623,12 @@
   "fecha": "2026-08-29 16:03:35",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP1JOM_2026-08.png"
+ },
+ {
+  "indicativo": "TI2SAG",
+  "codigo": "NSSRKW",
+  "fecha": "2026-08-29 16:22:48",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2SAG_2026-08.png"
  }
 ]
