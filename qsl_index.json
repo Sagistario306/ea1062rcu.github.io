@@ -23689,30 +23689,37 @@
  },
  {
   "indicativo": "9V1WP",
-  "codigo": "5ATW4R",
+  "codigo": "MXJEUJ",
   "fecha": "2026-08-29 22:02:02",
   "pais": "Singapur",
   "archivo": "qsl/QSL_9V1WP_2026-08.png"
  },
  {
   "indicativo": "LW6DO",
-  "codigo": "AZRHYV",
+  "codigo": "CA8EG5",
   "fecha": "2026-08-29 22:29:54",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LW6DO_2026-08.png"
  },
  {
   "indicativo": "LU7YKR",
-  "codigo": "VMD33A",
-  "fecha": "2026-08-29 23:07:16",
+  "codigo": "AUF6TF",
+  "fecha": "2026-08-29 23:07:15",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU7YKR_2026-08.png"
  },
  {
   "indicativo": "LU3IA",
-  "codigo": "9UERNE",
-  "fecha": "2026-08-29 23:07:33",
+  "codigo": "FQUZ7Z",
+  "fecha": "2026-08-29 23:07:30",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU3IA_2026-08.png"
+ },
+ {
+  "indicativo": "LU2EBW",
+  "codigo": "4CBKJH",
+  "fecha": "2026-08-29 23:14:40",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU2EBW_2026-08.png"
  }
 ]
