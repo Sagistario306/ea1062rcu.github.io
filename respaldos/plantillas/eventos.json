@@ -1,0 +1,122 @@
+[
+  {
+    "id": "sofia_2026",
+    "nombre_corto": "SOFIA",
+    "nombre": "Venezuela Ilustre - Sofia Imber",
+    "frase": "La dama del arte moderno.",
+    "acento": "#f472b6",
+    "lamina": "sofia_2026.png",
+    "inicio": "2026-01-01 00:00",
+    "fin": "2026-01-08 00:00"
+  },
+  {
+    "id": "florentino_2026",
+    "nombre_corto": "FLORENTINO",
+    "nombre": "Venezuela Ilustre - Florentino y el Diablo",
+    "frase": "El cuatro que vencio al diablo.",
+    "acento": "#a78bfa",
+    "lamina": "florentino_2026.png",
+    "inicio": "2026-02-01 00:00",
+    "fin": "2026-02-08 00:00"
+  },
+  {
+    "id": "miranda_2026",
+    "nombre_corto": "MIRANDA",
+    "nombre": "Venezuela Ilustre - Francisco de Miranda",
+    "frase": "El Precursor iza la tricolor.",
+    "acento": "#22d3ee",
+    "lamina": "miranda_2026.png",
+    "inicio": "2026-03-01 00:00",
+    "fin": "2026-03-08 00:00"
+  },
+  {
+    "id": "jgh_2026",
+    "nombre_corto": "JGH",
+    "nombre": "Venezuela Ilustre - J.G. Hernandez",
+    "frase": "El medico de los pobres.",
+    "acento": "#93c5fd",
+    "lamina": "jgh_2026.png",
+    "inicio": "2026-04-01 00:00",
+    "fin": "2026-04-08 00:00"
+  },
+  {
+    "id": "reveron_2026",
+    "nombre_corto": "REVERON",
+    "nombre": "Venezuela Ilustre - Armando Reveron",
+    "frase": "El pintor que atrapo la luz blanca del Caribe.",
+    "acento": "#cbd5e1",
+    "lamina": "reveron_2026.png",
+    "inicio": "2026-05-01 00:00",
+    "fin": "2026-05-08 00:00"
+  },
+  {
+    "id": "diablos_2026",
+    "nombre_corto": "DIABLOS",
+    "nombre": "Venezuela Ilustre - Diablos de Yare",
+    "frase": "La fe que danza en Yare.",
+    "acento": "#f87171",
+    "lamina": "diablos_2026.png",
+    "inicio": "2026-06-01 00:00",
+    "fin": "2026-06-08 00:00"
+  },
+  {
+    "id": "bolivar_2026",
+    "nombre_corto": "BOLIVAR",
+    "nombre": "Venezuela Ilustre - Simon Bolivar",
+    "frase": "El Libertador que desperto un continente.",
+    "acento": "#fbbf24",
+    "lamina": "bolivar_2026.png",
+    "inicio": "2026-07-01 00:00",
+    "fin": "2026-07-08 00:00"
+  },
+  {
+    "id": "gallegos_2026",
+    "nombre_corto": "GALLEGOS",
+    "nombre": "Venezuela Ilustre - Romulo Gallegos",
+    "frase": "Dona Barbara y la llanura.",
+    "acento": "#fb923c",
+    "lamina": "gallegos_2026.png",
+    "inicio": "2026-08-01 00:00",
+    "fin": "2026-08-08 00:00"
+  },
+  {
+    "id": "convit_2026",
+    "nombre_corto": "CONVIT",
+    "nombre": "Venezuela Ilustre - Jacinto Convit",
+    "frase": "La ciencia que cura al mundo.",
+    "acento": "#4ade80",
+    "lamina": "convit_2026.png",
+    "inicio": "2026-09-01 00:00",
+    "fin": "2026-09-08 00:00"
+  },
+  {
+    "id": "urdaneta_2026",
+    "nombre_corto": "URDANETA",
+    "nombre": "Venezuela Ilustre - Rafael Urdaneta",
+    "frase": "El mariscal leal de la caballeria patriota.",
+    "acento": "#c084fc",
+    "lamina": "urdaneta_2026.png",
+    "inicio": "2026-10-01 00:00",
+    "fin": "2026-10-08 00:00"
+  },
+  {
+    "id": "ali_2026",
+    "nombre_corto": "ALI",
+    "nombre": "Venezuela Ilustre - Ali Primera",
+    "frase": "El cantor del pueblo y su cancion necesaria.",
+    "acento": "#fde047",
+    "lamina": "ali_2026.png",
+    "inicio": "2026-11-01 00:00",
+    "fin": "2026-11-08 00:00"
+  },
+  {
+    "id": "carreno_2026",
+    "nombre_corto": "CARRENO",
+    "nombre": "Venezuela Ilustre - Teresa Carreno",
+    "frase": "El piano que sono en America.",
+    "acento": "#fb7185",
+    "lamina": "carreno_2026.png",
+    "inicio": "2026-12-01 00:00",
+    "fin": "2026-12-08 00:00"
+  }
+]
