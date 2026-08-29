@@ -23661,9 +23661,16 @@
  },
  {
   "indicativo": "XE2GMM",
-  "codigo": "SP54XG",
+  "codigo": "9M26T6",
   "fecha": "2026-08-29 18:54:32",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2GMM_2026-08.png"
+ },
+ {
+  "indicativo": "YY1KWZ",
+  "codigo": "6CAP4K",
+  "fecha": "2026-08-29 20:31:18",
+  "pais": "Venezuela",
+  "archivo": "qsl/QSL_YY1KWZ_2026-08.png"
  }
 ]
