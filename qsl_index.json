@@ -23003,23 +23003,30 @@
  },
  {
   "indicativo": "9W2HZZ",
-  "codigo": "QJ5B62",
+  "codigo": "JWHUKD",
   "fecha": "2026-08-29 00:40:44",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W2HZZ_2026-08.png"
  },
  {
   "indicativo": "JA1VIH",
-  "codigo": "SBVCMJ",
+  "codigo": "M97BVV",
   "fecha": "2026-08-29 00:49:23",
   "pais": "Japon",
   "archivo": "qsl/QSL_JA1VIH_2026-08.png"
  },
  {
   "indicativo": "JA1XPM",
-  "codigo": "HUXGHP",
+  "codigo": "VTDCEZ",
   "fecha": "2026-08-29 00:53:57",
   "pais": "Japon",
   "archivo": "qsl/QSL_JA1XPM_2026-08.png"
+ },
+ {
+  "indicativo": "YD2VAL",
+  "codigo": "73G8MH",
+  "fecha": "2026-08-29 01:02:04",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YD2VAL_2026-08.png"
  }
 ]
