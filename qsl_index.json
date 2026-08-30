@@ -24067,79 +24067,93 @@
  },
  {
   "indicativo": "JR4DSE",
-  "codigo": "9RPFP3",
+  "codigo": "JD2TB6",
   "fecha": "2026-08-30 03:54:12",
   "pais": "Japon",
   "archivo": "qsl/QSL_JR4DSE_2026-08.png"
  },
  {
   "indicativo": "JR4EDQ",
-  "codigo": "5A855P",
+  "codigo": "WZPMVC",
   "fecha": "2026-08-30 03:56:10",
   "pais": "Japon",
   "archivo": "qsl/QSL_JR4EDQ_2026-08.png"
  },
  {
   "indicativo": "JH6NSX",
-  "codigo": "C7Z34H",
+  "codigo": "WJ224U",
   "fecha": "2026-08-30 04:02:28",
   "pais": "Japon",
   "archivo": "qsl/QSL_JH6NSX_2026-08.png"
  },
  {
   "indicativo": "JA0BEJ",
-  "codigo": "RF7NX2",
+  "codigo": "AMA6M2",
   "fecha": "2026-08-30 04:20:35",
   "pais": "Japon",
   "archivo": "qsl/QSL_JA0BEJ_2026-08.png"
  },
  {
+  "indicativo": "JA5AIL",
+  "codigo": "8KCSJS",
+  "fecha": "2026-08-30 04:23:10",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA5AIL_2026-08.png"
+ },
+ {
   "indicativo": "YE3BMK",
-  "codigo": "2USSZD",
+  "codigo": "RNYMRS",
   "fecha": "2026-08-30 04:40:30",
   "pais": "Indonesia",
   "archivo": "qsl/QSL_YE3BMK_2026-08.png"
  },
  {
   "indicativo": "YD7UCC",
-  "codigo": "GDFYPC",
+  "codigo": "B3Z99B",
   "fecha": "2026-08-30 04:53:38",
   "pais": "Indonesia",
   "archivo": "qsl/QSL_YD7UCC_2026-08.png"
  },
  {
   "indicativo": "YD0BXR",
-  "codigo": "Z5ZABB",
+  "codigo": "24DMDG",
   "fecha": "2026-08-30 05:04:10",
   "pais": "Indonesia",
   "archivo": "qsl/QSL_YD0BXR_2026-08.png"
  },
  {
   "indicativo": "EA7FWK",
-  "codigo": "3AGSVD",
+  "codigo": "E56BCQ",
   "fecha": "2026-08-30 05:09:48",
   "pais": "España",
   "archivo": "qsl/QSL_EA7FWK_2026-08.png"
  },
  {
   "indicativo": "9M2MAD",
-  "codigo": "6Q3DDB",
+  "codigo": "B3KR27",
   "fecha": "2026-08-30 05:18:13",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2MAD_2026-08.png"
  },
  {
   "indicativo": "EA5TC",
-  "codigo": "HZXW82",
+  "codigo": "FN679A",
   "fecha": "2026-08-30 05:54:15",
   "pais": "España",
   "archivo": "qsl/QSL_EA5TC_2026-08.png"
  },
  {
   "indicativo": "9W2TZP",
-  "codigo": "URQ4YM",
-  "fecha": "2026-08-30 05:56:48",
+  "codigo": "T5FDUY",
+  "fecha": "2026-08-30 05:56:47",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W2TZP_2026-08.png"
+ },
+ {
+  "indicativo": "EA7CJK",
+  "codigo": "257FFB",
+  "fecha": "2026-08-30 06:11:04",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA7CJK_2026-08.png"
  }
 ]
