@@ -8540,13 +8540,6 @@
   "archivo": "qsl/QSL_LU1PA_2026-08.png"
  },
  {
-  "indicativo": "EA7GMQ",
-  "codigo": "8S6HNV",
-  "fecha": "2026-08-17 00:11:41",
-  "pais": "Espana",
-  "archivo": "qsl/QSL_EA7GMQ_2026-08.png"
- },
- {
   "indicativo": "DX2AFP",
   "codigo": "KYFUEA",
   "fecha": "2026-08-17 00:11:58",
@@ -19040,13 +19033,6 @@
   "archivo": "qsl/QSL_HJ5MC_2026-08.png"
  },
  {
-  "indicativo": "LU2AJL",
-  "codigo": "X2CEA4",
-  "fecha": "2026-08-24 19:39:07",
-  "pais": "Argentina",
-  "archivo": "qsl/QSL_LU2AJL_2026-08.png"
- },
- {
   "indicativo": "CX1BW",
   "codigo": "6AKDUF",
   "fecha": "2026-08-24 19:42:54",
@@ -24561,5 +24547,12 @@
   "fecha": "2026-08-30 18:39:08",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI4WAV_2026-08.png"
+ },
+ {
+  "indicativo": "LU8ERP",
+  "codigo": "H4XXD5",
+  "fecha": "2026-08-30 19:05:43",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU8ERP_2026-08.png"
  }
 ]
