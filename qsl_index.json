@@ -14091,13 +14091,6 @@
   "archivo": "qsl/QSL_9W2VNN_2026-08.png"
  },
  {
-  "indicativo": "CE3LWU",
-  "codigo": "X3J58M",
-  "fecha": "2026-08-20 04:21:10",
-  "pais": "Chile",
-  "archivo": "qsl/QSL_CE3LWU_2026-08.png"
- },
- {
   "indicativo": "9M2RTX",
   "codigo": "4ZZSYU",
   "fecha": "2026-08-20 04:21:37",
@@ -24554,5 +24547,12 @@
   "fecha": "2026-08-30 19:05:43",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU8ERP_2026-08.png"
+ },
+ {
+  "indicativo": "YY5JTA",
+  "codigo": "EW5PR4",
+  "fecha": "2026-08-30 19:50:13",
+  "pais": "Venezuela",
+  "archivo": "qsl/QSL_YY5JTA_2026-08.png"
  }
 ]
