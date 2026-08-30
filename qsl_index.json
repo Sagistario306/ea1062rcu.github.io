@@ -22337,13 +22337,6 @@
   "archivo": "qsl/QSL_JA6LPW_2026-08.png"
  },
  {
-  "indicativo": "EA1AER",
-  "codigo": "K4T3VS",
-  "fecha": "2026-08-28 07:04:08",
-  "pais": "España",
-  "archivo": "qsl/QSL_EA1AER_2026-08.png"
- },
- {
   "indicativo": "EA7HOH",
   "codigo": "5BWBQY",
   "fecha": "2026-08-28 07:06:00",
@@ -23835,13 +23828,6 @@
   "archivo": "qsl/QSL_JA6LPP_2026-08.png"
  },
  {
-  "indicativo": "EA3HCJ",
-  "codigo": "CN9Q7B",
-  "fecha": "2026-08-30 00:23:30",
-  "pais": "España",
-  "archivo": "qsl/QSL_EA3HCJ_2026-08.png"
- },
- {
   "indicativo": "NP3FT",
   "codigo": "T48XXY",
   "fecha": "2026-08-30 00:25:21",
@@ -24568,5 +24554,12 @@
   "fecha": "2026-08-30 20:41:36",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI2JOR_2026-08.png"
+ },
+ {
+  "indicativo": "EA5IZZ",
+  "codigo": "8ZKKEV",
+  "fecha": "2026-08-30 21:12:51",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA5IZZ_2026-08.png"
  }
 ]
