@@ -24067,16 +24067,23 @@
  },
  {
   "indicativo": "JR4DSE",
-  "codigo": "9RPFP3",
+  "codigo": "JD2TB6",
   "fecha": "2026-08-30 03:54:12",
   "pais": "Japon",
   "archivo": "qsl/QSL_JR4DSE_2026-08.png"
  },
  {
   "indicativo": "JR4EDQ",
-  "codigo": "5A855P",
+  "codigo": "WZPMVC",
   "fecha": "2026-08-30 03:56:10",
   "pais": "Japon",
   "archivo": "qsl/QSL_JR4EDQ_2026-08.png"
+ },
+ {
+  "indicativo": "JH6NSX",
+  "codigo": "WJ224U",
+  "fecha": "2026-08-30 04:02:28",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JH6NSX_2026-08.png"
  }
 ]
