@@ -24554,5 +24554,12 @@
   "fecha": "2026-08-30 16:42:00",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HJ4JCV_2026-08.png"
+ },
+ {
+  "indicativo": "TI4WAV",
+  "codigo": "SRND7W",
+  "fecha": "2026-08-30 18:39:08",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI4WAV_2026-08.png"
  }
 ]
