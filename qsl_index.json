@@ -24151,9 +24151,16 @@
  },
  {
   "indicativo": "EA5GR",
-  "codigo": "34WUF3",
+  "codigo": "KBBG7Q",
   "fecha": "2026-08-30 06:37:42",
   "pais": "España",
   "archivo": "qsl/QSL_EA5GR_2026-08.png"
+ },
+ {
+  "indicativo": "YC0DYY",
+  "codigo": "6AH8T2",
+  "fecha": "2026-08-30 06:42:45",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YC0DYY_2026-08.png"
  }
 ]
