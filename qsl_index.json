@@ -24561,5 +24561,12 @@
   "fecha": "2026-08-30 20:16:05",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1DID_2026-08.png"
+ },
+ {
+  "indicativo": "TI2JOR",
+  "codigo": "NHEB2X",
+  "fecha": "2026-08-30 20:41:36",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2JOR_2026-08.png"
  }
 ]
