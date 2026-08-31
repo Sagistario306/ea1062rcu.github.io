@@ -24722,5 +24722,12 @@
   "fecha": "2026-08-31 02:15:04",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W2MQG_2026-08.png"
+ },
+ {
+  "indicativo": "JR1SAE",
+  "codigo": "QW8HD2",
+  "fecha": "2026-08-31 02:31:18",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JR1SAE_2026-08.png"
  }
 ]
