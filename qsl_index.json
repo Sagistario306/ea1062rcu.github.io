@@ -25254,5 +25254,12 @@
   "fecha": "2026-08-31 19:25:20",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP4EPS_2026-08.png"
+ },
+ {
+  "indicativo": "YS2CBV",
+  "codigo": "XF364S",
+  "fecha": "2026-08-31 19:30:49",
+  "pais": "El Salvador",
+  "archivo": "qsl/QSL_YS2CBV_2026-08.png"
  }
 ]
