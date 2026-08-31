@@ -25156,5 +25156,12 @@
   "fecha": "2026-08-31 12:37:57",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1VAL_2026-08.png"
+ },
+ {
+  "indicativo": "CX1DDS",
+  "codigo": "QDPSQ7",
+  "fecha": "2026-08-31 12:48:46",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX1DDS_2026-08.png"
  }
 ]
