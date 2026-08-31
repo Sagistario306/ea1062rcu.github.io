@@ -25247,5 +25247,12 @@
   "fecha": "2026-08-31 18:45:30",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1OGT_2026-08.png"
+ },
+ {
+  "indicativo": "KP4EPS",
+  "codigo": "MPT7HT",
+  "fecha": "2026-08-31 19:25:20",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4EPS_2026-08.png"
  }
 ]
