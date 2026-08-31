@@ -24792,5 +24792,12 @@
   "fecha": "2026-08-31 04:00:03",
   "pais": "España",
   "archivo": "qsl/QSL_EA1EZ_2026-08.png"
+ },
+ {
+  "indicativo": "XE1DT",
+  "codigo": "HUFW5V",
+  "fecha": "2026-08-31 04:05:30",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1DT_2026-08.png"
  }
 ]
