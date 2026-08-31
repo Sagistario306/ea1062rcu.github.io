@@ -22267,13 +22267,6 @@
   "archivo": "qsl/QSL_EA1ICD_2026-08.png"
  },
  {
-  "indicativo": "JA4DWG",
-  "codigo": "QTJPSR",
-  "fecha": "2026-08-28 05:46:20",
-  "pais": "Japon",
-  "archivo": "qsl/QSL_JA4DWG_2026-08.png"
- },
- {
   "indicativo": "JH1WXW",
   "codigo": "KYE7N4",
   "fecha": "2026-08-28 06:03:01",
@@ -23744,13 +23737,6 @@
   "archivo": "qsl/QSL_JH1NRP_2026-08.png"
  },
  {
-  "indicativo": "JA2XTV",
-  "codigo": "8359A4",
-  "fecha": "2026-08-30 00:00:34",
-  "pais": "Japon",
-  "archivo": "qsl/QSL_JA2XTV_2026-08.png"
- },
- {
   "indicativo": "EA1CF",
   "codigo": "CW5JV3",
   "fecha": "2026-08-30 00:02:04",
@@ -24589,5 +24575,12 @@
   "fecha": "2026-08-30 23:54:24",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2QDX_2026-08.png"
+ },
+ {
+  "indicativo": "EA4EOG",
+  "codigo": "KUPPD2",
+  "fecha": "2026-08-31 00:06:46",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA4EOG_2026-08.png"
  }
 ]
