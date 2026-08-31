@@ -24799,5 +24799,12 @@
   "fecha": "2026-08-31 04:05:30",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1DT_2026-08.png"
+ },
+ {
+  "indicativo": "EA2CTD",
+  "codigo": "KZUUUB",
+  "fecha": "2026-08-31 04:15:04",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA2CTD_2026-08.png"
  }
 ]
