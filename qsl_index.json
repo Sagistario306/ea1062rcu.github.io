@@ -784,6 +784,13 @@
   "archivo": "qsl/QSL_LW7EFM_2026-09_EV.png"
  },
  {
+  "indicativo": "CE3GDI",
+  "codigo": "WGESMS",
+  "fecha": "2026-09-01 01:39:09",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3GDI_2026-09.png"
+ },
+ {
   "indicativo": "HP1COO",
   "codigo": "WH6K9Z",
   "fecha": "2026-09-01 01:26:32",
