@@ -140,6 +140,13 @@
   "archivo": "qsl/QSL_HK6Y_2026-09_EV.png"
  },
  {
+  "indicativo": "LU1MFO",
+  "codigo": "VR7J23",
+  "fecha": "2026-09-01 01:31:55",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1MFO_2026-09.png"
+ },
+ {
   "indicativo": "9M2LLP",
   "codigo": "J9DF3H",
   "fecha": "2026-09-01 01:25:40",
