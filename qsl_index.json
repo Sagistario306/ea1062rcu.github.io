@@ -931,6 +931,13 @@
   "archivo": "qsl/QSL_EA3RCM_2026-09.png"
  },
  {
+  "indicativo": "EA3RCM",
+  "codigo": "RQHEDU",
+  "fecha": "2026-09-01 01:33:02",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA3RCM_2026-09_EV.png"
+ },
+ {
   "indicativo": "CE4JWI",
   "codigo": "EPYQCW",
   "fecha": "2026-09-01 00:49:40",
