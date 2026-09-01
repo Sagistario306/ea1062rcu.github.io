@@ -11599,6 +11599,13 @@
   "archivo": "qsl/QSL_YB0TNS_2026-09.png"
  },
  {
+  "indicativo": "YB0TNS",
+  "codigo": "82T87F",
+  "fecha": "2026-09-01 14:36:23",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YB0TNS_2026-09_EV.png"
+ },
+ {
   "indicativo": "HJ4CID",
   "codigo": "VE2CVE",
   "fecha": "2026-08-18 10:49:56",
