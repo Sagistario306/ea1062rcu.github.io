@@ -11984,6 +11984,13 @@
   "archivo": "qsl/QSL_DV7BPQ_2026-09.png"
  },
  {
+  "indicativo": "DV7BPQ",
+  "codigo": "TENBEN",
+  "fecha": "2026-09-01 14:44:41",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DV7BPQ_2026-09_EV.png"
+ },
+ {
   "indicativo": "LU7FMA",
   "codigo": "C3BAYJ",
   "fecha": "2026-09-01 01:38:35",
