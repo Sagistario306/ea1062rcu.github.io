@@ -8939,6 +8939,13 @@
   "archivo": "qsl/QSL_YF1FRI_2026-09.png"
  },
  {
+  "indicativo": "YF1FRI",
+  "codigo": "BJUBDH",
+  "fecha": "2026-09-01 14:39:52",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YF1FRI_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA7EGJ",
   "codigo": "MQ77KZ",
   "fecha": "2026-08-17 00:08:33",
