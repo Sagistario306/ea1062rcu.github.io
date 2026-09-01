@@ -14049,6 +14049,13 @@
   "archivo": "qsl/QSL_HP3EGD_2026-09.png"
  },
  {
+  "indicativo": "HP3EGD",
+  "codigo": "2JVUKF",
+  "fecha": "2026-09-01 14:45:56",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP3EGD_2026-09_EV.png"
+ },
+ {
   "indicativo": "HR2ORP",
   "codigo": "WRNMG8",
   "fecha": "2026-08-19 21:04:43",
