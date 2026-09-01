@@ -693,6 +693,13 @@
   "archivo": "qsl/QSL_YG2CFW_2026-09.png"
  },
  {
+  "indicativo": "YG2CFW",
+  "codigo": "KQCEBF",
+  "fecha": "2026-09-01 01:34:26",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YG2CFW_2026-09_EV.png"
+ },
+ {
   "indicativo": "CE8CAU",
   "codigo": "5QFSMP",
   "fecha": "2026-09-01 01:26:26",
