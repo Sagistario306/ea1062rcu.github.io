@@ -567,6 +567,13 @@
   "archivo": "qsl/QSL_JA1YKX_2026-09.png"
  },
  {
+  "indicativo": "JA1YKX",
+  "codigo": "SF63AM",
+  "fecha": "2026-09-01 01:30:05",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA1YKX_2026-09_EV.png"
+ },
+ {
   "indicativo": "HP1PAR",
   "codigo": "MSKA5U",
   "fecha": "2026-09-01 01:26:50",
