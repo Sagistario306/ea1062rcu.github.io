@@ -1512,6 +1512,13 @@
   "archivo": "qsl/QSL_8P6FB_2026-09_EV.png"
  },
  {
+  "indicativo": "HI3LAG",
+  "codigo": "8CT95P",
+  "fecha": "2026-09-01 01:38:03",
+  "pais": "Republica Dominicana",
+  "archivo": "qsl/QSL_HI3LAG_2026-09.png"
+ },
+ {
   "indicativo": "J75Y",
   "codigo": "8EZF6M",
   "fecha": "2026-09-01 01:34:05",
