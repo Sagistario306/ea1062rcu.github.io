@@ -329,6 +329,13 @@
   "archivo": "qsl/QSL_JA4QAQ_2026-09.png"
  },
  {
+  "indicativo": "JA4QAQ",
+  "codigo": "CGVD47",
+  "fecha": "2026-09-01 01:29:46",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA4QAQ_2026-09_EV.png"
+ },
+ {
   "indicativo": "CE8CAU",
   "codigo": "5QFSMP",
   "fecha": "2026-09-01 01:26:26",
