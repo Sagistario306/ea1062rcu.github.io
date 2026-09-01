@@ -161,6 +161,13 @@
   "archivo": "qsl/QSL_JA1SZN_2026-09.png"
  },
  {
+  "indicativo": "JA1SZN",
+  "codigo": "4VV9H5",
+  "fecha": "2026-09-01 01:25:20",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA1SZN_2026-09_EV.png"
+ },
+ {
   "indicativo": "JH7KPZ",
   "codigo": "DCVE6P",
   "fecha": "2026-09-01 00:42:34",
