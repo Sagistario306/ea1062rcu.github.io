@@ -315,6 +315,13 @@
   "archivo": "qsl/QSL_LU6HLS_2026-09.png"
  },
  {
+  "indicativo": "LU6HLS",
+  "codigo": "9BYZXA",
+  "fecha": "2026-09-01 01:29:59",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU6HLS_2026-09_EV.png"
+ },
+ {
   "indicativo": "XE3JR",
   "codigo": "E25G2U",
   "fecha": "2026-09-01 01:27:14",
