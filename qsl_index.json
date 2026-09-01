@@ -273,6 +273,13 @@
   "archivo": "qsl/QSL_EA3CUU_2026-09.png"
  },
  {
+  "indicativo": "EA3CUU",
+  "codigo": "2DQ4MY",
+  "fecha": "2026-09-01 01:26:23",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA3CUU_2026-09_EV.png"
+ },
+ {
   "indicativo": "9W2VET",
   "codigo": "HTMQQF",
   "fecha": "2026-09-01 01:25:35",
