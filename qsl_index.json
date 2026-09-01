@@ -252,6 +252,13 @@
   "archivo": "qsl/QSL_EC4A_2026-09_EV.png"
  },
  {
+  "indicativo": "HP1MRA",
+  "codigo": "HQNAJJ",
+  "fecha": "2026-09-01 01:36:42",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP1MRA_2026-09.png"
+ },
+ {
   "indicativo": "KP4CA",
   "codigo": "3DHY9D",
   "fecha": "2026-09-01 01:31:23",
