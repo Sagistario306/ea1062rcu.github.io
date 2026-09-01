@@ -1799,6 +1799,13 @@
   "archivo": "qsl/QSL_HI8LT_2026-09.png"
  },
  {
+  "indicativo": "HI8LT",
+  "codigo": "XR68ZE",
+  "fecha": "2026-09-01 01:41:02",
+  "pais": "Republica Dominicana",
+  "archivo": "qsl/QSL_HI8LT_2026-09_EV.png"
+ },
+ {
   "indicativo": "J75Y",
   "codigo": "8EZF6M",
   "fecha": "2026-09-01 01:34:05",
