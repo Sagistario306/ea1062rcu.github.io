@@ -1489,5 +1489,12 @@
   "fecha": "2026-09-01 01:36:02",
   "pais": "Japon",
   "archivo": "qsl/QSL_JA7TXI_2026-09.png"
+ },
+ {
+  "indicativo": "JA7TXI",
+  "codigo": "Z5F35W",
+  "fecha": "2026-09-01 01:36:05",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA7TXI_2026-09_EV.png"
  }
 ]
