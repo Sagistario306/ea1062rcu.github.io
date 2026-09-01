@@ -91,6 +91,13 @@
   "archivo": "qsl/QSL_YG1CBG_2026-09.png"
  },
  {
+  "indicativo": "YG1CBG",
+  "codigo": "R7JJCC",
+  "fecha": "2026-09-01 01:35:53",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YG1CBG_2026-09_EV.png"
+ },
+ {
   "indicativo": "XE3RLB",
   "codigo": "E3MQCD",
   "fecha": "2026-09-01 01:32:07",
