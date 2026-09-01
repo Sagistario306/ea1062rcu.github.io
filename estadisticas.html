@@ -39,14 +39,15 @@
 
   <section class="tarjeta-premio tarjeta-visible">
     <div class="panel">
-      <div class="caja"><div class="num" id="st-total">0</div><div class="lbl">ESTACIONES ESTE MES</div></div>
-      <div class="caja"><div class="num" id="st-paises">0</div><div class="lbl">PAÍSES</div></div>
+      <div class="caja"><div class="num" id="st-vitrina">0</div><div class="lbl">EN VITRINA (2 MESES)</div></div>
+      <div class="caja"><div class="num" id="st-mes">0</div><div class="lbl" id="lbl-mes">ESTE MES</div></div>
+      <div class="caja"><div class="num" id="st-paises">0</div><div class="lbl">PAÍSES EN VITRINA</div></div>
       <div class="caja"><div class="num" id="st-hoy">0</div><div class="lbl">NUEVAS HOY</div></div>
     </div>
     <p class="fecha-update" id="st-fecha"></p>
 
     <div class="lista">
-      <h3>🌍 Estaciones por país</h3>
+      <h3>🌍 Estaciones por país · vitrina 2 meses</h3>
       <div id="lista-paises"></div>
       <h3 style="margin-top:18px;">🕐 Últimas estaciones confirmadas</h3>
       <div id="lista-ultimas"></div>
@@ -66,7 +67,12 @@
 fetch('qsl_index.json?v=' + Date.now())
   .then(r => r.ok ? r.json() : [])
   .then(indice => {
-    const hoy = new Date().toISOString().slice(0, 10);
+    const ahora = new Date();
+    const hoy = ahora.toISOString().slice(0, 10);
+    const mesAct = ahora.toISOString().slice(0, 7); // YYYY-MM
+    const nombresMes = ['ENE', 'FEB', 'MAR', 'ABR', 'MAY', 'JUN',
+                        'JUL', 'AGO', 'SEP', 'OCT', 'NOV', 'DIC'];
+    const nombreMesAct = nombresMes[ahora.getMonth()] + ' ' + ahora.getFullYear();
 
     // ✅ v3.0: UNA sola entrada por estacion (indicativo base),
     //    conservando su fecha mas reciente
@@ -78,11 +84,16 @@ fetch('qsl_index.json?v=' + Date.now())
     });
     const estaciones = Object.values(unicas);
 
-    // paises = estaciones unicas por pais
+    // ✅ v4.9.4: filtro de mes actual para tarjeta "ESTE MES"
+    const esteMes = estaciones.filter(e => e.fecha.startsWith(mesAct));
+
+    // paises = estaciones unicas por pais (vitrina completa 2 meses)
     const paises = {};
     estaciones.forEach(e => paises[e.pais] = (paises[e.pais] || 0) + 1);
 
-    document.getElementById('st-total').textContent = estaciones.length;
+    document.getElementById('st-vitrina').textContent = estaciones.length;
+    document.getElementById('st-mes').textContent = esteMes.length;
+    document.getElementById('lbl-mes').textContent = 'ESTE MES (' + nombreMesAct + ')';
     document.getElementById('st-paises').textContent = Object.keys(paises).length;
     document.getElementById('st-hoy').textContent =
       estaciones.filter(e => e.fecha.slice(0, 10) === hoy).length;
@@ -92,7 +103,7 @@ fetch('qsl_index.json?v=' + Date.now())
     document.getElementById('lista-paises').innerHTML =
       Object.entries(paises).sort((a, b) => b[1] - a[1])
         .map(([p, n]) => `<div class="pais-fila"><span>${p}</span><strong>${n}</strong></div>`)
-        .join('') || '<p style="color:#94a3b8">Aún sin datos este mes.</p>';
+        .join('') || '<p style="color:#94a3b8">Aún sin datos en vitrina.</p>';
 
     // ✅ ultimas 10 estaciones UNICAS, mas recientes primero
     document.getElementById('lista-ultimas').innerHTML =
