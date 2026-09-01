@@ -1330,6 +1330,13 @@
   "archivo": "qsl/QSL_9W2FAS_2026-09_EV.png"
  },
  {
+  "indicativo": "LU7FMA",
+  "codigo": "C3BAYJ",
+  "fecha": "2026-09-01 01:38:35",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU7FMA_2026-09.png"
+ },
+ {
   "indicativo": "LW2ECC",
   "codigo": "PYP3ZY",
   "fecha": "2026-09-01 01:28:26",
