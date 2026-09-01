@@ -14,6 +14,13 @@
   "archivo": "qsl/QSL_EB1AD_2026-09_EV.png"
  },
  {
+  "indicativo": "CE3FOT",
+  "codigo": "VYA8NB",
+  "fecha": "2026-09-01 01:25:11",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3FOT_2026-09.png"
+ },
+ {
   "indicativo": "LW7EDH",
   "codigo": "DF64FJ",
   "fecha": "2026-09-01 00:45:56",
