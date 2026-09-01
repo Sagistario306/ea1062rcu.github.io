@@ -11515,6 +11515,13 @@
   "archivo": "qsl/QSL_LU1PAY_2026-09.png"
  },
  {
+  "indicativo": "LU1PAY",
+  "codigo": "CBCD4N",
+  "fecha": "2026-09-01 14:45:32",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1PAY_2026-09_EV.png"
+ },
+ {
   "indicativo": "9M8ST",
   "codigo": "9DD2TQ",
   "fecha": "2026-08-18 10:35:35",
