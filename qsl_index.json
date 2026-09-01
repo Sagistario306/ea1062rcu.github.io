@@ -19313,6 +19313,13 @@
   "archivo": "qsl/QSL_JH4MGU_2026-09.png"
  },
  {
+  "indicativo": "JH4MGU",
+  "codigo": "HDGZGA",
+  "fecha": "2026-09-01 14:40:52",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JH4MGU_2026-09_EV.png"
+ },
+ {
   "indicativo": "JA9MIZ",
   "codigo": "8FVD5S",
   "fecha": "2026-08-24 00:24:23",
