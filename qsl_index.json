@@ -847,6 +847,13 @@
   "archivo": "qsl/QSL_CE1NAH_2026-09.png"
  },
  {
+  "indicativo": "CE1NAH",
+  "codigo": "JYNV53",
+  "fecha": "2026-09-01 14:40:42",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE1NAH_2026-09_EV.png"
+ },
+ {
   "indicativo": "YC2YIZ",
   "codigo": "VV2GGE",
   "fecha": "2026-08-13 13:42:48",
