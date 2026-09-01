@@ -1260,6 +1260,13 @@
   "archivo": "qsl/QSL_CX3JG_2026-09_EV.png"
  },
  {
+  "indicativo": "JR5VPD",
+  "codigo": "6S5AAS",
+  "fecha": "2026-09-01 01:36:20",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JR5VPD_2026-09.png"
+ },
+ {
   "indicativo": "EA3RCM",
   "codigo": "XR42BX",
   "fecha": "2026-09-01 01:32:58",
