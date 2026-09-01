@@ -623,6 +623,13 @@
   "archivo": "qsl/QSL_JH1RTU_2026-09.png"
  },
  {
+  "indicativo": "JH1RTU",
+  "codigo": "EKDZ43",
+  "fecha": "2026-09-01 01:29:40",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JH1RTU_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA3CUU",
   "codigo": "MDXEBA",
   "fecha": "2026-09-01 01:26:19",
