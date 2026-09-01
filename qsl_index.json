@@ -133,6 +133,13 @@
   "archivo": "qsl/QSL_JA4GWS_2026-09.png"
  },
  {
+  "indicativo": "JA4GWS",
+  "codigo": "TW494F",
+  "fecha": "2026-09-01 01:28:36",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA4GWS_2026-09_EV.png"
+ },
+ {
   "indicativo": "LW7EDH",
   "codigo": "DF64FJ",
   "fecha": "2026-09-01 00:45:56",
