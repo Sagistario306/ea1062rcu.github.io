@@ -196,6 +196,13 @@
   "archivo": "qsl/QSL_LW7EDH_2026-09_EV.png"
  },
  {
+  "indicativo": "CX1AAO",
+  "codigo": "K52DSR",
+  "fecha": "2026-09-01 01:30:14",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX1AAO_2026-09.png"
+ },
+ {
   "indicativo": "EA5LQ",
   "codigo": "QRUVGB",
   "fecha": "2026-09-01 01:27:02",
