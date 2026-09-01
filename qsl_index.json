@@ -7168,6 +7168,13 @@
   "archivo": "qsl/QSL_LU3DJ_2026-09.png"
  },
  {
+  "indicativo": "LU3DJ",
+  "codigo": "RXTZVU",
+  "fecha": "2026-09-01 14:45:15",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU3DJ_2026-09_EV.png"
+ },
+ {
   "indicativo": "YD7VME",
   "codigo": "F23BV4",
   "fecha": "2026-09-01 01:25:29",
