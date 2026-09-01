@@ -217,6 +217,13 @@
   "archivo": "qsl/QSL_XE3JR_2026-09.png"
  },
  {
+  "indicativo": "XE3JR",
+  "codigo": "3QXZ6W",
+  "fecha": "2026-09-01 01:27:17",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE3JR_2026-09_EV.png"
+ },
+ {
   "indicativo": "CE8CAU",
   "codigo": "5QFSMP",
   "fecha": "2026-09-01 01:26:26",
