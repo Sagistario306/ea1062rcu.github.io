@@ -1022,6 +1022,13 @@
   "archivo": "qsl/QSL_HJ1BNL_2026-09_EV.png"
  },
  {
+  "indicativo": "EA8RCN",
+  "codigo": "MCSVVM",
+  "fecha": "2026-09-01 01:35:17",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA8RCN_2026-09.png"
+ },
+ {
   "indicativo": "9M2RTR",
   "codigo": "WDTVGR",
   "fecha": "2026-09-01 01:28:18",
