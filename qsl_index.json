@@ -1323,6 +1323,13 @@
   "archivo": "qsl/QSL_8P6FB_2026-09.png"
  },
  {
+  "indicativo": "8P6FB",
+  "codigo": "6E57AW",
+  "fecha": "2026-09-01 01:36:17",
+  "pais": "Barbados",
+  "archivo": "qsl/QSL_8P6FB_2026-09_EV.png"
+ },
+ {
   "indicativo": "J75Y",
   "codigo": "8EZF6M",
   "fecha": "2026-09-01 01:34:05",
