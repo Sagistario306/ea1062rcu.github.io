@@ -10206,6 +10206,13 @@
   "archivo": "qsl/QSL_LU1DOM_2026-09.png"
  },
  {
+  "indicativo": "LU1DOM",
+  "codigo": "CM2QR6",
+  "fecha": "2026-09-01 14:45:44",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1DOM_2026-09_EV.png"
+ },
+ {
   "indicativo": "LU3IBM",
   "codigo": "MHMCF9",
   "fecha": "2026-08-17 01:23:24",
