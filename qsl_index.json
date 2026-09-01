@@ -10318,6 +10318,13 @@
   "archivo": "qsl/QSL_YD2DAY_2026-09.png"
  },
  {
+  "indicativo": "YD2DAY",
+  "codigo": "CM96JZ",
+  "fecha": "2026-09-01 14:43:24",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YD2DAY_2026-09_EV.png"
+ },
+ {
   "indicativo": "LU4ECL",
   "codigo": "483RQN",
   "fecha": "2026-08-17 01:29:35",
