@@ -21,6 +21,13 @@
   "archivo": "qsl/QSL_EA7LCU_2026-09.png"
  },
  {
+  "indicativo": "EA7LCU",
+  "codigo": "THXFG2",
+  "fecha": "2026-09-01 01:32:23",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA7LCU_2026-09_EV.png"
+ },
+ {
   "indicativo": "EB1AD",
   "codigo": "BTFQ4Q",
   "fecha": "2026-09-01 00:39:53",
