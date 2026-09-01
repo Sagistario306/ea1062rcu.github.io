@@ -469,6 +469,13 @@
   "archivo": "qsl/QSL_YC8XXG_2026-09.png"
  },
  {
+  "indicativo": "YC8XXG",
+  "codigo": "6T9ZGJ",
+  "fecha": "2026-09-01 01:30:44",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YC8XXG_2026-09_EV.png"
+ },
+ {
   "indicativo": "DX2AST",
   "codigo": "JJZBF8",
   "fecha": "2026-09-01 01:27:20",
