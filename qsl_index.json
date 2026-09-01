@@ -11109,6 +11109,13 @@
   "archivo": "qsl/QSL_EC4DA_2026-09.png"
  },
  {
+  "indicativo": "EC4DA",
+  "codigo": "PZHW57",
+  "fecha": "2026-09-01 14:38:50",
+  "pais": "España",
+  "archivo": "qsl/QSL_EC4DA_2026-09_EV.png"
+ },
+ {
   "indicativo": "9W2JBV",
   "codigo": "NXRN2W",
   "fecha": "2026-08-18 10:19:14",
