@@ -10017,6 +10017,13 @@
   "archivo": "qsl/QSL_CE7DE_2026-09.png"
  },
  {
+  "indicativo": "CE7DE",
+  "codigo": "FWTC6X",
+  "fecha": "2026-09-01 14:34:45",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE7DE_2026-09_EV.png"
+ },
+ {
   "indicativo": "LU9BGN",
   "codigo": "X2T8CQ",
   "fecha": "2026-08-17 01:20:15",
