@@ -630,6 +630,13 @@
   "archivo": "qsl/QSL_YD2BBH_2026-09_EV.png"
  },
  {
+  "indicativo": "LU2EQI",
+  "codigo": "BVRPRH",
+  "fecha": "2026-09-01 01:30:50",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU2EQI_2026-09.png"
+ },
+ {
   "indicativo": "JA1YKX",
   "codigo": "BSXXY7",
   "fecha": "2026-09-01 01:30:02",
