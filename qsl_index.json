@@ -11704,6 +11704,13 @@
   "archivo": "qsl/QSL_9W2VTM_2026-09.png"
  },
  {
+  "indicativo": "9W2VTM",
+  "codigo": "XSSB24",
+  "fecha": "2026-09-01 14:39:16",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2VTM_2026-09_EV.png"
+ },
+ {
   "indicativo": "LW4DBE",
   "codigo": "2BGPUN",
   "fecha": "2026-08-18 10:56:33",
