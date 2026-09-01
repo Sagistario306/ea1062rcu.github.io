@@ -140,6 +140,13 @@
   "archivo": "qsl/QSL_YD7VME_2026-09_EV.png"
  },
  {
+  "indicativo": "CE8CAU",
+  "codigo": "5QFSMP",
+  "fecha": "2026-09-01 01:26:26",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE8CAU_2026-09.png"
+ },
+ {
   "indicativo": "YB2CRZ",
   "codigo": "T38XTW",
   "fecha": "2026-09-01 00:50:47",
