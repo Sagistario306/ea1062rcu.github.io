@@ -651,6 +651,13 @@
   "archivo": "qsl/QSL_TI0ATI_2026-09.png"
  },
  {
+  "indicativo": "TI0ATI",
+  "codigo": "HG8ESG",
+  "fecha": "2026-09-01 01:39:05",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI0ATI_2026-09_EV.png"
+ },
+ {
   "indicativo": "JA9YAJ",
   "codigo": "K5UEVF",
   "fecha": "2026-09-01 01:33:47",
