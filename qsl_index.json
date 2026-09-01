@@ -5922,6 +5922,13 @@
   "archivo": "qsl/QSL_EB7RCS_2026-09.png"
  },
  {
+  "indicativo": "EB7RCS",
+  "codigo": "XUCA5R",
+  "fecha": "2026-09-01 14:43:09",
+  "pais": "España",
+  "archivo": "qsl/QSL_EB7RCS_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA4RCR",
   "codigo": "5YACEH",
   "fecha": "2026-09-01 01:35:39",
