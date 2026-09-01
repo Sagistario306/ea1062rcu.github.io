@@ -385,6 +385,13 @@
   "archivo": "qsl/QSL_DX2OHR_2026-09.png"
  },
  {
+  "indicativo": "DX2OHR",
+  "codigo": "NFQF4K",
+  "fecha": "2026-09-01 01:32:30",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DX2OHR_2026-09_EV.png"
+ },
+ {
   "indicativo": "JH3YBD",
   "codigo": "XRF5HF",
   "fecha": "2026-09-01 01:30:26",
