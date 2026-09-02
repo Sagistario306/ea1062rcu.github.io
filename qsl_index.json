@@ -4067,6 +4067,13 @@
   "archivo": "qsl/QSL_LU6OFV_2026-09.png"
  },
  {
+  "indicativo": "LU6OFV",
+  "codigo": "ZZKRXZ",
+  "fecha": "2026-09-02 00:42:55",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU6OFV_2026-09_EV.png"
+ },
+ {
   "indicativo": "XE1JC",
   "codigo": "3PS43T",
   "fecha": "2026-08-14 14:23:03",
