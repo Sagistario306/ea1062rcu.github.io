@@ -49,6 +49,13 @@
   "archivo": "qsl/QSL_XE3RFM_2026-09.png"
  },
  {
+  "indicativo": "XE3RFM",
+  "codigo": "MGM8KK",
+  "fecha": "2026-09-02 00:28:19",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE3RFM_2026-09_EV.png"
+ },
+ {
   "indicativo": "XE2KK",
   "codigo": "UURTWR",
   "fecha": "2026-09-01 01:30:32",
