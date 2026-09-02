@@ -14910,6 +14910,13 @@
   "archivo": "qsl/QSL_TI2CVJ_2026-09.png"
  },
  {
+  "indicativo": "TI2CVJ",
+  "codigo": "P6254T",
+  "fecha": "2026-09-02 00:45:00",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2CVJ_2026-09_EV.png"
+ },
+ {
   "indicativo": "CX5CBA",
   "codigo": "F9E3EK",
   "fecha": "2026-08-19 19:06:23",
