@@ -10577,6 +10577,13 @@
   "archivo": "qsl/QSL_LU3IBM_2026-09.png"
  },
  {
+  "indicativo": "LU3IBM",
+  "codigo": "WF7RCV",
+  "fecha": "2026-09-02 00:30:42",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU3IBM_2026-09_EV.png"
+ },
+ {
   "indicativo": "CE1AZP",
   "codigo": "PT64BC",
   "fecha": "2026-08-17 01:23:45",
