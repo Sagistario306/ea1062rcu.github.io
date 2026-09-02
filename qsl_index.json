@@ -9205,6 +9205,13 @@
   "archivo": "qsl/QSL_LU8ESQ_2026-09.png"
  },
  {
+  "indicativo": "LU8ESQ",
+  "codigo": "SSDQ7B",
+  "fecha": "2026-09-02 00:36:48",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU8ESQ_2026-09_EV.png"
+ },
+ {
   "indicativo": "NP4PC",
   "codigo": "3URH3X",
   "fecha": "2026-08-16 01:24:01",
