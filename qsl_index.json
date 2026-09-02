@@ -9534,6 +9534,13 @@
   "archivo": "qsl/QSL_9V1LH_2026-09.png"
  },
  {
+  "indicativo": "9V1LH",
+  "codigo": "83KTW6",
+  "fecha": "2026-09-02 00:36:59",
+  "pais": "Singapur",
+  "archivo": "qsl/QSL_9V1LH_2026-09_EV.png"
+ },
+ {
   "indicativo": "JR1VM",
   "codigo": "83UDMB",
   "fecha": "2026-08-17 00:10:55",
