@@ -2387,6 +2387,13 @@
   "archivo": "qsl/QSL_EB1LA_2026-09.png"
  },
  {
+  "indicativo": "EB1LA",
+  "codigo": "W2CVTG",
+  "fecha": "2026-09-02 00:16:57",
+  "pais": "España",
+  "archivo": "qsl/QSL_EB1LA_2026-09_EV.png"
+ },
+ {
   "indicativo": "9W2SQ",
   "codigo": "XAAU6S",
   "fecha": "2026-08-14 13:55:50",
