@@ -2380,6 +2380,13 @@
   "archivo": "qsl/QSL_4G1FTU_2026-09.png"
  },
  {
+  "indicativo": "4G1FTU",
+  "codigo": "XFFU5Q",
+  "fecha": "2026-09-02 00:19:34",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_4G1FTU_2026-09_EV.png"
+ },
+ {
   "indicativo": "EB1LA",
   "codigo": "8E2UKN",
   "fecha": "2026-09-02 00:16:52",
