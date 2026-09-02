@@ -11025,6 +11025,13 @@
   "archivo": "qsl/QSL_CE3VNA_2026-09.png"
  },
  {
+  "indicativo": "CE3VNA",
+  "codigo": "YX9TP5",
+  "fecha": "2026-09-02 00:18:04",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3VNA_2026-09_EV.png"
+ },
+ {
   "indicativo": "CX5AL",
   "codigo": "KWFUNP",
   "fecha": "2026-08-17 01:51:55",
