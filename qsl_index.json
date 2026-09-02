@@ -3465,6 +3465,13 @@
   "archivo": "qsl/QSL_YB1DDK_2026-09.png"
  },
  {
+  "indicativo": "YB1DDK",
+  "codigo": "WWEERS",
+  "fecha": "2026-09-02 00:27:36",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YB1DDK_2026-09_EV.png"
+ },
+ {
   "indicativo": "YB1TJ",
   "codigo": "48XP5A",
   "fecha": "2026-08-14 14:13:01",
