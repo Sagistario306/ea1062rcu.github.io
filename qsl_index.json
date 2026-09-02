@@ -11718,6 +11718,13 @@
   "archivo": "qsl/QSL_JR5YDS_2026-09.png"
  },
  {
+  "indicativo": "JR5YDS",
+  "codigo": "N3NB8M",
+  "fecha": "2026-09-02 00:27:27",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JR5YDS_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA7SU",
   "codigo": "AX5BBK",
   "fecha": "2026-08-18 10:26:49",
