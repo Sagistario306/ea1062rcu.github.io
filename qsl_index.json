@@ -6937,6 +6937,13 @@
   "archivo": "qsl/QSL_XE2TCP_2026-09.png"
  },
  {
+  "indicativo": "XE2TCP",
+  "codigo": "XMC5GC",
+  "fecha": "2026-09-02 00:44:17",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2TCP_2026-09_EV.png"
+ },
+ {
   "indicativo": "LU1VG",
   "codigo": "WADWVT",
   "fecha": "2026-08-16 00:00:48",
