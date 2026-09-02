@@ -7910,6 +7910,13 @@
   "archivo": "qsl/QSL_CE3TPB_2026-09.png"
  },
  {
+  "indicativo": "CE3TPB",
+  "codigo": "Y7PKKK",
+  "fecha": "2026-09-02 00:00:19",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3TPB_2026-09_EV.png"
+ },
+ {
   "indicativo": "CE4CVX",
   "codigo": "VA622G",
   "fecha": "2026-08-16 01:10:49",
