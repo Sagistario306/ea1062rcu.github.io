@@ -5992,6 +5992,13 @@
   "archivo": "qsl/QSL_YC2PAB_2026-09.png"
  },
  {
+  "indicativo": "YC2PAB",
+  "codigo": "Q952B9",
+  "fecha": "2026-09-02 00:29:24",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YC2PAB_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA1IKF",
   "codigo": "XFTS38",
   "fecha": "2026-08-15 14:14:22",
