@@ -14084,6 +14084,13 @@
   "archivo": "qsl/QSL_HQ1ERL_2026-09.png"
  },
  {
+  "indicativo": "HQ1ERL",
+  "codigo": "KWAESC",
+  "fecha": "2026-09-02 00:17:18",
+  "pais": "Honduras",
+  "archivo": "qsl/QSL_HQ1ERL_2026-09_EV.png"
+ },
+ {
   "indicativo": "YD2CFW",
   "codigo": "Q6NPP7",
   "fecha": "2026-08-19 18:04:41",
