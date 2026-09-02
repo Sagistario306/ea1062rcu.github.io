@@ -9268,6 +9268,13 @@
   "archivo": "qsl/QSL_EA2Z_2026-09.png"
  },
  {
+  "indicativo": "EA2Z",
+  "codigo": "AX6JXG",
+  "fecha": "2026-09-02 00:37:42",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA2Z_2026-09_EV.png"
+ },
+ {
   "indicativo": "KP4DW",
   "codigo": "X7REY9",
   "fecha": "2026-08-16 01:24:47",
