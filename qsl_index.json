@@ -7245,6 +7245,13 @@
   "archivo": "qsl/QSL_LU9TRL_2026-09.png"
  },
  {
+  "indicativo": "LU9TRL",
+  "codigo": "2NSXGX",
+  "fecha": "2026-09-02 00:24:39",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU9TRL_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA4HUM",
   "codigo": "2J3Y5G",
   "fecha": "2026-08-16 00:56:31",
