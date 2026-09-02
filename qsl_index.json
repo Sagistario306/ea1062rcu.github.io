@@ -5138,6 +5138,13 @@
   "archivo": "qsl/QSL_CE3ABZ_2026-09.png"
  },
  {
+  "indicativo": "CE3ABZ",
+  "codigo": "5V4NPD",
+  "fecha": "2026-09-02 00:27:45",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3ABZ_2026-09_EV.png"
+ },
+ {
   "indicativo": "9M2CLA",
   "codigo": "J8S2NG",
   "fecha": "2026-08-15 00:08:48",
