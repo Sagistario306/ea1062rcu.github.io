@@ -6979,6 +6979,13 @@
   "archivo": "qsl/QSL_9W2BWS_2026-09.png"
  },
  {
+  "indicativo": "9W2BWS",
+  "codigo": "HVP2QG",
+  "fecha": "2026-09-02 00:41:06",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2BWS_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA2FFX",
   "codigo": "TVKFEG",
   "fecha": "2026-08-16 00:04:03",
