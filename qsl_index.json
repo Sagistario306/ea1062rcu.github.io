@@ -6307,6 +6307,13 @@
   "archivo": "qsl/QSL_LU8MPR_2026-09.png"
  },
  {
+  "indicativo": "LU8MPR",
+  "codigo": "G7GUA9",
+  "fecha": "2026-09-02 00:15:38",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU8MPR_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA5CKO",
   "codigo": "CEUDN4",
   "fecha": "2026-08-15 14:23:19",
