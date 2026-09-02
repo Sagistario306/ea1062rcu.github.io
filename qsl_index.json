@@ -7154,6 +7154,13 @@
   "archivo": "qsl/QSL_LU1MQF_2026-09.png"
  },
  {
+  "indicativo": "LU1MQF",
+  "codigo": "APVMAC",
+  "fecha": "2026-09-02 00:45:21",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1MQF_2026-09_EV.png"
+ },
+ {
   "indicativo": "JR1CUL",
   "codigo": "982CAG",
   "fecha": "2026-08-16 00:07:15",
