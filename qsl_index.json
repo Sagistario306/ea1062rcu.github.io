@@ -7567,6 +7567,13 @@
   "archivo": "qsl/QSL_CE2BMA_2026-09.png"
  },
  {
+  "indicativo": "CE2BMA",
+  "codigo": "MHA2A5",
+  "fecha": "2026-09-02 00:33:35",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE2BMA_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA4GOY",
   "codigo": "UJW6XP",
   "fecha": "2026-08-16 00:59:51",
