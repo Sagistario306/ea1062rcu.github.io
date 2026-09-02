@@ -2730,6 +2730,13 @@
   "archivo": "qsl/QSL_9M2EDU_2026-09.png"
  },
  {
+  "indicativo": "9M2EDU",
+  "codigo": "EBSDJX",
+  "fecha": "2026-09-02 04:50:57",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9M2EDU_2026-09_EV.png"
+ },
+ {
   "indicativo": "HOWARD",
   "codigo": "4HX9ZB",
   "fecha": "2026-08-14 14:00:34",
