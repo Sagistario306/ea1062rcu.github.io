@@ -12516,6 +12516,13 @@
   "archivo": "qsl/QSL_XE2AD_2026-09.png"
  },
  {
+  "indicativo": "XE2AD",
+  "codigo": "2XT9YW",
+  "fecha": "2026-09-02 00:17:37",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2AD_2026-09_EV.png"
+ },
+ {
   "indicativo": "LW5DIE",
   "codigo": "8KGEM2",
   "fecha": "2026-08-18 19:46:36",
