@@ -2982,6 +2982,13 @@
   "archivo": "qsl/QSL_HK3OCH_2026-09.png"
  },
  {
+  "indicativo": "HK3OCH",
+  "codigo": "Y2PA2F",
+  "fecha": "2026-09-02 00:13:53",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK3OCH_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA8CQT",
   "codigo": "HHZ8S5",
   "fecha": "2026-08-14 14:05:23",
