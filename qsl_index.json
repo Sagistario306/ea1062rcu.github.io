@@ -9555,6 +9555,13 @@
   "archivo": "qsl/QSL_LU7ODG_2026-09.png"
  },
  {
+  "indicativo": "LU7ODG",
+  "codigo": "SSVAHJ",
+  "fecha": "2026-09-02 00:21:51",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU7ODG_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA4HDZ",
   "codigo": "JQ69YW",
   "fecha": "2026-09-01 14:36:33",
