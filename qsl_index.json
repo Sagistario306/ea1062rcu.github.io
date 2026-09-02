@@ -7609,6 +7609,13 @@
   "archivo": "qsl/QSL_HR2DDL_2026-09.png"
  },
  {
+  "indicativo": "HR2DDL",
+  "codigo": "39R3HR",
+  "fecha": "2026-09-02 00:18:33",
+  "pais": "Honduras",
+  "archivo": "qsl/QSL_HR2DDL_2026-09_EV.png"
+ },
+ {
   "indicativo": "YD1BPG",
   "codigo": "EPTEC9",
   "fecha": "2026-09-01 14:43:30",
