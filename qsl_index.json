@@ -6538,6 +6538,13 @@
   "archivo": "qsl/QSL_NP4GT_2026-09.png"
  },
  {
+  "indicativo": "NP4GT",
+  "codigo": "PACTP9",
+  "fecha": "2026-09-02 00:26:30",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4GT_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA8RH",
   "codigo": "NVKWEC",
   "fecha": "2026-08-15 14:25:11",
