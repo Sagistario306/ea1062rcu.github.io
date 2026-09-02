@@ -12320,6 +12320,13 @@
   "archivo": "qsl/QSL_XE1YGS_2026-09.png"
  },
  {
+  "indicativo": "XE1YGS",
+  "codigo": "9EWVHW",
+  "fecha": "2026-09-02 00:20:10",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1YGS_2026-09_EV.png"
+ },
+ {
   "indicativo": "DX6PAR",
   "codigo": "HR6Y6J",
   "fecha": "2026-08-18 11:31:53",
