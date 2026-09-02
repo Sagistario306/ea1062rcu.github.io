@@ -9492,6 +9492,13 @@
   "archivo": "qsl/QSL_JA2YQQ_2026-09.png"
  },
  {
+  "indicativo": "JA2YQQ",
+  "codigo": "5YQ4HZ",
+  "fecha": "2026-09-02 00:21:41",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA2YQQ_2026-09_EV.png"
+ },
+ {
   "indicativo": "TI1RC",
   "codigo": "6S2ZVB",
   "fecha": "2026-08-17 00:18:45",
