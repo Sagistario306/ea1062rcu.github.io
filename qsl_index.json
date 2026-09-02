@@ -10962,6 +10962,13 @@
   "archivo": "qsl/QSL_TI2HAS_2026-09.png"
  },
  {
+  "indicativo": "TI2HAS",
+  "codigo": "JSKWGG",
+  "fecha": "2026-09-02 00:37:20",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2HAS_2026-09_EV.png"
+ },
+ {
   "indicativo": "YC1JKA",
   "codigo": "3BD2YG",
   "fecha": "2026-08-17 01:30:59",
