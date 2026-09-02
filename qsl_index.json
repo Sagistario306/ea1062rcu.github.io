@@ -26570,5 +26570,12 @@
   "fecha": "2026-09-02 00:12:39",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2JT_2026-09.png"
+ },
+ {
+  "indicativo": "XE2JT",
+  "codigo": "AEA9DP",
+  "fecha": "2026-09-02 00:12:43",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2JT_2026-09_EV.png"
  }
 ]
