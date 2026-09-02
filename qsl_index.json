@@ -17479,6 +17479,13 @@
   "archivo": "qsl/QSL_8P6GC_2026-09.png"
  },
  {
+  "indicativo": "8P6GC",
+  "codigo": "HTEE4P",
+  "fecha": "2026-09-02 00:28:29",
+  "pais": "Barbados",
+  "archivo": "qsl/QSL_8P6GC_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA2DXT",
   "codigo": "Z8TCRF",
   "fecha": "2026-08-22 03:06:29",
