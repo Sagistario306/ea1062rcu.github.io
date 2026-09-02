@@ -10388,6 +10388,13 @@
   "archivo": "qsl/QSL_HP2NG_2026-09.png"
  },
  {
+  "indicativo": "HP2NG",
+  "codigo": "9VNSRV",
+  "fecha": "2026-09-02 00:31:00",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP2NG_2026-09_EV.png"
+ },
+ {
   "indicativo": "TI2AZ",
   "codigo": "DZWXYF",
   "fecha": "2026-08-17 01:13:33",
