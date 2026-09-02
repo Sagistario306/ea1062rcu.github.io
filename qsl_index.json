@@ -11550,6 +11550,13 @@
   "archivo": "qsl/QSL_JR1WN_2026-09.png"
  },
  {
+  "indicativo": "JR1WN",
+  "codigo": "WHNVZ6",
+  "fecha": "2026-09-02 00:14:52",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JR1WN_2026-09_EV.png"
+ },
+ {
   "indicativo": "YB2XBX",
   "codigo": "DMP83N",
   "fecha": "2026-08-18 10:32:25",
