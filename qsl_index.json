@@ -9933,6 +9933,13 @@
   "archivo": "qsl/QSL_XE2G_2026-09.png"
  },
  {
+  "indicativo": "XE2G",
+  "codigo": "9TEJCF",
+  "fecha": "2026-09-02 00:16:47",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2G_2026-09_EV.png"
+ },
+ {
   "indicativo": "9W2NAY",
   "codigo": "PV5B8Z",
   "fecha": "2026-08-17 01:00:28",
