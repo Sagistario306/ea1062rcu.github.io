@@ -11627,6 +11627,13 @@
   "archivo": "qsl/QSL_9M2VIS_2026-09.png"
  },
  {
+  "indicativo": "9M2VIS",
+  "codigo": "98ER5W",
+  "fecha": "2026-09-03 00:29:20",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9M2VIS_2026-09_EV.png"
+ },
+ {
   "indicativo": "4F1PUZ",
   "codigo": "VUEXUD",
   "fecha": "2026-09-03 00:04:00",
