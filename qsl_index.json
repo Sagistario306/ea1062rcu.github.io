@@ -2310,6 +2310,13 @@
   "archivo": "qsl/QSL_EA7URS_2026-09.png"
  },
  {
+  "indicativo": "EA7URS",
+  "codigo": "TRF73M",
+  "fecha": "2026-09-03 00:49:18",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA7URS_2026-09_EV.png"
+ },
+ {
   "indicativo": "TI2JR",
   "codigo": "R6DB8Z",
   "fecha": "2026-08-14 13:53:41",
