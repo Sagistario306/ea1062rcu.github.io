@@ -14175,6 +14175,13 @@
   "archivo": "qsl/QSL_KP3N_2026-09.png"
  },
  {
+  "indicativo": "KP3N",
+  "codigo": "HSFMZD",
+  "fecha": "2026-09-03 00:08:25",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP3N_2026-09_EV.png"
+ },
+ {
   "indicativo": "JA5YRY",
   "codigo": "W8J33A",
   "fecha": "2026-09-01 01:41:06",
