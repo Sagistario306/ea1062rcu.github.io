@@ -14861,6 +14861,13 @@
   "archivo": "qsl/QSL_LU9DUV_2026-09.png"
  },
  {
+  "indicativo": "LU9DUV",
+  "codigo": "UGC9WN",
+  "fecha": "2026-09-03 00:24:49",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU9DUV_2026-09_EV.png"
+ },
+ {
   "indicativo": "XE2KUI",
   "codigo": "PGT2QF",
   "fecha": "2026-08-19 01:02:55",
