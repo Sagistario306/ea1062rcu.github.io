@@ -16961,6 +16961,13 @@
   "archivo": "qsl/QSL_JA4XTA_2026-09.png"
  },
  {
+  "indicativo": "JA4XTA",
+  "codigo": "G6BH4Q",
+  "fecha": "2026-09-03 00:06:15",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA4XTA_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA6API",
   "codigo": "4C2WXP",
   "fecha": "2026-08-21 00:13:22",
