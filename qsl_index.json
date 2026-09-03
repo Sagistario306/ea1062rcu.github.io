@@ -8708,6 +8708,13 @@
   "archivo": "qsl/QSL_EC4DA2_2026-09.png"
  },
  {
+  "indicativo": "EC4DA2",
+  "codigo": "A98XHP",
+  "fecha": "2026-09-03 00:02:40",
+  "pais": "España",
+  "archivo": "qsl/QSL_EC4DA2_2026-09_EV.png"
+ },
+ {
   "indicativo": "XIT",
   "codigo": "X2CT3J",
   "fecha": "2026-08-16 01:13:59",
