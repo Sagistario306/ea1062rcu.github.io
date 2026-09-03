@@ -29034,5 +29034,12 @@
   "fecha": "2026-09-03 00:46:30",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE1RP_2026-09.png"
+ },
+ {
+  "indicativo": "CE1RP",
+  "codigo": "WZX97K",
+  "fecha": "2026-09-03 00:46:37",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE1RP_2026-09_EV.png"
  }
 ]
