@@ -15029,6 +15029,13 @@
   "archivo": "qsl/QSL_LU3OIS_2026-09.png"
  },
  {
+  "indicativo": "LU3OIS",
+  "codigo": "HXG48W",
+  "fecha": "2026-09-03 00:15:29",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU3OIS_2026-09_EV.png"
+ },
+ {
   "indicativo": "LU1HFE",
   "codigo": "SVW9FZ",
   "fecha": "2026-08-19 14:29:41",
