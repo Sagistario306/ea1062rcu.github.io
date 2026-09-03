@@ -17710,6 +17710,13 @@
   "archivo": "qsl/QSL_CE6RCR_2026-09.png"
  },
  {
+  "indicativo": "CE6RCR",
+  "codigo": "2F7J3E",
+  "fecha": "2026-09-03 00:12:26",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE6RCR_2026-09_EV.png"
+ },
+ {
   "indicativo": "LU1QAO",
   "codigo": "UM2S3K",
   "fecha": "2026-08-21 02:15:25",
