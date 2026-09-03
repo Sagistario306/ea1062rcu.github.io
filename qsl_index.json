@@ -20090,6 +20090,13 @@
   "archivo": "qsl/QSL_JA6NGD_2026-09.png"
  },
  {
+  "indicativo": "JA6NGD",
+  "codigo": "JTNCVA",
+  "fecha": "2026-09-03 00:18:55",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA6NGD_2026-09_EV.png"
+ },
+ {
   "indicativo": "JA6LSO",
   "codigo": "GKM5AJ",
   "fecha": "2026-09-01 01:32:52",
