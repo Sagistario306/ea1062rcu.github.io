@@ -5257,6 +5257,13 @@
   "archivo": "qsl/QSL_DX6RAN_2026-09.png"
  },
  {
+  "indicativo": "DX6RAN",
+  "codigo": "3SRJ87",
+  "fecha": "2026-09-03 00:25:37",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DX6RAN_2026-09_EV.png"
+ },
+ {
   "indicativo": "EB3EHJ",
   "codigo": "4MWRKA",
   "fecha": "2026-08-15 00:07:18",
