@@ -8610,6 +8610,13 @@
   "archivo": "qsl/QSL_XE2OCC_2026-09.png"
  },
  {
+  "indicativo": "XE2OCC",
+  "codigo": "QQY6DB",
+  "fecha": "2026-09-03 00:20:32",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2OCC_2026-09_EV.png"
+ },
+ {
   "indicativo": "LU9DPS",
   "codigo": "CX6T4V",
   "fecha": "2026-09-02 00:36:31",
