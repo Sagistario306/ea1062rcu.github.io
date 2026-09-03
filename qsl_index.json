@@ -5789,6 +5789,13 @@
   "archivo": "qsl/QSL_EA3GXK_2026-09.png"
  },
  {
+  "indicativo": "EA3GXK",
+  "codigo": "N4B4A5",
+  "fecha": "2026-09-03 00:28:33",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA3GXK_2026-09_EV.png"
+ },
+ {
   "indicativo": "ED7ZAS",
   "codigo": "A9WNVG",
   "fecha": "2026-08-15 14:05:29",
