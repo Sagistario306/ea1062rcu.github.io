@@ -9982,6 +9982,13 @@
   "archivo": "qsl/QSL_JR1VD_2026-09.png"
  },
  {
+  "indicativo": "JR1VD",
+  "codigo": "SNX4GV",
+  "fecha": "2026-09-03 00:11:23",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JR1VD_2026-09_EV.png"
+ },
+ {
   "indicativo": "DX1CC",
   "codigo": "WVNUQB",
   "fecha": "2026-09-02 00:38:19",
