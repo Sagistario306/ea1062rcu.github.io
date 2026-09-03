@@ -3129,6 +3129,13 @@
   "archivo": "qsl/QSL_DV1OTT_2026-09.png"
  },
  {
+  "indicativo": "DV1OTT",
+  "codigo": "6QFMP3",
+  "fecha": "2026-09-03 00:11:35",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DV1OTT_2026-09_EV.png"
+ },
+ {
   "indicativo": "EB1HHA",
   "codigo": "A52YSD",
   "fecha": "2026-08-14 14:06:16",
