@@ -3780,6 +3780,13 @@
   "archivo": "qsl/QSL_XE3EA_2026-09.png"
  },
  {
+  "indicativo": "XE3EA",
+  "codigo": "QST34K",
+  "fecha": "2026-09-03 00:17:38",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE3EA_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA5JUM",
   "codigo": "TRKNTF",
   "fecha": "2026-08-14 14:16:20",
