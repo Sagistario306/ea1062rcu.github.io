@@ -7497,6 +7497,13 @@
   "archivo": "qsl/QSL_LU1WP_2026-09.png"
  },
  {
+  "indicativo": "LU1WP",
+  "codigo": "7GB83Q",
+  "fecha": "2026-09-03 00:09:23",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1WP_2026-09_EV.png"
+ },
+ {
   "indicativo": "CE6RHY",
   "codigo": "R8J6BA",
   "fecha": "2026-08-16 00:12:04",
