@@ -18585,6 +18585,13 @@
   "archivo": "qsl/QSL_EA7KRS_2026-09.png"
  },
  {
+  "indicativo": "EA7KRS",
+  "codigo": "ZCZ98E",
+  "fecha": "2026-09-03 00:02:30",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA7KRS_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA3FRB",
   "codigo": "274SGQ",
   "fecha": "2026-08-22 03:40:24",
