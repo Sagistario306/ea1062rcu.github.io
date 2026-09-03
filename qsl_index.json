@@ -14525,6 +14525,13 @@
   "archivo": "qsl/QSL_HK2GTS_2026-09.png"
  },
  {
+  "indicativo": "HK2GTS",
+  "codigo": "S5FXVY",
+  "fecha": "2026-09-03 00:24:03",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK2GTS_2026-09_EV.png"
+ },
+ {
   "indicativo": "9W2VFP",
   "codigo": "SEEUXP",
   "fecha": "2026-08-19 00:29:39",
