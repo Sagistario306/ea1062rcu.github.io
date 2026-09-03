@@ -10885,6 +10885,13 @@
   "archivo": "qsl/QSL_LU1DLO_2026-09.png"
  },
  {
+  "indicativo": "LU1DLO",
+  "codigo": "B7TTHA",
+  "fecha": "2026-09-03 00:51:32",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1DLO_2026-09_EV.png"
+ },
+ {
   "indicativo": "JR2TER",
   "codigo": "AMRKJE",
   "fecha": "2026-09-01 01:33:29",
