@@ -7854,6 +7854,13 @@
   "archivo": "qsl/QSL_LU8DVT_2026-09.png"
  },
  {
+  "indicativo": "LU8DVT",
+  "codigo": "UXH7QH",
+  "fecha": "2026-09-03 00:52:37",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU8DVT_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA7BEW",
   "codigo": "Q5EVGK",
   "fecha": "2026-08-16 00:14:21",
