@@ -385,6 +385,13 @@
   "archivo": "qsl/QSL_9M2FAR_2026-09.png"
  },
  {
+  "indicativo": "9M2FAR",
+  "codigo": "BXQ3TY",
+  "fecha": "2026-09-03 00:15:57",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9M2FAR_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA7LCU",
   "codigo": "4FSDSD",
   "fecha": "2026-09-01 01:32:20",
