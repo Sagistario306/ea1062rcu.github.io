@@ -24731,6 +24731,13 @@
   "archivo": "qsl/QSL_JH4FUF_2026-09.png"
  },
  {
+  "indicativo": "JH4FUF",
+  "codigo": "G96BF5",
+  "fecha": "2026-09-03 00:45:03",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JH4FUF_2026-09_EV.png"
+ },
+ {
   "indicativo": "TI2NDR",
   "codigo": "CA5WX8",
   "fecha": "2026-08-27 01:29:31",
