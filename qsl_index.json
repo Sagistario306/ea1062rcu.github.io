@@ -15890,6 +15890,13 @@
   "archivo": "qsl/QSL_JH7USP_2026-09.png"
  },
  {
+  "indicativo": "JH7USP",
+  "codigo": "7CVA2W",
+  "fecha": "2026-09-03 00:16:15",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JH7USP_2026-09_EV.png"
+ },
+ {
   "indicativo": "JR0KCH",
   "codigo": "2G8C89",
   "fecha": "2026-08-20 00:26:57",
