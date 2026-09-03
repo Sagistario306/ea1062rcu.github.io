@@ -11263,6 +11263,13 @@
   "archivo": "qsl/QSL_4F1PUZ_2026-09.png"
  },
  {
+  "indicativo": "4F1PUZ",
+  "codigo": "5CEZ38",
+  "fecha": "2026-09-03 00:04:05",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_4F1PUZ_2026-09_EV.png"
+ },
+ {
   "indicativo": "DW1OTT",
   "codigo": "KRTFJM",
   "fecha": "2026-08-17 01:34:45",
