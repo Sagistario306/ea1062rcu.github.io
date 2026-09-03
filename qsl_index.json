@@ -1841,6 +1841,13 @@
   "archivo": "qsl/QSL_DX1E_2026-09.png"
  },
  {
+  "indicativo": "DX1E",
+  "codigo": "9NT6ZE",
+  "fecha": "2026-09-03 00:24:19",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DX1E_2026-09_EV.png"
+ },
+ {
   "indicativo": "DV7GDL",
   "codigo": "XYC276",
   "fecha": "2026-08-13 21:06:18",
