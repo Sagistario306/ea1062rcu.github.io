@@ -11963,6 +11963,13 @@
   "archivo": "qsl/QSL_HP1DUA_2026-09.png"
  },
  {
+  "indicativo": "HP1DUA",
+  "codigo": "4DGGRQ",
+  "fecha": "2026-09-03 00:17:50",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP1DUA_2026-09_EV.png"
+ },
+ {
   "indicativo": "XE1CKJ",
   "codigo": "FTQGP2",
   "fecha": "2026-08-17 01:50:27",
