@@ -15232,6 +15232,13 @@
   "archivo": "qsl/QSL_CX3BZ_2026-09.png"
  },
  {
+  "indicativo": "CX3BZ",
+  "codigo": "FUSB65",
+  "fecha": "2026-09-03 00:02:50",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX3BZ_2026-09_EV.png"
+ },
+ {
   "indicativo": "XE3K",
   "codigo": "8DJ4WX",
   "fecha": "2026-08-19 23:59:55",
