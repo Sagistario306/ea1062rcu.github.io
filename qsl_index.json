@@ -15337,6 +15337,13 @@
   "archivo": "qsl/QSL_CE1ODR_2026-09.png"
  },
  {
+  "indicativo": "CE1ODR",
+  "codigo": "APB6W3",
+  "fecha": "2026-09-03 00:21:15",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE1ODR_2026-09_EV.png"
+ },
+ {
   "indicativo": "LU5XTS",
   "codigo": "NF7TTV",
   "fecha": "2026-08-19 16:43:29",
