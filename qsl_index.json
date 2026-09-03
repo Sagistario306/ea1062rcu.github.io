@@ -16079,6 +16079,13 @@
   "archivo": "qsl/QSL_EA8DGO_2026-09.png"
  },
  {
+  "indicativo": "EA8DGO",
+  "codigo": "78GVX6",
+  "fecha": "2026-09-03 00:14:15",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA8DGO_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA7LGA",
   "codigo": "ED2JPT",
   "fecha": "2026-09-03 00:10:17",
