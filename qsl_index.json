@@ -4690,6 +4690,13 @@
   "archivo": "qsl/QSL_9M4GHZ_2026-09.png"
  },
  {
+  "indicativo": "9M4GHZ",
+  "codigo": "YF8JK9",
+  "fecha": "2026-09-03 00:00:33",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9M4GHZ_2026-09_EV.png"
+ },
+ {
   "indicativo": "XE2NLM",
   "codigo": "7RFC2M",
   "fecha": "2026-08-15 00:02:00",
