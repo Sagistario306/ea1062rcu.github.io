@@ -13650,6 +13650,13 @@
   "archivo": "qsl/QSL_LU4DCL_2026-09.png"
  },
  {
+  "indicativo": "LU4DCL",
+  "codigo": "66JQKZ",
+  "fecha": "2026-09-03 00:47:16",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU4DCL_2026-09_EV.png"
+ },
+ {
   "indicativo": "HJ4KAC",
   "codigo": "9Q6MBX",
   "fecha": "2026-09-01 01:29:30",
