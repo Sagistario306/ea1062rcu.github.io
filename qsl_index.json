@@ -13013,6 +13013,13 @@
   "archivo": "qsl/QSL_LU9DCE_2026-09.png"
  },
  {
+  "indicativo": "LU9DCE",
+  "codigo": "GWXZRR",
+  "fecha": "2026-09-03 00:45:56",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU9DCE_2026-09_EV.png"
+ },
+ {
   "indicativo": "JH5HTX",
   "codigo": "CKHZT5",
   "fecha": "2026-08-18 10:42:23",
