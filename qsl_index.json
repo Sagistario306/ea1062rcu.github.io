@@ -10752,6 +10752,13 @@
   "archivo": "qsl/QSL_4G1DFP_2026-09.png"
  },
  {
+  "indicativo": "4G1DFP",
+  "codigo": "77W2JP",
+  "fecha": "2026-09-03 00:22:10",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_4G1DFP_2026-09_EV.png"
+ },
+ {
   "indicativo": "LW3DHN",
   "codigo": "58DSGH",
   "fecha": "2026-08-17 00:31:30",
