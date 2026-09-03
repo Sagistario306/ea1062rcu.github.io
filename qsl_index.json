@@ -5691,6 +5691,13 @@
   "archivo": "qsl/QSL_CE2II_2026-09.png"
  },
  {
+  "indicativo": "CE2II",
+  "codigo": "RAUTFN",
+  "fecha": "2026-09-03 00:42:45",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE2II_2026-09_EV.png"
+ },
+ {
   "indicativo": "ED1ZAT",
   "codigo": "B2Q7YJ",
   "fecha": "2026-08-15 14:03:56",
