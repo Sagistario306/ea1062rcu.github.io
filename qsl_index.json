@@ -14924,6 +14924,13 @@
   "archivo": "qsl/QSL_LU1AOZ_2026-09.png"
  },
  {
+  "indicativo": "LU1AOZ",
+  "codigo": "HPMYCV",
+  "fecha": "2026-09-03 00:51:55",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1AOZ_2026-09_EV.png"
+ },
+ {
   "indicativo": "JR6VZG",
   "codigo": "ASJBYV",
   "fecha": "2026-08-19 00:42:50",
