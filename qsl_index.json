@@ -7728,6 +7728,13 @@
   "archivo": "qsl/QSL_JR6HKE_2026-09.png"
  },
  {
+  "indicativo": "JR6HKE",
+  "codigo": "FKZ3XB",
+  "fecha": "2026-09-03 00:06:47",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JR6HKE_2026-09_EV.png"
+ },
+ {
   "indicativo": "LU6HLS",
   "codigo": "TUM227",
   "fecha": "2026-09-01 01:29:56",
