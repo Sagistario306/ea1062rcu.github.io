@@ -28733,5 +28733,12 @@
   "fecha": "2026-09-03 00:09:04",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU9SGT_2026-09_EV.png"
+ },
+ {
+  "indicativo": "XE1LPP",
+  "codigo": "TDWTFR",
+  "fecha": "2026-09-03 00:23:11",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1LPP_2026-09.png"
  }
 ]
