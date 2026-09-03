@@ -7735,6 +7735,13 @@
   "archivo": "qsl/QSL_4G1CLT_2026-09.png"
  },
  {
+  "indicativo": "4G1CLT",
+  "codigo": "WZA2Q3",
+  "fecha": "2026-09-03 00:05:56",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_4G1CLT_2026-09_EV.png"
+ },
+ {
   "indicativo": "XE1MYO",
   "codigo": "SYJ436",
   "fecha": "2026-08-16 00:59:19",
