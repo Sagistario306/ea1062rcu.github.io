@@ -29076,5 +29076,12 @@
   "fecha": "2026-09-03 00:47:38",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2DIN_2026-09.png"
+ },
+ {
+  "indicativo": "9M2DIN",
+  "codigo": "RUWDCT",
+  "fecha": "2026-09-03 00:47:45",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9M2DIN_2026-09_EV.png"
  }
 ]
