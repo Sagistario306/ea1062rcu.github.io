@@ -18599,6 +18599,13 @@
   "archivo": "qsl/QSL_HI4R_2026-09.png"
  },
  {
+  "indicativo": "HI4R",
+  "codigo": "EBJK4K",
+  "fecha": "2026-09-03 00:17:13",
+  "pais": "Republica Dominicana",
+  "archivo": "qsl/QSL_HI4R_2026-09_EV.png"
+ },
+ {
   "indicativo": "YN1ZHG",
   "codigo": "BUD9JK",
   "fecha": "2026-09-03 00:16:30",
