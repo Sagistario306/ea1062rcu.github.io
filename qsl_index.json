@@ -28740,5 +28740,12 @@
   "fecha": "2026-09-03 00:23:11",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1LPP_2026-09.png"
+ },
+ {
+  "indicativo": "XE1LPP",
+  "codigo": "QJWN56",
+  "fecha": "2026-09-03 00:23:18",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1LPP_2026-09_EV.png"
  }
 ]
