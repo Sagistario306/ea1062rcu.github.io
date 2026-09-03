@@ -17444,6 +17444,13 @@
   "archivo": "qsl/QSL_EA2AUK_2026-09.png"
  },
  {
+  "indicativo": "EA2AUK",
+  "codigo": "BTRSP7",
+  "fecha": "2026-09-03 00:10:41",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA2AUK_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA1IPG",
   "codigo": "CK353X",
   "fecha": "2026-08-21 00:36:41",
