@@ -7049,6 +7049,13 @@
   "archivo": "qsl/QSL_XE2FAA_2026-09.png"
  },
  {
+  "indicativo": "XE2FAA",
+  "codigo": "W8BAYD",
+  "fecha": "2026-09-03 00:53:28",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2FAA_2026-09_EV.png"
+ },
+ {
   "indicativo": "TG0AA",
   "codigo": "565KQG",
   "fecha": "2026-08-15 14:24:58",
