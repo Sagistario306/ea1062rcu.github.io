@@ -343,6 +343,13 @@
   "archivo": "qsl/QSL_XE2VP_2026-09.png"
  },
  {
+  "indicativo": "XE2VP",
+  "codigo": "Q9QKAR",
+  "fecha": "2026-09-03 00:52:49",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2VP_2026-09_EV.png"
+ },
+ {
   "indicativo": "HR1AHR",
   "codigo": "64PFXA",
   "fecha": "2026-08-13 13:13:35",
