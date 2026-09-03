@@ -9884,6 +9884,13 @@
   "archivo": "qsl/QSL_DV7SKY_2026-09.png"
  },
  {
+  "indicativo": "DV7SKY",
+  "codigo": "DNKEVY",
+  "fecha": "2026-09-03 00:10:12",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DV7SKY_2026-09_EV.png"
+ },
+ {
   "indicativo": "LU7PB",
   "codigo": "XX3HEC",
   "fecha": "2026-08-17 00:12:19",
