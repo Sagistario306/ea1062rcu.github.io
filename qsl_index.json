@@ -14511,6 +14511,13 @@
   "archivo": "qsl/QSL_JA7OMC_2026-09.png"
  },
  {
+  "indicativo": "JA7OMC",
+  "codigo": "YC8HMZ",
+  "fecha": "2026-09-03 00:27:29",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA7OMC_2026-09_EV.png"
+ },
+ {
   "indicativo": "KP3N",
   "codigo": "FTA3Z3",
   "fecha": "2026-09-03 00:08:20",
