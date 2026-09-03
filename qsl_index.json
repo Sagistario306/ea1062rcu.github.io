@@ -28222,5 +28222,12 @@
   "fecha": "2026-09-03 00:09:00",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU9SGT_2026-09.png"
+ },
+ {
+  "indicativo": "LU9SGT",
+  "codigo": "RC286N",
+  "fecha": "2026-09-03 00:09:04",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU9SGT_2026-09_EV.png"
  }
 ]
