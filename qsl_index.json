@@ -5950,6 +5950,13 @@
   "archivo": "qsl/QSL_HP2DFA_2026-09.png"
  },
  {
+  "indicativo": "HP2DFA",
+  "codigo": "Q599WZ",
+  "fecha": "2026-09-04 00:14:22",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP2DFA_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA6AMR",
   "codigo": "H2TGZ9",
   "fecha": "2026-08-15 14:05:41",
