@@ -20216,6 +20216,13 @@
   "archivo": "qsl/QSL_EA4FER_2026-09.png"
  },
  {
+  "indicativo": "EA4FER",
+  "codigo": "3GVEDN",
+  "fecha": "2026-09-04 00:32:21",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA4FER_2026-09_EV.png"
+ },
+ {
   "indicativo": "JR3VK",
   "codigo": "BBYF2U",
   "fecha": "2026-08-22 03:13:00",
