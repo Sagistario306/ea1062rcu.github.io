@@ -11347,6 +11347,13 @@
   "archivo": "qsl/QSL_LU2DT_2026-09.png"
  },
  {
+  "indicativo": "LU2DT",
+  "codigo": "GG8JG2",
+  "fecha": "2026-09-04 00:12:09",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU2DT_2026-09_EV.png"
+ },
+ {
   "indicativo": "9W3EZY",
   "codigo": "2HN5VG",
   "fecha": "2026-09-01 01:39:48",
