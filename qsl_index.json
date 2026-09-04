@@ -6671,6 +6671,13 @@
   "archivo": "qsl/QSL_YB1SDL_2026-09.png"
  },
  {
+  "indicativo": "YB1SDL",
+  "codigo": "CGCDEY",
+  "fecha": "2026-09-04 00:07:21",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YB1SDL_2026-09_EV.png"
+ },
+ {
   "indicativo": "HK3LRB",
   "codigo": "MGERRF",
   "fecha": "2026-08-15 14:19:17",
