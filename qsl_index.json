@@ -11053,6 +11053,13 @@
   "archivo": "qsl/QSL_LU4SCM_2026-09.png"
  },
  {
+  "indicativo": "LU4SCM",
+  "codigo": "MUAWAY",
+  "fecha": "2026-09-04 00:31:55",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU4SCM_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA5MT",
   "codigo": "T82HEZ",
   "fecha": "2026-08-17 00:25:09",
