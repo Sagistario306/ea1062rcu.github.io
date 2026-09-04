@@ -10717,6 +10717,13 @@
   "archivo": "qsl/QSL_DX1ER_2026-09.png"
  },
  {
+  "indicativo": "DX1ER",
+  "codigo": "PZCYSM",
+  "fecha": "2026-09-04 00:08:25",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DX1ER_2026-09_EV.png"
+ },
+ {
   "indicativo": "YG2BMZ",
   "codigo": "NM9NTQ",
   "fecha": "2026-08-17 00:23:22",
