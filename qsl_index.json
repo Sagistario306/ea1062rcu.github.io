@@ -14315,6 +14315,13 @@
   "archivo": "qsl/QSL_HK7JA_2026-09.png"
  },
  {
+  "indicativo": "HK7JA",
+  "codigo": "GPS74X",
+  "fecha": "2026-09-04 00:33:49",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK7JA_2026-09_EV.png"
+ },
+ {
   "indicativo": "YB1PHB",
   "codigo": "2YC8JC",
   "fecha": "2026-08-18 11:37:33",
