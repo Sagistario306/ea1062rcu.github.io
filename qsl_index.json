@@ -2205,6 +2205,13 @@
   "archivo": "qsl/QSL_LU6EEG_2026-09.png"
  },
  {
+  "indicativo": "LU6EEG",
+  "codigo": "Z3E8Y6",
+  "fecha": "2026-09-04 00:04:37",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU6EEG_2026-09_EV.png"
+ },
+ {
   "indicativo": "YH3BA",
   "codigo": "2JC89T",
   "fecha": "2026-08-14 13:51:41",
