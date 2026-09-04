@@ -11613,6 +11613,13 @@
   "archivo": "qsl/QSL_LU6EWB_2026-09.png"
  },
  {
+  "indicativo": "LU6EWB",
+  "codigo": "82UJMB",
+  "fecha": "2026-09-04 00:01:38",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU6EWB_2026-09_EV.png"
+ },
+ {
   "indicativo": "9W2WGC",
   "codigo": "7R2MAG",
   "fecha": "2026-08-17 01:29:04",
