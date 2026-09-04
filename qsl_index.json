@@ -4494,6 +4494,13 @@
   "archivo": "qsl/QSL_9W2RLW_2026-09.png"
  },
  {
+  "indicativo": "9W2RLW",
+  "codigo": "GTR6RS",
+  "fecha": "2026-09-04 00:10:16",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2RLW_2026-09_EV.png"
+ },
+ {
   "indicativo": "JA5ILM",
   "codigo": "DS6VYZ",
   "fecha": "2026-09-02 00:38:41",
