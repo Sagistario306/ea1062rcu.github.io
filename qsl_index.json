@@ -13244,6 +13244,13 @@
   "archivo": "qsl/QSL_JR6BJN_2026-09.png"
  },
  {
+  "indicativo": "JR6BJN",
+  "codigo": "XSTKKQ",
+  "fecha": "2026-09-04 00:02:40",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JR6BJN_2026-09_EV.png"
+ },
+ {
   "indicativo": "JR2XJS",
   "codigo": "J2J2H5",
   "fecha": "2026-08-18 10:44:51",
