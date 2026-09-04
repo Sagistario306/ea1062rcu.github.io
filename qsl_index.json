@@ -1211,6 +1211,13 @@
   "archivo": "qsl/QSL_JH7QFP_2026-09.png"
  },
  {
+  "indicativo": "JH7QFP",
+  "codigo": "728MAF",
+  "fecha": "2026-09-04 00:05:11",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JH7QFP_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA4JAD",
   "codigo": "68WGVY",
   "fecha": "2026-08-13 13:47:08",
