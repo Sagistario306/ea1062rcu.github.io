@@ -3416,6 +3416,13 @@
   "archivo": "qsl/QSL_HP1UPR_2026-09.png"
  },
  {
+  "indicativo": "HP1UPR",
+  "codigo": "VQY7U9",
+  "fecha": "2026-09-04 00:29:19",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP1UPR_2026-09_EV.png"
+ },
+ {
   "indicativo": "JR3VH",
   "codigo": "N7A234",
   "fecha": "2026-08-14 14:09:14",
