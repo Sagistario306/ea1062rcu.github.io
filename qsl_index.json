@@ -7588,6 +7588,13 @@
   "archivo": "qsl/QSL_LU8LCT_2026-09.png"
  },
  {
+  "indicativo": "LU8LCT",
+  "codigo": "5MAG4P",
+  "fecha": "2026-09-04 00:00:26",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU8LCT_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA2FGU",
   "codigo": "WEMS6H",
   "fecha": "2026-08-16 00:08:18",
