@@ -1071,6 +1071,13 @@
   "archivo": "qsl/QSL_XE2EB_2026-09.png"
  },
  {
+  "indicativo": "XE2EB",
+  "codigo": "JSN8MM",
+  "fecha": "2026-09-04 00:32:32",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2EB_2026-09_EV.png"
+ },
+ {
   "indicativo": "XE3RLB",
   "codigo": "E3MQCD",
   "fecha": "2026-09-01 01:32:07",
