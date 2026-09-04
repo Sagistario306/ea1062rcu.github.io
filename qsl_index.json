@@ -8540,6 +8540,13 @@
   "archivo": "qsl/QSL_EA6QB_2026-09.png"
  },
  {
+  "indicativo": "EA6QB",
+  "codigo": "675GSE",
+  "fecha": "2026-09-04 00:05:32",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA6QB_2026-09_EV.png"
+ },
+ {
   "indicativo": "9W2NWX",
   "codigo": "8CAM6T",
   "fecha": "2026-08-16 01:06:15",
