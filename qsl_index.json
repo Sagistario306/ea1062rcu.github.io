@@ -14735,6 +14735,13 @@
   "archivo": "qsl/QSL_XE2UD_2026-09.png"
  },
  {
+  "indicativo": "XE2UD",
+  "codigo": "UBM3WR",
+  "fecha": "2026-09-04 00:38:02",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2UD_2026-09_EV.png"
+ },
+ {
   "indicativo": "LU4FGS",
   "codigo": "72DUQJ",
   "fecha": "2026-08-18 19:51:19",
