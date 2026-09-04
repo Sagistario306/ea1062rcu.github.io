@@ -12803,6 +12803,13 @@
   "archivo": "qsl/QSL_XE3VK_2026-09.png"
  },
  {
+  "indicativo": "XE3VK",
+  "codigo": "54VRNX",
+  "fecha": "2026-09-04 00:25:35",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE3VK_2026-09_EV.png"
+ },
+ {
   "indicativo": "XE1JEG",
   "codigo": "GKS823",
   "fecha": "2026-08-17 02:21:25",
