@@ -12656,6 +12656,13 @@
   "archivo": "qsl/QSL_KP4RY_2026-09.png"
  },
  {
+  "indicativo": "KP4RY",
+  "codigo": "3FJTK3",
+  "fecha": "2026-09-04 00:28:08",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4RY_2026-09_EV.png"
+ },
+ {
   "indicativo": "YY5EHT",
   "codigo": "F7X932",
   "fecha": "2026-08-17 01:51:26",
