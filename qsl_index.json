@@ -357,6 +357,13 @@
   "archivo": "qsl/QSL_HR1AHR_2026-09.png"
  },
  {
+  "indicativo": "HR1AHR",
+  "codigo": "NAPS8Q",
+  "fecha": "2026-09-04 00:26:53",
+  "pais": "Honduras",
+  "archivo": "qsl/QSL_HR1AHR_2026-09_EV.png"
+ },
+ {
   "indicativo": "EB2EMZ",
   "codigo": "Q7B6MS",
   "fecha": "2026-08-13 13:13:56",
