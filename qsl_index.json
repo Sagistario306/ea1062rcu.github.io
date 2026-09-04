@@ -12747,6 +12747,13 @@
   "archivo": "qsl/QSL_CE3ESB_2026-09.png"
  },
  {
+  "indicativo": "CE3ESB",
+  "codigo": "DGNUCB",
+  "fecha": "2026-09-04 00:39:29",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3ESB_2026-09_EV.png"
+ },
+ {
   "indicativo": "KP4SC",
   "codigo": "TPNUGS",
   "fecha": "2026-09-04 00:30:49",
