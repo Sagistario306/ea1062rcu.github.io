@@ -10073,6 +10073,13 @@
   "archivo": "qsl/QSL_CE3CUP_2026-09.png"
  },
  {
+  "indicativo": "CE3CUP",
+  "codigo": "R2KTUZ",
+  "fecha": "2026-09-04 00:07:02",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3CUP_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA7BW",
   "codigo": "WQAV2S",
   "fecha": "2026-08-17 00:07:54",
