@@ -13048,6 +13048,13 @@
   "archivo": "qsl/QSL_JR6PZD_2026-09.png"
  },
  {
+  "indicativo": "JR6PZD",
+  "codigo": "8V978G",
+  "fecha": "2026-09-04 00:13:58",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JR6PZD_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA2ATH",
   "codigo": "AS95FK",
   "fecha": "2026-09-02 00:44:02",
