@@ -8344,6 +8344,13 @@
   "archivo": "qsl/QSL_XE2OR_2026-09.png"
  },
  {
+  "indicativo": "XE2OR",
+  "codigo": "R7KWZC",
+  "fecha": "2026-09-04 00:11:33",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2OR_2026-09_EV.png"
+ },
+ {
   "indicativo": "EC5M",
   "codigo": "XQ64XW",
   "fecha": "2026-09-01 01:36:34",
