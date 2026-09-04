@@ -12187,6 +12187,13 @@
   "archivo": "qsl/QSL_TI3DSA_2026-09.png"
  },
  {
+  "indicativo": "TI3DSA",
+  "codigo": "C65QVS",
+  "fecha": "2026-09-04 00:24:47",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI3DSA_2026-09_EV.png"
+ },
+ {
   "indicativo": "HJ1BNL",
   "codigo": "4NKB3B",
   "fecha": "2026-09-01 00:45:48",
