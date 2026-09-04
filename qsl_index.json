@@ -1281,6 +1281,13 @@
   "archivo": "qsl/QSL_CE2UGO_2026-09.png"
  },
  {
+  "indicativo": "CE2UGO",
+  "codigo": "3F6ZKC",
+  "fecha": "2026-09-04 00:09:05",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE2UGO_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA4URC",
   "codigo": "F8USRH",
   "fecha": "2026-08-13 13:47:58",
