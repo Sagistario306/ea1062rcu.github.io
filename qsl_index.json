@@ -10689,6 +10689,13 @@
   "archivo": "qsl/QSL_JR5WW_2026-09.png"
  },
  {
+  "indicativo": "JR5WW",
+  "codigo": "AVDPTK",
+  "fecha": "2026-09-04 00:19:20",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JR5WW_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA1AHA",
   "codigo": "SM6DXF",
   "fecha": "2026-08-17 00:20:15",
