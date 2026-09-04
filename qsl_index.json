@@ -10381,6 +10381,13 @@
   "archivo": "qsl/QSL_YD0BSK_2026-09.png"
  },
  {
+  "indicativo": "YD0BSK",
+  "codigo": "KZ6XVA",
+  "fecha": "2026-09-04 00:21:41",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YD0BSK_2026-09_EV.png"
+ },
+ {
   "indicativo": "JA5MSG",
   "codigo": "GH8KMV",
   "fecha": "2026-08-17 00:12:44",
