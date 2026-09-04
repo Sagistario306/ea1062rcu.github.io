@@ -3087,6 +3087,13 @@
   "archivo": "qsl/QSL_XE2JEG_2026-09.png"
  },
  {
+  "indicativo": "XE2JEG",
+  "codigo": "W56QAX",
+  "fecha": "2026-09-04 00:37:20",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2JEG_2026-09_EV.png"
+ },
+ {
   "indicativo": "CE3JBG",
   "codigo": "9GF2ZP",
   "fecha": "2026-09-01 14:44:58",
