@@ -1855,6 +1855,13 @@
   "archivo": "qsl/QSL_DV7GDL_2026-09.png"
  },
  {
+  "indicativo": "DV7GDL",
+  "codigo": "W9JEUM",
+  "fecha": "2026-09-04 00:39:16",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DV7GDL_2026-09_EV.png"
+ },
+ {
   "indicativo": "HK6Y",
   "codigo": "J4C5FX",
   "fecha": "2026-09-01 01:25:52",
