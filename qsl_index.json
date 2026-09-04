@@ -22498,6 +22498,13 @@
   "archivo": "qsl/QSL_JA1DRE_2026-09.png"
  },
  {
+  "indicativo": "JA1DRE",
+  "codigo": "D42S4K",
+  "fecha": "2026-09-04 00:22:30",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA1DRE_2026-09_EV.png"
+ },
+ {
   "indicativo": "JH4MSA",
   "codigo": "DB5C8V",
   "fecha": "2026-09-01 01:26:13",
