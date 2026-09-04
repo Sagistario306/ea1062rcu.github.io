@@ -2555,6 +2555,13 @@
   "archivo": "qsl/QSL_XE1CRG_2026-09.png"
  },
  {
+  "indicativo": "XE1CRG",
+  "codigo": "BVQVYC",
+  "fecha": "2026-09-04 00:21:53",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1CRG_2026-09_EV.png"
+ },
+ {
   "indicativo": "HK4CL",
   "codigo": "X7R6CZ",
   "fecha": "2026-09-01 14:42:14",
