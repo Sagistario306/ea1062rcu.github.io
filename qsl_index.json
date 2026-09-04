@@ -4683,6 +4683,13 @@
   "archivo": "qsl/QSL_HK5VD_2026-09.png"
  },
  {
+  "indicativo": "HK5VD",
+  "codigo": "BZW6PU",
+  "fecha": "2026-09-04 00:23:58",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK5VD_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA5LQ",
   "codigo": "QRUVGB",
   "fecha": "2026-09-01 01:27:02",
