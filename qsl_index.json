@@ -6769,6 +6769,13 @@
   "archivo": "qsl/QSL_9W2KEY_2026-09.png"
  },
  {
+  "indicativo": "9W2KEY",
+  "codigo": "CRJHHU",
+  "fecha": "2026-09-04 00:03:24",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2KEY_2026-09_EV.png"
+ },
+ {
   "indicativo": "EA7KLF",
   "codigo": "HW2BHY",
   "fecha": "2026-08-15 14:20:55",
