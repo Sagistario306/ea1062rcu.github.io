@@ -6734,6 +6734,13 @@
   "archivo": "qsl/QSL_EB2DJB_2026-09.png"
  },
  {
+  "indicativo": "EB2DJB",
+  "codigo": "PFK55K",
+  "fecha": "2026-09-04 00:20:36",
+  "pais": "España",
+  "archivo": "qsl/QSL_EB2DJB_2026-09_EV.png"
+ },
+ {
   "indicativo": "EB2AOW",
   "codigo": "66XFBR",
   "fecha": "2026-08-15 14:19:28",
