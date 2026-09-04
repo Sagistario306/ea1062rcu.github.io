@@ -19299,6 +19299,13 @@
   "archivo": "qsl/QSL_HI3FAM_2026-09.png"
  },
  {
+  "indicativo": "HI3FAM",
+  "codigo": "6ZGBD3",
+  "fecha": "2026-09-04 00:01:59",
+  "pais": "Republica Dominicana",
+  "archivo": "qsl/QSL_HI3FAM_2026-09_EV.png"
+ },
+ {
   "indicativo": "9M2FDX",
   "codigo": "AN82WU",
   "fecha": "2026-08-22 03:09:02",
