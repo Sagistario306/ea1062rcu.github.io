@@ -19026,6 +19026,13 @@
   "archivo": "qsl/QSL_DX8FAR_2026-09.png"
  },
  {
+  "indicativo": "DX8FAR",
+  "codigo": "TAJ3J8",
+  "fecha": "2026-09-04 00:07:34",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DX8FAR_2026-09_EV.png"
+ },
+ {
   "indicativo": "JH5QYZ",
   "codigo": "JCNE6Z",
   "fecha": "2026-08-22 02:59:11",
