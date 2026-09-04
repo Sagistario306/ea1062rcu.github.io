@@ -14301,6 +14301,13 @@
   "archivo": "qsl/QSL_TI2CHJ_2026-09.png"
  },
  {
+  "indicativo": "TI2CHJ",
+  "codigo": "PQ2TRB",
+  "fecha": "2026-09-04 00:05:00",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2CHJ_2026-09_EV.png"
+ },
+ {
   "indicativo": "CX8MXX",
   "codigo": "GUNQ3K",
   "fecha": "2026-08-18 21:09:58",
