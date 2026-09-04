@@ -13874,6 +13874,13 @@
   "archivo": "qsl/QSL_HJ4CID_2026-09.png"
  },
  {
+  "indicativo": "HJ4CID",
+  "codigo": "76NBJX",
+  "fecha": "2026-09-04 00:35:02",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ4CID_2026-09_EV.png"
+ },
+ {
   "indicativo": "YC5KWZ",
   "codigo": "GJ54HX",
   "fecha": "2026-08-18 10:50:37",
