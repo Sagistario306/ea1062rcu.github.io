@@ -10283,6 +10283,13 @@
   "archivo": "qsl/QSL_LU9DA_2026-09.png"
  },
  {
+  "indicativo": "LU9DA",
+  "codigo": "C28S3G",
+  "fecha": "2026-09-04 00:30:43",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU9DA_2026-09_EV.png"
+ },
+ {
   "indicativo": "CE3CUP",
   "codigo": "7XAMS5",
   "fecha": "2026-09-04 00:06:57",
