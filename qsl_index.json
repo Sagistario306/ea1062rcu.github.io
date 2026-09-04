@@ -30595,5 +30595,12 @@
   "fecha": "2026-09-04 06:41:04",
   "pais": "España",
   "archivo": "qsl/QSL_EC7DGD_2026-09.png"
+ },
+ {
+  "indicativo": "EC7DGD",
+  "codigo": "GKPH72",
+  "fecha": "2026-09-04 06:41:09",
+  "pais": "España",
+  "archivo": "qsl/QSL_EC7DGD_2026-09_EV.png"
  }
 ]
