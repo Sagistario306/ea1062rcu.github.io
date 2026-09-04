@@ -15386,6 +15386,13 @@
   "archivo": "qsl/QSL_JA0GUM_2026-09.png"
  },
  {
+  "indicativo": "JA0GUM",
+  "codigo": "QHPYND",
+  "fecha": "2026-09-04 00:26:27",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA0GUM_2026-09_EV.png"
+ },
+ {
   "indicativo": "JA6BHL",
   "codigo": "F8WCD5",
   "fecha": "2026-09-02 00:27:04",
