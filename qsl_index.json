@@ -15267,6 +15267,13 @@
   "archivo": "qsl/QSL_LU2AFE_2026-09.png"
  },
  {
+  "indicativo": "LU2AFE",
+  "codigo": "454B3M",
+  "fecha": "2026-09-04 00:08:45",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU2AFE_2026-09_EV.png"
+ },
+ {
   "indicativo": "YG1BKV",
   "codigo": "J76BUS",
   "fecha": "2026-09-02 00:14:36",
