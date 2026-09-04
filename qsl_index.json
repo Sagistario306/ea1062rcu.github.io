@@ -12642,6 +12642,13 @@
   "archivo": "qsl/QSL_KP4SC_2026-09.png"
  },
  {
+  "indicativo": "KP4SC",
+  "codigo": "2SSJQW",
+  "fecha": "2026-09-04 00:30:54",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4SC_2026-09_EV.png"
+ },
+ {
   "indicativo": "CX1AA",
   "codigo": "ADMRAA",
   "fecha": "2026-08-17 01:49:02",
