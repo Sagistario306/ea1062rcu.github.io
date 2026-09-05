@@ -31092,5 +31092,12 @@
   "fecha": "2026-09-05 02:01:48",
   "pais": "Japon",
   "archivo": "qsl/QSL_JA5OVU_2026-09.png"
+ },
+ {
+  "indicativo": "JA5OVU",
+  "codigo": "VXUNT8",
+  "fecha": "2026-09-05 02:02:13",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA5OVU_2026-09_EV.png"
  }
 ]
