@@ -31050,5 +31050,12 @@
   "fecha": "2026-09-05 01:33:01",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI2VLM_2026-09.png"
+ },
+ {
+  "indicativo": "TI2VLM",
+  "codigo": "TVPNPP",
+  "fecha": "2026-09-05 01:33:07",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2VLM_2026-09_EV.png"
  }
 ]
