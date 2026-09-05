@@ -12586,6 +12586,13 @@
   "archivo": "qsl/QSL_KP4LCA_2026-09.png"
  },
  {
+  "indicativo": "KP4LCA",
+  "codigo": "2REMA3",
+  "fecha": "2026-09-05 00:17:38",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4LCA_2026-09_EV.png"
+ },
+ {
   "indicativo": "YD2VTC",
   "codigo": "UAX5XV",
   "fecha": "2026-08-17 01:44:01",
