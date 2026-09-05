@@ -30889,5 +30889,12 @@
   "fecha": "2026-09-05 00:24:02",
   "pais": "Japon",
   "archivo": "qsl/QSL_JA8NOU_2026-09.png"
+ },
+ {
+  "indicativo": "JA8NOU",
+  "codigo": "UJZ7QJ",
+  "fecha": "2026-09-05 00:24:08",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA8NOU_2026-09_EV.png"
  }
 ]
