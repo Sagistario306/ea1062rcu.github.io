@@ -32205,5 +32205,12 @@
   "fecha": "2026-09-05 11:25:28",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU7BGM_2026-09.png"
+ },
+ {
+  "indicativo": "LU7BGM",
+  "codigo": "3CF8WF",
+  "fecha": "2026-09-05 11:25:34",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU7BGM_2026-09_EV.png"
  }
 ]
