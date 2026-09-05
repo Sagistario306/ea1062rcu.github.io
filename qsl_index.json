@@ -30623,5 +30623,12 @@
   "fecha": "2026-09-05 00:01:13",
   "pais": "España",
   "archivo": "qsl/QSL_EA3AII_2026-09.png"
+ },
+ {
+  "indicativo": "EA3AII",
+  "codigo": "VQ4S76",
+  "fecha": "2026-09-05 00:01:20",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA3AII_2026-09_EV.png"
  }
 ]
