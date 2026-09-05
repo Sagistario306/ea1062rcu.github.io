@@ -31127,5 +31127,12 @@
   "fecha": "2026-09-05 02:14:25",
   "pais": "Japon",
   "archivo": "qsl/QSL_JH0WSL_2026-09.png"
+ },
+ {
+  "indicativo": "JH0WSL",
+  "codigo": "ZT6ENV",
+  "fecha": "2026-09-05 02:14:30",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JH0WSL_2026-09_EV.png"
  }
 ]
