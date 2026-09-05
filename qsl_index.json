@@ -11753,6 +11753,13 @@
   "archivo": "qsl/QSL_HC1FQ_2026-09.png"
  },
  {
+  "indicativo": "HC1FQ",
+  "codigo": "EJYVMQ",
+  "fecha": "2026-09-05 00:20:23",
+  "pais": "Ecuador",
+  "archivo": "qsl/QSL_HC1FQ_2026-09_EV.png"
+ },
+ {
   "indicativo": "LU3JAR",
   "codigo": "7TGR5F",
   "fecha": "2026-08-17 01:14:56",
