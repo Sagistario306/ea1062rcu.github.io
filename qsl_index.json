@@ -16646,6 +16646,13 @@
   "archivo": "qsl/QSL_LU2XCV_2026-09.png"
  },
  {
+  "indicativo": "LU2XCV",
+  "codigo": "D5W7ZV",
+  "fecha": "2026-09-05 15:47:07",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU2XCV_2026-09_EV.png"
+ },
+ {
   "indicativo": "CE1RSM",
   "codigo": "Q4QASR",
   "fecha": "2026-08-19 16:31:10",
