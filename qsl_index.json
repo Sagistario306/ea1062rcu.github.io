@@ -30966,5 +30966,12 @@
   "fecha": "2026-09-05 00:57:46",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1DS_2026-09.png"
+ },
+ {
+  "indicativo": "LU1DS",
+  "codigo": "ZTU3ST",
+  "fecha": "2026-09-05 00:57:51",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1DS_2026-09_EV.png"
  }
 ]
