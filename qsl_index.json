@@ -30735,5 +30735,12 @@
   "fecha": "2026-09-05 00:06:58",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1GDG_2026-09_EV.png"
+ },
+ {
+  "indicativo": "EA2FGL",
+  "codigo": "4UNCQX",
+  "fecha": "2026-09-05 00:09:22",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA2FGL_2026-09.png"
  }
 ]
