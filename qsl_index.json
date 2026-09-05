@@ -31288,5 +31288,12 @@
   "fecha": "2026-09-05 03:02:11",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1VJK_2026-09.png"
+ },
+ {
+  "indicativo": "LU1VJK",
+  "codigo": "FW27VF",
+  "fecha": "2026-09-05 03:02:17",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1VJK_2026-09_EV.png"
  }
 ]
