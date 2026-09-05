@@ -32310,5 +32310,12 @@
   "fecha": "2026-09-05 13:59:20",
   "pais": "Honduras",
   "archivo": "qsl/QSL_HR1JBR_2026-09.png"
+ },
+ {
+  "indicativo": "HR1JBR",
+  "codigo": "VEG5DF",
+  "fecha": "2026-09-05 13:59:25",
+  "pais": "Honduras",
+  "archivo": "qsl/QSL_HR1JBR_2026-09_EV.png"
  }
 ]
