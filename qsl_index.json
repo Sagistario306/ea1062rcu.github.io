@@ -2786,6 +2786,13 @@
   "archivo": "qsl/QSL_HC6AC_2026-09.png"
  },
  {
+  "indicativo": "HC6AC",
+  "codigo": "CQVF7U",
+  "fecha": "2026-09-05 02:03:14",
+  "pais": "Ecuador",
+  "archivo": "qsl/QSL_HC6AC_2026-09_EV.png"
+ },
+ {
   "indicativo": "JH6RKO",
   "codigo": "F596PY",
   "fecha": "2026-09-03 00:28:08",
