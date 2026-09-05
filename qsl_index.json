@@ -31652,5 +31652,12 @@
   "fecha": "2026-09-05 06:31:15",
   "pais": "España",
   "archivo": "qsl/QSL_EA7JRS_2026-09.png"
+ },
+ {
+  "indicativo": "EA7JRS",
+  "codigo": "S778D2",
+  "fecha": "2026-09-05 06:31:21",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA7JRS_2026-09_EV.png"
  }
 ]
