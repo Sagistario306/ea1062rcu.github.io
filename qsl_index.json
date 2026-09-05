@@ -31554,5 +31554,12 @@
   "fecha": "2026-09-05 05:19:33",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2BCS_2026-09.png"
+ },
+ {
+  "indicativo": "XE2BCS",
+  "codigo": "8T79P4",
+  "fecha": "2026-09-05 05:19:37",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2BCS_2026-09_EV.png"
  }
 ]
