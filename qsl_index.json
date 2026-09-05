@@ -31708,5 +31708,12 @@
   "fecha": "2026-09-05 07:01:54",
   "pais": "Japon",
   "archivo": "qsl/QSL_JA1LJK_2026-09.png"
+ },
+ {
+  "indicativo": "JA1LJK",
+  "codigo": "HYYY2E",
+  "fecha": "2026-09-05 07:02:00",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA1LJK_2026-09_EV.png"
  }
 ]
