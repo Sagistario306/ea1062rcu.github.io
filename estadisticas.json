@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-05",
- "total_mes": 951,
+ "total_mes": 952,
  "paises": {
   "Filipinas": 50,
   "Mexico": 63,
@@ -8,7 +8,7 @@
   "Indonesia": 99,
   "Honduras": 5,
   "Malasia": 114,
-  "Argentina": 83,
+  "Argentina": 84,
   "Colombia": 30,
   "Chile": 45,
   "Japon": 149,
@@ -31,5 +31,25 @@
   "Cuba": 1
  },
  "descargadas": 19,
- "pendientes": 932
+ "pendientes": 933,
+ "metricas_reciprocidad": {
+  "club": {
+   "entregadas": 60,
+   "descargadas": 16,
+   "confirmadas": 31,
+   "retenidas": 0,
+   "pct_descarga": 26.7,
+   "pct_reciprocidad": 51.7,
+   "conversion": 193.8
+  },
+  "nuevos": {
+   "entregadas": 892,
+   "descargadas": 3,
+   "confirmadas": 0,
+   "retenidas": 3,
+   "pct_descarga": 0.3,
+   "pct_reciprocidad": 0.0,
+   "conversion": 0.0
+  }
+ }
 }
