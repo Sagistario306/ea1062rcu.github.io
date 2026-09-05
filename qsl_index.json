@@ -32170,5 +32170,12 @@
   "fecha": "2026-09-05 10:13:12",
   "pais": "España",
   "archivo": "qsl/QSL_EB1CAM_2026-09_EV.png"
+ },
+ {
+  "indicativo": "CX1CW",
+  "codigo": "NTR83B",
+  "fecha": "2026-09-05 10:13:17",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX1CW_2026-09.png"
  }
 ]
