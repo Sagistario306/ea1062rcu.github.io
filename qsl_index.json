@@ -13111,6 +13111,13 @@
   "archivo": "qsl/QSL_XE2JJC_2026-09.png"
  },
  {
+  "indicativo": "XE2JJC",
+  "codigo": "UNKUQ2",
+  "fecha": "2026-09-05 01:38:21",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2JJC_2026-09_EV.png"
+ },
+ {
   "indicativo": "XE1FVS",
   "codigo": "EN9WAB",
   "fecha": "2026-09-02 00:35:25",
