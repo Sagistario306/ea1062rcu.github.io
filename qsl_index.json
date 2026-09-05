@@ -30630,5 +30630,12 @@
   "fecha": "2026-09-05 00:01:20",
   "pais": "España",
   "archivo": "qsl/QSL_EA3AII_2026-09_EV.png"
+ },
+ {
+  "indicativo": "TI5CBF",
+  "codigo": "R47NCQ",
+  "fecha": "2026-09-05 00:01:26",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI5CBF_2026-09.png"
  }
 ]
