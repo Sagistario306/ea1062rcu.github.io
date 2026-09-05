@@ -31568,5 +31568,12 @@
   "fecha": "2026-09-05 05:37:19",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU7AFG_2026-09.png"
+ },
+ {
+  "indicativo": "LU7AFG",
+  "codigo": "WSF3J4",
+  "fecha": "2026-09-05 05:37:25",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU7AFG_2026-09_EV.png"
  }
 ]
