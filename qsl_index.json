@@ -14952,6 +14952,13 @@
   "archivo": "qsl/QSL_KP4NET_2026-09.png"
  },
  {
+  "indicativo": "KP4NET",
+  "codigo": "GC9CY9",
+  "fecha": "2026-09-05 00:09:04",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4NET_2026-09_EV.png"
+ },
+ {
   "indicativo": "YC1SDM",
   "codigo": "YUX7W3",
   "fecha": "2026-08-18 20:35:25",
