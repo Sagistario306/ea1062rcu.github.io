@@ -14399,6 +14399,13 @@
   "archivo": "qsl/QSL_NP4AD_2026-09.png"
  },
  {
+  "indicativo": "NP4AD",
+  "codigo": "72V4H8",
+  "fecha": "2026-09-05 00:06:42",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4AD_2026-09_EV.png"
+ },
+ {
   "indicativo": "XE1YGS",
   "codigo": "HX9YK5",
   "fecha": "2026-09-02 00:20:05",
