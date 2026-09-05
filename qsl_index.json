@@ -31442,5 +31442,12 @@
   "fecha": "2026-09-05 04:32:52",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK4OK_2026-09.png"
+ },
+ {
+  "indicativo": "HK4OK",
+  "codigo": "6QV8CK",
+  "fecha": "2026-09-05 04:32:58",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK4OK_2026-09_EV.png"
  }
 ]
