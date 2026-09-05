@@ -31540,5 +31540,12 @@
   "fecha": "2026-09-05 05:18:55",
   "pais": "Japon",
   "archivo": "qsl/QSL_JA8TDL_2026-09.png"
+ },
+ {
+  "indicativo": "JA8TDL",
+  "codigo": "BKB8SR",
+  "fecha": "2026-09-05 05:19:00",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA8TDL_2026-09_EV.png"
  }
 ]
