@@ -32191,5 +32191,12 @@
   "fecha": "2026-09-05 10:30:02",
   "pais": "España",
   "archivo": "qsl/QSL_EA4HCQ_2026-09.png"
+ },
+ {
+  "indicativo": "EA4HCQ",
+  "codigo": "5TESC8",
+  "fecha": "2026-09-05 10:30:08",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA4HCQ_2026-09_EV.png"
  }
 ]
