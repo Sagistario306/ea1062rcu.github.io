@@ -32233,5 +32233,12 @@
   "fecha": "2026-09-05 11:44:59",
   "pais": "Republica Dominicana",
   "archivo": "qsl/QSL_HI8SDR_2026-09_EV.png"
+ },
+ {
+  "indicativo": "KP4DSV",
+  "codigo": "9TURUN",
+  "fecha": "2026-09-05 12:01:22",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4DSV_2026-09.png"
  }
 ]
