@@ -32450,5 +32450,12 @@
   "fecha": "2026-09-05 20:45:12",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1ADI_2026-09.png"
+ },
+ {
+  "indicativo": "LU1ADI",
+  "codigo": "UKXURJ",
+  "fecha": "2026-09-05 20:45:17",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1ADI_2026-09_EV.png"
  }
 ]
