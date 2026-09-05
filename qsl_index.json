@@ -3619,6 +3619,13 @@
   "archivo": "qsl/QSL_LU5VRN_2026-09.png"
  },
  {
+  "indicativo": "LU5VRN",
+  "codigo": "RAPCT4",
+  "fecha": "2026-09-05 12:26:12",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU5VRN_2026-09_EV.png"
+ },
+ {
   "indicativo": "HJ5LHV",
   "codigo": "S5XBP8",
   "fecha": "2026-09-04 00:03:44",
