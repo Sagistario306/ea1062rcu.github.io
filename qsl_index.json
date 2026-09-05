@@ -31960,5 +31960,12 @@
   "fecha": "2026-09-05 08:56:34",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE3WTZ_2026-09.png"
+ },
+ {
+  "indicativo": "CE3WTZ",
+  "codigo": "2XEDQA",
+  "fecha": "2026-09-05 08:56:40",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3WTZ_2026-09_EV.png"
  }
 ]
