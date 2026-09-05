@@ -16583,6 +16583,13 @@
   "archivo": "qsl/QSL_LW3DFA_2026-09.png"
  },
  {
+  "indicativo": "LW3DFA",
+  "codigo": "69CB7H",
+  "fecha": "2026-09-05 11:31:29",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW3DFA_2026-09_EV.png"
+ },
+ {
   "indicativo": "HP1SEB",
   "codigo": "GZYEVQ",
   "fecha": "2026-08-19 16:03:27",
