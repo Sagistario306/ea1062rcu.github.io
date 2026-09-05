@@ -30742,5 +30742,12 @@
   "fecha": "2026-09-05 00:09:22",
   "pais": "España",
   "archivo": "qsl/QSL_EA2FGL_2026-09.png"
+ },
+ {
+  "indicativo": "EA2FGL",
+  "codigo": "KEYZFW",
+  "fecha": "2026-09-05 00:09:27",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA2FGL_2026-09_EV.png"
  }
 ]
