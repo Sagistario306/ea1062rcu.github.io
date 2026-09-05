@@ -31190,5 +31190,12 @@
   "fecha": "2026-09-05 02:28:05",
   "pais": "Japon",
   "archivo": "qsl/QSL_JA9GYE_2026-09.png"
+ },
+ {
+  "indicativo": "JA9GYE",
+  "codigo": "8G483S",
+  "fecha": "2026-09-05 02:28:12",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA9GYE_2026-09_EV.png"
  }
 ]
