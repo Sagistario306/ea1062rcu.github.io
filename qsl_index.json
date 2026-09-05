@@ -32240,5 +32240,12 @@
   "fecha": "2026-09-05 12:01:22",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP4DSV_2026-09.png"
+ },
+ {
+  "indicativo": "KP4DSV",
+  "codigo": "H7KW32",
+  "fecha": "2026-09-05 12:01:27",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4DSV_2026-09_EV.png"
  }
 ]
