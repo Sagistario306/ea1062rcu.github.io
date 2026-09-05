@@ -30938,5 +30938,12 @@
   "fecha": "2026-09-05 00:43:33",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE3QC_2026-09.png"
+ },
+ {
+  "indicativo": "CE3QC",
+  "codigo": "N6EP4P",
+  "fecha": "2026-09-05 00:43:40",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3QC_2026-09_EV.png"
  }
 ]
