@@ -31141,5 +31141,12 @@
   "fecha": "2026-09-05 02:15:14",
   "pais": "Japon",
   "archivo": "qsl/QSL_JR9WUC_2026-09.png"
+ },
+ {
+  "indicativo": "JR9WUC",
+  "codigo": "FFJWQP",
+  "fecha": "2026-09-05 02:15:20",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JR9WUC_2026-09_EV.png"
  }
 ]
