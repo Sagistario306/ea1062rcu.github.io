@@ -30637,5 +30637,12 @@
   "fecha": "2026-09-05 00:01:26",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI5CBF_2026-09.png"
+ },
+ {
+  "indicativo": "TI5CBF",
+  "codigo": "YMZ8UN",
+  "fecha": "2026-09-05 00:01:34",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI5CBF_2026-09_EV.png"
  }
 ]
