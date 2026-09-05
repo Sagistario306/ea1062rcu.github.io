@@ -30861,5 +30861,12 @@
   "fecha": "2026-09-05 00:21:10",
   "pais": "España",
   "archivo": "qsl/QSL_EC5W_2026-09.png"
+ },
+ {
+  "indicativo": "EC5W",
+  "codigo": "52M5S6",
+  "fecha": "2026-09-05 00:21:16",
+  "pais": "España",
+  "archivo": "qsl/QSL_EC5W_2026-09_EV.png"
  }
 ]
