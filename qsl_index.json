@@ -33122,5 +33122,12 @@
   "fecha": "2026-09-06 09:18:06",
   "pais": "Japon",
   "archivo": "qsl/QSL_JA3RTU_2026-09.png"
+ },
+ {
+  "indicativo": "JA3RTU",
+  "codigo": "WD5QZJ",
+  "fecha": "2026-09-06 09:18:11",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA3RTU_2026-09_EV.png"
  }
 ]
