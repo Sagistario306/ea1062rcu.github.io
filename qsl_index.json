@@ -33542,5 +33542,12 @@
   "fecha": "2026-09-06 13:20:02",
   "pais": "España",
   "archivo": "qsl/QSL_EB1BTF_2026-09.png"
+ },
+ {
+  "indicativo": "EB1BTF",
+  "codigo": "E293WG",
+  "fecha": "2026-09-06 13:20:08",
+  "pais": "España",
+  "archivo": "qsl/QSL_EB1BTF_2026-09_EV.png"
  }
 ]
