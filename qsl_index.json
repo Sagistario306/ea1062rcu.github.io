@@ -33675,5 +33675,12 @@
   "fecha": "2026-09-06 15:13:23",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LW1DSD_2026-09.png"
+ },
+ {
+  "indicativo": "LW1DSD",
+  "codigo": "8YW6BA",
+  "fecha": "2026-09-06 15:13:30",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW1DSD_2026-09_EV.png"
  }
 ]
