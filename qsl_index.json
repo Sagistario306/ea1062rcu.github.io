@@ -33808,5 +33808,12 @@
   "fecha": "2026-09-06 17:49:28",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE1CFT_2026-09.png"
+ },
+ {
+  "indicativo": "CE1CFT",
+  "codigo": "QUWKCW",
+  "fecha": "2026-09-06 17:50:18",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE1CFT_2026-09_EV.png"
  }
 ]
