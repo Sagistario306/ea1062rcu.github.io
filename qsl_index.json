@@ -33556,5 +33556,12 @@
   "fecha": "2026-09-06 13:34:25",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1ASB_2026-09.png"
+ },
+ {
+  "indicativo": "LU1ASB",
+  "codigo": "RT46U5",
+  "fecha": "2026-09-06 13:34:57",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1ASB_2026-09_EV.png"
  }
 ]
