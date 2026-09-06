@@ -33829,5 +33829,12 @@
   "fecha": "2026-09-06 19:22:33",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE5ET_2026-09.png"
+ },
+ {
+  "indicativo": "CE5ET",
+  "codigo": "8UUEHD",
+  "fecha": "2026-09-06 19:22:39",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE5ET_2026-09_EV.png"
  }
 ]
