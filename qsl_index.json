@@ -32513,5 +32513,12 @@
   "fecha": "2026-09-06 00:01:03",
   "pais": "España",
   "archivo": "qsl/QSL_EA1FAW_2026-09.png"
+ },
+ {
+  "indicativo": "EA1FAW",
+  "codigo": "PA79FU",
+  "fecha": "2026-09-06 00:01:07",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA1FAW_2026-09_EV.png"
  }
 ]
