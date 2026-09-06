@@ -32653,5 +32653,12 @@
   "fecha": "2026-09-06 02:06:16",
   "pais": "Japon",
   "archivo": "qsl/QSL_JA5VIB_2026-09.png"
+ },
+ {
+  "indicativo": "JA5VIB",
+  "codigo": "MTSQRA",
+  "fecha": "2026-09-06 02:06:24",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA5VIB_2026-09_EV.png"
  }
 ]
