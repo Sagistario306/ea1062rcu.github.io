@@ -34550,5 +34550,12 @@
   "fecha": "2026-09-07 12:03:25",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK6F_2026-09.png"
+ },
+ {
+  "indicativo": "HK6F",
+  "codigo": "5297YY",
+  "fecha": "2026-09-07 12:03:31",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK6F_2026-09_EV.png"
  }
 ]
