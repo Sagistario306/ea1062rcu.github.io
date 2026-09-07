@@ -34970,5 +34970,12 @@
   "fecha": "2026-09-07 21:03:26",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI3LSK_2026-09.png"
+ },
+ {
+  "indicativo": "TI3LSK",
+  "codigo": "NY3CD8",
+  "fecha": "2026-09-07 21:03:32",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI3LSK_2026-09_EV.png"
  }
 ]
