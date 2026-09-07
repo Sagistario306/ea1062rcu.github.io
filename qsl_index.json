@@ -34900,5 +34900,12 @@
   "fecha": "2026-09-07 20:08:06",
   "pais": "Japon",
   "archivo": "qsl/QSL_JA1XGO_2026-09.png"
+ },
+ {
+  "indicativo": "JA1XGO",
+  "codigo": "JRMFBH",
+  "fecha": "2026-09-07 20:08:12",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA1XGO_2026-09_EV.png"
  }
 ]
