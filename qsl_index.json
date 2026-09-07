@@ -35033,5 +35033,12 @@
   "fecha": "2026-09-07 22:45:30",
   "pais": "Uruguay",
   "archivo": "qsl/QSL_CX7ACH_2026-09.png"
+ },
+ {
+  "indicativo": "CX7ACH",
+  "codigo": "7H94JR",
+  "fecha": "2026-09-07 22:45:36",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX7ACH_2026-09_EV.png"
  }
 ]
