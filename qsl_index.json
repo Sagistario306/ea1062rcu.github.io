@@ -35061,5 +35061,12 @@
   "fecha": "2026-09-07 22:59:28",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2MAM_2026-09.png"
+ },
+ {
+  "indicativo": "XE2MAM",
+  "codigo": "KWPBRE",
+  "fecha": "2026-09-07 22:59:34",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2MAM_2026-09_EV.png"
  }
 ]
