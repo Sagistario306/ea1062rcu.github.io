@@ -35075,5 +35075,12 @@
   "fecha": "2026-09-07 23:01:33",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1ELI_2026-09.png"
+ },
+ {
+  "indicativo": "XE1ELI",
+  "codigo": "DAARKC",
+  "fecha": "2026-09-07 23:01:38",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1ELI_2026-09_EV.png"
  }
 ]
