@@ -32291,20 +32291,6 @@
   "archivo": "qsl/QSL_EB1CAM_2026-09_EV.png"
  },
  {
-  "indicativo": "CX1CW",
-  "codigo": "NTR83B",
-  "fecha": "2026-09-05 10:13:17",
-  "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX1CW_2026-09.png"
- },
- {
-  "indicativo": "CX1CW",
-  "codigo": "Q963Q5",
-  "fecha": "2026-09-05 10:13:21",
-  "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX1CW_2026-09_EV.png"
- },
- {
   "indicativo": "EA4HCQ",
   "codigo": "AVKVRY",
   "fecha": "2026-09-05 10:30:02",
@@ -32569,20 +32555,6 @@
   "fecha": "2026-09-06 00:00:41",
   "pais": "Japon",
   "archivo": "qsl/QSL_JA4CZM_2026-09_EV.png"
- },
- {
-  "indicativo": "EA1FAW",
-  "codigo": "PEDGKD",
-  "fecha": "2026-09-06 00:01:03",
-  "pais": "España",
-  "archivo": "qsl/QSL_EA1FAW_2026-09.png"
- },
- {
-  "indicativo": "EA1FAW",
-  "codigo": "PA79FU",
-  "fecha": "2026-09-06 00:01:07",
-  "pais": "España",
-  "archivo": "qsl/QSL_EA1FAW_2026-09_EV.png"
  },
  {
   "indicativo": "JR7QIB",
@@ -34599,5 +34571,12 @@
   "fecha": "2026-09-07 12:28:03",
   "pais": "España",
   "archivo": "qsl/QSL_EA4FMI_2026-09_EV.png"
+ },
+ {
+  "indicativo": "XE1THW",
+  "codigo": "XJSNR5",
+  "fecha": "2026-09-07 14:11:47",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1THW_2026-09.png"
  }
 ]
