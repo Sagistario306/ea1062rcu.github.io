@@ -35901,5 +35901,12 @@
   "fecha": "2026-09-09 21:47:07",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK4DAP_2026-09.png"
+ },
+ {
+  "indicativo": "CX3RAN",
+  "codigo": "BC92ZP",
+  "fecha": "2026-09-09 22:36:53",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX3RAN_2026-09.png"
  }
 ]
