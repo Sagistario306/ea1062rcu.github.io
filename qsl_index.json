@@ -16598,10 +16598,10 @@
  },
  {
   "indicativo": "LU1UDP",
-  "codigo": "N9PPEN",
-  "fecha": "2026-08-19 15:30:37",
+  "codigo": "W5KSBU",
+  "fecha": "2026-09-11 02:08:43",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU1UDP_2026-08.png"
+  "archivo": "qsl/QSL_LU1UDP_2026-09.png"
  },
  {
   "indicativo": "LU1HKO",
@@ -36405,5 +36405,12 @@
   "fecha": "2026-09-10 23:27:27",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1ANG_2026-09.png"
+ },
+ {
+  "indicativo": "EA7GYY",
+  "codigo": "X85E64",
+  "fecha": "2026-09-11 12:35:26",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA7GYY_2026-09.png"
  }
 ]
