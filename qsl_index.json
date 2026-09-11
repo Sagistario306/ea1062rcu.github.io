@@ -36601,5 +36601,12 @@
   "fecha": "2026-09-11 19:35:41",
   "pais": "Paraguay",
   "archivo": "qsl/QSL_ZP6EUA_2026-09.png"
+ },
+ {
+  "indicativo": "CE4CIT",
+  "codigo": "PNMJPW",
+  "fecha": "2026-09-11 19:43:10",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE4CIT_2026-09.png"
  }
 ]
