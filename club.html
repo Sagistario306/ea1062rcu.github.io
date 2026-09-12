@@ -44,6 +44,48 @@
   .banner-mini { max-width: 900px; margin: 18px auto 0 auto; text-align: center;
     color: #94a3b8; font-size: 0.85rem; }
   .banner-mini a { color: #4fc3f7; font-weight: bold; }
+
+  /* ===== v3: buscador, selector y banderas ===== */
+  .filtros-club {
+    max-width: 900px; margin: 20px auto 10px auto;
+    display: flex; flex-wrap: wrap; gap: 12px; align-items: center;
+    padding: 14px 18px; border-radius: 12px;
+    background: #0f172a; border: 1px solid rgba(251,191,36,0.25);
+  }
+  .filtros-club label { color: #fbbf24; font-weight: bold; font-size: 0.9rem; }
+  .filtros-club input[type="text"] {
+    flex: 1 1 200px; min-width: 180px;
+    padding: 10px 14px; border-radius: 8px;
+    background: #1e293b; color: #f1f5f9; border: 1px solid rgba(255,255,255,0.1);
+    font-size: 0.95rem;
+  }
+  .filtros-club input[type="text"]:focus {
+    outline: none; border-color: #fbbf24;
+    box-shadow: 0 0 0 2px rgba(251,191,36,0.25);
+  }
+  .filtros-club select {
+    padding: 10px 14px; border-radius: 8px;
+    background: #1e293b; color: #f1f5f9; border: 1px solid rgba(255,255,255,0.1);
+    font-size: 0.95rem; cursor: pointer; min-width: 180px;
+  }
+  .filtros-club select:focus { outline: none; border-color: #fbbf24; }
+  .contador-filtro {
+    color: #94a3b8; font-size: 0.88rem; margin-left: auto;
+  }
+  .contador-filtro strong { color: #4fc3f7; }
+  .bandera {
+    width: 24px; height: 18px; vertical-align: middle;
+    margin-right: 8px; border-radius: 2px;
+    box-shadow: 0 0 0 1px rgba(255,255,255,0.08);
+    background: #1e293b;
+  }
+  .call-cell { display: flex; align-items: center; }
+  .sin-pais { color: #64748b; font-size: 0.8em; margin-left: 4px; }
+  @media (max-width: 600px) {
+    .filtros-club { flex-direction: column; align-items: stretch; }
+    .contador-filtro { margin-left: 0; text-align: center; }
+    .filtros-club select, .filtros-club input { min-width: auto; }
+  }
 </style>
 </head>
 <body>
@@ -66,6 +108,17 @@
     <div style="margin-top:10px; font-size:0.85rem; color:#94a3b8;">
       En Telegram escribe: <code style="background:#1e293b;padding:2px 6px;border-radius:4px;">/codigo TU_CALL</code>
     </div>
+  </div>
+
+  <!-- v3: barra de filtros -->
+  <div class="filtros-club">
+    <label for="buscador">🔍</label>
+    <input id="buscador" type="text" placeholder="Buscar por indicativo o país (ej: JA3 o Japón)">
+    <label for="selector-pais">🌍</label>
+    <select id="selector-pais">
+      <option value="">Todos los países</option>
+    </select>
+    <span class="contador-filtro" id="contador-filtro"></span>
   </div>
 
   <table class="tabla-club">
@@ -98,6 +151,74 @@
 </main>
 
 <script>
+/* ===== v3: tabla DXCC prefijo -> (ISO country code, nombre en español) ===== */
+const DXCC = [
+  ["KP3","pr","Puerto Rico"],["KP4","pr","Puerto Rico"],["NP3","pr","Puerto Rico"],["NP4","pr","Puerto Rico"],
+  ["KH6","us","Hawái (EE.UU.)"],["KL7","us","Alaska (EE.UU.)"],
+  ["KG4","us","Isla Navassa"],["KH2","gu","Guam"],
+  ["YV","ve","Venezuela"],["YY","ve","Venezuela"],
+  ["XE","mx","México"],["XF","mx","México"],["XG","mx","México"],["XH","mx","México"],["XI","mx","México"],
+  ["LU","ar","Argentina"],["LW","ar","Argentina"],["AY","ar","Argentina"],["AZ","ar","Argentina"],
+  ["CE","cl","Chile"],
+  ["OA","pe","Perú"],["OB","pe","Perú"],["OC","pe","Perú"],
+  ["HK","co","Colombia"],["HJ","co","Colombia"],["5K","co","Colombia"],
+  ["HC","ec","Ecuador"],["HD","ec","Ecuador"],
+  ["HP","pa","Panamá"],["HO","pa","Panamá"],
+  ["CX","uy","Uruguay"],["CV","uy","Uruguay"],["CW","uy","Uruguay"],
+  ["TI","cr","Costa Rica"],["TE","cr","Costa Rica"],
+  ["TG","gt","Guatemala"],["TD","gt","Guatemala"],
+  ["HR","hn","Honduras"],["HQ","hn","Honduras"],
+  ["CO","cu","Cuba"],["CM","cu","Cuba"],["CL","cu","Cuba"],["T4","cu","Cuba"],
+  ["HI","do","República Dominicana"],
+  ["YN","ni","Nicaragua"],["HT","ni","Nicaragua"],
+  ["YS","sv","El Salvador"],["HU","sv","El Salvador"],
+  ["HH","ht","Haití"],["V3","bz","Belice"],
+  ["CP","bo","Bolivia"],["ZP","py","Paraguay"],
+  ["8R","gy","Guyana"],["PZ","sr","Surinam"],["FY","gf","Guyana Francesa"],
+  ["6Y","jm","Jamaica"],["9Y","tt","Trinidad y Tobago"],["9Z","tt","Trinidad y Tobago"],
+  ["8P","bb","Barbados"],["V2","ag","Antigua y Barbuda"],["C6","bs","Bahamas"],
+  ["J6","lc","Santa Lucía"],["J8","vc","San Vicente"],["J7","dm","Dominica"],["J3","gd","Granada"],
+  ["P4","aw","Aruba"],["PJ","cw","Curazao"],
+  ["K","us","Estados Unidos"],["W","us","Estados Unidos"],["N","us","Estados Unidos"],
+  ["VE","ca","Canadá"],["VA","ca","Canadá"],
+  ["DU","ph","Filipinas"],["DV","ph","Filipinas"],["DW","ph","Filipinas"],
+  ["DX","ph","Filipinas"],["DY","ph","Filipinas"],["DZ","ph","Filipinas"],
+  ["4D","ph","Filipinas"],["4E","ph","Filipinas"],["4F","ph","Filipinas"],
+  ["4G","ph","Filipinas"],["4H","ph","Filipinas"],["4I","ph","Filipinas"],
+  ["9V","sg","Singapur"],["9M","my","Malasia"],["9W","my","Malasia"],
+  ["YB","id","Indonesia"],["YC","id","Indonesia"],["YD","id","Indonesia"],
+  ["YE","id","Indonesia"],["YF","id","Indonesia"],["YG","id","Indonesia"],["YH","id","Indonesia"],
+  ["JA","jp","Japón"],["JH","jp","Japón"],["JR","jp","Japón"],
+  ["EA","es","España"],["EB","es","España"],["EC","es","España"],
+  ["ED","es","España"],["EE","es","España"],["EF","es","España"],["EG","es","España"],["EH","es","España"],
+  ["DL","de","Alemania"],["G","gb","Reino Unido"],
+  ["UA","ru","Rusia"],["R","ru","Rusia"],
+  ["I","it","Italia"],["F","fr","Francia"],["PA","nl","Países Bajos"],
+  ["SP","pl","Polonia"],["TA","tr","Turquía"],["CT","pt","Portugal"],
+  ["UR","ua","Ucrania"],["SV","gr","Grecia"],
+  ["SM","se","Suecia"],["LA","no","Noruega"],["OZ","dk","Dinamarca"],["OH","fi","Finlandia"],
+  ["HL","kr","Corea del Sur"],["BY","cn","China"],["VU","in","India"],
+  ["HS","th","Tailandia"],["XV","vn","Vietnam"],["4X","il","Israel"],
+  ["A6","ae","Emiratos Árabes"],["A7","qa","Qatar"],["9K","kw","Kuwait"],
+  ["UN","kz","Kazajistán"],
+  ["ZS","za","Sudáfrica"],["CN","ma","Marruecos"],["SU","eg","Egipto"],
+  ["7X","dz","Argelia"],["5N","ng","Nigeria"],["5Z","ke","Kenia"],
+  ["9G","gh","Ghana"],["3V","tn","Túnez"],
+  ["VK","au","Australia"],["ZL","nz","Nueva Zelanda"],
+  ["P2","pg","Papúa Nueva Guinea"],["YJ","vu","Vanuatu"],["5W","fj","Fiyi"],
+  ["PY","br","Brasil"]
+];
+// Orden descendente por longitud de prefijo (prefijos largos primero)
+DXCC.sort((a, b) => b[0].length - a[0].length);
+
+function paisDe(call) {
+  const base = call.split("-")[0].toUpperCase();
+  for (const [pref, iso, nombre] of DXCC) {
+    if (base.startsWith(pref)) return { iso, nombre };
+  }
+  return null;
+}
+
 const NIVELES = [
   [12, "DIAMOND"], [9, "MASTER"], [6, "PLATINUM"],
   [3, "ESMERALDA"], [1, "VIP"]
@@ -107,38 +228,112 @@ function nivelDe(t) {
   return "VIP";
 }
 
-fetch('club_index.json?v=' + Date.now())
-  .then(r => r.ok ? r.json() : [])
-  .then(d => {
-    const tb = document.getElementById('cuerpo-club');
-    const st = document.getElementById('stats-club');
-    d.sort((a,b) => a.num - b.num);
+let DATA = [];
+let ESTADO = { q: "", pais: "" };
 
-    const porNivel = {};
-    d.forEach(m => {
-      const n = m.nivel || nivelDe(m.total || 1);
-      porNivel[n] = (porNivel[n] || 0) + 1;
-    });
-    const stats = NIVELES.map(([, n]) =>
-      `${n}: <strong>${porNivel[n] || 0}</strong>`).join(' · ');
-    st.innerHTML = `🏆 <strong>${d.length}</strong> miembros · ${stats}`;
+function render() {
+  const tb = document.getElementById('cuerpo-club');
+  const cont = document.getElementById('contador-filtro');
+  const q = ESTADO.q.toLowerCase().trim();
+  const p = ESTADO.pais;
 
-    tb.innerHTML = d.map(m => {
+  const filtrados = DATA.filter(m => {
+    const pMatch = (p === "" || m._iso === p);
+    let qMatch = true;
+    if (q) {
+      qMatch = m.indicativo.toLowerCase().includes(q) ||
+               (m._pais && m._pais.toLowerCase().includes(q));
+    }
+    return pMatch && qMatch;
+  });
+
+  if (!filtrados.length) {
+    tb.innerHTML = `<tr><td colspan="5" style="text-align:center; padding:24px;">
+      ${DATA.length ? '🔍 Ningún miembro coincide con tu filtro' : 'Aún sin miembros — ¡sé el primero en confirmar! 🌟'}
+    </td></tr>`;
+  } else {
+    tb.innerHTML = filtrados.map(m => {
       const nivel = m.nivel || nivelDe(m.total || 1);
+      const flag = m._iso
+        ? `<img class="bandera" src="https://flagcdn.com/24x18/${m._iso}.png"
+                alt="${m._pais}" title="${m._pais}"
+                onerror="this.style.visibility='hidden'">`
+        : '';
+      const paisTag = m._pais
+        ? `<span style="color:#94a3b8;font-size:0.8em;margin-left:4px;">${m._pais}</span>`
+        : '<span class="sin-pais">(DX)</span>';
       return `<tr>
         <td class="num-oro">#${String(m.num).padStart(3,'0')}</td>
-        <td><strong>${m.indicativo}</strong></td>
+        <td>
+          <div class="call-cell">
+            ${flag}
+            <div><strong>${m.indicativo}</strong>${paisTag}</div>
+          </div>
+        </td>
         <td><span class="nivel nivel-${nivel}">${nivel}</span></td>
         <td>${m.ingreso || ''}</td>
         <td>${m.total || 1}/12</td>
       </tr>`;
     }).join('');
+  }
 
-    if (!d.length) {
-      tb.innerHTML = '<tr><td colspan="5">Aún sin miembros — ¡sé el primero en confirmar! 🌟</td></tr>';
+  cont.innerHTML = `Mostrando <strong>${filtrados.length}</strong> de <strong>${DATA.length}</strong>`;
+}
+
+function poblarSelector() {
+  const sel = document.getElementById('selector-pais');
+  const contadores = {};
+  DATA.forEach(m => {
+    if (m._iso) {
+      contadores[m._iso] = contadores[m._iso] || { iso: m._iso, nombre: m._pais, n: 0 };
+      contadores[m._iso].n += 1;
     }
+  });
+  const lista = Object.values(contadores).sort((a, b) => b.n - a.n);
+  sel.innerHTML = '<option value="">Todos los países (' + DATA.length + ')</option>' +
+    lista.map(c => `<option value="${c.iso}">${c.nombre} (${c.n})</option>`).join('');
+}
+
+fetch('club_index.json?v=' + Date.now())
+  .then(r => r.ok ? r.json() : [])
+  .then(d => {
+    DATA = d.map(m => {
+      const p = paisDe(m.indicativo);
+      m._iso   = p ? p.iso   : null;
+      m._pais  = p ? p.nombre : null;
+      return m;
+    });
+    DATA.sort((a, b) => a.num - b.num);
+
+    // Stats globales
+    const porNivel = {};
+    DATA.forEach(m => {
+      const n = m.nivel || nivelDe(m.total || 1);
+      porNivel[n] = (porNivel[n] || 0) + 1;
+    });
+    const stats = NIVELES.map(([, n]) =>
+      `${n}: <strong>${porNivel[n] || 0}</strong>`).join(' · ');
+    document.getElementById('stats-club').innerHTML =
+      `🏆 <strong>${DATA.length}</strong> miembros · ${stats}`;
+
+    poblarSelector();
+    render();
+
+    // Listeners
+    document.getElementById('buscador').addEventListener('input', e => {
+      ESTADO.q = e.target.value;
+      render();
+    });
+    document.getElementById('selector-pais').addEventListener('change', e => {
+      ESTADO.pais = e.target.value;
+      render();
+    });
   })
-  .catch(e => console.error('Error cargando club_index.json:', e));
+  .catch(e => {
+    console.error('Error cargando club_index.json:', e);
+    document.getElementById('cuerpo-club').innerHTML =
+      '<tr><td colspan="5">⚠️ No se pudo cargar la lista. Recarga la página.</td></tr>';
+  });
 </script>
 </body>
 </html>
