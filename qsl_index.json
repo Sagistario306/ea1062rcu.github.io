@@ -4620,20 +4620,6 @@
   "archivo": "qsl/QSL_9W2RLW_2026-09_EV.png"
  },
  {
-  "indicativo": "JA5ILM",
-  "codigo": "DS6VYZ",
-  "fecha": "2026-09-02 00:38:41",
-  "pais": "Japon",
-  "archivo": "qsl/QSL_JA5ILM_2026-09.png"
- },
- {
-  "indicativo": "JA5ILM",
-  "codigo": "ZYETWH",
-  "fecha": "2026-09-02 00:38:46",
-  "pais": "Japon",
-  "archivo": "qsl/QSL_JA5ILM_2026-09_EV.png"
- },
- {
   "indicativo": "ED3YBA",
   "codigo": "H9X36H",
   "fecha": "2026-08-14 14:27:34",
@@ -36839,5 +36825,12 @@
   "fecha": "2026-09-12 04:09:31",
   "pais": "Japon",
   "archivo": "qsl/QSL_JH1UZZ_2026-09.png"
+ },
+ {
+  "indicativo": "JR9UKF",
+  "codigo": "Z2KSJT",
+  "fecha": "2026-09-12 04:28:04",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JR9UKF_2026-09.png"
  }
 ]
