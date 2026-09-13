@@ -91,6 +91,13 @@
   "total": 1
  },
  {
+  "num": 14,
+  "indicativo": "LU1QAO",
+  "nivel": "VIP",
+  "ingreso": "202608",
+  "total": 1
+ },
+ {
   "num": 15,
   "indicativo": "CX4IC",
   "nivel": "VIP",
@@ -187,6 +194,13 @@
   "nivel": "VIP",
   "ingreso": "202608",
   "total": 1
+ },
+ {
+  "num": 29,
+  "indicativo": "LU5VRN",
+  "nivel": "VIP",
+  "ingreso": "202608",
+  "total": 0
  },
  {
   "num": 30,
