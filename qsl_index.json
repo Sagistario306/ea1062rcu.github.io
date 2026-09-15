@@ -37959,5 +37959,12 @@
   "fecha": "2026-09-15 13:07:00",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK3MAO_2026-09.png"
+ },
+ {
+  "indicativo": "LW5EOL",
+  "codigo": "NCFDSH",
+  "fecha": "2026-09-15 13:23:15",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW5EOL_2026-09.png"
  }
 ]
