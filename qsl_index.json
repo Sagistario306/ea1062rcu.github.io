@@ -39309,6 +39309,13 @@
   "codigo": "PPQNU4",
   "fecha": "2026-09-16 15:30:01",
   "pais": "Nueva Zelanda",
-  "archivo": "qsl/QSL_ZL3LT_2026-09.webp"
+  "archivo": "qsl/QSL_ZL3LT_2026-09.png"
+ },
+ {
+  "indicativo": "LU5JB",
+  "codigo": "J3X965",
+  "fecha": "2026-09-16 16:33:57",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU5JB_2026-09.webp"
  }
 ]
