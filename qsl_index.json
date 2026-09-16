@@ -36680,13 +36680,6 @@
   "archivo": "qsl/QSL_HP1RJA_2026-09.webp"
  },
  {
-  "indicativo": "JR4HFY",
-  "codigo": "K2AZ5Q",
-  "fecha": "2026-09-12 00:03:14",
-  "pais": "Japon",
-  "archivo": "qsl/QSL_JR4HFY_2026-09.webp"
- },
- {
   "indicativo": "JA6SDP",
   "codigo": "QZA73W",
   "fecha": "2026-09-12 00:06:27",
@@ -39386,7 +39379,14 @@
   "codigo": "Z2C9SB",
   "fecha": "2026-09-16 23:04:44",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI8AD2_2026-09.webp"
+  "archivo": "qsl/QSL_TI8AD2_2026-09.png"
+ },
+ {
+  "indicativo": "YY4CAM",
+  "codigo": "7C6ZYR",
+  "fecha": "2026-09-16 23:50:37",
+  "pais": "Venezuela",
+  "archivo": "qsl/QSL_YY4CAM_2026-09.webp"
  },
  {
   "indicativo": "EA3CY",
@@ -44833,5 +44833,12 @@
   "fecha": "2026-09-08 13:55 UTC",
   "pais": "",
   "archivo": "qsl/QSL_EA3IWN_2026-09.png"
+ },
+ {
+  "indicativo": "JR4HFY",
+  "codigo": "K2AZ5Q",
+  "fecha": "2026-09-12 00:03 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_JR4HFY_2026-09.webp"
  }
 ]
