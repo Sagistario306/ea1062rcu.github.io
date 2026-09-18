@@ -39554,7 +39554,14 @@
   "codigo": "AMTBDN",
   "fecha": "2026-09-18 01:27:02",
   "pais": "Republica Dominicana",
-  "archivo": "qsl/QSL_HI4DJA_2026-09.webp"
+  "archivo": "qsl/QSL_HI4DJA_2026-09.png"
+ },
+ {
+  "indicativo": "LU4KEG",
+  "codigo": "B3A3NP",
+  "fecha": "2026-09-18 02:32:30",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU4KEG_2026-09.webp"
  },
  {
   "indicativo": "EA3CY",
