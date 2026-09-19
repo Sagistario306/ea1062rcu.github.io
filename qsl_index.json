@@ -39662,6 +39662,13 @@
   "archivo": "qsl/QSL_EC7MA_2026-09.webp"
  },
  {
+  "indicativo": "CX1DW",
+  "codigo": "XEAMCT",
+  "fecha": "2026-09-19 01:22:26",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX1DW_2026-09.webp"
+ },
+ {
   "indicativo": "EA3CY",
   "codigo": "TQJXEY",
   "fecha": "2026-08-16 00:00 UTC",
