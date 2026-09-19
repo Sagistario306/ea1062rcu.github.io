@@ -39676,6 +39676,13 @@
   "archivo": "qsl/QSL_LU7AMC_2026-09.webp"
  },
  {
+  "indicativo": "HR2LED",
+  "codigo": "Q6KQQW",
+  "fecha": "2026-09-19 01:47:43",
+  "pais": "Honduras",
+  "archivo": "qsl/QSL_HR2LED_2026-09.webp"
+ },
+ {
   "indicativo": "EA3CY",
   "codigo": "TQJXEY",
   "fecha": "2026-08-16 00:00 UTC",
