@@ -39690,6 +39690,13 @@
   "archivo": "qsl/QSL_HQ1NOF_2026-09.webp"
  },
  {
+  "indicativo": "TI1M",
+  "codigo": "4UP2MY",
+  "fecha": "2026-09-19 02:50:27",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI1M_2026-09.webp"
+ },
+ {
   "indicativo": "EA3CY",
   "codigo": "TQJXEY",
   "fecha": "2026-08-16 00:00 UTC",
