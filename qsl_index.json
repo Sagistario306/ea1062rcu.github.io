@@ -39704,6 +39704,13 @@
   "archivo": "qsl/QSL_HR5PAR_2026-09.webp"
  },
  {
+  "indicativo": "TG4EMG",
+  "codigo": "GG2BUH",
+  "fecha": "2026-09-19 03:47:27",
+  "pais": "Guatemala",
+  "archivo": "qsl/QSL_TG4EMG_2026-09.webp"
+ },
+ {
   "indicativo": "EA3CY",
   "codigo": "TQJXEY",
   "fecha": "2026-08-16 00:00 UTC",
