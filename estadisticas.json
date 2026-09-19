@@ -1,9 +1,9 @@
 {
  "fecha": "2026-09-19",
- "total_mes": 1832,
+ "total_mes": 1833,
  "paises": {
   "Filipinas": 60,
-  "Mexico": 87,
+  "Mexico": 88,
   "España": 457,
   "Indonesia": 162,
   "Honduras": 9,
@@ -45,7 +45,7 @@
   "El Salvador": 1
  },
  "descargadas": 55,
- "pendientes": 1777,
+ "pendientes": 1778,
  "metricas_reciprocidad": {
   "club": {
    "entregadas": 96,
@@ -57,7 +57,7 @@
    "conversion": 72.0
   },
   "nuevos": {
-   "entregadas": 1736,
+   "entregadas": 1737,
    "descargadas": 5,
    "confirmadas": 2,
    "retenidas": 5,
