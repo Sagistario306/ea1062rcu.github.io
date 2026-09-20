@@ -39792,7 +39792,14 @@
   "codigo": "MMHNK3",
   "fecha": "2026-09-19 23:14:33",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2NBI_2026-09.webp"
+  "archivo": "qsl/QSL_XE2NBI_2026-09.png"
+ },
+ {
+  "indicativo": "PP2CC",
+  "codigo": "HA36CC",
+  "fecha": "2026-09-20 00:20:02",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PP2CC_2026-09.webp"
  },
  {
   "indicativo": "EA3CY",
