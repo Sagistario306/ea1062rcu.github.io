@@ -1,22 +1,22 @@
 {
- "fecha": "2026-09-19",
- "total_mes": 1833,
+ "fecha": "2026-09-21",
+ "total_mes": 1859,
  "paises": {
   "Filipinas": 60,
   "Mexico": 88,
-  "España": 457,
+  "España": 461,
   "Indonesia": 162,
-  "Honduras": 9,
+  "Honduras": 10,
   "Malasia": 169,
-  "Argentina": 136,
-  "Colombia": 58,
-  "Chile": 54,
+  "Argentina": 140,
+  "Colombia": 61,
+  "Chile": 57,
   "Japon": 264,
-  "Venezuela": 25,
-  "Panama": 24,
+  "Venezuela": 26,
+  "Panama": 25,
   "Ecuador": 5,
-  "Puerto Rico": 29,
-  "Uruguay": 30,
+  "Puerto Rico": 31,
+  "Uruguay": 31,
   "Guatemala": 9,
   "Costa Rica": 27,
   "Peru": 14,
@@ -36,7 +36,7 @@
   "Francia": 12,
   "Sudafrica": 12,
   "Australia": 14,
-  "Brasil": 29,
+  "Brasil": 35,
   "India": 12,
   "Kazajistan": 5,
   "Portugal": 10,
@@ -45,25 +45,25 @@
   "El Salvador": 1
  },
  "descargadas": 55,
- "pendientes": 1778,
+ "pendientes": 1804,
  "metricas_reciprocidad": {
   "club": {
-   "entregadas": 96,
-   "descargadas": 50,
-   "confirmadas": 36,
+   "entregadas": 107,
+   "descargadas": 52,
+   "confirmadas": 107,
    "retenidas": 0,
-   "pct_descarga": 52.1,
-   "pct_reciprocidad": 37.5,
-   "conversion": 72.0
+   "pct_descarga": 48.6,
+   "pct_reciprocidad": 100.0,
+   "conversion": 205.8
   },
   "nuevos": {
-   "entregadas": 1737,
-   "descargadas": 5,
-   "confirmadas": 2,
-   "retenidas": 5,
-   "pct_descarga": 0.3,
-   "pct_reciprocidad": 0.1,
-   "conversion": 40.0
+   "entregadas": 1752,
+   "descargadas": 4,
+   "confirmadas": 0,
+   "retenidas": 6,
+   "pct_descarga": 0.2,
+   "pct_reciprocidad": 0.0,
+   "conversion": 0.0
   }
  }
 }
