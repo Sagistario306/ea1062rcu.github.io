@@ -15716,10 +15716,10 @@
  },
  {
   "indicativo": "HJ1JCM",
-  "codigo": "KWZ8Q2",
-  "fecha": "2026-08-19 00:26:57",
+  "codigo": "9DUAKE",
+  "fecha": "2026-09-21 16:41:55",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ1JCM_2026-08.webp"
+  "archivo": "qsl/QSL_HJ1JCM_2026-09.webp"
  },
  {
   "indicativo": "JA9LNB",
@@ -39918,7 +39918,7 @@
   "codigo": "JGB7QX",
   "fecha": "2026-09-21 14:47:57",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU8AE_2026-09.webp"
+  "archivo": "qsl/QSL_LU8AE_2026-09.png"
  },
  {
   "indicativo": "EA3CY",
@@ -42096,6 +42096,13 @@
   "fecha": "2026-08-19 00:26 UTC",
   "pais": "Japon",
   "archivo": "qsl/QSL_JA5HWI_2026-08.webp"
+ },
+ {
+  "indicativo": "HJ1JCM",
+  "codigo": "KWZ8Q2",
+  "fecha": "2026-08-19 00:27 UTC",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ1JCM_2026-08.webp"
  },
  {
   "indicativo": "HK2GTS",
