@@ -40026,6 +40026,13 @@
   "archivo": "qsl/QSL_YN1Y_2026-09.webp"
  },
  {
+  "indicativo": "LU1BA",
+  "codigo": "EZTSE2",
+  "fecha": "2026-09-22 01:42:56",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1BA_2026-09.webp"
+ },
+ {
   "indicativo": "EA3CY",
   "codigo": "TQJXEY",
   "fecha": "2026-08-16 00:00 UTC",
