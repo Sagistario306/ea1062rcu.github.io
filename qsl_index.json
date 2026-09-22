@@ -40030,7 +40030,14 @@
   "codigo": "EZTSE2",
   "fecha": "2026-09-22 01:42:56",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU1BA_2026-09.webp"
+  "archivo": "qsl/QSL_LU1BA_2026-09.png"
+ },
+ {
+  "indicativo": "EA3JBB",
+  "codigo": "ZJE99G",
+  "fecha": "2026-09-22 05:52:33",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA3JBB_2026-09.webp"
  },
  {
   "indicativo": "EA3CY",
