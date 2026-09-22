@@ -40054,6 +40054,13 @@
   "archivo": "qsl/QSL_LU3RET_2026-09.webp"
  },
  {
+  "indicativo": "TI5FOX",
+  "codigo": "AX4X4D",
+  "fecha": "2026-09-22 15:16:20",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI5FOX_2026-09.webp"
+ },
+ {
   "indicativo": "EA3CY",
   "codigo": "TQJXEY",
   "fecha": "2026-08-16 00:00 UTC",
