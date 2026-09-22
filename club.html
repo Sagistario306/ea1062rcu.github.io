@@ -235,6 +235,10 @@ function nivelDe(t) {
 let DATA = [];
 let ESTADO = { q: "", pais: "" };
 
+function flagSrc(iso){
+  if (iso === "ic") return "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Flag_of_the_Canary_Islands.svg/64px-Flag_of_the_Canary_Islands.png";
+  return "https://flagcdn.com/24x18/" + iso + ".png";
+}
 function render() {
   const tb = document.getElementById('cuerpo-club');
   const cont = document.getElementById('contador-filtro');
@@ -259,7 +263,7 @@ function render() {
     tb.innerHTML = filtrados.map(m => {
       const nivel = m.nivel || nivelDe(m.total || 1);
       const flag = m._iso
-        ? `<img class="bandera" src="${(m._iso==='ic')?"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Flag_of_the_Canary_Islands.svg/64px-Flag_of_the_Canary_Islands.png":("https://flagcdn.com/24x18/"+m._iso+".png.png')}""
+        ? `<img class="bandera" src="${flagSrc(m._iso)}"
                 alt="${m._pais}" title="${m._pais}"
                 onerror="this.style.visibility='hidden'">`
         : '';
