@@ -18775,10 +18775,10 @@
  },
  {
   "indicativo": "YY5GCR",
-  "codigo": "KT7J2R",
-  "fecha": "2026-08-20 23:37:53",
+  "codigo": "HCQAU4",
+  "fecha": "2026-09-23 13:29:50",
   "pais": "Venezuela",
-  "archivo": "qsl/QSL_YY5GCR_2026-08.webp"
+  "archivo": "qsl/QSL_YY5GCR_2026-09.webp"
  },
  {
   "indicativo": "HP1CSL",
@@ -43013,6 +43013,13 @@
   "fecha": "2026-08-20 22:31 UTC",
   "pais": "Ecuador",
   "archivo": "qsl/QSL_HC1TCH_2026-08.webp"
+ },
+ {
+  "indicativo": "YY5GCR",
+  "codigo": "KT7J2R",
+  "fecha": "2026-08-20 23:38 UTC",
+  "pais": "Venezuela",
+  "archivo": "qsl/QSL_YY5GCR_2026-08.webp"
  },
  {
   "indicativo": "YC2RDO",
