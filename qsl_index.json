@@ -40289,7 +40289,14 @@
   "codigo": "Z249PG",
   "fecha": "2026-09-24 14:12:04",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU4ARU_2026-09.webp"
+  "archivo": "qsl/QSL_LU4ARU_2026-09.png"
+ },
+ {
+  "indicativo": "LU4QCI",
+  "codigo": "7F6TC5",
+  "fecha": "2026-09-24 16:36:43",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU4QCI_2026-09.webp"
  },
  {
   "indicativo": "EA3CY",
