@@ -13070,10 +13070,10 @@
  },
  {
   "indicativo": "CX8FXX",
-  "codigo": "Q7GZFA",
-  "fecha": "2026-08-17 02:04:59",
+  "codigo": "M9AC6D",
+  "fecha": "2026-09-24 22:05:00",
   "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX8FXX_2026-08.webp"
+  "archivo": "qsl/QSL_CX8FXX_2026-09.webp"
  },
  {
   "indicativo": "YV4BDF",
@@ -41935,6 +41935,13 @@
   "fecha": "2026-08-17 02:01 UTC",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_NP3AL_2026-08.webp"
+ },
+ {
+  "indicativo": "CX8FXX",
+  "codigo": "Q7GZFA",
+  "fecha": "2026-08-17 02:05 UTC",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX8FXX_2026-08.webp"
  },
  {
   "indicativo": "XE1RP",
