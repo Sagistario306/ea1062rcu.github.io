@@ -11810,10 +11810,10 @@
  },
  {
   "indicativo": "HC1LNM",
-  "codigo": "AG2JB2",
-  "fecha": "2026-08-17 01:15:09",
+  "codigo": "7ZAAJ6",
+  "fecha": "2026-09-24 21:20:26",
   "pais": "Ecuador",
-  "archivo": "qsl/QSL_HC1LNM_2026-08.webp"
+  "archivo": "qsl/QSL_HC1LNM_2026-09.webp"
  },
  {
   "indicativo": "LU8AQL",
@@ -41403,6 +41403,13 @@
   "fecha": "2026-08-17 01:14 UTC",
   "pais": "Ecuador",
   "archivo": "qsl/QSL_HC1FQ_2026-08.webp"
+ },
+ {
+  "indicativo": "HC1LNM",
+  "codigo": "AG2JB2",
+  "fecha": "2026-08-17 01:15 UTC",
+  "pais": "Ecuador",
+  "archivo": "qsl/QSL_HC1LNM_2026-08.webp"
  },
  {
   "indicativo": "DY6YAI",
