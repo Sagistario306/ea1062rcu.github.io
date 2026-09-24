@@ -20497,10 +20497,10 @@
  },
  {
   "indicativo": "HI6LT",
-  "codigo": "898H3Y",
-  "fecha": "2026-08-22 03:09:31",
+  "codigo": "XJ9VHJ",
+  "fecha": "2026-09-24 21:38:14",
   "pais": "Republica Dominicana",
-  "archivo": "qsl/QSL_HI6LT_2026-08.webp"
+  "archivo": "qsl/QSL_HI6LT_2026-09.webp"
  },
  {
   "indicativo": "HI7LT",
@@ -43727,6 +43727,13 @@
   "fecha": "2026-08-22 03:09 UTC",
   "pais": "Nicaragua",
   "archivo": "qsl/QSL_YN1ZSC_2026-08.webp"
+ },
+ {
+  "indicativo": "HI6LT",
+  "codigo": "898H3Y",
+  "fecha": "2026-08-22 03:09 UTC",
+  "pais": "Republica Dominicana",
+  "archivo": "qsl/QSL_HI6LT_2026-08.webp"
  },
  {
   "indicativo": "HI7LT",
