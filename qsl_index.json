@@ -11005,10 +11005,10 @@
  },
  {
   "indicativo": "XE2GR",
-  "codigo": "X5HFHA",
-  "fecha": "2026-08-17 00:20:44",
+  "codigo": "EG9A32",
+  "fecha": "2026-09-24 21:20:58",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2GR_2026-08.webp"
+  "archivo": "qsl/QSL_XE2GR_2026-09.webp"
  },
  {
   "indicativo": "XE2HC",
@@ -41200,6 +41200,13 @@
   "fecha": "2026-08-17 00:20 UTC",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA4HDZ_2026-08.webp"
+ },
+ {
+  "indicativo": "XE2GR",
+  "codigo": "X5HFHA",
+  "fecha": "2026-08-17 00:20 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2GR_2026-08.webp"
  },
  {
   "indicativo": "XE2HC",
