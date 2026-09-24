@@ -15044,10 +15044,10 @@
  },
  {
   "indicativo": "HP1RY",
-  "codigo": "E2TE8F",
-  "fecha": "2026-08-18 20:04:56",
+  "codigo": "4Z3U2J",
+  "fecha": "2026-09-24 21:19:37",
   "pais": "Panama",
-  "archivo": "qsl/QSL_HP1RY_2026-08.webp"
+  "archivo": "qsl/QSL_HP1RY_2026-09.webp"
  },
  {
   "indicativo": "HK3QUE",
@@ -42376,6 +42376,13 @@
   "fecha": "2026-08-18 19:57 UTC",
   "pais": "Filipinas",
   "archivo": "qsl/QSL_DU3FS_2026-08.webp"
+ },
+ {
+  "indicativo": "HP1RY",
+  "codigo": "E2TE8F",
+  "fecha": "2026-08-18 20:05 UTC",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP1RY_2026-08.webp"
  },
  {
   "indicativo": "CX2JO",
