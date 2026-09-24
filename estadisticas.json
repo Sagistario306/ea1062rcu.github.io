@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-24",
- "total_mes": 1968,
+ "total_mes": 1969,
  "paises": {
   "Filipinas": 60,
   "Mexico": 103,
@@ -22,7 +22,7 @@
   "Peru": 18,
   "Singapur": 7,
   "Barbados": 5,
-  "Republica Dominicana": 21,
+  "Republica Dominicana": 22,
   "Nicaragua": 9,
   "Trinidad y Tobago": 4,
   "Dominica": 3,
@@ -44,20 +44,20 @@
   "Ucrania": 10,
   "Nueva Zelanda": 12
  },
- "descargadas": 55,
- "pendientes": 1913,
+ "descargadas": 58,
+ "pendientes": 1911,
  "metricas_reciprocidad": {
   "club": {
    "entregadas": 108,
-   "descargadas": 53,
+   "descargadas": 56,
    "confirmadas": 108,
    "retenidas": 0,
-   "pct_descarga": 49.1,
+   "pct_descarga": 51.9,
    "pct_reciprocidad": 100.0,
-   "conversion": 203.8
+   "conversion": 192.9
   },
   "nuevos": {
-   "entregadas": 1860,
+   "entregadas": 1861,
    "descargadas": 4,
    "confirmadas": 0,
    "retenidas": 6,
