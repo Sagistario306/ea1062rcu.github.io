@@ -7897,10 +7897,10 @@
  },
  {
   "indicativo": "XE1GT",
-  "codigo": "W46828",
-  "fecha": "2026-08-16 00:08:34",
+  "codigo": "SQZEND",
+  "fecha": "2026-09-24 21:20:48",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1GT_2026-08.webp"
+  "archivo": "qsl/QSL_XE1GT_2026-09.webp"
  },
  {
   "indicativo": "EA5PY",
@@ -40402,6 +40402,13 @@
   "fecha": "2026-08-16 00:08 UTC",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU8LCT_2026-08.webp"
+ },
+ {
+  "indicativo": "XE1GT",
+  "codigo": "W46828",
+  "fecha": "2026-08-16 00:08 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1GT_2026-08.webp"
  },
  {
   "indicativo": "HP1COO",
