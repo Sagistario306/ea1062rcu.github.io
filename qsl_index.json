@@ -15772,10 +15772,10 @@
  },
  {
   "indicativo": "CE1OAD",
-  "codigo": "839EJA",
-  "fecha": "2026-08-19 00:31:12",
+  "codigo": "ZC8QFB",
+  "fecha": "2026-09-24 21:22:12",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE1OAD_2026-08.webp"
+  "archivo": "qsl/QSL_CE1OAD_2026-09.webp"
  },
  {
   "indicativo": "JA1YKX",
@@ -42579,6 +42579,13 @@
   "fecha": "2026-08-19 00:30 UTC",
   "pais": "Japon",
   "archivo": "qsl/QSL_JH1QVS_2026-08.webp"
+ },
+ {
+  "indicativo": "CE1OAD",
+  "codigo": "839EJA",
+  "fecha": "2026-08-19 00:31 UTC",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE1OAD_2026-08.webp"
  },
  {
   "indicativo": "JA1YKX",
