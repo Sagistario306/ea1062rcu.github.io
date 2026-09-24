@@ -20490,10 +20490,10 @@
  },
  {
   "indicativo": "YN1ZSC",
-  "codigo": "Y27TM2",
-  "fecha": "2026-08-22 03:09:13",
+  "codigo": "H7VGQ7",
+  "fecha": "2026-09-24 21:22:05",
   "pais": "Nicaragua",
-  "archivo": "qsl/QSL_YN1ZSC_2026-08.webp"
+  "archivo": "qsl/QSL_YN1ZSC_2026-09.webp"
  },
  {
   "indicativo": "JA6SVE",
@@ -43573,6 +43573,13 @@
   "fecha": "2026-08-22 03:08 UTC",
   "pais": "Republica Dominicana",
   "archivo": "qsl/QSL_HI3FAM_2026-08.webp"
+ },
+ {
+  "indicativo": "YN1ZSC",
+  "codigo": "Y27TM2",
+  "fecha": "2026-08-22 03:09 UTC",
+  "pais": "Nicaragua",
+  "archivo": "qsl/QSL_YN1ZSC_2026-08.webp"
  },
  {
   "indicativo": "HI7LT",
