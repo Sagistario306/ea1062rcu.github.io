@@ -40306,6 +40306,13 @@
   "archivo": "qsl/QSL_XE2LAT_2026-09.webp"
  },
  {
+  "indicativo": "XE1BLA",
+  "codigo": "R6WXUU",
+  "fecha": "2026-09-24 19:19:16",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1BLA_2026-09.webp"
+ },
+ {
   "indicativo": "EA3CY",
   "codigo": "TQJXEY",
   "fecha": "2026-08-16 00:00 UTC",
