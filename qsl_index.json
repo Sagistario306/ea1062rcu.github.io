@@ -12594,10 +12594,10 @@
  },
  {
   "indicativo": "CE6ACR",
-  "codigo": "WA9AJV",
-  "fecha": "2026-08-17 01:42:49",
+  "codigo": "96PWQQ",
+  "fecha": "2026-09-24 21:23:37",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE6ACR_2026-08.webp"
+  "archivo": "qsl/QSL_CE6ACR_2026-09.webp"
  },
  {
   "indicativo": "CE8TDO",
@@ -41718,6 +41718,13 @@
   "fecha": "2026-08-17 01:42 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1CDF_2026-08.webp"
+ },
+ {
+  "indicativo": "CE6ACR",
+  "codigo": "WA9AJV",
+  "fecha": "2026-08-17 01:42 UTC",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE6ACR_2026-08.webp"
  },
  {
   "indicativo": "CE8TDO",
