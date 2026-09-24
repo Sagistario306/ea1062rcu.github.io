@@ -16878,10 +16878,10 @@
  },
  {
   "indicativo": "XE1RLZ",
-  "codigo": "AFWM3Y",
-  "fecha": "2026-08-19 20:57:56",
+  "codigo": "XDNZC7",
+  "fecha": "2026-09-24 21:22:20",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1RLZ_2026-08.webp"
+  "archivo": "qsl/QSL_XE1RLZ_2026-09.webp"
  },
  {
   "indicativo": "HP3EGD",
@@ -42838,6 +42838,13 @@
   "fecha": "2026-08-19 20:28 UTC",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HJ5JMS_2026-08.webp"
+ },
+ {
+  "indicativo": "XE1RLZ",
+  "codigo": "AFWM3Y",
+  "fecha": "2026-08-19 20:58 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1RLZ_2026-08.webp"
  },
  {
   "indicativo": "HP3EGD",
