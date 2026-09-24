@@ -12783,10 +12783,10 @@
  },
  {
   "indicativo": "CE1VPG",
-  "codigo": "8JVDG5",
-  "fecha": "2026-08-17 01:47:05",
+  "codigo": "9YH39N",
+  "fecha": "2026-09-24 21:22:58",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE1VPG_2026-08.webp"
+  "archivo": "qsl/QSL_CE1VPG_2026-09.webp"
  },
  {
   "indicativo": "HK4CZE",
@@ -41767,6 +41767,13 @@
   "fecha": "2026-08-17 01:46 UTC",
   "pais": "Indonesia",
   "archivo": "qsl/QSL_YD2VDY_2026-08.webp"
+ },
+ {
+  "indicativo": "CE1VPG",
+  "codigo": "8JVDG5",
+  "fecha": "2026-08-17 01:47 UTC",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE1VPG_2026-08.webp"
  },
  {
   "indicativo": "HK4CZE",
