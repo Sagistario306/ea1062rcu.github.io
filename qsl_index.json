@@ -14876,10 +14876,10 @@
  },
  {
   "indicativo": "CE6NDC",
-  "codigo": "WN54TF",
-  "fecha": "2026-08-18 19:47:02",
+  "codigo": "Q8H8KW",
+  "fecha": "2026-09-24 21:29:01",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE6NDC_2026-08.webp"
+  "archivo": "qsl/QSL_CE6NDC_2026-09.webp"
  },
  {
   "indicativo": "TI2RLA",
@@ -42425,6 +42425,13 @@
   "fecha": "2026-08-18 19:46 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1FAS_2026-08.webp"
+ },
+ {
+  "indicativo": "CE6NDC",
+  "codigo": "WN54TF",
+  "fecha": "2026-08-18 19:47 UTC",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE6NDC_2026-08.webp"
  },
  {
   "indicativo": "TI7JCC",
