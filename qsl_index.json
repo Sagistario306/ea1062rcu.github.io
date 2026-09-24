@@ -16864,10 +16864,10 @@
  },
  {
   "indicativo": "HJ5JMS",
-  "codigo": "Y9XZAA",
-  "fecha": "2026-08-19 20:28:34",
+  "codigo": "AJNC4E",
+  "fecha": "2026-09-24 21:19:46",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ5JMS_2026-08.webp"
+  "archivo": "qsl/QSL_HJ5JMS_2026-09.webp"
  },
  {
   "indicativo": "HJ1CTR",
@@ -42775,6 +42775,13 @@
   "fecha": "2026-08-19 19:57 UTC",
   "pais": "Uruguay",
   "archivo": "qsl/QSL_CX3JG_2026-08.webp"
+ },
+ {
+  "indicativo": "HJ5JMS",
+  "codigo": "Y9XZAA",
+  "fecha": "2026-08-19 20:28 UTC",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ5JMS_2026-08.webp"
  },
  {
   "indicativo": "HP3EGD",
