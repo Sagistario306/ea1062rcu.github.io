@@ -13056,10 +13056,10 @@
  },
  {
   "indicativo": "NP3AL",
-  "codigo": "PXW27C",
-  "fecha": "2026-08-17 02:01:03",
+  "codigo": "EACECN",
+  "fecha": "2026-09-24 21:32:05",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_NP3AL_2026-08.webp"
+  "archivo": "qsl/QSL_NP3AL_2026-09.webp"
  },
  {
   "indicativo": "HJ6MFD",
@@ -41893,6 +41893,13 @@
   "fecha": "2026-08-17 01:57 UTC",
   "pais": "Venezuela",
   "archivo": "qsl/QSL_YV5GHW_2026-08.webp"
+ },
+ {
+  "indicativo": "NP3AL",
+  "codigo": "PXW27C",
+  "fecha": "2026-08-17 02:01 UTC",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP3AL_2026-08.webp"
  },
  {
   "indicativo": "XE1RP",
