@@ -11684,10 +11684,10 @@
  },
  {
   "indicativo": "XE2BNC",
-  "codigo": "X3JDGY",
-  "fecha": "2026-08-17 01:03:59",
+  "codigo": "N4GC3J",
+  "fecha": "2026-09-24 21:22:41",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2BNC_2026-08.png"
+  "archivo": "qsl/QSL_XE2BNC_2026-09.webp"
  },
  {
   "indicativo": "KP3JE",
@@ -41396,6 +41396,13 @@
   "fecha": "2026-08-17 01:02 UTC",
   "pais": "Japon",
   "archivo": "qsl/QSL_JR2KIN_2026-08.webp"
+ },
+ {
+  "indicativo": "XE2BNC",
+  "codigo": "X3JDGY",
+  "fecha": "2026-08-17 01:04 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2BNC_2026-08.webp"
  },
  {
   "indicativo": "LU2DT",
