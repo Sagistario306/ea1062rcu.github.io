@@ -11761,10 +11761,10 @@
  },
  {
   "indicativo": "CE3GC",
-  "codigo": "GKYFWC",
-  "fecha": "2026-08-17 01:13:56",
+  "codigo": "W9Y8EK",
+  "fecha": "2026-09-24 21:33:52",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE3GC_2026-08.webp"
+  "archivo": "qsl/QSL_CE3GC_2026-09.webp"
  },
  {
   "indicativo": "HP1DBK",
@@ -41424,6 +41424,13 @@
   "fecha": "2026-08-17 01:13 UTC",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP2NG_2026-08.webp"
+ },
+ {
+  "indicativo": "CE3GC",
+  "codigo": "GKYFWC",
+  "fecha": "2026-08-17 01:14 UTC",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3GC_2026-08.webp"
  },
  {
   "indicativo": "HP1DBK",
