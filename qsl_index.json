@@ -14995,10 +14995,10 @@
  },
  {
   "indicativo": "HP2DB",
-  "codigo": "FTTM22",
-  "fecha": "2026-08-18 19:54:19",
+  "codigo": "AQ2JVJ",
+  "fecha": "2026-09-24 21:20:19",
   "pais": "Panama",
-  "archivo": "qsl/QSL_HP2DB_2026-08.webp"
+  "archivo": "qsl/QSL_HP2DB_2026-09.webp"
  },
  {
   "indicativo": "XE3MHM",
@@ -42369,6 +42369,13 @@
   "fecha": "2026-08-18 19:52 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2B_2026-08.webp"
+ },
+ {
+  "indicativo": "HP2DB",
+  "codigo": "FTTM22",
+  "fecha": "2026-08-18 19:54 UTC",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP2DB_2026-08.webp"
  },
  {
   "indicativo": "XE3MHM",
