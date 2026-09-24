@@ -12685,10 +12685,10 @@
  },
  {
   "indicativo": "CE3VDF",
-  "codigo": "ZEV5P9",
-  "fecha": "2026-08-17 01:45:03",
+  "codigo": "MA64TX",
+  "fecha": "2026-09-24 21:34:07",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE3VDF_2026-08.webp"
+  "archivo": "qsl/QSL_CE3VDF_2026-09.webp"
  },
  {
   "indicativo": "HP1GDP",
@@ -41767,6 +41767,13 @@
   "fecha": "2026-08-17 01:44 UTC",
   "pais": "Peru",
   "archivo": "qsl/QSL_OA4DVG_2026-08.webp"
+ },
+ {
+  "indicativo": "CE3VDF",
+  "codigo": "ZEV5P9",
+  "fecha": "2026-08-17 01:45 UTC",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3VDF_2026-08.webp"
  },
  {
   "indicativo": "NP4JM",
