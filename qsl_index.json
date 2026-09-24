@@ -21512,10 +21512,10 @@
  },
  {
   "indicativo": "YS1EF",
-  "codigo": "ZNQG5E",
-  "fecha": "2026-08-22 20:29:03",
+  "codigo": "9AJCMK",
+  "fecha": "2026-09-24 22:00:20",
   "pais": "El Salvador",
-  "archivo": "qsl/QSL_YS1EF_2026-08.webp"
+  "archivo": "qsl/QSL_YS1EF_2026-09.webp"
  },
  {
   "indicativo": "OA4EIE",
@@ -43881,6 +43881,13 @@
   "fecha": "2026-08-22 18:15 UTC",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP1CQ_2026-08.webp"
+ },
+ {
+  "indicativo": "YS1EF",
+  "codigo": "ZNQG5E",
+  "fecha": "2026-08-22 20:29 UTC",
+  "pais": "El Salvador",
+  "archivo": "qsl/QSL_YS1EF_2026-08.webp"
  },
  {
   "indicativo": "XE1JMA",
