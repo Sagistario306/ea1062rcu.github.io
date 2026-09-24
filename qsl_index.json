@@ -8464,10 +8464,10 @@
  },
  {
   "indicativo": "XE1EVP",
-  "codigo": "SE7EDJ",
-  "fecha": "2026-08-16 01:00:32",
+  "codigo": "CR97WB",
+  "fecha": "2026-09-24 21:21:55",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1EVP_2026-08.webp"
+  "archivo": "qsl/QSL_XE1EVP_2026-09.webp"
  },
  {
   "indicativo": "EA2KR",
@@ -40542,6 +40542,13 @@
   "fecha": "2026-08-16 01:00 UTC",
   "pais": "Filipinas",
   "archivo": "qsl/QSL_DX1CW_2026-08.webp"
+ },
+ {
+  "indicativo": "XE1EVP",
+  "codigo": "SE7EDJ",
+  "fecha": "2026-08-16 01:00 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1EVP_2026-08.webp"
  },
  {
   "indicativo": "DV3X",
