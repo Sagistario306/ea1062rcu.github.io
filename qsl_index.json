@@ -13189,10 +13189,10 @@
  },
  {
   "indicativo": "TI0ARC",
-  "codigo": "GZQCTU",
-  "fecha": "2026-08-17 03:05:29",
+  "codigo": "4AZWNZ",
+  "fecha": "2026-09-24 21:24:30",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI0ARC_2026-08.webp"
+  "archivo": "qsl/QSL_TI0ARC_2026-09.webp"
  },
  {
   "indicativo": "TI2BSH",
@@ -41907,6 +41907,13 @@
   "fecha": "2026-08-17 03:03 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1FVS_2026-08.webp"
+ },
+ {
+  "indicativo": "TI0ARC",
+  "codigo": "GZQCTU",
+  "fecha": "2026-08-17 03:05 UTC",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI0ARC_2026-08.webp"
  },
  {
   "indicativo": "OA4DOS",
