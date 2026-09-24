@@ -14897,10 +14897,10 @@
  },
  {
   "indicativo": "HP6OJS",
-  "codigo": "CSJP67",
-  "fecha": "2026-08-18 19:47:48",
+  "codigo": "742FG2",
+  "fecha": "2026-09-24 23:54:40",
   "pais": "Panama",
-  "archivo": "qsl/QSL_HP6OJS_2026-08.webp"
+  "archivo": "qsl/QSL_HP6OJS_2026-09.webp"
  },
  {
   "indicativo": "TI5GAX",
@@ -29747,7 +29747,7 @@
   "codigo": "JQVUPW",
   "fecha": "2026-09-24 23:05:04",
   "pais": "Republica Dominicana",
-  "archivo": "qsl/QSL_HI8RG_2026-09.webp"
+  "archivo": "qsl/QSL_HI8RG_2026-09.png"
  },
  {
   "indicativo": "9W2VIA",
@@ -42509,6 +42509,13 @@
   "fecha": "2026-08-18 19:47 UTC",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI7JCC_2026-08.webp"
+ },
+ {
+  "indicativo": "HP6OJS",
+  "codigo": "CSJP67",
+  "fecha": "2026-08-18 19:47 UTC",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP6OJS_2026-08.webp"
  },
  {
   "indicativo": "XE2UD",
