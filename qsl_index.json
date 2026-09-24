@@ -23941,10 +23941,10 @@
  },
  {
   "indicativo": "TI3AQC",
-  "codigo": "Z997PS",
-  "fecha": "2026-08-24 22:12:20",
+  "codigo": "CJ3BK7",
+  "fecha": "2026-09-24 21:21:15",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI3AQC_2026-08.webp"
+  "archivo": "qsl/QSL_TI3AQC_2026-09.webp"
  },
  {
   "indicativo": "CX3JU",
@@ -44070,6 +44070,13 @@
   "fecha": "2026-08-24 20:08 UTC",
   "pais": "Venezuela",
   "archivo": "qsl/QSL_YY4CAB_2026-08.webp"
+ },
+ {
+  "indicativo": "TI3AQC",
+  "codigo": "Z997PS",
+  "fecha": "2026-08-24 22:12 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_TI3AQC_2026-08.webp"
  },
  {
   "indicativo": "YG2BTU",
