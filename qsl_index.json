@@ -12874,10 +12874,10 @@
  },
  {
   "indicativo": "CX1AA",
-  "codigo": "ADMRAA",
-  "fecha": "2026-08-17 01:49:02",
+  "codigo": "KPPBM3",
+  "fecha": "2026-09-24 21:25:44",
   "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX1AA_2026-08.webp"
+  "archivo": "qsl/QSL_CX1AA_2026-09.webp"
  },
  {
   "indicativo": "XE2SFR",
@@ -41809,6 +41809,13 @@
   "fecha": "2026-08-17 01:49 UTC",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP4SC_2026-08.webp"
+ },
+ {
+  "indicativo": "CX1AA",
+  "codigo": "ADMRAA",
+  "fecha": "2026-08-17 01:49 UTC",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX1AA_2026-08.webp"
  },
  {
   "indicativo": "HP1DUA",
