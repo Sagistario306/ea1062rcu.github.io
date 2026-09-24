@@ -12720,10 +12720,10 @@
  },
  {
   "indicativo": "NP4JM",
-  "codigo": "FDMMRS",
-  "fecha": "2026-08-17 01:46:03",
+  "codigo": "TZQ552",
+  "fecha": "2026-09-24 21:28:32",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_NP4JM_2026-08.webp"
+  "archivo": "qsl/QSL_NP4JM_2026-09.webp"
  },
  {
   "indicativo": "YE2BDN",
@@ -41746,6 +41746,13 @@
   "fecha": "2026-08-17 01:44 UTC",
   "pais": "Peru",
   "archivo": "qsl/QSL_OA4DVG_2026-08.webp"
+ },
+ {
+  "indicativo": "NP4JM",
+  "codigo": "FDMMRS",
+  "fecha": "2026-08-17 01:46 UTC",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4JM_2026-08.webp"
  },
  {
   "indicativo": "YE2BDN",
