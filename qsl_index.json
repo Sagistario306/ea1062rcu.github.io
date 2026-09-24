@@ -12314,10 +12314,10 @@
  },
  {
   "indicativo": "KP4CE",
-  "codigo": "NRDVVK",
-  "fecha": "2026-08-17 01:33:12",
+  "codigo": "XEUB28",
+  "fecha": "2026-09-24 21:32:15",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_KP4CE_2026-08.webp"
+  "archivo": "qsl/QSL_KP4CE_2026-09.webp"
  },
  {
   "indicativo": "4I1QKF",
@@ -41627,6 +41627,13 @@
   "fecha": "2026-08-17 01:30 UTC",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI2HAS_2026-08.webp"
+ },
+ {
+  "indicativo": "KP4CE",
+  "codigo": "NRDVVK",
+  "fecha": "2026-08-17 01:33 UTC",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4CE_2026-08.webp"
  },
  {
   "indicativo": "4I1QKF",
