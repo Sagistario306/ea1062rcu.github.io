@@ -23857,10 +23857,10 @@
  },
  {
   "indicativo": "XE3CCJ",
-  "codigo": "GKF6Y4",
-  "fecha": "2026-08-24 19:01:04",
+  "codigo": "282HB4",
+  "fecha": "2026-09-24 21:19:05",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE3CCJ_2026-08.webp"
+  "archivo": "qsl/QSL_XE3CCJ_2026-09.webp"
  },
  {
   "indicativo": "TI2TID",
@@ -43958,6 +43958,13 @@
   "fecha": "2026-08-24 17:41 UTC",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LW1DOW_2026-08.webp"
+ },
+ {
+  "indicativo": "XE3CCJ",
+  "codigo": "GKF6Y4",
+  "fecha": "2026-08-24 19:01 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE3CCJ_2026-08.webp"
  },
  {
   "indicativo": "CX1BW",
