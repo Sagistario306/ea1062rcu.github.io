@@ -30073,10 +30073,10 @@
  },
  {
   "indicativo": "HP3HJG",
-  "codigo": "QGYN37",
-  "fecha": "2026-08-31 05:27:20",
+  "codigo": "FRE394",
+  "fecha": "2026-09-24 21:27:21",
   "pais": "Panama",
-  "archivo": "qsl/QSL_HP3HJG_2026-08.webp"
+  "archivo": "qsl/QSL_HP3HJG_2026-09.webp"
  },
  {
   "indicativo": "EA3CQW",
@@ -45953,6 +45953,13 @@
   "fecha": "2026-08-31 03:49 UTC",
   "pais": "",
   "archivo": "qsl/QSL_9W2JNT_2026-08.webp"
+ },
+ {
+  "indicativo": "HP3HJG",
+  "codigo": "QGYN37",
+  "fecha": "2026-08-31 05:27 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_HP3HJG_2026-08.webp"
  },
  {
   "indicativo": "EA4BMF",
