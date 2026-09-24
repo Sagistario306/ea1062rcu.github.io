@@ -23038,10 +23038,10 @@
  },
  {
   "indicativo": "HI8H",
-  "codigo": "3Z7B5A",
-  "fecha": "2026-08-24 00:14:30",
+  "codigo": "WVVEJR",
+  "fecha": "2026-09-24 21:39:15",
   "pais": "Republica Dominicana",
-  "archivo": "qsl/QSL_HI8H_2026-08.webp"
+  "archivo": "qsl/QSL_HI8H_2026-09.webp"
  },
  {
   "indicativo": "HI8EES",
@@ -44091,6 +44091,13 @@
   "fecha": "2026-08-24 00:10 UTC",
   "pais": "Republica Dominicana",
   "archivo": "qsl/QSL_HI3LER_2026-08.webp"
+ },
+ {
+  "indicativo": "HI8H",
+  "codigo": "3Z7B5A",
+  "fecha": "2026-08-24 00:14 UTC",
+  "pais": "Republica Dominicana",
+  "archivo": "qsl/QSL_HI8H_2026-08.webp"
  },
  {
   "indicativo": "HI8EES",
