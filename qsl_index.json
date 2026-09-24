@@ -16416,10 +16416,10 @@
  },
  {
   "indicativo": "CE3EOA",
-  "codigo": "5YEJ36",
-  "fecha": "2026-08-19 13:37:28",
+  "codigo": "X4VHCJ",
+  "fecha": "2026-09-24 21:23:59",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE3EOA_2026-08.webp"
+  "archivo": "qsl/QSL_CE3EOA_2026-09.webp"
  },
  {
   "indicativo": "9M2YOF",
@@ -42768,6 +42768,13 @@
   "fecha": "2026-08-19 13:29 UTC",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2KRZ_2026-08.webp"
+ },
+ {
+  "indicativo": "CE3EOA",
+  "codigo": "5YEJ36",
+  "fecha": "2026-08-19 13:37 UTC",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3EOA_2026-08.webp"
  },
  {
   "indicativo": "9M2YOF",
