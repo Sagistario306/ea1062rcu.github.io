@@ -22828,10 +22828,10 @@
  },
  {
   "indicativo": "YV8JET",
-  "codigo": "XA5QZ5",
-  "fecha": "2026-08-23 20:38:51",
+  "codigo": "XXGW52",
+  "fecha": "2026-09-24 21:20:03",
   "pais": "Venezuela",
-  "archivo": "qsl/QSL_YV8JET_2026-08.webp"
+  "archivo": "qsl/QSL_YV8JET_2026-09.webp"
  },
  {
   "indicativo": "HJ7FCH",
@@ -43853,6 +43853,13 @@
   "fecha": "2026-08-23 13:47 UTC",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK5AKN_2026-08.webp"
+ },
+ {
+  "indicativo": "YV8JET",
+  "codigo": "XA5QZ5",
+  "fecha": "2026-08-23 20:38 UTC",
+  "pais": "Venezuela",
+  "archivo": "qsl/QSL_YV8JET_2026-08.webp"
  },
  {
   "indicativo": "LU5CBA",
