@@ -12258,10 +12258,10 @@
  },
  {
   "indicativo": "HJ7NLB",
-  "codigo": "TBCGCD",
-  "fecha": "2026-08-17 01:30:22",
+  "codigo": "45XG9F",
+  "fecha": "2026-09-24 21:22:50",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ7NLB_2026-08.webp"
+  "archivo": "qsl/QSL_HJ7NLB_2026-09.webp"
  },
  {
   "indicativo": "9M4CTD",
@@ -41606,6 +41606,13 @@
   "fecha": "2026-08-17 01:30 UTC",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE6PL_2026-08.webp"
+ },
+ {
+  "indicativo": "HJ7NLB",
+  "codigo": "TBCGCD",
+  "fecha": "2026-08-17 01:30 UTC",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ7NLB_2026-08.webp"
  },
  {
   "indicativo": "9M4CTD",
