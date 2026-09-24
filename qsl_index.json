@@ -12709,7 +12709,7 @@
   "codigo": "CNNB2E",
   "fecha": "2026-09-24 22:17:58",
   "pais": "Guatemala",
-  "archivo": "qsl/QSL_TG6NER_2026-09.webp"
+  "archivo": "qsl/QSL_TG6NER_2026-09.png"
  },
  {
   "indicativo": "XE2KJT",
@@ -22107,10 +22107,10 @@
  },
  {
   "indicativo": "YN1GLK",
-  "codigo": "XJ4WYE",
-  "fecha": "2026-08-23 00:40:11",
+  "codigo": "XGYCXH",
+  "fecha": "2026-09-24 22:45:46",
   "pais": "Nicaragua",
-  "archivo": "qsl/QSL_YN1GLK_2026-08.webp"
+  "archivo": "qsl/QSL_YN1GLK_2026-09.webp"
  },
  {
   "indicativo": "HP1LAV",
@@ -44035,6 +44035,13 @@
   "fecha": "2026-08-23 00:19 UTC",
   "pais": "Japon",
   "archivo": "qsl/QSL_JH9YVE_2026-08.webp"
+ },
+ {
+  "indicativo": "YN1GLK",
+  "codigo": "XJ4WYE",
+  "fecha": "2026-08-23 00:40 UTC",
+  "pais": "Nicaragua",
+  "archivo": "qsl/QSL_YN1GLK_2026-08.webp"
  },
  {
   "indicativo": "EA7CCC",
