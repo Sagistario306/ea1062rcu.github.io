@@ -8667,10 +8667,10 @@
  },
  {
   "indicativo": "TG9ADV",
-  "codigo": "QAKB6H",
-  "fecha": "2026-08-16 01:03:45",
+  "codigo": "PRQQSF",
+  "fecha": "2026-09-24 21:36:34",
   "pais": "Guatemala",
-  "archivo": "qsl/QSL_TG9ADV_2026-08.webp"
+  "archivo": "qsl/QSL_TG9ADV_2026-09.webp"
  },
  {
   "indicativo": "EB2BAG",
@@ -40584,6 +40584,13 @@
   "fecha": "2026-08-16 01:02 UTC",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M8HAZ_2026-08.webp"
+ },
+ {
+  "indicativo": "TG9ADV",
+  "codigo": "QAKB6H",
+  "fecha": "2026-08-16 01:03 UTC",
+  "pais": "Guatemala",
+  "archivo": "qsl/QSL_TG9ADV_2026-08.webp"
  },
  {
   "indicativo": "HR2DDL",
