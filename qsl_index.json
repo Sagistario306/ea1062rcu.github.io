@@ -40285,6 +40285,13 @@
   "archivo": "qsl/QSL_LU1AQA_2026-09.webp"
  },
  {
+  "indicativo": "LU4ARU",
+  "codigo": "Z249PG",
+  "fecha": "2026-09-24 14:12:04",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU4ARU_2026-09.webp"
+ },
+ {
   "indicativo": "EA3CY",
   "codigo": "TQJXEY",
   "fecha": "2026-08-16 00:00 UTC",
