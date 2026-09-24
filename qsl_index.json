@@ -12076,10 +12076,10 @@
  },
  {
   "indicativo": "KP4GBF",
-  "codigo": "83SCXC",
-  "fecha": "2026-08-17 01:25:22",
+  "codigo": "AEXMVM",
+  "fecha": "2026-09-24 21:20:12",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_KP4GBF_2026-08.webp"
+  "archivo": "qsl/QSL_KP4GBF_2026-09.webp"
  },
  {
   "indicativo": "HK6JIL",
@@ -41508,6 +41508,13 @@
   "fecha": "2026-08-17 01:24 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1ZJZ_2026-08.webp"
+ },
+ {
+  "indicativo": "KP4GBF",
+  "codigo": "83SCXC",
+  "fecha": "2026-08-17 01:25 UTC",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4GBF_2026-08.webp"
  },
  {
   "indicativo": "OA4ELI",
