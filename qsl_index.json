@@ -8443,10 +8443,10 @@
  },
  {
   "indicativo": "KP4MSR",
-  "codigo": "6F2BZ6",
-  "fecha": "2026-08-16 01:00:27",
+  "codigo": "RJ8YDX",
+  "fecha": "2026-09-25 00:13:36",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_KP4MSR_2026-08.webp"
+  "archivo": "qsl/QSL_KP4MSR_2026-09.webp"
  },
  {
   "indicativo": "XE1EVP",
@@ -40577,6 +40577,13 @@
   "fecha": "2026-08-16 01:00 UTC",
   "pais": "Filipinas",
   "archivo": "qsl/QSL_DX1CW_2026-08.webp"
+ },
+ {
+  "indicativo": "KP4MSR",
+  "codigo": "6F2BZ6",
+  "fecha": "2026-08-16 01:00 UTC",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4MSR_2026-08.webp"
  },
  {
   "indicativo": "XE1EVP",
