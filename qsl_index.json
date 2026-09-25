@@ -10158,10 +10158,10 @@
  },
  {
   "indicativo": "NP4PC",
-  "codigo": "3URH3X",
-  "fecha": "2026-08-16 01:24:01",
+  "codigo": "WS7U3A",
+  "fecha": "2026-09-25 10:19:23",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_NP4PC_2026-08.webp"
+  "archivo": "qsl/QSL_NP4PC_2026-09.webp"
  },
  {
   "indicativo": "9W2DJV",
@@ -40990,6 +40990,13 @@
   "fecha": "2026-08-16 01:24 UTC",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU8ESQ_2026-08.webp"
+ },
+ {
+  "indicativo": "NP4PC",
+  "codigo": "3URH3X",
+  "fecha": "2026-08-16 01:24 UTC",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4PC_2026-08.webp"
  },
  {
   "indicativo": "9W2DJV",
