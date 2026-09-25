@@ -21463,10 +21463,10 @@
  },
  {
   "indicativo": "CE4RWS",
-  "codigo": "NKMCJV",
-  "fecha": "2026-08-22 19:04:04",
+  "codigo": "6HSPUP",
+  "fecha": "2026-09-25 00:59:29",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE4RWS_2026-08.webp"
+  "archivo": "qsl/QSL_CE4RWS_2026-09.webp"
  },
  {
   "indicativo": "LU8ALE",
@@ -44070,6 +44070,13 @@
   "fecha": "2026-08-22 18:15 UTC",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP1CQ_2026-08.webp"
+ },
+ {
+  "indicativo": "CE4RWS",
+  "codigo": "NKMCJV",
+  "fecha": "2026-08-22 19:04 UTC",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE4RWS_2026-08.webp"
  },
  {
   "indicativo": "YS1EF",
