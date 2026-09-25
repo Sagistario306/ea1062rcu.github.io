@@ -22933,10 +22933,10 @@
  },
  {
   "indicativo": "CX2TG",
-  "codigo": "FKXG4Z",
-  "fecha": "2026-08-23 23:53:21",
+  "codigo": "WH5YZT",
+  "fecha": "2026-09-25 02:08:41",
   "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX2TG_2026-08.webp"
+  "archivo": "qsl/QSL_CX2TG_2026-09.webp"
  },
  {
   "indicativo": "EA5RW",
@@ -44336,6 +44336,13 @@
   "fecha": "2026-08-23 23:12 UTC",
   "pais": "Uruguay",
   "archivo": "qsl/QSL_CX8AF_2026-08.webp"
+ },
+ {
+  "indicativo": "CX2TG",
+  "codigo": "FKXG4Z",
+  "fecha": "2026-08-23 23:53 UTC",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX2TG_2026-08.webp"
  },
  {
   "indicativo": "EA5KGV",
