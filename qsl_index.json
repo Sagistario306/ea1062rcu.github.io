@@ -16976,10 +16976,10 @@
  },
  {
   "indicativo": "XE1GSY",
-  "codigo": "A7VG6V",
-  "fecha": "2026-08-19 23:08:13",
+  "codigo": "A9WMMW",
+  "fecha": "2026-09-25 00:06:33",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1GSY_2026-08.webp"
+  "archivo": "qsl/QSL_XE1GSY_2026-09.webp"
  },
  {
   "indicativo": "TI6JEA",
@@ -43055,6 +43055,13 @@
   "fecha": "2026-08-19 23:01 UTC",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK7ALI_2026-08.webp"
+ },
+ {
+  "indicativo": "XE1GSY",
+  "codigo": "A7VG6V",
+  "fecha": "2026-08-19 23:08 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1GSY_2026-08.webp"
  },
  {
   "indicativo": "CX3BZ",
