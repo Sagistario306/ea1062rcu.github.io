@@ -16766,10 +16766,10 @@
  },
  {
   "indicativo": "KP4HRR",
-  "codigo": "5SG5BZ",
-  "fecha": "2026-08-19 18:34:31",
+  "codigo": "B4A46R",
+  "fecha": "2026-09-25 10:45:42",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_KP4HRR_2026-08.webp"
+  "archivo": "qsl/QSL_KP4HRR_2026-09.webp"
  },
  {
   "indicativo": "XE2LQD",
@@ -43132,6 +43132,13 @@
   "fecha": "2026-08-19 18:23 UTC",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP1PAR_2026-08.webp"
+ },
+ {
+  "indicativo": "KP4HRR",
+  "codigo": "5SG5BZ",
+  "fecha": "2026-08-19 18:34 UTC",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4HRR_2026-08.webp"
  },
  {
   "indicativo": "TI0RHU",
