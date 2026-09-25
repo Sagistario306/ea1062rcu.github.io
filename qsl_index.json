@@ -15114,10 +15114,10 @@
  },
  {
   "indicativo": "CX8MXX",
-  "codigo": "GUNQ3K",
-  "fecha": "2026-08-18 21:09:58",
+  "codigo": "C56QGA",
+  "fecha": "2026-09-25 00:12:04",
   "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX8MXX_2026-08.webp"
+  "archivo": "qsl/QSL_CX8MXX_2026-09.webp"
  },
  {
   "indicativo": "HP8EVA",
@@ -42663,6 +42663,13 @@
   "fecha": "2026-08-18 20:50 UTC",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI2CHJ_2026-08.webp"
+ },
+ {
+  "indicativo": "CX8MXX",
+  "codigo": "GUNQ3K",
+  "fecha": "2026-08-18 21:10 UTC",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX8MXX_2026-08.webp"
  },
  {
   "indicativo": "YD7VTG",
