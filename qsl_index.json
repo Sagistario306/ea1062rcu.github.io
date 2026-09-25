@@ -29702,10 +29702,10 @@
  },
  {
   "indicativo": "TI4WAV",
-  "codigo": "SRND7W",
-  "fecha": "2026-08-30 18:39:08",
+  "codigo": "CHQ8CC",
+  "fecha": "2026-09-25 00:02:24",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI4WAV_2026-08.png"
+  "archivo": "qsl/QSL_TI4WAV_2026-09.webp"
  },
  {
   "indicativo": "LU8ERP",
@@ -46121,6 +46121,13 @@
   "fecha": "2026-08-30 07:07 UTC",
   "pais": "",
   "archivo": "qsl/QSL_YD4AAE_2026-08.webp"
+ },
+ {
+  "indicativo": "TI4WAV",
+  "codigo": "SRND7W",
+  "fecha": "2026-08-30 18:39 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_TI4WAV_2026-08.webp"
  },
  {
   "indicativo": "HI8RG",
