@@ -24928,10 +24928,10 @@
  },
  {
   "indicativo": "HI8J",
-  "codigo": "RY8UMP",
-  "fecha": "2026-08-25 10:33:29",
+  "codigo": "YJQXY7",
+  "fecha": "2026-09-25 10:38:18",
   "pais": "Republica Dominicana",
-  "archivo": "qsl/QSL_HI8J_2026-08.webp"
+  "archivo": "qsl/QSL_HI8J_2026-09.webp"
  },
  {
   "indicativo": "9W2CPZ",
@@ -44630,6 +44630,13 @@
   "fecha": "2026-08-25 07:27 UTC",
   "pais": "",
   "archivo": "qsl/QSL_YC2UAI_2026-08.webp"
+ },
+ {
+  "indicativo": "HI8J",
+  "codigo": "RY8UMP",
+  "fecha": "2026-08-25 10:33 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_HI8J_2026-08.webp"
  },
  {
   "indicativo": "YD6HMM",
