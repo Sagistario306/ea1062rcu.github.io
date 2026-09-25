@@ -21477,10 +21477,10 @@
  },
  {
   "indicativo": "YY5FAH",
-  "codigo": "C49PC3",
-  "fecha": "2026-08-22 19:49:35",
+  "codigo": "KGAAUB",
+  "fecha": "2026-09-25 22:28:31",
   "pais": "Venezuela",
-  "archivo": "qsl/QSL_YY5FAH_2026-08.webp"
+  "archivo": "qsl/QSL_YY5FAH_2026-09.webp"
  },
  {
   "indicativo": "YH3AJD",
@@ -44189,6 +44189,13 @@
   "fecha": "2026-08-22 19:04 UTC",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE4RWS_2026-08.webp"
+ },
+ {
+  "indicativo": "YY5FAH",
+  "codigo": "C49PC3",
+  "fecha": "2026-08-22 19:49 UTC",
+  "pais": "Venezuela",
+  "archivo": "qsl/QSL_YY5FAH_2026-08.webp"
  },
  {
   "indicativo": "YS1EF",
