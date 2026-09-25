@@ -8023,10 +8023,10 @@
  },
  {
   "indicativo": "XE1SEW",
-  "codigo": "VBU92H",
-  "fecha": "2026-08-16 00:11:43",
+  "codigo": "684GTJ",
+  "fecha": "2026-09-25 00:06:57",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1SEW_2026-08.webp"
+  "archivo": "qsl/QSL_XE1SEW_2026-09.webp"
  },
  {
   "indicativo": "LU1WP",
@@ -40472,6 +40472,13 @@
   "fecha": "2026-08-16 00:10 UTC",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W2TLX_2026-08.webp"
+ },
+ {
+  "indicativo": "XE1SEW",
+  "codigo": "VBU92H",
+  "fecha": "2026-08-16 00:11 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1SEW_2026-08.webp"
  },
  {
   "indicativo": "LU1WP",
