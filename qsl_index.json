@@ -14190,10 +14190,10 @@
  },
  {
   "indicativo": "HK4PNE",
-  "codigo": "8ECE7G",
-  "fecha": "2026-08-18 10:59:17",
+  "codigo": "9AFK85",
+  "fecha": "2026-09-25 00:12:45",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK4PNE_2026-08.webp"
+  "archivo": "qsl/QSL_HK4PNE_2026-09.webp"
  },
  {
   "indicativo": "9M2OCW",
@@ -42355,6 +42355,13 @@
   "fecha": "2026-08-18 10:58 UTC",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HJ4LSP_2026-08.webp"
+ },
+ {
+  "indicativo": "HK4PNE",
+  "codigo": "8ECE7G",
+  "fecha": "2026-08-18 10:59 UTC",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK4PNE_2026-08.webp"
  },
  {
   "indicativo": "9M2OCW",
