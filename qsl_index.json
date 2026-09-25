@@ -28799,10 +28799,10 @@
  },
  {
   "indicativo": "YY1KWZ",
-  "codigo": "6CAP4K",
-  "fecha": "2026-08-29 20:31:18",
+  "codigo": "JA39FH",
+  "fecha": "2026-09-25 11:49:06",
   "pais": "Venezuela",
-  "archivo": "qsl/QSL_YY1KWZ_2026-08.png"
+  "archivo": "qsl/QSL_YY1KWZ_2026-09.webp"
  },
  {
   "indicativo": "LW6DAZ",
@@ -46121,6 +46121,13 @@
   "fecha": "2026-08-29 17:49 UTC",
   "pais": "",
   "archivo": "qsl/QSL_XE2DVA_2026-08.webp"
+ },
+ {
+  "indicativo": "YY1KWZ",
+  "codigo": "6CAP4K",
+  "fecha": "2026-08-29 20:31 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_YY1KWZ_2026-08.webp"
  },
  {
   "indicativo": "LW6DO",
