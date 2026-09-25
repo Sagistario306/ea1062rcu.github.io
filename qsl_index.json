@@ -28974,10 +28974,10 @@
  },
  {
   "indicativo": "LU7DGG",
-  "codigo": "C39GR4",
-  "fecha": "2026-08-30 00:20:16",
+  "codigo": "XTGFYK",
+  "fecha": "2026-09-25 00:01:22",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU7DGG_2026-08.webp"
+  "archivo": "qsl/QSL_LU7DGG_2026-09.webp"
  },
  {
   "indicativo": "JR6RQY",
@@ -45918,6 +45918,13 @@
   "fecha": "2026-08-30 00:20 UTC",
   "pais": "",
   "archivo": "qsl/QSL_EA1HLS_2026-08.webp"
+ },
+ {
+  "indicativo": "LU7DGG",
+  "codigo": "C39GR4",
+  "fecha": "2026-08-30 00:20 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_LU7DGG_2026-08.webp"
  },
  {
   "indicativo": "JR6RQY",
