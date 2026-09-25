@@ -22912,10 +22912,10 @@
  },
  {
   "indicativo": "CX8AF",
-  "codigo": "TPP35P",
-  "fecha": "2026-08-23 23:12:47",
+  "codigo": "DUB5BZ",
+  "fecha": "2026-09-25 00:07:33",
   "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX8AF_2026-08.webp"
+  "archivo": "qsl/QSL_CX8AF_2026-09.webp"
  },
  {
   "indicativo": "HK4VIC",
@@ -44217,6 +44217,13 @@
   "fecha": "2026-08-23 21:36 UTC",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK4LGH_2026-08.webp"
+ },
+ {
+  "indicativo": "CX8AF",
+  "codigo": "TPP35P",
+  "fecha": "2026-08-23 23:12 UTC",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX8AF_2026-08.webp"
  },
  {
   "indicativo": "EA5KGV",
