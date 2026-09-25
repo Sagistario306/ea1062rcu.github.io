@@ -14330,10 +14330,10 @@
  },
  {
   "indicativo": "YV5VE",
-  "codigo": "TYFD8T",
-  "fecha": "2026-08-18 11:04:34",
+  "codigo": "5AG43U",
+  "fecha": "2026-09-25 01:27:57",
   "pais": "Venezuela",
-  "archivo": "qsl/QSL_YV5VE_2026-08.webp"
+  "archivo": "qsl/QSL_YV5VE_2026-09.webp"
  },
  {
   "indicativo": "LU8EX",
@@ -42453,6 +42453,13 @@
   "fecha": "2026-08-18 11:03 UTC",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2COT_2026-08.webp"
+ },
+ {
+  "indicativo": "YV5VE",
+  "codigo": "TYFD8T",
+  "fecha": "2026-08-18 11:04 UTC",
+  "pais": "Venezuela",
+  "archivo": "qsl/QSL_YV5VE_2026-08.webp"
  },
  {
   "indicativo": "LU5VQV",
