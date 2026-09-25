@@ -17025,10 +17025,10 @@
  },
  {
   "indicativo": "XE3K",
-  "codigo": "8DJ4WX",
-  "fecha": "2026-08-19 23:59:55",
+  "codigo": "TMAHD2",
+  "fecha": "2026-09-25 00:04:57",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE3K_2026-08.webp"
+  "archivo": "qsl/QSL_XE3K_2026-09.webp"
  },
  {
   "indicativo": "JH7UAX",
@@ -43062,6 +43062,13 @@
   "fecha": "2026-08-19 23:54 UTC",
   "pais": "Uruguay",
   "archivo": "qsl/QSL_CX3BZ_2026-08.webp"
+ },
+ {
+  "indicativo": "XE3K",
+  "codigo": "8DJ4WX",
+  "fecha": "2026-08-20 00:00 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE3K_2026-08.webp"
  },
  {
   "indicativo": "EA1IWI",
