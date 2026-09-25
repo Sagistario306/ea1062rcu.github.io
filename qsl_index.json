@@ -8912,10 +8912,10 @@
  },
  {
   "indicativo": "XE2ERA",
-  "codigo": "64T72A",
-  "fecha": "2026-08-16 01:07:15",
+  "codigo": "VXRBCZ",
+  "fecha": "2026-09-25 00:08:08",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2ERA_2026-08.webp"
+  "archivo": "qsl/QSL_XE2ERA_2026-09.webp"
  },
  {
   "indicativo": "JA3NCL",
@@ -40689,6 +40689,13 @@
   "fecha": "2026-08-16 01:06 UTC",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA7IGF_2026-08.webp"
+ },
+ {
+  "indicativo": "XE2ERA",
+  "codigo": "64T72A",
+  "fecha": "2026-08-16 01:07 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2ERA_2026-08.webp"
  },
  {
   "indicativo": "JA3NCL",
