@@ -13007,10 +13007,10 @@
  },
  {
   "indicativo": "CE1DR",
-  "codigo": "4TFK4F",
-  "fecha": "2026-08-17 01:54:41",
+  "codigo": "ZJEZAU",
+  "fecha": "2026-09-25 10:04:06",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE1DR_2026-08.webp"
+  "archivo": "qsl/QSL_CE1DR_2026-09.webp"
  },
  {
   "indicativo": "TI5FSP",
@@ -42012,6 +42012,13 @@
   "fecha": "2026-08-17 01:52 UTC",
   "pais": "Venezuela",
   "archivo": "qsl/QSL_YY3CCL_2026-08.webp"
+ },
+ {
+  "indicativo": "CE1DR",
+  "codigo": "4TFK4F",
+  "fecha": "2026-08-17 01:54 UTC",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE1DR_2026-08.webp"
  },
  {
   "indicativo": "TI5FSP",
