@@ -8387,10 +8387,10 @@
  },
  {
   "indicativo": "HK6L",
-  "codigo": "32HJ7W",
-  "fecha": "2026-08-16 00:59:25",
+  "codigo": "485XAK",
+  "fecha": "2026-09-25 00:09:06",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK6L_2026-08.webp"
+  "archivo": "qsl/QSL_HK6L_2026-09.webp"
  },
  {
   "indicativo": "9W2YIE",
@@ -40563,6 +40563,13 @@
   "fecha": "2026-08-16 00:59 UTC",
   "pais": "Filipinas",
   "archivo": "qsl/QSL_4G1CLT_2026-08.webp"
+ },
+ {
+  "indicativo": "HK6L",
+  "codigo": "32HJ7W",
+  "fecha": "2026-08-16 00:59 UTC",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK6L_2026-08.webp"
  },
  {
   "indicativo": "CE2BMA",
