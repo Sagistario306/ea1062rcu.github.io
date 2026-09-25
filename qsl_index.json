@@ -22702,10 +22702,10 @@
  },
  {
   "indicativo": "CE3JSG",
-  "codigo": "UGFDS3",
-  "fecha": "2026-08-23 13:53:37",
+  "codigo": "VEZ9PJ",
+  "fecha": "2026-09-25 00:55:21",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE3JSG_2026-08.webp"
+  "archivo": "qsl/QSL_CE3JSG_2026-09.webp"
  },
  {
   "indicativo": "9W2KXK",
@@ -44280,6 +44280,13 @@
   "fecha": "2026-08-23 13:47 UTC",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK5AKN_2026-08.webp"
+ },
+ {
+  "indicativo": "CE3JSG",
+  "codigo": "UGFDS3",
+  "fecha": "2026-08-23 13:53 UTC",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3JSG_2026-08.webp"
  },
  {
   "indicativo": "YV8JET",
