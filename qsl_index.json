@@ -14771,10 +14771,10 @@
  },
  {
   "indicativo": "HK6LOZ",
-  "codigo": "JKZNWA",
-  "fecha": "2026-08-18 11:53:48",
+  "codigo": "F2ARDP",
+  "fecha": "2026-09-25 00:16:29",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK6LOZ_2026-08.png"
+  "archivo": "qsl/QSL_HK6LOZ_2026-09.webp"
  },
  {
   "indicativo": "LW5DR",
@@ -42558,6 +42558,13 @@
   "fecha": "2026-08-18 11:51 UTC",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK4Y_2026-08.webp"
+ },
+ {
+  "indicativo": "HK6LOZ",
+  "codigo": "JKZNWA",
+  "fecha": "2026-08-18 11:53 UTC",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK6LOZ_2026-08.webp"
  },
  {
   "indicativo": "LW5DR",
