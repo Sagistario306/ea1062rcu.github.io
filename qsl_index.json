@@ -12104,10 +12104,10 @@
  },
  {
   "indicativo": "KP4KGZ",
-  "codigo": "WKY46V",
-  "fecha": "2026-08-17 01:27:00",
+  "codigo": "DXZE2B",
+  "fecha": "2026-09-25 00:24:56",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_KP4KGZ_2026-08.webp"
+  "archivo": "qsl/QSL_KP4KGZ_2026-09.webp"
  },
  {
   "indicativo": "XE1PCA",
@@ -41634,6 +41634,13 @@
   "fecha": "2026-08-17 01:26 UTC",
   "pais": "Peru",
   "archivo": "qsl/QSL_OA4ELI_2026-08.webp"
+ },
+ {
+  "indicativo": "KP4KGZ",
+  "codigo": "WKY46V",
+  "fecha": "2026-08-17 01:27 UTC",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4KGZ_2026-08.webp"
  },
  {
   "indicativo": "XE1PCA",
