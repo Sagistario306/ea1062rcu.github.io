@@ -18957,10 +18957,10 @@
  },
  {
   "indicativo": "EA7KEX",
-  "codigo": "WJAJMK",
-  "fecha": "2026-08-21 00:16:39",
+  "codigo": "NQ52HD",
+  "fecha": "2026-09-25 00:00:06",
   "pais": "España",
-  "archivo": "qsl/QSL_EA7KEX_2026-08.webp"
+  "archivo": "qsl/QSL_EA7KEX_2026-09.webp"
  },
  {
   "indicativo": "JA7DGB",
@@ -43440,6 +43440,13 @@
   "fecha": "2026-08-21 00:16 UTC",
   "pais": "Japon",
   "archivo": "qsl/QSL_JH4JQC_2026-08.webp"
+ },
+ {
+  "indicativo": "EA7KEX",
+  "codigo": "WJAJMK",
+  "fecha": "2026-08-21 00:16 UTC",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EA7KEX_2026-08.webp"
  },
  {
   "indicativo": "JA7DGB",
