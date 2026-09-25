@@ -12580,10 +12580,10 @@
  },
  {
   "indicativo": "CEF4",
-  "codigo": "JU2JJ5",
-  "fecha": "2026-08-17 01:42:43",
+  "codigo": "5HB7QG",
+  "fecha": "2026-09-25 00:08:20",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CEF4_2026-08.webp"
+  "archivo": "qsl/QSL_CEF4_2026-09.webp"
  },
  {
   "indicativo": "CE6ACR",
@@ -41788,6 +41788,13 @@
   "fecha": "2026-08-17 01:42 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1CDF_2026-08.webp"
+ },
+ {
+  "indicativo": "CEF4",
+  "codigo": "JU2JJ5",
+  "fecha": "2026-08-17 01:42 UTC",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CEF4_2026-08.webp"
  },
  {
   "indicativo": "CE6ACR",
