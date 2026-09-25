@@ -7694,10 +7694,10 @@
  },
  {
   "indicativo": "TI2DRU",
-  "codigo": "T43QGD",
-  "fecha": "2026-08-16 00:04:23",
+  "codigo": "HBEEYD",
+  "fecha": "2026-09-25 00:02:36",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI2DRU_2026-08.webp"
+  "archivo": "qsl/QSL_TI2DRU_2026-09.webp"
  },
  {
   "indicativo": "9M2RDX",
@@ -40374,6 +40374,13 @@
   "fecha": "2026-08-16 00:04 UTC",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W2BWS_2026-08.webp"
+ },
+ {
+  "indicativo": "TI2DRU",
+  "codigo": "T43QGD",
+  "fecha": "2026-08-16 00:04 UTC",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2DRU_2026-08.webp"
  },
  {
   "indicativo": "9M2RDX",
