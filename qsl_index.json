@@ -13070,10 +13070,10 @@
  },
  {
   "indicativo": "YV4BDF",
-  "codigo": "93KS6A",
-  "fecha": "2026-08-17 02:05:15",
+  "codigo": "B5TZA9",
+  "fecha": "2026-09-25 02:45:14",
   "pais": "Venezuela",
-  "archivo": "qsl/QSL_YV4BDF_2026-08.webp"
+  "archivo": "qsl/QSL_YV4BDF_2026-09.webp"
  },
  {
   "indicativo": "TI0RC",
@@ -42040,6 +42040,13 @@
   "fecha": "2026-08-17 02:05 UTC",
   "pais": "Uruguay",
   "archivo": "qsl/QSL_CX8FXX_2026-08.webp"
+ },
+ {
+  "indicativo": "YV4BDF",
+  "codigo": "93KS6A",
+  "fecha": "2026-08-17 02:05 UTC",
+  "pais": "Venezuela",
+  "archivo": "qsl/QSL_YV4BDF_2026-08.webp"
  },
  {
   "indicativo": "XE1RP",
