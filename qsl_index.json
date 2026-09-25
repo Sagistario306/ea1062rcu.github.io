@@ -18334,10 +18334,10 @@
  },
  {
   "indicativo": "HP2DUI",
-  "codigo": "S85WKY",
-  "fecha": "2026-08-20 11:42:05",
+  "codigo": "8NG46F",
+  "fecha": "2026-09-25 11:49:57",
   "pais": "Panama",
-  "archivo": "qsl/QSL_HP2DUI_2026-08.png"
+  "archivo": "qsl/QSL_HP2DUI_2026-09.webp"
  },
  {
   "indicativo": "LU1BJW",
@@ -43531,6 +43531,13 @@
   "fecha": "2026-08-20 07:35 UTC",
   "pais": "Indonesia",
   "archivo": "qsl/QSL_YD0BCH_2026-08.webp"
+ },
+ {
+  "indicativo": "HP2DUI",
+  "codigo": "S85WKY",
+  "fecha": "2026-08-20 11:42 UTC",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP2DUI_2026-08.webp"
  },
  {
   "indicativo": "9V1VB",
