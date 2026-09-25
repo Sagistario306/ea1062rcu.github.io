@@ -18649,10 +18649,10 @@
  },
  {
   "indicativo": "HP1LNK",
-  "codigo": "4ZWBUK",
-  "fecha": "2026-08-20 20:01:12",
+  "codigo": "DQZTJX",
+  "fecha": "2026-09-25 17:28:10",
   "pais": "Panama",
-  "archivo": "qsl/QSL_HP1LNK_2026-08.webp"
+  "archivo": "qsl/QSL_HP1LNK_2026-09.webp"
  },
  {
   "indicativo": "LW1ECE",
@@ -43622,6 +43622,13 @@
   "fecha": "2026-08-20 19:34 UTC",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI2EI_2026-08.webp"
+ },
+ {
+  "indicativo": "HP1LNK",
+  "codigo": "4ZWBUK",
+  "fecha": "2026-08-20 20:01 UTC",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP1LNK_2026-08.webp"
  },
  {
   "indicativo": "XE2MVB",
