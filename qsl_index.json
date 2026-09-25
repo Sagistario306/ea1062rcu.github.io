@@ -19503,10 +19503,10 @@
  },
  {
   "indicativo": "XE1LAB",
-  "codigo": "Z37YYY",
-  "fecha": "2026-08-21 02:21:11",
+  "codigo": "ZB49UW",
+  "fecha": "2026-09-25 00:14:50",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1LAB_2026-08.png"
+  "archivo": "qsl/QSL_XE1LAB_2026-09.webp"
  },
  {
   "indicativo": "TI4DMR",
@@ -43706,6 +43706,13 @@
   "fecha": "2026-08-21 02:15 UTC",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1QAO_2026-08.webp"
+ },
+ {
+  "indicativo": "XE1LAB",
+  "codigo": "Z37YYY",
+  "fecha": "2026-08-21 02:21 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1LAB_2026-08.webp"
  },
  {
   "indicativo": "9M2SGN",
