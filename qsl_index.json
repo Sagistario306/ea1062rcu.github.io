@@ -10361,10 +10361,10 @@
  },
  {
   "indicativo": "NP4KB",
-  "codigo": "THQF2P",
-  "fecha": "2026-08-17 00:06:16",
+  "codigo": "YCHZZW",
+  "fecha": "2026-09-25 14:48:06",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_NP4KB_2026-08.webp"
+  "archivo": "qsl/QSL_NP4KB_2026-09.webp"
  },
  {
   "indicativo": "EA4AOJ",
@@ -41067,6 +41067,13 @@
   "fecha": "2026-08-17 00:04 UTC",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE3TDM_2026-08.webp"
+ },
+ {
+  "indicativo": "NP4KB",
+  "codigo": "THQF2P",
+  "fecha": "2026-08-17 00:06 UTC",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4KB_2026-08.webp"
  },
  {
   "indicativo": "LU9DA",
