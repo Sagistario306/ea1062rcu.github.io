@@ -24347,10 +24347,10 @@
  },
  {
   "indicativo": "CE3FFC",
-  "codigo": "JAMUDR",
-  "fecha": "2026-08-25 00:56:12",
+  "codigo": "AHJH8R",
+  "fecha": "2026-09-25 00:09:52",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE3FFC_2026-08.webp"
+  "archivo": "qsl/QSL_CE3FFC_2026-09.webp"
  },
  {
   "indicativo": "EA2BJM",
@@ -44448,6 +44448,13 @@
   "fecha": "2026-08-25 00:51 UTC",
   "pais": "",
   "archivo": "qsl/QSL_JH1RTU_2026-08.webp"
+ },
+ {
+  "indicativo": "CE3FFC",
+  "codigo": "JAMUDR",
+  "fecha": "2026-08-25 00:56 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_CE3FFC_2026-08.webp"
  },
  {
   "indicativo": "CE3VRT",
