@@ -14295,10 +14295,10 @@
  },
  {
   "indicativo": "XE1TS",
-  "codigo": "65HFFQ",
-  "fecha": "2026-08-18 11:02:49",
+  "codigo": "ZJ94PW",
+  "fecha": "2026-09-25 00:13:20",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1TS_2026-08.webp"
+  "archivo": "qsl/QSL_XE1TS_2026-09.webp"
  },
  {
   "indicativo": "9M2COT",
@@ -42411,6 +42411,13 @@
   "fecha": "2026-08-18 11:02 UTC",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2JEP_2026-08.webp"
+ },
+ {
+  "indicativo": "XE1TS",
+  "codigo": "65HFFQ",
+  "fecha": "2026-08-18 11:02 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1TS_2026-08.webp"
  },
  {
   "indicativo": "9M2COT",
