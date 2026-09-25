@@ -14974,10 +14974,10 @@
  },
  {
   "indicativo": "LU5DWK",
-  "codigo": "SR5CN3",
-  "fecha": "2026-08-18 19:52:39",
+  "codigo": "WRFCYP",
+  "fecha": "2026-09-25 00:01:49",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU5DWK_2026-08.webp"
+  "archivo": "qsl/QSL_LU5DWK_2026-09.webp"
  },
  {
   "indicativo": "XE2YWH",
@@ -42558,6 +42558,13 @@
   "fecha": "2026-08-18 19:52 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2B_2026-08.webp"
+ },
+ {
+  "indicativo": "LU5DWK",
+  "codigo": "SR5CN3",
+  "fecha": "2026-08-18 19:52 UTC",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU5DWK_2026-08.webp"
  },
  {
   "indicativo": "HP2DB",
