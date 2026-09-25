@@ -12531,10 +12531,10 @@
  },
  {
   "indicativo": "CX4CXX",
-  "codigo": "MQ5TAW",
-  "fecha": "2026-08-17 01:41:53",
+  "codigo": "93FS69",
+  "fecha": "2026-09-25 01:38:06",
   "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX4CXX_2026-08.webp"
+  "archivo": "qsl/QSL_CX4CXX_2026-09.webp"
  },
  {
   "indicativo": "XE2BLR",
@@ -41809,6 +41809,13 @@
   "fecha": "2026-08-17 01:37 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1JMB_2026-08.webp"
+ },
+ {
+  "indicativo": "CX4CXX",
+  "codigo": "MQ5TAW",
+  "fecha": "2026-08-17 01:42 UTC",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX4CXX_2026-08.webp"
  },
  {
   "indicativo": "XE1CDF",
