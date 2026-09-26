@@ -16549,10 +16549,10 @@
  },
  {
   "indicativo": "CE4JVU",
-  "codigo": "3MWN83",
-  "fecha": "2026-08-19 15:28:18",
+  "codigo": "T7Y4Y5",
+  "fecha": "2026-09-26 00:10:39",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE4JVU_2026-08.webp"
+  "archivo": "qsl/QSL_CE4JVU_2026-09.webp"
  },
  {
   "indicativo": "YB9WD",
@@ -43132,6 +43132,13 @@
   "fecha": "2026-08-19 15:28 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1BEH_2026-08.webp"
+ },
+ {
+  "indicativo": "CE4JVU",
+  "codigo": "3MWN83",
+  "fecha": "2026-08-19 15:28 UTC",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE4JVU_2026-08.webp"
  },
  {
   "indicativo": "LU1UDP",
