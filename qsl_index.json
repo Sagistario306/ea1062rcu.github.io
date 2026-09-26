@@ -21358,10 +21358,10 @@
  },
  {
   "indicativo": "PJ2LS",
-  "codigo": "GC6W4J",
-  "fecha": "2026-08-22 17:25:11",
+  "codigo": "QJ6HTP",
+  "fecha": "2026-09-26 17:16:06",
   "pais": "Curazao",
-  "archivo": "qsl/QSL_PJ2LS_2026-08.webp"
+  "archivo": "qsl/QSL_PJ2LS_2026-09.webp"
  },
  {
   "indicativo": "ZP6CEA",
@@ -44623,6 +44623,13 @@
   "fecha": "2026-08-22 17:12 UTC",
   "pais": "Filipinas",
   "archivo": "qsl/QSL_DV1UK_2026-08.webp"
+ },
+ {
+  "indicativo": "PJ2LS",
+  "codigo": "GC6W4J",
+  "fecha": "2026-08-22 17:25 UTC",
+  "pais": "Curazao",
+  "archivo": "qsl/QSL_PJ2LS_2026-08.webp"
  },
  {
   "indicativo": "ZP6CEA",
