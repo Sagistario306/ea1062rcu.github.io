@@ -12118,10 +12118,10 @@
  },
  {
   "indicativo": "XE3JCL",
-  "codigo": "MJKCCQ",
-  "fecha": "2026-08-17 01:27:44",
+  "codigo": "XBN76Y",
+  "fecha": "2026-09-26 00:19:36",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE3JCL_2026-08.webp"
+  "archivo": "qsl/QSL_XE3JCL_2026-09.webp"
  },
  {
   "indicativo": "HK6BRK",
@@ -41711,6 +41711,13 @@
   "fecha": "2026-08-17 01:27 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1PCA_2026-08.webp"
+ },
+ {
+  "indicativo": "XE3JCL",
+  "codigo": "MJKCCQ",
+  "fecha": "2026-08-17 01:27 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE3JCL_2026-08.webp"
  },
  {
   "indicativo": "HK6BRK",
