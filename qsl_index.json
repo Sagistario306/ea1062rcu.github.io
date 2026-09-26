@@ -8618,10 +8618,10 @@
  },
  {
   "indicativo": "TI5M",
-  "codigo": "VA5BPF",
-  "fecha": "2026-08-16 01:02:58",
+  "codigo": "9EDVX2",
+  "fecha": "2026-09-26 00:12:48",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI5M_2026-08.webp"
+  "archivo": "qsl/QSL_TI5M_2026-09.webp"
  },
  {
   "indicativo": "EB1AYW",
@@ -40668,6 +40668,13 @@
   "fecha": "2026-08-16 01:02 UTC",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M8HAZ_2026-08.webp"
+ },
+ {
+  "indicativo": "TI5M",
+  "codigo": "VA5BPF",
+  "fecha": "2026-08-16 01:03 UTC",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI5M_2026-08.webp"
  },
  {
   "indicativo": "TG9ADV",
