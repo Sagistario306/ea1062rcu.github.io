@@ -11733,10 +11733,10 @@
  },
  {
   "indicativo": "TI2AZ",
-  "codigo": "DZWXYF",
-  "fecha": "2026-08-17 01:13:33",
+  "codigo": "GMRM7E",
+  "fecha": "2026-09-26 00:28:45",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI2AZ_2026-08.webp"
+  "archivo": "qsl/QSL_TI2AZ_2026-09.webp"
  },
  {
   "indicativo": "CE3GC",
@@ -41543,6 +41543,13 @@
   "fecha": "2026-08-17 01:13 UTC",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP2NG_2026-08.webp"
+ },
+ {
+  "indicativo": "TI2AZ",
+  "codigo": "DZWXYF",
+  "fecha": "2026-08-17 01:13 UTC",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2AZ_2026-08.webp"
  },
  {
   "indicativo": "CE3GC",
