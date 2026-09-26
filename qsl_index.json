@@ -21176,10 +21176,10 @@
  },
  {
   "indicativo": "KP4KYG",
-  "codigo": "RFG8NW",
-  "fecha": "2026-08-22 15:07:53",
+  "codigo": "S8JMSQ",
+  "fecha": "2026-09-26 15:48:14",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_KP4KYG_2026-08.webp"
+  "archivo": "qsl/QSL_KP4KYG_2026-09.webp"
  },
  {
   "indicativo": "YB0AUX",
@@ -44574,6 +44574,13 @@
   "fecha": "2026-08-22 12:37 UTC",
   "pais": "Trinidad y Tobago",
   "archivo": "qsl/QSL_9Y4QA_2026-08.webp"
+ },
+ {
+  "indicativo": "KP4KYG",
+  "codigo": "RFG8NW",
+  "fecha": "2026-08-22 15:07 UTC",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4KYG_2026-08.webp"
  },
  {
   "indicativo": "HR5HAC",
