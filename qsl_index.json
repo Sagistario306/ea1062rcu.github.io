@@ -15023,10 +15023,10 @@
  },
  {
   "indicativo": "HK3QUE",
-  "codigo": "PER2QS",
-  "fecha": "2026-08-18 20:10:28",
+  "codigo": "P4BA7N",
+  "fecha": "2026-09-26 01:11:24",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK3QUE_2026-08.webp"
+  "archivo": "qsl/QSL_HK3QUE_2026-09.webp"
  },
  {
   "indicativo": "TI3OBC",
@@ -43069,6 +43069,13 @@
   "fecha": "2026-08-18 20:05 UTC",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP1RY_2026-08.webp"
+ },
+ {
+  "indicativo": "HK3QUE",
+  "codigo": "PER2QS",
+  "fecha": "2026-08-18 20:10 UTC",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK3QUE_2026-08.webp"
  },
  {
   "indicativo": "CX2JO",
