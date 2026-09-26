@@ -16976,10 +16976,10 @@
  },
  {
   "indicativo": "NP3ZY",
-  "codigo": "9B276E",
-  "fecha": "2026-08-19 23:30:47",
+  "codigo": "9CRR2W",
+  "fecha": "2026-09-26 17:01:43",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_NP3ZY_2026-08.webp"
+  "archivo": "qsl/QSL_NP3ZY_2026-09.webp"
  },
  {
   "indicativo": "CX1AQN",
@@ -25050,7 +25050,7 @@
   "codigo": "BZBZNB",
   "fecha": "2026-09-26 15:48:28",
   "pais": "Republica Dominicana",
-  "archivo": "qsl/QSL_HI3EMO_2026-09.webp"
+  "archivo": "qsl/QSL_HI3EMO_2026-09.png"
  },
  {
   "indicativo": "OA1ENL",
@@ -43629,6 +43629,13 @@
   "fecha": "2026-08-19 23:08 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1GSY_2026-08.webp"
+ },
+ {
+  "indicativo": "NP3ZY",
+  "codigo": "9B276E",
+  "fecha": "2026-08-19 23:30 UTC",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP3ZY_2026-08.webp"
  },
  {
   "indicativo": "CX3BZ",
