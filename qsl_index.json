@@ -12482,10 +12482,10 @@
  },
  {
   "indicativo": "HK4X",
-  "codigo": "SCYPB5",
-  "fecha": "2026-08-17 01:37:12",
+  "codigo": "82MMR5",
+  "fecha": "2026-09-26 00:43:07",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK4X_2026-08.webp"
+  "archivo": "qsl/QSL_HK4X_2026-09.webp"
  },
  {
   "indicativo": "HP1AVS",
@@ -41900,6 +41900,13 @@
   "fecha": "2026-08-17 01:37 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1JMB_2026-08.webp"
+ },
+ {
+  "indicativo": "HK4X",
+  "codigo": "SCYPB5",
+  "fecha": "2026-08-17 01:37 UTC",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK4X_2026-08.webp"
  },
  {
   "indicativo": "CX4CXX",
