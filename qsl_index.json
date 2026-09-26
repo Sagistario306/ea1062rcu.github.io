@@ -12485,7 +12485,7 @@
   "codigo": "82MMR5",
   "fecha": "2026-09-26 00:43:07",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK4X_2026-09.webp"
+  "archivo": "qsl/QSL_HK4X_2026-09.png"
  },
  {
   "indicativo": "HP1AVS",
@@ -40360,6 +40360,13 @@
   "fecha": "2026-09-26 00:17:34",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE4FVS_2026-09.webp"
+ },
+ {
+  "indicativo": "SR2NMG",
+  "codigo": "BVM63W",
+  "fecha": "2026-09-26 00:48:59",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SR2NMG_2026-09.webp"
  },
  {
   "indicativo": "EA3CY",
