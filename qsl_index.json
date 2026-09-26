@@ -26020,10 +26020,10 @@
  },
  {
   "indicativo": "HI8OTA",
-  "codigo": "W7B2NS",
-  "fecha": "2026-08-26 21:28:58",
+  "codigo": "5A257S",
+  "fecha": "2026-09-26 19:58:17",
   "pais": "Republica Dominicana",
-  "archivo": "qsl/QSL_HI8OTA_2026-08.webp"
+  "archivo": "qsl/QSL_HI8OTA_2026-09.webp"
  },
  {
   "indicativo": "9W2VEB",
@@ -45330,6 +45330,13 @@
   "fecha": "2026-08-26 15:20 UTC",
   "pais": "",
   "archivo": "qsl/QSL_9W2BXG_2026-08.webp"
+ },
+ {
+  "indicativo": "HI8OTA",
+  "codigo": "W7B2NS",
+  "fecha": "2026-08-26 21:29 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_HI8OTA_2026-08.webp"
  },
  {
   "indicativo": "9M2NZR",
