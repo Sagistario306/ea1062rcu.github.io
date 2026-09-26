@@ -19846,10 +19846,10 @@
  },
  {
   "indicativo": "YV1GDQ",
-  "codigo": "K5WR3G",
-  "fecha": "2026-08-21 18:48:46",
+  "codigo": "E4T6XM",
+  "fecha": "2026-09-26 21:56:53",
   "pais": "Venezuela",
-  "archivo": "qsl/QSL_YV1GDQ_2026-08.webp"
+  "archivo": "qsl/QSL_YV1GDQ_2026-09.webp"
  },
  {
   "indicativo": "LU9CNS",
@@ -40639,7 +40639,7 @@
   "codigo": "9M7Y54",
   "fecha": "2026-09-26 21:06:32",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_KP4FIE_2026-09.webp"
+  "archivo": "qsl/QSL_KP4FIE_2026-09.png"
  },
  {
   "indicativo": "EA3CY",
@@ -44329,6 +44329,13 @@
   "fecha": "2026-08-21 10:09 UTC",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W2OKX_2026-08.webp"
+ },
+ {
+  "indicativo": "YV1GDQ",
+  "codigo": "K5WR3G",
+  "fecha": "2026-08-21 18:48 UTC",
+  "pais": "Venezuela",
+  "archivo": "qsl/QSL_YV1GDQ_2026-08.webp"
  },
  {
   "indicativo": "LU9CNS",
