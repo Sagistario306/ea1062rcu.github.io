@@ -14736,10 +14736,10 @@
  },
  {
   "indicativo": "CE4FVQ",
-  "codigo": "DT4JD3",
-  "fecha": "2026-08-18 11:51:15",
+  "codigo": "HB9KHD",
+  "fecha": "2026-09-26 15:33:28",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE4FVQ_2026-08.webp"
+  "archivo": "qsl/QSL_CE4FVQ_2026-09.webp"
  },
  {
   "indicativo": "LU1IYL",
@@ -42999,6 +42999,13 @@
   "fecha": "2026-08-18 11:51 UTC",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK4Y_2026-08.webp"
+ },
+ {
+  "indicativo": "CE4FVQ",
+  "codigo": "DT4JD3",
+  "fecha": "2026-08-18 11:51 UTC",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE4FVQ_2026-08.webp"
  },
  {
   "indicativo": "HK6LOZ",
