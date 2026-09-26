@@ -15107,10 +15107,10 @@
  },
  {
   "indicativo": "HP8EVA",
-  "codigo": "J9FMRB",
-  "fecha": "2026-08-18 21:25:25",
+  "codigo": "72P7E6",
+  "fecha": "2026-09-26 19:30:33",
   "pais": "Panama",
-  "archivo": "qsl/QSL_HP8EVA_2026-08.webp"
+  "archivo": "qsl/QSL_HP8EVA_2026-09.webp"
  },
  {
   "indicativo": "YF5OR",
@@ -40632,7 +40632,7 @@
   "codigo": "K7UPQH",
   "fecha": "2026-09-26 18:36:55",
   "pais": "Venezuela",
-  "archivo": "qsl/QSL_YV6IA_2026-09.webp"
+  "archivo": "qsl/QSL_YV6IA_2026-09.png"
  },
  {
   "indicativo": "EA3CY",
@@ -43174,6 +43174,13 @@
   "fecha": "2026-08-18 21:10 UTC",
   "pais": "Uruguay",
   "archivo": "qsl/QSL_CX8MXX_2026-08.webp"
+ },
+ {
+  "indicativo": "HP8EVA",
+  "codigo": "J9FMRB",
+  "fecha": "2026-08-18 21:25 UTC",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP8EVA_2026-08.webp"
  },
  {
   "indicativo": "YD7VTG",
