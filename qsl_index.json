@@ -13070,10 +13070,10 @@
  },
  {
   "indicativo": "TI0RC",
-  "codigo": "UBUBVF",
-  "fecha": "2026-08-17 02:08:03",
+  "codigo": "GJTZGK",
+  "fecha": "2026-09-26 00:11:40",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI0RC_2026-08.webp"
+  "archivo": "qsl/QSL_TI0RC_2026-09.webp"
  },
  {
   "indicativo": "XE1IBW",
@@ -42103,6 +42103,13 @@
   "fecha": "2026-08-17 02:05 UTC",
   "pais": "Venezuela",
   "archivo": "qsl/QSL_YV4BDF_2026-08.webp"
+ },
+ {
+  "indicativo": "TI0RC",
+  "codigo": "UBUBVF",
+  "fecha": "2026-08-17 02:08 UTC",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI0RC_2026-08.webp"
  },
  {
   "indicativo": "XE1RP",
