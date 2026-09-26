@@ -12450,7 +12450,7 @@
   "codigo": "BZM3XM",
   "fecha": "2026-09-26 20:01:35",
   "pais": "Peru",
-  "archivo": "qsl/QSL_OA4DFM_2026-09.webp"
+  "archivo": "qsl/QSL_OA4DFM_2026-09.png"
  },
  {
   "indicativo": "HP8ATN",
@@ -40633,6 +40633,13 @@
   "fecha": "2026-09-26 18:36:55",
   "pais": "Venezuela",
   "archivo": "qsl/QSL_YV6IA_2026-09.png"
+ },
+ {
+  "indicativo": "KP4FIE",
+  "codigo": "9M7Y54",
+  "fecha": "2026-09-26 21:06:32",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4FIE_2026-09.webp"
  },
  {
   "indicativo": "EA3CY",
