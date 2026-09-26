@@ -40551,6 +40551,13 @@
   "archivo": "qsl/QSL_4X1DA_2026-09.webp"
  },
  {
+  "indicativo": "TA7O",
+  "codigo": "25DR4Y",
+  "fecha": "2026-09-26 00:52:52",
+  "pais": "Turquia",
+  "archivo": "qsl/QSL_TA7O_2026-09.webp"
+ },
+ {
   "indicativo": "EA3CY",
   "codigo": "TQJXEY",
   "fecha": "2026-08-16 00:00 UTC",
