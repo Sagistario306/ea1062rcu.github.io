@@ -8870,10 +8870,10 @@
  },
  {
   "indicativo": "CE3TKG",
-  "codigo": "TXQR32",
-  "fecha": "2026-08-16 01:06:57",
+  "codigo": "VFP7B5",
+  "fecha": "2026-09-26 13:15:48",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE3TKG_2026-08.webp"
+  "archivo": "qsl/QSL_CE3TKG_2026-09.webp"
  },
  {
   "indicativo": "ED1ZAX",
@@ -40990,6 +40990,13 @@
   "fecha": "2026-08-16 01:06 UTC",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA7IGF_2026-08.webp"
+ },
+ {
+  "indicativo": "CE3TKG",
+  "codigo": "TXQR32",
+  "fecha": "2026-08-16 01:07 UTC",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3TKG_2026-08.webp"
  },
  {
   "indicativo": "XE2ERA",
