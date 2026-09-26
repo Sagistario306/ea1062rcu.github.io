@@ -21361,7 +21361,7 @@
   "codigo": "QJ6HTP",
   "fecha": "2026-09-26 17:16:06",
   "pais": "Curazao",
-  "archivo": "qsl/QSL_PJ2LS_2026-09.webp"
+  "archivo": "qsl/QSL_PJ2LS_2026-09.png"
  },
  {
   "indicativo": "ZP6CEA",
@@ -40626,6 +40626,13 @@
   "fecha": "2026-09-26 17:02:10",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP4ARN_2026-09.webp"
+ },
+ {
+  "indicativo": "YV6IA",
+  "codigo": "K7UPQH",
+  "fecha": "2026-09-26 18:36:55",
+  "pais": "Venezuela",
+  "archivo": "qsl/QSL_YV6IA_2026-09.webp"
  },
  {
   "indicativo": "EA3CY",
