@@ -12055,10 +12055,10 @@
  },
  {
   "indicativo": "HK6JIL",
-  "codigo": "CY9JF3",
-  "fecha": "2026-08-17 01:25:43",
+  "codigo": "NPZ59B",
+  "fecha": "2026-09-26 00:26:28",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK6JIL_2026-08.webp"
+  "archivo": "qsl/QSL_HK6JIL_2026-09.webp"
  },
  {
   "indicativo": "LU2BB",
@@ -41683,6 +41683,13 @@
   "fecha": "2026-08-17 01:25 UTC",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP4GBF_2026-08.webp"
+ },
+ {
+  "indicativo": "HK6JIL",
+  "codigo": "CY9JF3",
+  "fecha": "2026-08-17 01:25 UTC",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK6JIL_2026-08.webp"
  },
  {
   "indicativo": "OA4ELI",
