@@ -12860,10 +12860,10 @@
  },
  {
   "indicativo": "XE2SFR",
-  "codigo": "3E6C3C",
-  "fecha": "2026-08-17 01:49:12",
+  "codigo": "CJBAJM",
+  "fecha": "2026-09-26 00:28:16",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2SFR_2026-08.webp"
+  "archivo": "qsl/QSL_XE2SFR_2026-09.webp"
  },
  {
   "indicativo": "XE1E",
@@ -42040,6 +42040,13 @@
   "fecha": "2026-08-17 01:49 UTC",
   "pais": "Uruguay",
   "archivo": "qsl/QSL_CX1AA_2026-08.webp"
+ },
+ {
+  "indicativo": "XE2SFR",
+  "codigo": "3E6C3C",
+  "fecha": "2026-08-17 01:49 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2SFR_2026-08.webp"
  },
  {
   "indicativo": "HP1DUA",
