@@ -16759,10 +16759,10 @@
  },
  {
   "indicativo": "XE2LQD",
-  "codigo": "Q9TV9N",
-  "fecha": "2026-08-19 18:49:35",
+  "codigo": "S3B9PY",
+  "fecha": "2026-09-26 00:53:49",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2LQD_2026-08.webp"
+  "archivo": "qsl/QSL_XE2LQD_2026-09.webp"
  },
  {
   "indicativo": "TI0RHU",
@@ -43482,6 +43482,13 @@
   "fecha": "2026-08-19 18:34 UTC",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP4HRR_2026-08.webp"
+ },
+ {
+  "indicativo": "XE2LQD",
+  "codigo": "Q9TV9N",
+  "fecha": "2026-08-19 18:49 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2LQD_2026-08.webp"
  },
  {
   "indicativo": "TI0RHU",
