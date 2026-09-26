@@ -13168,10 +13168,10 @@
  },
  {
   "indicativo": "TI2BSH",
-  "codigo": "FY9NTE",
-  "fecha": "2026-08-17 03:18:20",
+  "codigo": "5MKT3F",
+  "fecha": "2026-09-26 00:23:28",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI2BSH_2026-08.webp"
+  "archivo": "qsl/QSL_TI2BSH_2026-09.webp"
  },
  {
   "indicativo": "OA4DFD",
@@ -42166,6 +42166,13 @@
   "fecha": "2026-08-17 03:05 UTC",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI0ARC_2026-08.webp"
+ },
+ {
+  "indicativo": "TI2BSH",
+  "codigo": "FY9NTE",
+  "fecha": "2026-08-17 03:18 UTC",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2BSH_2026-08.webp"
  },
  {
   "indicativo": "OA4DFD",
