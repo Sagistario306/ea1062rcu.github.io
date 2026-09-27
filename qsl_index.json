@@ -16927,10 +16927,10 @@
  },
  {
   "indicativo": "XE3ADC",
-  "codigo": "DJQN3V",
-  "fecha": "2026-08-19 22:52:02",
+  "codigo": "9WCPJN",
+  "fecha": "2026-09-27 00:57:10",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE3ADC_2026-08.webp"
+  "archivo": "qsl/QSL_XE3ADC_2026-09.webp"
  },
  {
   "indicativo": "XE1ACW",
@@ -43965,6 +43965,13 @@
   "fecha": "2026-08-19 22:42 UTC",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK7BNI_2026-08.webp"
+ },
+ {
+  "indicativo": "XE3ADC",
+  "codigo": "DJQN3V",
+  "fecha": "2026-08-19 22:52 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE3ADC_2026-08.webp"
  },
  {
   "indicativo": "HK7ALI",
