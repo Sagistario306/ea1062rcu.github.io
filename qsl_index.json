@@ -14323,10 +14323,10 @@
  },
  {
   "indicativo": "HK4MPC",
-  "codigo": "YA2KEJ",
-  "fecha": "2026-08-18 11:06:18",
+  "codigo": "FDZTW3",
+  "fecha": "2026-09-27 15:38:34",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK4MPC_2026-08.webp"
+  "archivo": "qsl/QSL_HK4MPC_2026-09.webp"
  },
  {
   "indicativo": "LU5VQV",
@@ -43244,6 +43244,13 @@
   "fecha": "2026-08-18 11:04 UTC",
   "pais": "Venezuela",
   "archivo": "qsl/QSL_YV5VE_2026-08.webp"
+ },
+ {
+  "indicativo": "HK4MPC",
+  "codigo": "YA2KEJ",
+  "fecha": "2026-08-18 11:06 UTC",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK4MPC_2026-08.webp"
  },
  {
   "indicativo": "LU5VQV",
