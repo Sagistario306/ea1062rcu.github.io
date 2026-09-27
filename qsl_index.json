@@ -8989,10 +8989,10 @@
  },
  {
   "indicativo": "TI2RC",
-  "codigo": "CK6UKR",
-  "fecha": "2026-08-16 01:08:30",
+  "codigo": "VSV5GH",
+  "fecha": "2026-09-27 00:46:37",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI2RC_2026-08.webp"
+  "archivo": "qsl/QSL_TI2RC_2026-09.webp"
  },
  {
   "indicativo": "XE2W",
@@ -41319,6 +41319,13 @@
   "fecha": "2026-08-16 01:08 UTC",
   "pais": "Indonesia",
   "archivo": "qsl/QSL_YC8VJF_2026-08.webp"
+ },
+ {
+  "indicativo": "TI2RC",
+  "codigo": "CK6UKR",
+  "fecha": "2026-08-16 01:08 UTC",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2RC_2026-08.webp"
  },
  {
   "indicativo": "XE2W",
