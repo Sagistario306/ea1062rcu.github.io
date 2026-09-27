@@ -16955,10 +16955,10 @@
  },
  {
   "indicativo": "CE2UDY",
-  "codigo": "CVZXS5",
-  "fecha": "2026-08-19 23:28:55",
+  "codigo": "PGTP8M",
+  "fecha": "2026-09-27 14:35:51",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE2UDY_2026-08.webp"
+  "archivo": "qsl/QSL_CE2UDY_2026-09.webp"
  },
  {
   "indicativo": "NP3ZY",
@@ -44042,6 +44042,13 @@
   "fecha": "2026-08-19 23:08 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1GSY_2026-08.webp"
+ },
+ {
+  "indicativo": "CE2UDY",
+  "codigo": "CVZXS5",
+  "fecha": "2026-08-19 23:29 UTC",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE2UDY_2026-08.webp"
  },
  {
   "indicativo": "NP3ZY",
