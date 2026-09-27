@@ -26566,10 +26566,10 @@
  },
  {
   "indicativo": "XE1NW",
-  "codigo": "5CEBKX",
-  "fecha": "2026-08-27 05:15:44",
+  "codigo": "UBT4E6",
+  "fecha": "2026-09-27 01:19:18",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1NW_2026-08.webp"
+  "archivo": "qsl/QSL_XE1NW_2026-09.webp"
  },
  {
   "indicativo": "9M2ZEB",
@@ -45855,6 +45855,13 @@
   "fecha": "2026-08-27 05:13 UTC",
   "pais": "",
   "archivo": "qsl/QSL_EB4FGE_2026-08.webp"
+ },
+ {
+  "indicativo": "XE1NW",
+  "codigo": "5CEBKX",
+  "fecha": "2026-08-27 05:15 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_XE1NW_2026-08.webp"
  },
  {
   "indicativo": "9M2ZEB",
