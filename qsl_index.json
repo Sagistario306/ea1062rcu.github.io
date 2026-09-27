@@ -19405,10 +19405,10 @@
  },
  {
   "indicativo": "LU4CMD",
-  "codigo": "VMB6NX",
-  "fecha": "2026-08-21 01:25:22",
+  "codigo": "82JPPE",
+  "fecha": "2026-09-27 00:04:41",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU4CMD_2026-08.webp"
+  "archivo": "qsl/QSL_LU4CMD_2026-09.webp"
  },
  {
   "indicativo": "YG1ARG",
@@ -40852,6 +40852,13 @@
   "archivo": "qsl/QSL_OZ2DIJ_2026-09.webp"
  },
  {
+  "indicativo": "OH2ABB",
+  "codigo": "FH4QCC",
+  "fecha": "2026-09-27 00:04:38",
+  "pais": "Finlandia",
+  "archivo": "qsl/QSL_OH2ABB_2026-09.webp"
+ },
+ {
   "indicativo": "EA3CY",
   "codigo": "TQJXEY",
   "fecha": "2026-08-16 00:00 UTC",
@@ -44518,6 +44525,13 @@
   "fecha": "2026-08-21 00:42 UTC",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA1XU_2026-08.webp"
+ },
+ {
+  "indicativo": "LU4CMD",
+  "codigo": "VMB6NX",
+  "fecha": "2026-08-21 01:25 UTC",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU4CMD_2026-08.webp"
  },
  {
   "indicativo": "9M2OKB",
