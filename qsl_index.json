@@ -15947,10 +15947,10 @@
  },
  {
   "indicativo": "XE2ARS",
-  "codigo": "YVCFDJ",
-  "fecha": "2026-08-19 00:48:25",
+  "codigo": "T2WH4E",
+  "fecha": "2026-09-27 01:20:52",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2ARS_2026-08.webp"
+  "archivo": "qsl/QSL_XE2ARS_2026-09.webp"
  },
  {
   "indicativo": "TG9AMD",
@@ -43713,6 +43713,13 @@
   "fecha": "2026-08-19 00:44 UTC",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2CEI_2026-08.webp"
+ },
+ {
+  "indicativo": "XE2ARS",
+  "codigo": "YVCFDJ",
+  "fecha": "2026-08-19 00:48 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2ARS_2026-08.webp"
  },
  {
   "indicativo": "TG9AMD",
