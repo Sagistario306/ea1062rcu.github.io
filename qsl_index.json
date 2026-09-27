@@ -8730,10 +8730,10 @@
  },
  {
   "indicativo": "EB2EAS",
-  "codigo": "YDRHYC",
-  "fecha": "2026-08-16 01:05:03",
+  "codigo": "5JV8Q3",
+  "fecha": "2026-09-27 00:04:31",
   "pais": "España",
-  "archivo": "qsl/QSL_EB2EAS_2026-08.webp"
+  "archivo": "qsl/QSL_EB2EAS_2026-09.webp"
  },
  {
   "indicativo": "9W8KEN",
@@ -10287,7 +10287,7 @@
   "codigo": "R2W95W",
   "fecha": "2026-09-27 00:04:27",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU1MC_2026-09.png"
+  "archivo": "qsl/QSL_LU1MC_2026-09.webp"
  },
  {
   "indicativo": "EA5IGN",
@@ -40838,6 +40838,13 @@
   "archivo": "qsl/QSL_OH1EEZ_2026-09.webp"
  },
  {
+  "indicativo": "PA4UL",
+  "codigo": "6N5FY7",
+  "fecha": "2026-09-27 00:04:28",
+  "pais": "Paises Bajos",
+  "archivo": "qsl/QSL_PA4UL_2026-09.webp"
+ },
+ {
   "indicativo": "EA3CY",
   "codigo": "TQJXEY",
   "fecha": "2026-08-16 00:00 UTC",
@@ -41172,6 +41179,13 @@
   "fecha": "2026-08-16 01:04 UTC",
   "pais": "Indonesia",
   "archivo": "qsl/QSL_YD1BPG_2026-08.webp"
+ },
+ {
+  "indicativo": "EB2EAS",
+  "codigo": "YDRHYC",
+  "fecha": "2026-08-16 01:05 UTC",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EB2EAS_2026-08.webp"
  },
  {
   "indicativo": "9W8KEN",
