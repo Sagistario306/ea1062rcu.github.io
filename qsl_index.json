@@ -22751,10 +22751,10 @@
  },
  {
   "indicativo": "TI4JDD",
-  "codigo": "EX2FCT",
-  "fecha": "2026-08-23 18:48:35",
+  "codigo": "QAVK2E",
+  "fecha": "2026-09-27 01:40:39",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI4JDD_2026-08.webp"
+  "archivo": "qsl/QSL_TI4JDD_2026-09.webp"
  },
  {
   "indicativo": "LU6HWT",
@@ -45274,6 +45274,13 @@
   "fecha": "2026-08-23 15:24 UTC",
   "pais": "Barbados",
   "archivo": "qsl/QSL_8P4AD_2026-08.webp"
+ },
+ {
+  "indicativo": "TI4JDD",
+  "codigo": "EX2FCT",
+  "fecha": "2026-08-23 18:48 UTC",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI4JDD_2026-08.webp"
  },
  {
   "indicativo": "YV8JET",
