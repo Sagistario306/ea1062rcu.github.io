@@ -19849,7 +19849,7 @@
   "codigo": "E4T6XM",
   "fecha": "2026-09-26 21:56:53",
   "pais": "Venezuela",
-  "archivo": "qsl/QSL_YV1GDQ_2026-09.webp"
+  "archivo": "qsl/QSL_YV1GDQ_2026-09.png"
  },
  {
   "indicativo": "LU9CNS",
@@ -40640,6 +40640,20 @@
   "fecha": "2026-09-26 21:06:32",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP4FIE_2026-09.png"
+ },
+ {
+  "indicativo": "OZ8NST",
+  "codigo": "XFAQW5",
+  "fecha": "2026-09-27 00:03:43",
+  "pais": "Dinamarca",
+  "archivo": "qsl/QSL_OZ8NST_2026-09.webp"
+ },
+ {
+  "indicativo": "IZ7JWQ",
+  "codigo": "JBVVBQ",
+  "fecha": "2026-09-27 00:03:45",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IZ7JWQ_2026-09.webp"
  },
  {
   "indicativo": "EA3CY",
