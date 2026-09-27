@@ -15184,10 +15184,10 @@
  },
  {
   "indicativo": "CX2FH",
-  "codigo": "NQG4SV",
-  "fecha": "2026-08-18 23:08:05",
+  "codigo": "NZE24Y",
+  "fecha": "2026-09-27 13:49:19",
   "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX2FH_2026-08.webp"
+  "archivo": "qsl/QSL_CX2FH_2026-09.webp"
  },
  {
   "indicativo": "YE3AOV",
@@ -43552,6 +43552,13 @@
   "fecha": "2026-08-18 22:26 UTC",
   "pais": "Guatemala",
   "archivo": "qsl/QSL_TG9JMR_2026-08.webp"
+ },
+ {
+  "indicativo": "CX2FH",
+  "codigo": "NQG4SV",
+  "fecha": "2026-08-18 23:08 UTC",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX2FH_2026-08.webp"
  },
  {
   "indicativo": "YD0PVI",
