@@ -19940,7 +19940,7 @@
   "codigo": "C3URPG",
   "fecha": "2026-09-27 19:09:06",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE3AEA_2026-09.webp"
+  "archivo": "qsl/QSL_CE3AEA_2026-09.png"
  },
  {
   "indicativo": "HC3MC",
@@ -40955,6 +40955,13 @@
   "fecha": "2026-09-27 17:43:34",
   "pais": "Venezuela",
   "archivo": "qsl/QSL_YY6AJC_2026-09.png"
+ },
+ {
+  "indicativo": "HP2PCE",
+  "codigo": "HQUW3U",
+  "fecha": "2026-09-27 23:32:32",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP2PCE_2026-09.webp"
  },
  {
   "indicativo": "EA3CY",
