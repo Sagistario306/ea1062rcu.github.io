@@ -15145,7 +15145,7 @@
   "codigo": "URP339",
   "fecha": "2026-09-27 04:16:57",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2ALF_2026-09.webp"
+  "archivo": "qsl/QSL_XE2ALF_2026-09.png"
  },
  {
   "indicativo": "XE2ACF",
@@ -22121,10 +22121,10 @@
  },
  {
   "indicativo": "YV2FYY",
-  "codigo": "HX62BK",
-  "fecha": "2026-08-23 01:36:15",
+  "codigo": "A8MPCQ",
+  "fecha": "2026-09-27 13:38:16",
   "pais": "Venezuela",
-  "archivo": "qsl/QSL_YV2FYY_2026-08.webp"
+  "archivo": "qsl/QSL_YV2FYY_2026-09.webp"
  },
  {
   "indicativo": "HC5PH",
@@ -45225,6 +45225,13 @@
   "fecha": "2026-08-23 00:40 UTC",
   "pais": "Nicaragua",
   "archivo": "qsl/QSL_YN1GLK_2026-08.webp"
+ },
+ {
+  "indicativo": "YV2FYY",
+  "codigo": "HX62BK",
+  "fecha": "2026-08-23 01:36 UTC",
+  "pais": "Venezuela",
+  "archivo": "qsl/QSL_YV2FYY_2026-08.webp"
  },
  {
   "indicativo": "EA7CCC",
