@@ -25159,10 +25159,10 @@
  },
  {
   "indicativo": "HJ3OKR",
-  "codigo": "7K4BGW",
-  "fecha": "2026-08-25 21:33:59",
+  "codigo": "V27T6Q",
+  "fecha": "2026-09-27 16:32:45",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ3OKR_2026-08.png"
+  "archivo": "qsl/QSL_HJ3OKR_2026-09.webp"
  },
  {
   "indicativo": "LU7DAM",
@@ -45736,6 +45736,13 @@
   "fecha": "2026-08-25 19:00 UTC",
   "pais": "",
   "archivo": "qsl/QSL_9Y4C_2026-08.webp"
+ },
+ {
+  "indicativo": "HJ3OKR",
+  "codigo": "7K4BGW",
+  "fecha": "2026-08-25 21:34 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_HJ3OKR_2026-08.webp"
  },
  {
   "indicativo": "JH4QHO",
