@@ -40698,6 +40698,20 @@
   "archivo": "qsl/QSL_PI6NOS_2026-09.webp"
  },
  {
+  "indicativo": "PU2KWZ",
+  "codigo": "PEKY4N",
+  "fecha": "2026-09-27 00:03:56",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU2KWZ_2026-09.webp"
+ },
+ {
+  "indicativo": "SA0BSV",
+  "codigo": "KSSR5Q",
+  "fecha": "2026-09-27 00:03:57",
+  "pais": "Suecia",
+  "archivo": "qsl/QSL_SA0BSV_2026-09.webp"
+ },
+ {
   "indicativo": "EA3CY",
   "codigo": "TQJXEY",
   "fecha": "2026-08-16 00:00 UTC",
