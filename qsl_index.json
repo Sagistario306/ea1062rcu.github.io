@@ -12083,10 +12083,10 @@
  },
  {
   "indicativo": "LW6EQG",
-  "codigo": "VQZ7JM",
-  "fecha": "2026-08-17 01:26:39",
+  "codigo": "W7EP3T",
+  "fecha": "2026-09-27 00:04:51",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LW6EQG_2026-08.webp"
+  "archivo": "qsl/QSL_LW6EQG_2026-09.webp"
  },
  {
   "indicativo": "KP4KGZ",
@@ -42229,6 +42229,13 @@
   "fecha": "2026-08-17 01:26 UTC",
   "pais": "Peru",
   "archivo": "qsl/QSL_OA4ELI_2026-08.webp"
+ },
+ {
+  "indicativo": "LW6EQG",
+  "codigo": "VQZ7JM",
+  "fecha": "2026-08-17 01:26 UTC",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW6EQG_2026-08.webp"
  },
  {
   "indicativo": "KP4KGZ",
