@@ -13315,10 +13315,10 @@
  },
  {
   "indicativo": "XE2LRS",
-  "codigo": "HH3E4G",
-  "fecha": "2026-08-18 10:17:59",
+  "codigo": "Y84N4C",
+  "fecha": "2026-09-27 01:17:24",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2LRS_2026-08.webp"
+  "archivo": "qsl/QSL_XE2LRS_2026-09.webp"
  },
  {
   "indicativo": "EA3FHP",
@@ -42859,6 +42859,13 @@
   "fecha": "2026-08-18 10:17 UTC",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA6WQ_2026-08.webp"
+ },
+ {
+  "indicativo": "XE2LRS",
+  "codigo": "HH3E4G",
+  "fecha": "2026-08-18 10:18 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2LRS_2026-08.webp"
  },
  {
   "indicativo": "EC4DA",
