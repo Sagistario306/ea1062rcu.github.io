@@ -15142,10 +15142,10 @@
  },
  {
   "indicativo": "XE2ALF",
-  "codigo": "FSX5TQ",
-  "fecha": "2026-08-18 22:06:19",
+  "codigo": "URP339",
+  "fecha": "2026-09-27 04:16:57",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2ALF_2026-08.webp"
+  "archivo": "qsl/QSL_XE2ALF_2026-09.webp"
  },
  {
   "indicativo": "XE2ACF",
@@ -43531,6 +43531,13 @@
   "fecha": "2026-08-18 21:51 UTC",
   "pais": "Indonesia",
   "archivo": "qsl/QSL_YD7VTG_2026-08.webp"
+ },
+ {
+  "indicativo": "XE2ALF",
+  "codigo": "FSX5TQ",
+  "fecha": "2026-08-18 22:06 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2ALF_2026-08.webp"
  },
  {
   "indicativo": "TG9JMR",
