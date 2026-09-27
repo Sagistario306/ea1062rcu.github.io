@@ -40712,6 +40712,27 @@
   "archivo": "qsl/QSL_SA0BSV_2026-09.webp"
  },
  {
+  "indicativo": "LA7MTA",
+  "codigo": "AVAJTN",
+  "fecha": "2026-09-27 00:03:58",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LA7MTA_2026-09.webp"
+ },
+ {
+  "indicativo": "GB7DNA",
+  "codigo": "HM8V77",
+  "fecha": "2026-09-27 00:04:00",
+  "pais": "Reino Unido",
+  "archivo": "qsl/QSL_GB7DNA_2026-09.webp"
+ },
+ {
+  "indicativo": "MB7UFO",
+  "codigo": "XKH96D",
+  "fecha": "2026-09-27 00:04:01",
+  "pais": "Reino Unido",
+  "archivo": "qsl/QSL_MB7UFO_2026-09.webp"
+ },
+ {
   "indicativo": "EA3CY",
   "codigo": "TQJXEY",
   "fecha": "2026-08-16 00:00 UTC",
