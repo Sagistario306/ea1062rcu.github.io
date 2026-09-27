@@ -40803,6 +40803,27 @@
   "archivo": "qsl/QSL_TA8HC_2026-09.webp"
  },
  {
+  "indicativo": "TA7HF",
+  "codigo": "HCXFG6",
+  "fecha": "2026-09-27 00:04:17",
+  "pais": "Turquia",
+  "archivo": "qsl/QSL_TA7HF_2026-09.webp"
+ },
+ {
+  "indicativo": "SV2HJE",
+  "codigo": "XDHD4Y",
+  "fecha": "2026-09-27 00:04:19",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV2HJE_2026-09.webp"
+ },
+ {
+  "indicativo": "PD0GTO",
+  "codigo": "66C8J6",
+  "fecha": "2026-09-27 00:04:21",
+  "pais": "Paises Bajos",
+  "archivo": "qsl/QSL_PD0GTO_2026-09.webp"
+ },
+ {
   "indicativo": "EA3CY",
   "codigo": "TQJXEY",
   "fecha": "2026-08-16 00:00 UTC",
