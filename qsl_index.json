@@ -14883,10 +14883,10 @@
  },
  {
   "indicativo": "TI5GAX",
-  "codigo": "KNS5NG",
-  "fecha": "2026-08-18 19:48:03",
+  "codigo": "YHD8BU",
+  "fecha": "2026-09-27 00:17:33",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI5GAX_2026-08.webp"
+  "archivo": "qsl/QSL_TI5GAX_2026-09.webp"
  },
  {
   "indicativo": "HK3AB",
@@ -43356,6 +43356,13 @@
   "fecha": "2026-08-18 19:47 UTC",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP6OJS_2026-08.webp"
+ },
+ {
+  "indicativo": "TI5GAX",
+  "codigo": "KNS5NG",
+  "fecha": "2026-08-18 19:48 UTC",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI5GAX_2026-08.webp"
  },
  {
   "indicativo": "XE2UD",
