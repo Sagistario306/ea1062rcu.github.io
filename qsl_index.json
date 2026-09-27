@@ -13098,10 +13098,10 @@
  },
  {
   "indicativo": "XE1JEG",
-  "codigo": "GKS823",
-  "fecha": "2026-08-17 02:21:25",
+  "codigo": "A7ZVMR",
+  "fecha": "2026-09-27 02:19:45",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1JEG_2026-08.webp"
+  "archivo": "qsl/QSL_XE1JEG_2026-09.webp"
  },
  {
   "indicativo": "YV5ADM",
@@ -42768,6 +42768,13 @@
   "fecha": "2026-08-17 02:20 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE3VK_2026-08.webp"
+ },
+ {
+  "indicativo": "XE1JEG",
+  "codigo": "GKS823",
+  "fecha": "2026-08-17 02:21 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1JEG_2026-08.webp"
  },
  {
   "indicativo": "YV5ADM",
