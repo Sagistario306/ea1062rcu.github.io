@@ -10185,20 +10185,6 @@
   "archivo": "qsl/QSL_DY6WQK_2026-09_EV.webp"
  },
  {
-  "indicativo": "EA2Z",
-  "codigo": "UKE8VX",
-  "fecha": "2026-09-02 00:37:35",
-  "pais": "España",
-  "archivo": "qsl/QSL_EA2Z_2026-09.webp"
- },
- {
-  "indicativo": "EA2Z",
-  "codigo": "AX6JXG",
-  "fecha": "2026-09-02 00:37:42",
-  "pais": "España",
-  "archivo": "qsl/QSL_EA2Z_2026-09_EV.webp"
- },
- {
   "indicativo": "KP4DW",
   "codigo": "J4BWKT",
   "fecha": "2026-09-24 21:21:07",
@@ -15950,7 +15936,7 @@
   "codigo": "T2WH4E",
   "fecha": "2026-09-27 01:20:52",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2ARS_2026-09.webp"
+  "archivo": "qsl/QSL_XE2ARS_2026-09.png"
  },
  {
   "indicativo": "TG9AMD",
@@ -40899,6 +40885,13 @@
   "fecha": "2026-09-27 00:43:36",
   "pais": "EAU",
   "archivo": "qsl/QSL_A61BN_2026-09.webp"
+ },
+ {
+  "indicativo": "HK4JGG",
+  "codigo": "AB497K",
+  "fecha": "2026-09-27 01:23:22",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK4JGG_2026-09.webp"
  },
  {
   "indicativo": "EA3CY",
