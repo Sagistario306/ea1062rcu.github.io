@@ -18453,10 +18453,10 @@
  },
  {
   "indicativo": "KP4HE",
-  "codigo": "SSYGFX",
-  "fecha": "2026-08-20 14:31:09",
+  "codigo": "ZCC6QC",
+  "fecha": "2026-09-27 16:22:53",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_KP4HE_2026-08.webp"
+  "archivo": "qsl/QSL_KP4HE_2026-09.webp"
  },
  {
   "indicativo": "LU3EEA",
@@ -44469,6 +44469,13 @@
   "fecha": "2026-08-20 14:07 UTC",
   "pais": "Venezuela",
   "archivo": "qsl/QSL_YY4BAJ_2026-08.webp"
+ },
+ {
+  "indicativo": "KP4HE",
+  "codigo": "SSYGFX",
+  "fecha": "2026-08-20 14:31 UTC",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4HE_2026-08.webp"
  },
  {
   "indicativo": "OA2EIQ",
