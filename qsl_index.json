@@ -21512,10 +21512,10 @@
  },
  {
   "indicativo": "LU8SAN",
-  "codigo": "7REQTP",
-  "fecha": "2026-08-22 22:05:51",
+  "codigo": "6AUTM8",
+  "fecha": "2026-09-27 00:04:44",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU8SAN_2026-08.webp"
+  "archivo": "qsl/QSL_LU8SAN_2026-09.webp"
  },
  {
   "indicativo": "ZP5WYC",
@@ -44945,6 +44945,13 @@
   "fecha": "2026-08-22 20:29 UTC",
   "pais": "El Salvador",
   "archivo": "qsl/QSL_YS1EF_2026-08.webp"
+ },
+ {
+  "indicativo": "LU8SAN",
+  "codigo": "7REQTP",
+  "fecha": "2026-08-22 22:05 UTC",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU8SAN_2026-08.webp"
  },
  {
   "indicativo": "XE1JMA",
