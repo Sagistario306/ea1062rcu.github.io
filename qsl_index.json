@@ -17277,10 +17277,10 @@
  },
  {
   "indicativo": "EB2GLU",
-  "codigo": "PK54ZP",
-  "fecha": "2026-08-20 00:24:27",
+  "codigo": "SFC5TG",
+  "fecha": "2026-09-28 00:05:58",
   "pais": "España",
-  "archivo": "qsl/QSL_EB2GLU_2026-08.webp"
+  "archivo": "qsl/QSL_EB2GLU_2026-09.webp"
  },
  {
   "indicativo": "EA2JG",
@@ -44441,6 +44441,13 @@
   "fecha": "2026-08-20 00:23 UTC",
   "pais": "Japon",
   "archivo": "qsl/QSL_JH5ZLW_2026-08.webp"
+ },
+ {
+  "indicativo": "EB2GLU",
+  "codigo": "PK54ZP",
+  "fecha": "2026-08-20 00:24 UTC",
+  "pais": "Espana",
+  "archivo": "qsl/QSL_EB2GLU_2026-08.webp"
  },
  {
   "indicativo": "JH7USP",
