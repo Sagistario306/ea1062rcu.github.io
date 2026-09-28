@@ -18327,10 +18327,10 @@
  },
  {
   "indicativo": "XE3N",
-  "codigo": "SUV2DM",
-  "fecha": "2026-08-20 12:27:22",
+  "codigo": "QYYZUR",
+  "fecha": "2026-09-28 01:26:46",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE3N_2026-08.webp"
+  "archivo": "qsl/QSL_XE3N_2026-09.webp"
  },
  {
   "indicativo": "TI3JKS",
@@ -44742,6 +44742,13 @@
   "fecha": "2026-08-20 12:22 UTC",
   "pais": "Singapur",
   "archivo": "qsl/QSL_9V1VB_2026-08.webp"
+ },
+ {
+  "indicativo": "XE3N",
+  "codigo": "SUV2DM",
+  "fecha": "2026-08-20 12:27 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE3N_2026-08.webp"
  },
  {
   "indicativo": "HK7OHV",
