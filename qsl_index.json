@@ -16185,10 +16185,10 @@
  },
  {
   "indicativo": "HJ6ZLJ",
-  "codigo": "AJKP8A",
-  "fecha": "2026-08-19 13:09:59",
+  "codigo": "JEW9T8",
+  "fecha": "2026-09-28 00:21:25",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ6ZLJ_2026-08.webp"
+  "archivo": "qsl/QSL_HJ6ZLJ_2026-09.webp"
  },
  {
   "indicativo": "LU2MCA",
@@ -44105,6 +44105,13 @@
   "fecha": "2026-08-19 13:09 UTC",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU4GLS_2026-08.webp"
+ },
+ {
+  "indicativo": "HJ6ZLJ",
+  "codigo": "AJKP8A",
+  "fecha": "2026-08-19 13:10 UTC",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ6ZLJ_2026-08.webp"
  },
  {
   "indicativo": "YD7KVL",
