@@ -18446,10 +18446,10 @@
  },
  {
   "indicativo": "LU4OFA",
-  "codigo": "EHVQU5",
-  "fecha": "2026-08-20 14:25:46",
+  "codigo": "WZZAH6",
+  "fecha": "2026-09-28 00:06:27",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU4OFA_2026-08.webp"
+  "archivo": "qsl/QSL_LU4OFA_2026-09.webp"
  },
  {
   "indicativo": "KP4HE",
@@ -44735,6 +44735,13 @@
   "fecha": "2026-08-20 14:07 UTC",
   "pais": "Venezuela",
   "archivo": "qsl/QSL_YY4BAJ_2026-08.webp"
+ },
+ {
+  "indicativo": "LU4OFA",
+  "codigo": "EHVQU5",
+  "fecha": "2026-08-20 14:26 UTC",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU4OFA_2026-08.webp"
  },
  {
   "indicativo": "KP4HE",
