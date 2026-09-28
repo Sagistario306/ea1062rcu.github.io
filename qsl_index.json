@@ -14932,10 +14932,10 @@
  },
  {
   "indicativo": "XE2YWH",
-  "codigo": "E2JYAF",
-  "fecha": "2026-08-18 19:53:03",
+  "codigo": "A4UNB5",
+  "fecha": "2026-09-28 02:34:17",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2YWH_2026-08.webp"
+  "archivo": "qsl/QSL_XE2YWH_2026-09.webp"
  },
  {
   "indicativo": "HP2DB",
@@ -43762,6 +43762,13 @@
   "fecha": "2026-08-18 19:52 UTC",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU5DWK_2026-08.webp"
+ },
+ {
+  "indicativo": "XE2YWH",
+  "codigo": "E2JYAF",
+  "fecha": "2026-08-18 19:53 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2YWH_2026-08.webp"
  },
  {
   "indicativo": "HP2DB",
