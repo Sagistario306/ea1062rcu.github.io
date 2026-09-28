@@ -21421,10 +21421,10 @@
  },
  {
   "indicativo": "CO5WE",
-  "codigo": "GCC3UJ",
-  "fecha": "2026-08-22 18:56:17",
+  "codigo": "YYDG5P",
+  "fecha": "2026-09-28 01:04:47",
   "pais": "Cuba",
-  "archivo": "qsl/QSL_CO5WE_2026-08.webp"
+  "archivo": "qsl/QSL_CO5WE_2026-09.webp"
  },
  {
   "indicativo": "CE4RWS",
@@ -45449,6 +45449,13 @@
   "fecha": "2026-08-22 18:15 UTC",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP1CQ_2026-08.webp"
+ },
+ {
+  "indicativo": "CO5WE",
+  "codigo": "GCC3UJ",
+  "fecha": "2026-08-22 18:56 UTC",
+  "pais": "Cuba",
+  "archivo": "qsl/QSL_CO5WE_2026-08.webp"
  },
  {
   "indicativo": "CE4RWS",
