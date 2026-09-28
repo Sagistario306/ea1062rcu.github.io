@@ -41073,7 +41073,28 @@
   "codigo": "HWJ2HK",
   "fecha": "2026-09-28 00:00:25",
   "pais": "Grecia",
-  "archivo": "qsl/QSL_SV6GMP_2026-09.png"
+  "archivo": "qsl/QSL_SV6GMP_2026-09.webp"
+ },
+ {
+  "indicativo": "LICT2",
+  "codigo": "7YTEW6",
+  "fecha": "2026-09-28 00:00:27",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LICT2_2026-09.webp"
+ },
+ {
+  "indicativo": "TA2TTV",
+  "codigo": "66KNRJ",
+  "fecha": "2026-09-28 00:00:29",
+  "pais": "Turquia",
+  "archivo": "qsl/QSL_TA2TTV_2026-09.webp"
+ },
+ {
+  "indicativo": "MB5WB",
+  "codigo": "H6PV4C",
+  "fecha": "2026-09-28 00:00:30",
+  "pais": "Reino Unido",
+  "archivo": "qsl/QSL_MB5WB_2026-09.webp"
  },
  {
   "indicativo": "EA3CY",
