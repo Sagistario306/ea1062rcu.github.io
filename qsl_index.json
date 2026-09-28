@@ -21225,10 +21225,10 @@
  },
  {
   "indicativo": "XE2JVD",
-  "codigo": "TYZ6EE",
-  "fecha": "2026-08-22 16:31:52",
+  "codigo": "Q88QGH",
+  "fecha": "2026-09-28 18:29:05",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2JVD_2026-08.webp"
+  "archivo": "qsl/QSL_XE2JVD_2026-09.webp"
  },
  {
   "indicativo": "KP3LH",
@@ -45498,6 +45498,13 @@
   "fecha": "2026-08-22 16:29 UTC",
   "pais": "Honduras",
   "archivo": "qsl/QSL_HR5HAC_2026-08.webp"
+ },
+ {
+  "indicativo": "XE2JVD",
+  "codigo": "TYZ6EE",
+  "fecha": "2026-08-22 16:31 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2JVD_2026-08.webp"
  },
  {
   "indicativo": "XE2DLC",
