@@ -19937,10 +19937,10 @@
  },
  {
   "indicativo": "HC3MC",
-  "codigo": "BDRVHZ",
-  "fecha": "2026-08-21 23:02:21",
+  "codigo": "TBW43J",
+  "fecha": "2026-09-28 01:18:01",
   "pais": "Ecuador",
-  "archivo": "qsl/QSL_HC3MC_2026-08.webp"
+  "archivo": "qsl/QSL_HC3MC_2026-09.webp"
  },
  {
   "indicativo": "YC3BUS",
@@ -45106,6 +45106,13 @@
   "fecha": "2026-08-21 22:14 UTC",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE3AEA_2026-08.webp"
+ },
+ {
+  "indicativo": "HC3MC",
+  "codigo": "BDRVHZ",
+  "fecha": "2026-08-21 23:02 UTC",
+  "pais": "Ecuador",
+  "archivo": "qsl/QSL_HC3MC_2026-08.webp"
  },
  {
   "indicativo": "YC3BUS",
