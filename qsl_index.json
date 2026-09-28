@@ -11271,10 +11271,10 @@
  },
  {
   "indicativo": "HK5FCI",
-  "codigo": "W6MU47",
-  "fecha": "2026-08-17 00:27:45",
+  "codigo": "RZXGSC",
+  "fecha": "2026-09-28 00:32:27",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK5FCI_2026-08.webp"
+  "archivo": "qsl/QSL_HK5FCI_2026-09.webp"
  },
  {
   "indicativo": "EB1GUA",
@@ -42278,6 +42278,13 @@
   "fecha": "2026-08-17 00:27 UTC",
   "pais": "Peru",
   "archivo": "qsl/QSL_OA2ABP_2026-08.webp"
+ },
+ {
+  "indicativo": "HK5FCI",
+  "codigo": "W6MU47",
+  "fecha": "2026-08-17 00:27 UTC",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK5FCI_2026-08.webp"
  },
  {
   "indicativo": "TI2STB",
