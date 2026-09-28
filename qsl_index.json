@@ -18145,10 +18145,10 @@
  },
  {
   "indicativo": "HK3BJ",
-  "codigo": "D5VVDY",
-  "fecha": "2026-08-20 07:23:52",
+  "codigo": "GEZS5E",
+  "fecha": "2026-09-28 16:53:22",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK3BJ_2026-08.webp"
+  "archivo": "qsl/QSL_HK3BJ_2026-09.webp"
  },
  {
   "indicativo": "YD0BCH",
@@ -44770,6 +44770,13 @@
   "fecha": "2026-08-20 04:21 UTC",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2RTX_2026-08.webp"
+ },
+ {
+  "indicativo": "HK3BJ",
+  "codigo": "D5VVDY",
+  "fecha": "2026-08-20 07:23 UTC",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK3BJ_2026-08.webp"
  },
  {
   "indicativo": "YD0BCH",
