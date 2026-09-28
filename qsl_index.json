@@ -15142,10 +15142,10 @@
  },
  {
   "indicativo": "TI5JON",
-  "codigo": "3SQAQC",
-  "fecha": "2026-08-18 23:05:55",
+  "codigo": "SFGJHZ",
+  "fecha": "2026-09-28 13:35:39",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI5JON_2026-08.webp"
+  "archivo": "qsl/QSL_TI5JON_2026-09.webp"
  },
  {
   "indicativo": "YD3AQR",
@@ -43874,6 +43874,13 @@
   "fecha": "2026-08-18 22:26 UTC",
   "pais": "Guatemala",
   "archivo": "qsl/QSL_TG9JMR_2026-08.webp"
+ },
+ {
+  "indicativo": "TI5JON",
+  "codigo": "3SQAQC",
+  "fecha": "2026-08-18 23:06 UTC",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI5JON_2026-08.webp"
  },
  {
   "indicativo": "CX2FH",
