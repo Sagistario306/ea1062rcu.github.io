@@ -41118,6 +41118,20 @@
   "archivo": "qsl/QSL_PI3GOE_2026-09.webp"
  },
  {
+  "indicativo": "PA0KNW",
+  "codigo": "34UVGZ",
+  "fecha": "2026-09-28 00:04:38",
+  "pais": "Paises Bajos",
+  "archivo": "qsl/QSL_PA0KNW_2026-09.webp"
+ },
+ {
+  "indicativo": "SK2DR",
+  "codigo": "ZFACDK",
+  "fecha": "2026-09-28 00:04:41",
+  "pais": "Suecia",
+  "archivo": "qsl/QSL_SK2DR_2026-09.webp"
+ },
+ {
   "indicativo": "EA3CY",
   "codigo": "TQJXEY",
   "fecha": "2026-08-16 00:00 UTC",
