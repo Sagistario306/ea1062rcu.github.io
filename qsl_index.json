@@ -10207,10 +10207,10 @@
  },
  {
   "indicativo": "CE3DY",
-  "codigo": "FJUJFN",
-  "fecha": "2026-08-17 00:00:52",
+  "codigo": "22G6QV",
+  "fecha": "2026-09-28 19:19:11",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE3DY_2026-08.webp"
+  "archivo": "qsl/QSL_CE3DY_2026-09.webp"
  },
  {
   "indicativo": "9W2TWC",
@@ -41998,6 +41998,13 @@
   "fecha": "2026-08-17 00:00 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1MMG_2026-08.webp"
+ },
+ {
+  "indicativo": "CE3DY",
+  "codigo": "FJUJFN",
+  "fecha": "2026-08-17 00:01 UTC",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3DY_2026-08.webp"
  },
  {
   "indicativo": "9W2TWC",
