@@ -26020,10 +26020,10 @@
  },
  {
   "indicativo": "TI4JCG",
-  "codigo": "GCWS48",
-  "fecha": "2026-08-26 21:36:06",
+  "codigo": "FS5KSS",
+  "fecha": "2026-09-28 00:13:24",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI4JCG_2026-08.png"
+  "archivo": "qsl/QSL_TI4JCG_2026-09.webp"
  },
  {
   "indicativo": "TG5NGU",
@@ -46135,6 +46135,13 @@
   "fecha": "2026-08-26 21:29 UTC",
   "pais": "",
   "archivo": "qsl/QSL_HI8OTA_2026-08.webp"
+ },
+ {
+  "indicativo": "TI4JCG",
+  "codigo": "GCWS48",
+  "fecha": "2026-08-26 21:36 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_TI4JCG_2026-08.webp"
  },
  {
   "indicativo": "9M2NZR",
