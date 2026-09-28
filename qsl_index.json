@@ -29814,10 +29814,10 @@
  },
  {
   "indicativo": "HC3RE",
-  "codigo": "2UM8YR",
-  "fecha": "2026-08-31 01:35:53",
+  "codigo": "2R2EWE",
+  "fecha": "2026-09-28 02:37:49",
   "pais": "Ecuador",
-  "archivo": "qsl/QSL_HC3RE_2026-08.webp"
+  "archivo": "qsl/QSL_HC3RE_2026-09.webp"
  },
  {
   "indicativo": "JA9BPH",
@@ -47864,6 +47864,13 @@
   "fecha": "2026-08-30 23:29 UTC",
   "pais": "",
   "archivo": "qsl/QSL_HI8RG_2026-08.webp"
+ },
+ {
+  "indicativo": "HC3RE",
+  "codigo": "2UM8YR",
+  "fecha": "2026-08-31 01:35 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_HC3RE_2026-08.webp"
  },
  {
   "indicativo": "9W2MQG",
