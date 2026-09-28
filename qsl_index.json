@@ -18558,10 +18558,10 @@
  },
  {
   "indicativo": "CX9ACP",
-  "codigo": "S2UF8H",
-  "fecha": "2026-08-20 19:05:37",
+  "codigo": "FE89NN",
+  "fecha": "2026-09-28 18:35:27",
   "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX9ACP_2026-08.webp"
+  "archivo": "qsl/QSL_CX9ACP_2026-09.webp"
  },
  {
   "indicativo": "TI2EI",
@@ -44903,6 +44903,13 @@
   "fecha": "2026-08-20 18:55 UTC",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1AQY_2026-08.webp"
+ },
+ {
+  "indicativo": "CX9ACP",
+  "codigo": "S2UF8H",
+  "fecha": "2026-08-20 19:05 UTC",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX9ACP_2026-08.webp"
  },
  {
   "indicativo": "TI2EI",
