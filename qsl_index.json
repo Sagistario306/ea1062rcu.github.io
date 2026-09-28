@@ -18635,10 +18635,10 @@
  },
  {
   "indicativo": "YV5NGI",
-  "codigo": "9ZVU4C",
-  "fecha": "2026-08-20 21:15:52",
+  "codigo": "BP9848",
+  "fecha": "2026-09-28 10:52:25",
   "pais": "Venezuela",
-  "archivo": "qsl/QSL_YV5NGI_2026-08.webp"
+  "archivo": "qsl/QSL_YV5NGI_2026-09.webp"
  },
  {
   "indicativo": "XE2MVB",
@@ -44854,6 +44854,13 @@
   "fecha": "2026-08-20 20:01 UTC",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP1LNK_2026-08.webp"
+ },
+ {
+  "indicativo": "YV5NGI",
+  "codigo": "9ZVU4C",
+  "fecha": "2026-08-20 21:16 UTC",
+  "pais": "Venezuela",
+  "archivo": "qsl/QSL_YV5NGI_2026-08.webp"
  },
  {
   "indicativo": "XE2MVB",
