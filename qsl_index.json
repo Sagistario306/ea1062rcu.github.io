@@ -1779,17 +1779,10 @@
  },
  {
   "indicativo": "HJ1M",
-  "codigo": "F3UMEP",
-  "fecha": "2026-08-13 13:55:50",
+  "codigo": "J6KAA2",
+  "fecha": "2026-09-28 08:01:29",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ1M-5_2026-08.webp"
- },
- {
-  "indicativo": "HJ1M",
-  "codigo": "Y6C6RW",
-  "fecha": "2026-08-13 13:55:55",
-  "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ1M-5_2026-08_EV.webp"
+  "archivo": "qsl/QSL_HJ1M_2026-09.webp"
  },
  {
   "indicativo": "DX1E",
@@ -41199,7 +41192,7 @@
   "codigo": "HMTW9C",
   "fecha": "2026-09-28 03:41:47",
   "pais": "Israel",
-  "archivo": "qsl/QSL_4X5AS_2026-09.webp"
+  "archivo": "qsl/QSL_4X5AS_2026-09.png"
  },
  {
   "indicativo": "EA3CY",
