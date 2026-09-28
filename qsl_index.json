@@ -25957,10 +25957,10 @@
  },
  {
   "indicativo": "XE1SNG",
-  "codigo": "W5SKJ5",
-  "fecha": "2026-08-26 17:41:42",
+  "codigo": "H63D53",
+  "fecha": "2026-09-28 10:57:55",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1SNG_2026-08.webp"
+  "archivo": "qsl/QSL_XE1SNG_2026-09.webp"
  },
  {
   "indicativo": "YB3BIY",
@@ -46205,6 +46205,13 @@
   "fecha": "2026-08-26 15:20 UTC",
   "pais": "",
   "archivo": "qsl/QSL_9W2BXG_2026-08.webp"
+ },
+ {
+  "indicativo": "XE1SNG",
+  "codigo": "W5SKJ5",
+  "fecha": "2026-08-26 17:41 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_XE1SNG_2026-08.webp"
  },
  {
   "indicativo": "HI8OTA",
