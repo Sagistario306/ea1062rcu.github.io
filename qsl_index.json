@@ -40961,7 +40961,35 @@
   "codigo": "HQUW3U",
   "fecha": "2026-09-27 23:32:32",
   "pais": "Panama",
-  "archivo": "qsl/QSL_HP2PCE_2026-09.webp"
+  "archivo": "qsl/QSL_HP2PCE_2026-09.png"
+ },
+ {
+  "indicativo": "SV3SKM",
+  "codigo": "5D6HYP",
+  "fecha": "2026-09-28 00:00:00",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV3SKM_2026-09.webp"
+ },
+ {
+  "indicativo": "IW3QVF",
+  "codigo": "HYDHG6",
+  "fecha": "2026-09-28 00:00:02",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IW3QVF_2026-09.webp"
+ },
+ {
+  "indicativo": "SQ5AXR",
+  "codigo": "7KCG2P",
+  "fecha": "2026-09-28 00:00:03",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SQ5AXR_2026-09.webp"
+ },
+ {
+  "indicativo": "SR3DPN",
+  "codigo": "ZRGA3H",
+  "fecha": "2026-09-28 00:00:05",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SR3DPN_2026-09.webp"
  },
  {
   "indicativo": "EA3CY",
