@@ -28834,10 +28834,10 @@
  },
  {
   "indicativo": "HJ4RJB",
-  "codigo": "HFNP86",
-  "fecha": "2026-08-29 23:40:27",
+  "codigo": "E9AZVQ",
+  "fecha": "2026-09-28 15:52:23",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ4RJB_2026-08.webp"
+  "archivo": "qsl/QSL_HJ4RJB_2026-09.webp"
  },
  {
   "indicativo": "LU5UFM",
@@ -47675,6 +47675,13 @@
   "fecha": "2026-08-29 23:31 UTC",
   "pais": "",
   "archivo": "qsl/QSL_9W2YHM_2026-08.webp"
+ },
+ {
+  "indicativo": "HJ4RJB",
+  "codigo": "HFNP86",
+  "fecha": "2026-08-29 23:40 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_HJ4RJB_2026-08.webp"
  },
  {
   "indicativo": "EA7JMK",
