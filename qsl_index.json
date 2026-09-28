@@ -8800,10 +8800,10 @@
  },
  {
   "indicativo": "CE2PQ",
-  "codigo": "EHPF2Y",
-  "fecha": "2026-08-16 01:06:26",
+  "codigo": "SZWRJJ",
+  "fecha": "2026-09-28 12:13:39",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE2PQ_2026-08.webp"
+  "archivo": "qsl/QSL_CE2PQ_2026-09.webp"
  },
  {
   "indicativo": "9W2LCF",
@@ -41571,6 +41571,13 @@
   "fecha": "2026-08-16 01:06 UTC",
   "pais": "Espana",
   "archivo": "qsl/QSL_EA6QB_2026-08.webp"
+ },
+ {
+  "indicativo": "CE2PQ",
+  "codigo": "EHPF2Y",
+  "fecha": "2026-08-16 01:06 UTC",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE2PQ_2026-08.webp"
  },
  {
   "indicativo": "9W2LCF",
