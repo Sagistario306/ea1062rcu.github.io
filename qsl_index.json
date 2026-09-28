@@ -18481,10 +18481,10 @@
  },
  {
   "indicativo": "TI4ROB",
-  "codigo": "A9ZBGM",
-  "fecha": "2026-08-20 15:33:35",
+  "codigo": "YX9PKA",
+  "fecha": "2026-09-28 01:10:50",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI4ROB_2026-08.webp"
+  "archivo": "qsl/QSL_TI4ROB_2026-09.webp"
  },
  {
   "indicativo": "YD6SKA",
@@ -44798,6 +44798,13 @@
   "fecha": "2026-08-20 15:25 UTC",
   "pais": "Peru",
   "archivo": "qsl/QSL_OA2EIQ_2026-08.webp"
+ },
+ {
+  "indicativo": "TI4ROB",
+  "codigo": "A9ZBGM",
+  "fecha": "2026-08-20 15:33 UTC",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI4ROB_2026-08.webp"
  },
  {
   "indicativo": "CX4AT",
