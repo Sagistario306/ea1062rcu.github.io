@@ -30416,10 +30416,10 @@
  },
  {
   "indicativo": "YS2CBV",
-  "codigo": "XF364S",
-  "fecha": "2026-08-31 19:30:49",
+  "codigo": "QFB95Z",
+  "fecha": "2026-09-28 15:09:44",
   "pais": "El Salvador",
-  "archivo": "qsl/QSL_YS2CBV_2026-08.webp"
+  "archivo": "qsl/QSL_YS2CBV_2026-09.webp"
  },
  {
   "indicativo": "TI5LJR",
@@ -47976,6 +47976,13 @@
   "fecha": "2026-08-31 17:33 UTC",
   "pais": "",
   "archivo": "qsl/QSL_HP3AEC_2026-08.webp"
+ },
+ {
+  "indicativo": "YS2CBV",
+  "codigo": "XF364S",
+  "fecha": "2026-08-31 19:30 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_YS2CBV_2026-08.webp"
  },
  {
   "indicativo": "TI5LJR",
