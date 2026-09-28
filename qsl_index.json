@@ -16892,10 +16892,10 @@
  },
  {
   "indicativo": "XE1ACW",
-  "codigo": "WQ4YEQ",
-  "fecha": "2026-08-19 22:57:51",
+  "codigo": "EK79S2",
+  "fecha": "2026-09-28 18:55:47",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1ACW_2026-08.webp"
+  "archivo": "qsl/QSL_XE1ACW_2026-09.webp"
  },
  {
   "indicativo": "HK7ALI",
@@ -44406,6 +44406,13 @@
   "fecha": "2026-08-19 22:52 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE3ADC_2026-08.webp"
+ },
+ {
+  "indicativo": "XE1ACW",
+  "codigo": "WQ4YEQ",
+  "fecha": "2026-08-19 22:58 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1ACW_2026-08.webp"
  },
  {
   "indicativo": "HK7ALI",
