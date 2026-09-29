@@ -41265,6 +41265,20 @@
   "archivo": "qsl/QSL_HS3NOQ_2026-09.webp"
  },
  {
+  "indicativo": "IT9JNE",
+  "codigo": "98T8XU",
+  "fecha": "2026-09-29 00:00:20",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IT9JNE_2026-09.webp"
+ },
+ {
+  "indicativo": "TA1DX",
+  "codigo": "4DM9JV",
+  "fecha": "2026-09-29 00:00:23",
+  "pais": "Turquia",
+  "archivo": "qsl/QSL_TA1DX_2026-09.webp"
+ },
+ {
   "indicativo": "EA3CY",
   "codigo": "TQJXEY",
   "fecha": "2026-08-16 00:00 UTC",
