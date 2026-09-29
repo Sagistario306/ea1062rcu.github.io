@@ -15037,10 +15037,10 @@
  },
  {
   "indicativo": "CX7FH",
-  "codigo": "G3XK5X",
-  "fecha": "2026-08-18 20:47:20",
+  "codigo": "X4MUU7",
+  "fecha": "2026-09-29 16:58:03",
   "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX7FH_2026-08.webp"
+  "archivo": "qsl/QSL_CX7FH_2026-09.webp"
  },
  {
   "indicativo": "TI2CHJ",
@@ -44084,6 +44084,13 @@
   "fecha": "2026-08-18 20:14 UTC",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP4NET_2026-08.webp"
+ },
+ {
+  "indicativo": "CX7FH",
+  "codigo": "G3XK5X",
+  "fecha": "2026-08-18 20:47 UTC",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX7FH_2026-08.webp"
  },
  {
   "indicativo": "TI2CHJ",
