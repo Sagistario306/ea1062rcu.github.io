@@ -13140,10 +13140,10 @@
  },
  {
   "indicativo": "YY6RTJ",
-  "codigo": "U6KMRG",
-  "fecha": "2026-08-17 04:33:48",
+  "codigo": "S68BN8",
+  "fecha": "2026-09-29 13:17:12",
   "pais": "Venezuela",
-  "archivo": "qsl/QSL_YY6RTJ_2026-08.webp"
+  "archivo": "qsl/QSL_YY6RTJ_2026-09.webp"
  },
  {
   "indicativo": "OA4DOS",
@@ -43370,6 +43370,13 @@
   "fecha": "2026-08-17 03:21 UTC",
   "pais": "Peru",
   "archivo": "qsl/QSL_OA4DFD_2026-08.webp"
+ },
+ {
+  "indicativo": "YY6RTJ",
+  "codigo": "U6KMRG",
+  "fecha": "2026-08-17 04:34 UTC",
+  "pais": "Venezuela",
+  "archivo": "qsl/QSL_YY6RTJ_2026-08.webp"
  },
  {
   "indicativo": "OA4DOS",
