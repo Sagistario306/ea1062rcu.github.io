@@ -23794,10 +23794,10 @@
  },
  {
   "indicativo": "TI2TID",
-  "codigo": "XURADP",
-  "fecha": "2026-08-24 19:14:33",
+  "codigo": "M5YU66",
+  "fecha": "2026-09-29 00:01:51",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI2TID_2026-08.webp"
+  "archivo": "qsl/QSL_TI2TID_2026-09.webp"
  },
  {
   "indicativo": "LU4FQG",
@@ -46219,6 +46219,13 @@
   "fecha": "2026-08-24 19:01 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE3CCJ_2026-08.webp"
+ },
+ {
+  "indicativo": "TI2TID",
+  "codigo": "XURADP",
+  "fecha": "2026-08-24 19:14 UTC",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2TID_2026-08.webp"
  },
  {
   "indicativo": "CX1BW",
