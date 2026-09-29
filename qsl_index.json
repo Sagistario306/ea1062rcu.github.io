@@ -2321,7 +2321,7 @@
   "codigo": "RXC3JV",
   "fecha": "2026-09-29 03:28:13",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE3O_2026-09.webp"
+  "archivo": "qsl/QSL_XE3O_2026-09.png"
  },
  {
   "indicativo": "EA7HQL",
@@ -41382,6 +41382,13 @@
   "fecha": "2026-09-29 02:57:05",
   "pais": "Peru",
   "archivo": "qsl/QSL_OA4EIV_2026-09.webp"
+ },
+ {
+  "indicativo": "XE2OX",
+  "codigo": "6THKCP",
+  "fecha": "2026-09-29 08:15:30",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2OX_2026-09.webp"
  },
  {
   "indicativo": "EA3CY",
