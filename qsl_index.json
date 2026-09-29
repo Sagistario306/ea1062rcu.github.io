@@ -20280,10 +20280,10 @@
  },
  {
   "indicativo": "CE4UJP",
-  "codigo": "EM5QRX",
-  "fecha": "2026-08-22 03:06:39",
+  "codigo": "6RX53R",
+  "fecha": "2026-09-29 03:00:40",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE4UJP_2026-08.webp"
+  "archivo": "qsl/QSL_CE4UJP_2026-09.webp"
  },
  {
   "indicativo": "EA5KGJ",
@@ -45519,6 +45519,13 @@
   "fecha": "2026-08-22 03:06 UTC",
   "pais": "Dominica",
   "archivo": "qsl/QSL_J75Y_2026-08.webp"
+ },
+ {
+  "indicativo": "CE4UJP",
+  "codigo": "EM5QRX",
+  "fecha": "2026-08-22 03:06 UTC",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE4UJP_2026-08.webp"
  },
  {
   "indicativo": "EA5KGJ",
