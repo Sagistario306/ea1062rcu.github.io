@@ -28932,10 +28932,10 @@
  },
  {
   "indicativo": "NP3FT",
-  "codigo": "T48XXY",
-  "fecha": "2026-08-30 00:25:21",
+  "codigo": "YGG3JU",
+  "fecha": "2026-09-29 13:34:48",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_NP3FT_2026-08.webp"
+  "archivo": "qsl/QSL_NP3FT_2026-09.webp"
  },
  {
   "indicativo": "EA1IXE",
@@ -48039,6 +48039,13 @@
   "fecha": "2026-08-30 00:23 UTC",
   "pais": "",
   "archivo": "qsl/QSL_JA6LPP_2026-08.webp"
+ },
+ {
+  "indicativo": "NP3FT",
+  "codigo": "T48XXY",
+  "fecha": "2026-08-30 00:25 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_NP3FT_2026-08.webp"
  },
  {
   "indicativo": "EA1IXE",
