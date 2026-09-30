@@ -115,6 +115,10 @@ fetch('qsl_index.json?v=' + Date.now())
   }
 })();
 
+// 🩹 v5.1: normalización tolerante (mayúsculas, espacios, SSID)
+function normCall(s) { return (s || '').trim().toUpperCase().split('-')[0]; }
+
+// 🩹 v5.1: buscador de 4 niveles con autocorrección en un clic
 function buscarQSL() {
   const call = document.getElementById('input-call').value.trim().toUpperCase();
   const code = document.getElementById('input-code').value.trim().toUpperCase();
@@ -125,18 +129,15 @@ function buscarQSL() {
     return;
   }
 
-  const base = call.split('-')[0];
+  const base = normCall(call);
+
+  // ── NIVEL 1: par exacto (indicativo + código) → tarjeta + write-back ──
   const q = indice.find(e =>
-    e.codigo === code &&
-    e.indicativo.split('-')[0] === base
+    (e.codigo || '').toUpperCase() === code &&
+    normCall(e.indicativo) === base
   );
-
-  if (!q) {
-    out.innerHTML = '<p class="error-qsl">❌ Código no válido para ese indicativo.<br>Verifica los datos o espera tu próxima recepción.</p>';
-    return;
-  }
-
-  out.innerHTML = `
+  if (q) {
+    out.innerHTML = `
     <img src="${q.archivo}" alt="eQSL ${q.indicativo}">
     <p style="margin-top:12px; color:#f1f5f9;">
       🎉 ¡Felicitaciones <strong>${q.indicativo}</strong>! (${q.pais})<br>
@@ -167,6 +168,41 @@ function buscarQSL() {
     </div>
 
     <p class="nota-qsl">Gracias por tu señal · Confirma recepción en el perfil QRZ de EA1062RCU · 73s</p>`;
+    return;
+  }
+
+  // ── NIVEL 2: el código EXISTE bajo otro indicativo → autocorrección 1 clic ──
+  const porCode = indice.find(e => (e.codigo || '').toUpperCase() === code);
+  if (porCode) {
+    const bueno = normCall(porCode.indicativo);
+    out.innerHTML = '<p class="ok-qsl">🔁 El código <b>' + code + '</b> corresponde al indicativo <b>' + bueno +
+      '</b>.<br>Parece un error de tipeo: escribiste <b>' + base + '</b>.</p>' +
+      '<button class="boton-qsl" onclick="usarCall(\'' + bueno + '\')">✅ Sí, soy ' + bueno +
+      ' · mostrar mi eQSL</button>' +
+      '<p class="nota-qsl">Si tu indicativo real es ' + base + ' y no ' + bueno +
+      ', escríbenos a la mesa: <a class="link-bot" href="https://t.me/ea1062rcu_eqsl_bot" target="_blank">t.me/ea1062rcu_eqsl_bot</a></p>';
+    return;
+  }
+
+  // ── NIVEL 3: el indicativo existe pero el código no coincide (sin revelar códigos) ──
+  const porCall = indice.filter(e => normCall(e.indicativo) === base);
+  if (porCall.length) {
+    out.innerHTML = '<p class="error-qsl">⚠️ <b>' + base +
+      '</b> sí aparece en la vitrina de este mes, pero el código <b>' + code + '</b> no coincide.<br>' +
+      'Revisa el código en el comentario de tu tarjeta en <b>eQSL.cc</b> (Inbox), o pídelo al bot: ' +
+      '<a class="link-bot" href="https://t.me/ea1062rcu_eqsl_bot" target="_blank">/codigo ' + base + '</a>.</p>';
+    return;
+  }
+
+  // ── NIVEL 4: nada de nada ──
+  out.innerHTML = '<p class="error-qsl">❌ Código no válido para ese indicativo.<br>Verifica los datos o espera tu próxima recepción.<br>' +
+    '<small>¿Primera vez? Usa «¿Fui detectado?» más abajo.</small></p>';
+}
+
+// 🩹 v5.1: rellena el call correcto y relanza la búsqueda (cierra el ciclo del sensor)
+function usarCall(c) {
+  document.getElementById('input-call').value = c;
+  buscarQSL();
 }
 
 // 🛰️ v5.0: avisa al proxy que esta estación descargó (write-back)
