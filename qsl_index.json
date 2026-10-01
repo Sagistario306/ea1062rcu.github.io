@@ -8365,6 +8365,13 @@
   "archivo": "qsl/QSL_XE2AD_2026-10.webp"
  },
  {
+  "indicativo": "XE2AD",
+  "codigo": "PWYD3Z",
+  "fecha": "2026-10-01 00:08:57",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2AD_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE1FAS",
   "codigo": "W7EH57",
   "fecha": "2026-09-03 00:18:33",
