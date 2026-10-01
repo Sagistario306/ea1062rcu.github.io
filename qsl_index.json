@@ -23121,6 +23121,13 @@
   "archivo": "qsl/QSL_OA4DKS_2026-10.webp"
  },
  {
+  "indicativo": "OA4DKS",
+  "codigo": "A9NW9S",
+  "fecha": "2026-10-01 11:51:07",
+  "pais": "Peru",
+  "archivo": "qsl/QSL_OA4DKS_2026-10_EV.webp"
+ },
+ {
   "indicativo": "LU1AQX",
   "codigo": "76AR4A",
   "fecha": "2026-09-23 13:03:50",
