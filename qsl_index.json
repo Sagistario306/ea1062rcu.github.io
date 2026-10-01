@@ -10732,17 +10732,10 @@
  },
  {
   "indicativo": "EA1HPA",
-  "codigo": "TUNMGS",
-  "fecha": "2026-09-02 00:27:13",
+  "codigo": "76ARDH",
+  "fecha": "2026-10-01 03:29:52",
   "pais": "España",
-  "archivo": "qsl/QSL_EA1HPA_2026-09.webp"
- },
- {
-  "indicativo": "EA1HPA",
-  "codigo": "9YPWTT",
-  "fecha": "2026-09-02 00:27:18",
-  "pais": "España",
-  "archivo": "qsl/QSL_EA1HPA_2026-09_EV.webp"
+  "archivo": "qsl/QSL_EA1HPA_2026-10.webp"
  },
  {
   "indicativo": "EA5RCI",
@@ -22467,7 +22460,7 @@
   "codigo": "5PFCR6",
   "fecha": "2026-10-01 02:21:09",
   "pais": "El Salvador",
-  "archivo": "qsl/QSL_YS1FP_2026-10_EV.webp"
+  "archivo": "qsl/QSL_YS1FP_2026-10_EV.png"
  },
  {
   "indicativo": "HI4DJA",
