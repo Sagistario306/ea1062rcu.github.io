@@ -7868,6 +7868,13 @@
   "archivo": "qsl/QSL_CX4AE_2026-10.webp"
  },
  {
+  "indicativo": "CX4AE",
+  "codigo": "NJZPZ2",
+  "fecha": "2026-10-01 00:02:58",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX4AE_2026-10_EV.webp"
+ },
+ {
   "indicativo": "9W2VTM",
   "codigo": "87TYJC",
   "fecha": "2026-09-01 14:39:10",
