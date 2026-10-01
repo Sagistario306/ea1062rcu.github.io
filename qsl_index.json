@@ -287,6 +287,13 @@
   "archivo": "qsl/QSL_CE4ERM_2026-10.webp"
  },
  {
+  "indicativo": "CE4ERM",
+  "codigo": "KXDM92",
+  "fecha": "2026-10-01 00:07:54",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE4ERM_2026-10_EV.webp"
+ },
+ {
   "indicativo": "9W2RDY",
   "codigo": "UA8FRD",
   "fecha": "2026-09-03 00:13:59",
