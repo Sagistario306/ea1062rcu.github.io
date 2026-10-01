@@ -7035,6 +7035,13 @@
   "archivo": "qsl/QSL_CX1AA_2026-10.webp"
  },
  {
+  "indicativo": "CX1AA",
+  "codigo": "ZCDUCH",
+  "fecha": "2026-10-01 00:09:18",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX1AA_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE2SFR",
   "codigo": "CJBAJM",
   "fecha": "2026-09-26 00:28:16",
