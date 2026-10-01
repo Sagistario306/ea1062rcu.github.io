@@ -13391,6 +13391,13 @@
   "archivo": "qsl/QSL_TI5LJR_2026-10.webp"
  },
  {
+  "indicativo": "TI5LJR",
+  "codigo": "W7WZJC",
+  "fecha": "2026-10-01 00:09:40",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI5LJR_2026-10_EV.webp"
+ },
+ {
   "indicativo": "JH7KPZ",
   "codigo": "DCVE6P",
   "fecha": "2026-09-01 00:42:34",
