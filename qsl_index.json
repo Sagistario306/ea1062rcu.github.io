@@ -5166,6 +5166,13 @@
   "archivo": "qsl/QSL_KP4DW_2026-10.webp"
  },
  {
+  "indicativo": "KP4DW",
+  "codigo": "2ZJNGM",
+  "fecha": "2026-10-01 00:03:52",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4DW_2026-10_EV.webp"
+ },
+ {
   "indicativo": "LW7ELF",
   "codigo": "EBT4KT",
   "fecha": "2026-09-04 00:29:37",
