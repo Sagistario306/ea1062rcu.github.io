@@ -11081,6 +11081,13 @@
   "archivo": "qsl/QSL_8P6GC_2026-10.webp"
  },
  {
+  "indicativo": "8P6GC",
+  "codigo": "S4J7BH",
+  "fecha": "2026-10-01 01:14:43",
+  "pais": "Barbados",
+  "archivo": "qsl/QSL_8P6GC_2026-10_EV.webp"
+ },
+ {
   "indicativo": "J75Y",
   "codigo": "8EZF6M",
   "fecha": "2026-09-01 01:34:05",
