@@ -7210,6 +7210,13 @@
   "archivo": "qsl/QSL_XE1RP_2026-10.webp"
  },
  {
+  "indicativo": "XE1RP",
+  "codigo": "FBX499",
+  "fecha": "2026-10-01 00:07:33",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1RP_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE3VK",
   "codigo": "55YW9K",
   "fecha": "2026-09-04 00:25:29",
