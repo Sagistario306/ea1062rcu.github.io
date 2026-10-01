@@ -8645,6 +8645,13 @@
   "archivo": "qsl/QSL_TG9JMR_2026-10.webp"
  },
  {
+  "indicativo": "TG9JMR",
+  "codigo": "J68ZNA",
+  "fecha": "2026-10-01 13:33:11",
+  "pais": "Guatemala",
+  "archivo": "qsl/QSL_TG9JMR_2026-10_EV.webp"
+ },
+ {
   "indicativo": "TI5JON",
   "codigo": "SFGJHZ",
   "fecha": "2026-09-28 13:35:39",
