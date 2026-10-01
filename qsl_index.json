@@ -19894,6 +19894,13 @@
   "archivo": "qsl/QSL_8P5AB_2026-10.webp"
  },
  {
+  "indicativo": "8P5AB",
+  "codigo": "APKE93",
+  "fecha": "2026-10-01 15:21:56",
+  "pais": "Barbados",
+  "archivo": "qsl/QSL_8P5AB_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EA1FMN",
   "codigo": "Q3DHZM",
   "fecha": "2026-09-12 16:23:41",
