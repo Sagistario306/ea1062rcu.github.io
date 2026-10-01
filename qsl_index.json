@@ -4053,6 +4053,13 @@
   "archivo": "qsl/QSL_CE3SUR_2026-10.webp"
  },
  {
+  "indicativo": "CE3SUR",
+  "codigo": "YRQ9FV",
+  "fecha": "2026-10-01 00:05:34",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3SUR_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HP1CDW",
   "codigo": "CWNKCU",
   "fecha": "2026-09-04 00:28:49",
