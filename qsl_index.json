@@ -6195,6 +6195,13 @@
   "archivo": "qsl/QSL_HC1FQ_2026-10.webp"
  },
  {
+  "indicativo": "HC1FQ",
+  "codigo": "ASTYDB",
+  "fecha": "2026-10-01 19:09:07",
+  "pais": "Ecuador",
+  "archivo": "qsl/QSL_HC1FQ_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HC1LNM",
   "codigo": "7ZAAJ6",
   "fecha": "2026-09-24 21:20:26",
