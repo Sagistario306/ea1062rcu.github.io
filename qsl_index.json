@@ -3773,6 +3773,13 @@
   "archivo": "qsl/QSL_LW7EFM_2026-10.webp"
  },
  {
+  "indicativo": "LW7EFM",
+  "codigo": "3X4C8D",
+  "fecha": "2026-10-01 00:02:37",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW7EFM_2026-10_EV.webp"
+ },
+ {
   "indicativo": "LU1HVK",
   "codigo": "DV6XEG",
   "fecha": "2026-09-02 00:22:06",
