@@ -23611,6 +23611,13 @@
   "archivo": "qsl/QSL_ZP4DNA_2026-10.webp"
  },
  {
+  "indicativo": "ZP4DNA",
+  "codigo": "Z2CTER",
+  "fecha": "2026-10-01 19:11:51",
+  "pais": "Paraguay",
+  "archivo": "qsl/QSL_ZP4DNA_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CE1ADR",
   "codigo": "6QBGEY",
   "fecha": "2026-09-26 14:36:02",
