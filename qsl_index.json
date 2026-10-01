@@ -2625,6 +2625,13 @@
   "archivo": "qsl/QSL_EA8EE_2026-10.webp"
  },
  {
+  "indicativo": "EA8EE",
+  "codigo": "Z4ZPU5",
+  "fecha": "2026-10-01 03:30:49",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA8EE_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EA4RCT",
   "codigo": "ZS7VP4",
   "fecha": "2026-09-03 00:01:10",
