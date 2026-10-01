@@ -24582,5 +24582,12 @@
   "fecha": "2026-10-01 14:59:55",
   "pais": "Haiti",
   "archivo": "qsl/QSL_HHRS3_2026-10.webp"
+ },
+ {
+  "indicativo": "HHRS3",
+  "codigo": "2T2GUN",
+  "fecha": "2026-10-01 15:00:03",
+  "pais": "Haiti",
+  "archivo": "qsl/QSL_HHRS3_2026-10_EV.webp"
  }
 ]
