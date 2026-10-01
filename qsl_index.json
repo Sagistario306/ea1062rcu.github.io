@@ -5838,6 +5838,13 @@
   "archivo": "qsl/QSL_XE1CFS_2026-10.webp"
  },
  {
+  "indicativo": "XE1CFS",
+  "codigo": "2V6NUJ",
+  "fecha": "2026-10-01 00:04:55",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1CFS_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EA6VQ",
   "codigo": "PAB3E6",
   "fecha": "2026-09-02 00:31:52",
