@@ -1400,6 +1400,13 @@
   "archivo": "qsl/QSL_NP4JJ_2026-10.webp"
  },
  {
+  "indicativo": "NP4JJ",
+  "codigo": "S8FMBF",
+  "fecha": "2026-10-01 01:09:02",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4JJ_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EA1EYE",
   "codigo": "BCU4ZY",
   "fecha": "2026-09-01 01:33:41",
