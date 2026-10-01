@@ -10997,6 +10997,13 @@
   "archivo": "qsl/QSL_9Y4R_2026-10.webp"
  },
  {
+  "indicativo": "9Y4R",
+  "codigo": "X87KTW",
+  "fecha": "2026-10-01 00:03:30",
+  "pais": "Trinidad y Tobago",
+  "archivo": "qsl/QSL_9Y4R_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HI4R",
   "codigo": "DFPPD8",
   "fecha": "2026-10-01 00:03:03",
