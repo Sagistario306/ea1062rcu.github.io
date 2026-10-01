@@ -8799,6 +8799,13 @@
   "archivo": "qsl/QSL_HJ1JCM_2026-10.webp"
  },
  {
+  "indicativo": "HJ1JCM",
+  "codigo": "WTYT7N",
+  "fecha": "2026-10-01 00:02:26",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ1JCM_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HK2GTS",
   "codigo": "9AY3KD",
   "fecha": "2026-09-03 00:23:55",
