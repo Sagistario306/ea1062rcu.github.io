@@ -1365,6 +1365,13 @@
   "archivo": "qsl/QSL_CE3MRO_2026-10.webp"
  },
  {
+  "indicativo": "CE3MRO",
+  "codigo": "5KN7GP",
+  "fecha": "2026-10-01 00:05:54",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3MRO_2026-10_EV.webp"
+ },
+ {
   "indicativo": "9M2SZW",
   "codigo": "V8NHYF",
   "fecha": "2026-09-01 01:25:58",
