@@ -21826,6 +21826,13 @@
   "archivo": "qsl/QSL_8P6EX_2026-10.webp"
  },
  {
+  "indicativo": "8P6EX",
+  "codigo": "2HWHR7",
+  "fecha": "2026-10-01 00:04:25",
+  "pais": "Barbados",
+  "archivo": "qsl/QSL_8P6EX_2026-10_EV.webp"
+ },
+ {
   "indicativo": "DV1RMF",
   "codigo": "JFCZZS",
   "fecha": "2026-09-16 14:56:24",
