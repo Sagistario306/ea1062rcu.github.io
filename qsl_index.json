@@ -1344,6 +1344,13 @@
   "archivo": "qsl/QSL_KP4CA_2026-10.webp"
  },
  {
+  "indicativo": "KP4CA",
+  "codigo": "6CDZ9A",
+  "fecha": "2026-10-01 00:06:54",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4CA_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CX9ABQ",
   "codigo": "KPYFZG",
   "fecha": "2026-09-24 21:38:55",
