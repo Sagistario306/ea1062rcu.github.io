@@ -10059,6 +10059,13 @@
   "archivo": "qsl/QSL_HJ6AZV_2026-10.webp"
  },
  {
+  "indicativo": "HJ6AZV",
+  "codigo": "C6HS9F",
+  "fecha": "2026-10-01 00:01:03",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ6AZV_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE1SAY",
   "codigo": "7T8FUX",
   "fecha": "2026-09-26 00:54:34",
