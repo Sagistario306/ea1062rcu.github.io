@@ -11165,6 +11165,13 @@
   "archivo": "qsl/QSL_YN1ZSC_2026-10.webp"
  },
  {
+  "indicativo": "YN1ZSC",
+  "codigo": "45GGDN",
+  "fecha": "2026-10-01 00:05:15",
+  "pais": "Nicaragua",
+  "archivo": "qsl/QSL_YN1ZSC_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HI6LT",
   "codigo": "XJ9VHJ",
   "fecha": "2026-09-24 21:38:14",
