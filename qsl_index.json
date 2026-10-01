@@ -12775,6 +12775,13 @@
   "archivo": "qsl/QSL_HK4FZ_2026-10.webp"
  },
  {
+  "indicativo": "HK4FZ",
+  "codigo": "G6NGKX",
+  "fecha": "2026-10-01 00:01:49",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK4FZ_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CE3DQX",
   "codigo": "H43VZ9",
   "fecha": "2026-09-25 00:14:38",
