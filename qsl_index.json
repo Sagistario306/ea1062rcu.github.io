@@ -17773,6 +17773,13 @@
   "archivo": "qsl/QSL_TI3LSK_2026-10.webp"
  },
  {
+  "indicativo": "TI3LSK",
+  "codigo": "CADTTP",
+  "fecha": "2026-10-01 00:09:08",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI3LSK_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HJ1BMB",
   "codigo": "X6U6Y2",
   "fecha": "2026-09-07 21:22:51",
