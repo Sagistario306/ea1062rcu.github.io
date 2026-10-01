@@ -2667,6 +2667,13 @@
   "archivo": "qsl/QSL_HC3RB_2026-10.webp"
  },
  {
+  "indicativo": "HC3RB",
+  "codigo": "HKWYQN",
+  "fecha": "2026-10-01 12:00:12",
+  "pais": "Ecuador",
+  "archivo": "qsl/QSL_HC3RB_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE1ZKC",
   "codigo": "4CYNXA",
   "fecha": "2026-09-02 00:15:19",
