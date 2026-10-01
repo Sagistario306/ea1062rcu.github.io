@@ -19551,6 +19551,13 @@
   "archivo": "qsl/QSL_HP1RJA_2026-10.webp"
  },
  {
+  "indicativo": "HP1RJA",
+  "codigo": "KAMASC",
+  "fecha": "2026-10-01 00:08:26",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP1RJA_2026-10_EV.webp"
+ },
+ {
   "indicativo": "JA6SDP",
   "codigo": "QZA73W",
   "fecha": "2026-09-12 00:06:27",
