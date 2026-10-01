@@ -6147,17 +6147,10 @@
  },
  {
   "indicativo": "HP2NG",
-  "codigo": "93ZB5Y",
-  "fecha": "2026-09-02 00:30:56",
+  "codigo": "6SZ6GN",
+  "fecha": "2026-10-01 01:07:04",
   "pais": "Panama",
-  "archivo": "qsl/QSL_HP2NG_2026-09.webp"
- },
- {
-  "indicativo": "HP2NG",
-  "codigo": "9VNSRV",
-  "fecha": "2026-09-02 00:31:00",
-  "pais": "Panama",
-  "archivo": "qsl/QSL_HP2NG_2026-09_EV.webp"
+  "archivo": "qsl/QSL_HP2NG_2026-10.webp"
  },
  {
   "indicativo": "TI2AZ",
@@ -8551,7 +8544,7 @@
   "codigo": "SA2GXW",
   "fecha": "2026-10-01 00:20:13",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_KP4NET_2026-10_EV.webp"
+  "archivo": "qsl/QSL_KP4NET_2026-10_EV.png"
  },
  {
   "indicativo": "CX7FH",
