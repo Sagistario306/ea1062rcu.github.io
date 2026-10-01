@@ -7305,7 +7305,7 @@
   "codigo": "XSQD2C",
   "fecha": "2026-10-01 01:24:14",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI2BSH_2026-10_EV.webp"
+  "archivo": "qsl/QSL_TI2BSH_2026-10_EV.png"
  },
  {
   "indicativo": "OA4DFD",
@@ -9017,17 +9017,10 @@
  },
  {
   "indicativo": "TG9AMD",
-  "codigo": "F5DAQE",
-  "fecha": "2026-09-04 00:36:15",
+  "codigo": "37PCZ6",
+  "fecha": "2026-10-01 01:49:49",
   "pais": "Guatemala",
-  "archivo": "qsl/QSL_TG9AMD_2026-09.webp"
- },
- {
-  "indicativo": "TG9AMD",
-  "codigo": "P4XH7Y",
-  "fecha": "2026-09-04 00:36:20",
-  "pais": "Guatemala",
-  "archivo": "qsl/QSL_TG9AMD_2026-09_EV.webp"
+  "archivo": "qsl/QSL_TG9AMD_2026-10.webp"
  },
  {
   "indicativo": "9W2ZJR",
