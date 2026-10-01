@@ -10339,6 +10339,13 @@
   "archivo": "qsl/QSL_CX4AT_2026-10.webp"
  },
  {
+  "indicativo": "CX4AT",
+  "codigo": "29Y45Y",
+  "fecha": "2026-10-01 00:16:25",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX4AT_2026-10_EV.webp"
+ },
+ {
   "indicativo": "KP4DOG",
   "codigo": "DRQ9GC",
   "fecha": "2026-09-25 15:20:39",
