@@ -6020,6 +6020,13 @@
   "archivo": "qsl/QSL_XE2G_2026-10.webp"
  },
  {
+  "indicativo": "XE2G",
+  "codigo": "U6D7GM",
+  "fecha": "2026-10-01 00:01:13",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2G_2026-10_EV.webp"
+ },
+ {
   "indicativo": "OA4CAJ",
   "codigo": "X7HC5Q",
   "fecha": "2026-09-01 01:35:03",
