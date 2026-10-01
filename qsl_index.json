@@ -6594,6 +6594,13 @@
   "archivo": "qsl/QSL_TI2HAS_2026-10.webp"
  },
  {
+  "indicativo": "TI2HAS",
+  "codigo": "H4HDTT",
+  "fecha": "2026-10-01 01:20:50",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2HAS_2026-10_EV.webp"
+ },
+ {
   "indicativo": "NP4WX",
   "codigo": "6AQ2UP",
   "fecha": "2026-09-26 00:25:46",
