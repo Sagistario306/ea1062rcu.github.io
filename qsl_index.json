@@ -6251,6 +6251,13 @@
   "archivo": "qsl/QSL_CE7DE_2026-10.webp"
  },
  {
+  "indicativo": "CE7DE",
+  "codigo": "AY5YBG",
+  "fecha": "2026-10-01 00:05:44",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE7DE_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YC3GHW",
   "codigo": "83H2U7",
   "fecha": "2026-09-01 01:27:27",
