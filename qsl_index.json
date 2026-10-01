@@ -3150,6 +3150,13 @@
   "archivo": "qsl/QSL_HP2DFA_2026-10.webp"
  },
  {
+  "indicativo": "HP2DFA",
+  "codigo": "CYA8DF",
+  "fecha": "2026-10-01 00:07:23",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP2DFA_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HR1LEO",
   "codigo": "C4ST9R",
   "fecha": "2026-09-28 18:49:04",
