@@ -7021,6 +7021,13 @@
   "archivo": "qsl/QSL_KP4SC_2026-10.webp"
  },
  {
+  "indicativo": "KP4SC",
+  "codigo": "MJK8F4",
+  "fecha": "2026-10-01 01:14:24",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4SC_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CX1AA",
   "codigo": "TBUVT4",
   "fecha": "2026-10-01 00:09:13",
