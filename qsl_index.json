@@ -24409,6 +24409,13 @@
   "archivo": "qsl/QSL_TI2JAB_2026-10.webp"
  },
  {
+  "indicativo": "TI2JAB",
+  "codigo": "AZBKQJ",
+  "fecha": "2026-10-01 00:07:13",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2JAB_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CE3DK",
   "codigo": "82T6MS",
   "fecha": "2026-09-30 13:34:11",
