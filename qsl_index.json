@@ -24547,5 +24547,12 @@
   "fecha": "2026-09-30 23:02:30",
   "pais": "Colombia",
   "archivo": "qsl/QSL_5KTI_2026-09.png"
+ },
+ {
+  "indicativo": "TG9EWR",
+  "codigo": "DEUQFP",
+  "fecha": "2026-10-01 13:58:38",
+  "pais": "Guatemala",
+  "archivo": "qsl/QSL_TG9EWR_2026-10.webp"
  }
 ]
