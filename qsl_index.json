@@ -24575,5 +24575,12 @@
   "fecha": "2026-10-01 14:42:34",
   "pais": "El Salvador",
   "archivo": "qsl/QSL_YS1AHL_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "HHRS3",
+  "codigo": "6BXSVY",
+  "fecha": "2026-10-01 14:59:55",
+  "pais": "Haiti",
+  "archivo": "qsl/QSL_HHRS3_2026-10.webp"
  }
 ]
