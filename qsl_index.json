@@ -12425,6 +12425,13 @@
   "archivo": "qsl/QSL_CE3FFC_2026-10.webp"
  },
  {
+  "indicativo": "CE3FFC",
+  "codigo": "KWNVUJ",
+  "fecha": "2026-10-01 00:05:24",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3FFC_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CE3VRT",
   "codigo": "4JCGBZ",
   "fecha": "2026-09-03 00:13:37",
