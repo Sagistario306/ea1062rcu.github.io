@@ -4487,6 +4487,13 @@
   "archivo": "qsl/QSL_HR2DDL_2026-10.webp"
  },
  {
+  "indicativo": "HR2DDL",
+  "codigo": "2V88ME",
+  "fecha": "2026-10-02 16:20:31",
+  "pais": "Honduras",
+  "archivo": "qsl/QSL_HR2DDL_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YD1BPG",
   "codigo": "EPTEC9",
   "fecha": "2026-09-01 14:43:30",
