@@ -4571,6 +4571,13 @@
   "archivo": "qsl/QSL_XE2ERA_2026-10.webp"
  },
  {
+  "indicativo": "XE2ERA",
+  "codigo": "C3W55F",
+  "fecha": "2026-10-02 00:00:48",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2ERA_2026-10_EV.webp"
+ },
+ {
   "indicativo": "JA3NCL",
   "codigo": "8TNVTJ",
   "fecha": "2026-09-04 00:06:37",
