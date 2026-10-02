@@ -11284,6 +11284,13 @@
   "archivo": "qsl/QSL_J75Y_2026-10.webp"
  },
  {
+  "indicativo": "J75Y",
+  "codigo": "XXFGMF",
+  "fecha": "2026-10-02 12:24:09",
+  "pais": "Dominica",
+  "archivo": "qsl/QSL_J75Y_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CE4UJP",
   "codigo": "6RX53R",
   "fecha": "2026-09-29 03:00:40",
