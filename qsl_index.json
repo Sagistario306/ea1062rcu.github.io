@@ -6860,6 +6860,13 @@
   "archivo": "qsl/QSL_HP8ATN_2026-10.webp"
  },
  {
+  "indicativo": "HP8ATN",
+  "codigo": "6B94QK",
+  "fecha": "2026-10-02 00:19:02",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP8ATN_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE1JMB",
   "codigo": "WJ37ZA",
   "fecha": "2026-09-04 00:17:21",
