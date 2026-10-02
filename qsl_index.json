@@ -12481,6 +12481,13 @@
   "archivo": "qsl/QSL_LW1DOW_2026-10.webp"
  },
  {
+  "indicativo": "LW1DOW",
+  "codigo": "GUNAJM",
+  "fecha": "2026-10-02 00:06:05",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW1DOW_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE3CCJ",
   "codigo": "282HB4",
   "fecha": "2026-09-24 21:19:05",
