@@ -6685,6 +6685,13 @@
   "archivo": "qsl/QSL_NP4WX_2026-10.webp"
  },
  {
+  "indicativo": "NP4WX",
+  "codigo": "5REJ8G",
+  "fecha": "2026-10-02 00:07:08",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4WX_2026-10_EV.webp"
+ },
+ {
   "indicativo": "KP4CE",
   "codigo": "XEUB28",
   "fecha": "2026-09-24 21:32:15",
