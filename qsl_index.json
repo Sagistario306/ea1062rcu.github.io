@@ -3283,6 +3283,13 @@
   "archivo": "qsl/QSL_HK4AM_2026-10.webp"
  },
  {
+  "indicativo": "HK4AM",
+  "codigo": "UHYUX9",
+  "fecha": "2026-10-02 00:06:58",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK4AM_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CE4NQS",
   "codigo": "VXAXA9",
   "fecha": "2026-09-04 00:35:47",
