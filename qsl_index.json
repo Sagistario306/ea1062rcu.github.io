@@ -11628,17 +11628,10 @@
  },
  {
   "indicativo": "HR5HAC",
-  "codigo": "DKR5YH",
-  "fecha": "2026-09-02 00:23:12",
+  "codigo": "UCBU4G",
+  "fecha": "2026-10-02 15:56:20",
   "pais": "Honduras",
-  "archivo": "qsl/QSL_HR5HAC_2026-09.webp"
- },
- {
-  "indicativo": "HR5HAC",
-  "codigo": "KH4AQW",
-  "fecha": "2026-09-02 00:23:17",
-  "pais": "Honduras",
-  "archivo": "qsl/QSL_HR5HAC_2026-09_EV.webp"
+  "archivo": "qsl/QSL_HR5HAC_2026-10.webp"
  },
  {
   "indicativo": "XE2JVD",
@@ -19646,7 +19639,7 @@
   "codigo": "289RYX",
   "fecha": "2026-10-02 15:14:15",
   "pais": "Paraguay",
-  "archivo": "qsl/QSL_ZP6EUA_2026-10_EV.webp"
+  "archivo": "qsl/QSL_ZP6EUA_2026-10_EV.png"
  },
  {
   "indicativo": "CE4CIT",
