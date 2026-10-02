@@ -6517,6 +6517,13 @@
   "archivo": "qsl/QSL_OA4ELI_2026-10.webp"
  },
  {
+  "indicativo": "OA4ELI",
+  "codigo": "A56XZ5",
+  "fecha": "2026-10-02 14:58:47",
+  "pais": "Peru",
+  "archivo": "qsl/QSL_OA4ELI_2026-10_EV.webp"
+ },
+ {
   "indicativo": "LW6EQG",
   "codigo": "W7EP3T",
   "fecha": "2026-09-27 00:04:51",
