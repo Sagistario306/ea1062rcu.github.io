@@ -13146,6 +13146,13 @@
   "archivo": "qsl/QSL_CX3DW_2026-10.webp"
  },
  {
+  "indicativo": "CX3DW",
+  "codigo": "FY8ESN",
+  "fecha": "2026-10-02 00:03:45",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX3DW_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YH2DVR",
   "codigo": "B79PS5",
   "fecha": "2026-09-04 00:03:56",
