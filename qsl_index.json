@@ -11690,6 +11690,13 @@
   "archivo": "qsl/QSL_HP1CQ_2026-10.webp"
  },
  {
+  "indicativo": "HP1CQ",
+  "codigo": "X4QRZT",
+  "fecha": "2026-10-02 00:16:51",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP1CQ_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CO5WE",
   "codigo": "YYDG5P",
   "fecha": "2026-09-28 01:04:47",
