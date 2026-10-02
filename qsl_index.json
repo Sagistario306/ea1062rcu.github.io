@@ -3227,6 +3227,13 @@
   "archivo": "qsl/QSL_TI0ATI_2026-10.webp"
  },
  {
+  "indicativo": "TI0ATI",
+  "codigo": "P5NMZP",
+  "fecha": "2026-10-02 00:08:06",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI0ATI_2026-10_EV.webp"
+ },
+ {
   "indicativo": "KP3M",
   "codigo": "Y3AN8X",
   "fecha": "2026-09-03 00:22:17",
