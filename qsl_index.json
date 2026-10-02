@@ -24820,5 +24820,12 @@
   "fecha": "2026-10-02 14:09:10",
   "pais": "Dominica",
   "archivo": "qsl/QSL_J75Z_2026-10.webp"
+ },
+ {
+  "indicativo": "J75Z",
+  "codigo": "7FSDNM",
+  "fecha": "2026-10-02 14:09:21",
+  "pais": "Dominica",
+  "archivo": "qsl/QSL_J75Z_2026-10_EV.webp"
  }
 ]
