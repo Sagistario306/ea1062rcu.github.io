@@ -12152,6 +12152,13 @@
   "archivo": "qsl/QSL_TI4JDD_2026-10.webp"
  },
  {
+  "indicativo": "TI4JDD",
+  "codigo": "H7TD46",
+  "fecha": "2026-10-02 00:10:32",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI4JDD_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YV8JET",
   "codigo": "XXGW52",
   "fecha": "2026-09-24 21:20:03",
