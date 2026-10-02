@@ -630,6 +630,13 @@
   "archivo": "qsl/QSL_HK4LRM_2026-10.webp"
  },
  {
+  "indicativo": "HK4LRM",
+  "codigo": "WPTBM9",
+  "fecha": "2026-10-02 00:04:05",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK4LRM_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YV5KXE",
   "codigo": "5E6RZF",
   "fecha": "2026-10-01 00:08:00",
