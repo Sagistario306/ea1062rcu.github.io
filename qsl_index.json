@@ -3479,6 +3479,13 @@
   "archivo": "qsl/QSL_HK3LRB_2026-10.webp"
  },
  {
+  "indicativo": "HK3LRB",
+  "codigo": "MWKBYA",
+  "fecha": "2026-10-02 00:01:21",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK3LRB_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EB2DJB",
   "codigo": "JY67FK",
   "fecha": "2026-09-04 00:20:30",
