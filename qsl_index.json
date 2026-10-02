@@ -4361,6 +4361,13 @@
   "archivo": "qsl/QSL_KP4MSR_2026-10.webp"
  },
  {
+  "indicativo": "KP4MSR",
+  "codigo": "M6X75H",
+  "fecha": "2026-10-02 01:19:20",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4MSR_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE1EVP",
   "codigo": "42NJ6E",
   "fecha": "2026-10-02 00:04:50",
