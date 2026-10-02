@@ -9275,6 +9275,13 @@
   "archivo": "qsl/QSL_CE2RK_2026-10.webp"
  },
  {
+  "indicativo": "CE2RK",
+  "codigo": "MZ44Y3",
+  "fecha": "2026-10-02 00:05:24",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE2RK_2026-10_EV.webp"
+ },
+ {
   "indicativo": "9M4RPH",
   "codigo": "F5XAVS",
   "fecha": "2026-09-04 00:07:49",
