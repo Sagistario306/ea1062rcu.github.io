@@ -8792,6 +8792,13 @@
   "archivo": "qsl/QSL_HP6EEM_2026-10.webp"
  },
  {
+  "indicativo": "HP6EEM",
+  "codigo": "CCEG93",
+  "fecha": "2026-10-02 00:05:45",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP6EEM_2026-10_EV.webp"
+ },
+ {
   "indicativo": "OA4BUO",
   "codigo": "BYK4GF",
   "fecha": "2026-09-04 00:01:13",
