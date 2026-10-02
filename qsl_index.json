@@ -10409,6 +10409,13 @@
   "archivo": "qsl/QSL_CE1LTL_2026-10.webp"
  },
  {
+  "indicativo": "CE1LTL",
+  "codigo": "55D2Q5",
+  "fecha": "2026-10-02 00:09:50",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE1LTL_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YC3CCG",
   "codigo": "XKPBGA",
   "fecha": "2026-09-05 04:56:43",
