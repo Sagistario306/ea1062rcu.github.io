@@ -11347,6 +11347,13 @@
   "archivo": "qsl/QSL_HI7LT_2026-10.webp"
  },
  {
+  "indicativo": "HI7LT",
+  "codigo": "433MPA",
+  "fecha": "2026-10-02 00:05:04",
+  "pais": "Republica Dominicana",
+  "archivo": "qsl/QSL_HI7LT_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YN1ZGS",
   "codigo": "UK3V2N",
   "fecha": "2026-09-02 00:41:11",
