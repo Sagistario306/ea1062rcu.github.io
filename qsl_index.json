@@ -10427,7 +10427,7 @@
   "codigo": "H75GC4",
   "fecha": "2026-10-02 18:27:28",
   "pais": "Peru",
-  "archivo": "qsl/QSL_OA4DZK_2026-10_EV.webp"
+  "archivo": "qsl/QSL_OA4DZK_2026-10_EV.png"
  },
  {
   "indicativo": "CE1LTL",
@@ -12598,6 +12598,13 @@
   "fecha": "2026-09-24 21:21:15",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI3AQC_2026-09.webp"
+ },
+ {
+  "indicativo": "CX3JU",
+  "codigo": "Y8U6UQ",
+  "fecha": "2026-10-02 19:19:20",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX3JU_2026-10.webp"
  },
  {
   "indicativo": "YY4ARH",
