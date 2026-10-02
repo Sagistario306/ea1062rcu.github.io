@@ -49,6 +49,13 @@
   "archivo": "qsl/QSL_EB7DFA_2026-10.webp"
  },
  {
+  "indicativo": "EB7DFA",
+  "codigo": "UGPCXR",
+  "fecha": "2026-10-02 00:00:58",
+  "pais": "España",
+  "archivo": "qsl/QSL_EB7DFA_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YC0ACE",
   "codigo": "W4KY37",
   "fecha": "2026-09-03 00:48:55",
