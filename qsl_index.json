@@ -3745,6 +3745,13 @@
   "archivo": "qsl/QSL_NP4GT_2026-10.webp"
  },
  {
+  "indicativo": "NP4GT",
+  "codigo": "HNYN6Z",
+  "fecha": "2026-10-02 08:22:54",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4GT_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EB6WQ",
   "codigo": "FHQHVU",
   "fecha": "2026-09-04 00:36:03",
