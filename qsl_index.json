@@ -16632,6 +16632,13 @@
   "archivo": "qsl/QSL_YV4EMX_2026-10.webp"
  },
  {
+  "indicativo": "YV4EMX",
+  "codigo": "VQWQ9P",
+  "fecha": "2026-10-02 23:44:50",
+  "pais": "Venezuela",
+  "archivo": "qsl/QSL_YV4EMX_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YH3AJ",
   "codigo": "X6JD2F",
   "fecha": "2026-09-06 13:17:05",
