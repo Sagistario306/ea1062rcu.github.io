@@ -1680,6 +1680,13 @@
   "archivo": "qsl/QSL_HP1UPR_2026-10.webp"
  },
  {
+  "indicativo": "HP1UPR",
+  "codigo": "6QVG4M",
+  "fecha": "2026-10-02 00:09:36",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP1UPR_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CX2SA",
   "codigo": "BWPPYC",
   "fecha": "2026-10-01 01:14:29",
