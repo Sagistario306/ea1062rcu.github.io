@@ -12607,6 +12607,13 @@
   "archivo": "qsl/QSL_CX3JU_2026-10.webp"
  },
  {
+  "indicativo": "CX3JU",
+  "codigo": "R3EEHF",
+  "fecha": "2026-10-02 19:19:26",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX3JU_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YY4ARH",
   "codigo": "T9S2X5",
   "fecha": "2026-09-25 00:35:46",
