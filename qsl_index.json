@@ -11788,6 +11788,13 @@
   "archivo": "qsl/QSL_HI3RRR_2026-10.webp"
  },
  {
+  "indicativo": "HI3RRR",
+  "codigo": "29G9QX",
+  "fecha": "2026-10-02 00:07:18",
+  "pais": "Republica Dominicana",
+  "archivo": "qsl/QSL_HI3RRR_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HI8K",
   "codigo": "R33JGY",
   "fecha": "2026-09-25 10:37:34",
