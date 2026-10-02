@@ -19642,6 +19642,13 @@
   "archivo": "qsl/QSL_ZP6EUA_2026-10.webp"
  },
  {
+  "indicativo": "ZP6EUA",
+  "codigo": "289RYX",
+  "fecha": "2026-10-02 15:14:15",
+  "pais": "Paraguay",
+  "archivo": "qsl/QSL_ZP6EUA_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CE4CIT",
   "codigo": "PNMJPW",
   "fecha": "2026-09-11 19:43:10",
