@@ -3241,6 +3241,13 @@
   "archivo": "qsl/QSL_KP3M_2026-10.webp"
  },
  {
+  "indicativo": "KP3M",
+  "codigo": "X7FA5V",
+  "fecha": "2026-10-02 08:05:52",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP3M_2026-10_EV.webp"
+ },
+ {
   "indicativo": "JA9YAJ",
   "codigo": "K5UEVF",
   "fecha": "2026-09-01 01:33:47",
