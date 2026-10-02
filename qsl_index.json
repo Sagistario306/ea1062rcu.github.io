@@ -4137,6 +4137,13 @@
   "archivo": "qsl/QSL_XE1SEW_2026-10.webp"
  },
  {
+  "indicativo": "XE1SEW",
+  "codigo": "6TJXK6",
+  "fecha": "2026-10-02 00:04:14",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1SEW_2026-10_EV.webp"
+ },
+ {
   "indicativo": "LU1WP",
   "codigo": "TK337S",
   "fecha": "2026-09-03 00:09:18",
