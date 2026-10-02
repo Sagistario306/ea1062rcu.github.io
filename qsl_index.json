@@ -10150,6 +10150,13 @@
   "archivo": "qsl/QSL_LU6EGD_2026-10.webp"
  },
  {
+  "indicativo": "LU6EGD",
+  "codigo": "MSNMCT",
+  "fecha": "2026-10-02 00:05:55",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU6EGD_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE1ALE",
   "codigo": "A6KY7G",
   "fecha": "2026-09-26 00:24:01",
