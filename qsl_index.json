@@ -9569,6 +9569,13 @@
   "archivo": "qsl/QSL_CX3JG_2026-10.webp"
  },
  {
+  "indicativo": "CX3JG",
+  "codigo": "Q877KY",
+  "fecha": "2026-10-02 00:49:44",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX3JG_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HK6EB",
   "codigo": "WT7NZJ",
   "fecha": "2026-09-29 14:37:37",
