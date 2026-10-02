@@ -8064,6 +8064,13 @@
   "archivo": "qsl/QSL_HK1E_2026-10.webp"
  },
  {
+  "indicativo": "HK1E",
+  "codigo": "EDSZF3",
+  "fecha": "2026-10-02 00:04:24",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK1E_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HK6JCF",
   "codigo": "YKAP7H",
   "fecha": "2026-09-24 21:29:23",
