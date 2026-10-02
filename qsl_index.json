@@ -5348,6 +5348,13 @@
   "archivo": "qsl/QSL_CE3TDM_2026-10.webp"
  },
  {
+  "indicativo": "CE3TDM",
+  "codigo": "V7KBVP",
+  "fecha": "2026-10-02 00:09:20",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3TDM_2026-10_EV.webp"
+ },
+ {
   "indicativo": "NP4KB",
   "codigo": "YCHZZW",
   "fecha": "2026-09-25 14:48:06",
