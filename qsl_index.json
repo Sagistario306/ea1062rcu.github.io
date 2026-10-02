@@ -11634,6 +11634,13 @@
   "archivo": "qsl/QSL_HR5HAC_2026-10.webp"
  },
  {
+  "indicativo": "HR5HAC",
+  "codigo": "YR5ZCJ",
+  "fecha": "2026-10-02 15:56:26",
+  "pais": "Honduras",
+  "archivo": "qsl/QSL_HR5HAC_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE2JVD",
   "codigo": "Q88QGH",
   "fecha": "2026-09-28 18:29:05",
