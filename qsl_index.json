@@ -8533,6 +8533,13 @@
   "archivo": "qsl/QSL_XE2UD_2026-10.webp"
  },
  {
+  "indicativo": "XE2UD",
+  "codigo": "72G8DJ",
+  "fecha": "2026-10-02 00:05:14",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2UD_2026-10_EV.webp"
+ },
+ {
   "indicativo": "LU4FGS",
   "codigo": "BNCF4G",
   "fecha": "2026-09-05 01:33:11",
