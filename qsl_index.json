@@ -11172,6 +11172,13 @@
   "archivo": "qsl/QSL_HI8LT_2026-10.webp"
  },
  {
+  "indicativo": "HI8LT",
+  "codigo": "6JPB83",
+  "fecha": "2026-10-02 00:21:39",
+  "pais": "Republica Dominicana",
+  "archivo": "qsl/QSL_HI8LT_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EA8CLO",
   "codigo": "VJE424",
   "fecha": "2026-09-04 00:13:42",
