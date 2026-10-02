@@ -12152,6 +12152,13 @@
   "archivo": "qsl/QSL_8P4AD_2026-10.webp"
  },
  {
+  "indicativo": "8P4AD",
+  "codigo": "CN2EZF",
+  "fecha": "2026-10-02 00:21:05",
+  "pais": "Barbados",
+  "archivo": "qsl/QSL_8P4AD_2026-10_EV.webp"
+ },
+ {
   "indicativo": "TI4JDD",
   "codigo": "6TA7RB",
   "fecha": "2026-10-02 00:10:27",
