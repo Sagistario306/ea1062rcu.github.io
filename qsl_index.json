@@ -10185,6 +10185,13 @@
   "archivo": "qsl/QSL_CE4JWI_2026-10.webp"
  },
  {
+  "indicativo": "CE4JWI",
+  "codigo": "QQ5XB9",
+  "fecha": "2026-10-02 00:16:41",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE4JWI_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YH3AG",
   "codigo": "W7RSFT",
   "fecha": "2026-09-04 00:37:42",
