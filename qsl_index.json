@@ -8407,6 +8407,13 @@
   "archivo": "qsl/QSL_TI4OLS_2026-10.webp"
  },
  {
+  "indicativo": "TI4OLS",
+  "codigo": "MSD3A3",
+  "fecha": "2026-10-02 02:11:04",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI4OLS_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YD2UUY",
   "codigo": "G4ZGD5",
   "fecha": "2026-09-04 00:26:59",
