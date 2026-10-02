@@ -13132,6 +13132,13 @@
   "archivo": "qsl/QSL_TI5DJA_2026-10.webp"
  },
  {
+  "indicativo": "TI5DJA",
+  "codigo": "FGQG2N",
+  "fecha": "2026-10-02 00:06:46",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI5DJA_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EC1RCB",
   "codigo": "7MEZ84",
   "fecha": "2026-09-04 00:37:29",
