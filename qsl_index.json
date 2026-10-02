@@ -5971,6 +5971,13 @@
   "archivo": "qsl/QSL_TI2STB_2026-10.webp"
  },
  {
+  "indicativo": "TI2STB",
+  "codigo": "SVD5KZ",
+  "fecha": "2026-10-02 00:32:39",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2STB_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EA5HRE",
   "codigo": "2XPEDP",
   "fecha": "2026-09-04 00:28:13",
