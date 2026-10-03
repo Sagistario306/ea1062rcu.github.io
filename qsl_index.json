@@ -8169,6 +8169,13 @@
   "archivo": "qsl/QSL_HK6JCF_2026-10.webp"
  },
  {
+  "indicativo": "HK6JCF",
+  "codigo": "RXJ7BM",
+  "fecha": "2026-10-03 00:13:48",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK6JCF_2026-10_EV.webp"
+ },
+ {
   "indicativo": "9M2TON",
   "codigo": "76W6ZQ",
   "fecha": "2026-09-02 00:28:01",
