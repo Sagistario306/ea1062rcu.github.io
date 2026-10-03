@@ -12691,6 +12691,13 @@
   "archivo": "qsl/QSL_TI2TID_2026-10.webp"
  },
  {
+  "indicativo": "TI2TID",
+  "codigo": "TC5GRT",
+  "fecha": "2026-10-03 00:37:24",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2TID_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CX1BW",
   "codigo": "7JQ9TS",
   "fecha": "2026-09-02 00:24:05",
