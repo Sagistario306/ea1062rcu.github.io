@@ -4837,6 +4837,13 @@
   "archivo": "qsl/QSL_TI2JCY_2026-10.webp"
  },
  {
+  "indicativo": "TI2JCY",
+  "codigo": "7BDCSF",
+  "fecha": "2026-10-03 00:01:57",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2JCY_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EA1HLH",
   "codigo": "F6JTZZ",
   "fecha": "2026-09-01 01:30:08",
