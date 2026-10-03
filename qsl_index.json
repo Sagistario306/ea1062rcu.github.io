@@ -3164,6 +3164,13 @@
   "archivo": "qsl/QSL_HP1RPB_2026-10.webp"
  },
  {
+  "indicativo": "HP1RPB",
+  "codigo": "GQ49TR",
+  "fecha": "2026-10-03 04:39:12",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP1RPB_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE2LUZ",
   "codigo": "TZBR4B",
   "fecha": "2026-09-27 00:09:02",
