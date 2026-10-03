@@ -4816,6 +4816,13 @@
   "archivo": "qsl/QSL_CE3TPB_2026-10.webp"
  },
  {
+  "indicativo": "CE3TPB",
+  "codigo": "67YX55",
+  "fecha": "2026-10-03 05:13:33",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3TPB_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YD2BIU",
   "codigo": "MBBC7Y",
   "fecha": "2026-09-01 01:38:48",
