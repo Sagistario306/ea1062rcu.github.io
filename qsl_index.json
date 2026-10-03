@@ -13202,6 +13202,13 @@
   "archivo": "qsl/QSL_TI4JCG_2026-10.webp"
  },
  {
+  "indicativo": "TI4JCG",
+  "codigo": "34B55Q",
+  "fecha": "2026-10-03 03:22:09",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI4JCG_2026-10_EV.webp"
+ },
+ {
   "indicativo": "9M2NZR",
   "codigo": "BHFEZ7",
   "fecha": "2026-09-04 00:24:30",
