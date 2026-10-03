@@ -12670,6 +12670,13 @@
   "archivo": "qsl/QSL_YS1RJ_2026-10.webp"
  },
  {
+  "indicativo": "YS1RJ",
+  "codigo": "BHUF85",
+  "fecha": "2026-10-03 20:15:12",
+  "pais": "El Salvador",
+  "archivo": "qsl/QSL_YS1RJ_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EA2EKT",
   "codigo": "A4E9XG",
   "fecha": "2026-09-07 05:55:28",
