@@ -9625,6 +9625,13 @@
   "archivo": "qsl/QSL_KP4HRR_2026-10.webp"
  },
  {
+  "indicativo": "KP4HRR",
+  "codigo": "E4RW6Y",
+  "fecha": "2026-10-03 00:28:05",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4HRR_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE2LQD",
   "codigo": "S3B9PY",
   "fecha": "2026-09-26 00:53:49",
