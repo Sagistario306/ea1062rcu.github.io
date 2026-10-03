@@ -4970,6 +4970,13 @@
   "archivo": "qsl/QSL_CE3UOB_2026-10.webp"
  },
  {
+  "indicativo": "CE3UOB",
+  "codigo": "5V6XX8",
+  "fecha": "2026-10-03 00:05:38",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3UOB_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YB8VSR",
   "codigo": "MKW9XY",
   "fecha": "2026-09-04 00:14:04",
