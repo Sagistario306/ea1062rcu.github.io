@@ -2534,6 +2534,13 @@
   "archivo": "qsl/QSL_HK6RM_2026-10.webp"
  },
  {
+  "indicativo": "HK6RM",
+  "codigo": "PBXYN4",
+  "fecha": "2026-10-03 00:12:14",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK6RM_2026-10_EV.webp"
+ },
+ {
   "indicativo": "9M4GHZ",
   "codigo": "JPTMRW",
   "fecha": "2026-09-03 00:00:28",
