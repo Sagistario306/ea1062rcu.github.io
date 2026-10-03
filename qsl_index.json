@@ -25135,5 +25135,12 @@
   "fecha": "2026-10-03 16:35:49",
   "pais": "Cuba",
   "archivo": "qsl/QSL_COM1_2026-10.webp"
+ },
+ {
+  "indicativo": "COM1",
+  "codigo": "TE4CJ9",
+  "fecha": "2026-10-03 16:35:54",
+  "pais": "Cuba",
+  "archivo": "qsl/QSL_COM1_2026-10_EV.webp"
  }
 ]
