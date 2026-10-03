@@ -13251,6 +13251,13 @@
   "archivo": "qsl/QSL_CE3DQX_2026-10.webp"
  },
  {
+  "indicativo": "CE3DQX",
+  "codigo": "6CRM7J",
+  "fecha": "2026-10-03 00:31:27",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3DQX_2026-10_EV.webp"
+ },
+ {
   "indicativo": "JH4FUF",
   "codigo": "ZA8NXU",
   "fecha": "2026-09-03 00:44:57",
