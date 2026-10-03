@@ -6601,6 +6601,13 @@
   "archivo": "qsl/QSL_XE1PCA_2026-10.webp"
  },
  {
+  "indicativo": "XE1PCA",
+  "codigo": "93G5J5",
+  "fecha": "2026-10-03 00:11:52",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1PCA_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE3JCL",
   "codigo": "XBN76Y",
   "fecha": "2026-09-26 00:19:36",
