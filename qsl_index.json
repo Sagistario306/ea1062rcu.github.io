@@ -441,6 +441,13 @@
   "archivo": "qsl/QSL_XE1IFV_2026-10.webp"
  },
  {
+  "indicativo": "XE1IFV",
+  "codigo": "SARJ47",
+  "fecha": "2026-10-03 00:02:19",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1IFV_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE3JAC",
   "codigo": "JSMQV5",
   "fecha": "2026-09-03 00:43:27",
