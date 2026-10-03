@@ -798,6 +798,13 @@
   "archivo": "qsl/QSL_CE4VAP_2026-10.webp"
  },
  {
+  "indicativo": "CE4VAP",
+  "codigo": "RB7VFR",
+  "fecha": "2026-10-03 00:50:13",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE4VAP_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CE3FOT",
   "codigo": "VYA8NB",
   "fecha": "2026-09-01 01:25:11",
