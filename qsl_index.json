@@ -9163,6 +9163,13 @@
   "archivo": "qsl/QSL_XE2ARS_2026-10.webp"
  },
  {
+  "indicativo": "XE2ARS",
+  "codigo": "R6BYV5",
+  "fecha": "2026-10-03 00:02:50",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2ARS_2026-10_EV.webp"
+ },
+ {
   "indicativo": "TG9AMD",
   "codigo": "37PCZ6",
   "fecha": "2026-10-01 01:49:49",
