@@ -9779,6 +9779,13 @@
   "archivo": "qsl/QSL_NP3ZY_2026-10.webp"
  },
  {
+  "indicativo": "NP3ZY",
+  "codigo": "8AVKNG",
+  "fecha": "2026-10-03 00:20:37",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP3ZY_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CX3BZ",
   "codigo": "EC8ASW",
   "fecha": "2026-09-03 00:02:45",
