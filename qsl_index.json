@@ -8057,6 +8057,13 @@
   "archivo": "qsl/QSL_HJ4CID_2026-10.webp"
  },
  {
+  "indicativo": "HJ4CID",
+  "codigo": "46BETP",
+  "fecha": "2026-10-03 00:58:37",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ4CID_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YC5KWZ",
   "codigo": "7B92S5",
   "fecha": "2026-09-05 03:54:20",
