@@ -12342,17 +12342,10 @@
  },
  {
   "indicativo": "CO5ABC",
-  "codigo": "DYGGVH",
-  "fecha": "2026-09-01 01:39:55",
+  "codigo": "MSS7JD",
+  "fecha": "2026-10-03 19:41:51",
   "pais": "Cuba",
-  "archivo": "qsl/QSL_CO5ABC_2026-09.webp"
- },
- {
-  "indicativo": "CO5ABC",
-  "codigo": "W46463",
-  "fecha": "2026-09-01 01:39:59",
-  "pais": "Cuba",
-  "archivo": "qsl/QSL_CO5ABC_2026-09_EV.webp"
+  "archivo": "qsl/QSL_CO5ABC_2026-10.webp"
  },
  {
   "indicativo": "HK5AKN",
@@ -25141,6 +25134,6 @@
   "codigo": "TE4CJ9",
   "fecha": "2026-10-03 16:35:54",
   "pais": "Cuba",
-  "archivo": "qsl/QSL_COM1_2026-10_EV.webp"
+  "archivo": "qsl/QSL_COM1_2026-10_EV.png"
  }
 ]
