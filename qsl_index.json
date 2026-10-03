@@ -2709,6 +2709,13 @@
   "archivo": "qsl/QSL_XE1ZKC_2026-10.webp"
  },
  {
+  "indicativo": "XE1ZKC",
+  "codigo": "SRTJPQ",
+  "fecha": "2026-10-03 00:02:30",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1ZKC_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EA4URA",
   "codigo": "N5GSZ3",
   "fecha": "2026-10-02 00:00:33",
