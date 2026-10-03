@@ -3332,6 +3332,13 @@
   "archivo": "qsl/QSL_XE2OK_2026-10.webp"
  },
  {
+  "indicativo": "XE2OK",
+  "codigo": "SNPD5C",
+  "fecha": "2026-10-03 00:08:06",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2OK_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EA5AER",
   "codigo": "TZG3ZN",
   "fecha": "2026-09-01 14:37:30",
