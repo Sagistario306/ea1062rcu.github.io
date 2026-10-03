@@ -574,6 +574,13 @@
   "archivo": "qsl/QSL_CE2UGO_2026-10.webp"
  },
  {
+  "indicativo": "CE2UGO",
+  "codigo": "KT5AMD",
+  "fecha": "2026-10-03 00:50:46",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE2UGO_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE2J",
   "codigo": "BRZ5XG",
   "fecha": "2026-10-01 00:08:31",
