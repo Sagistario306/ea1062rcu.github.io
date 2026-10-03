@@ -11893,6 +11893,13 @@
   "archivo": "qsl/QSL_ZP6CEA_2026-10.webp"
  },
  {
+  "indicativo": "ZP6CEA",
+  "codigo": "TW5WMD",
+  "fecha": "2026-10-03 12:03:10",
+  "pais": "Paraguay",
+  "archivo": "qsl/QSL_ZP6CEA_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HP1CQ",
   "codigo": "66EFYT",
   "fecha": "2026-10-02 00:16:45",
