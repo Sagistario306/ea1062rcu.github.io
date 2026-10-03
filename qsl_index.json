@@ -6272,6 +6272,13 @@
   "archivo": "qsl/QSL_TI2AZ_2026-10.webp"
  },
  {
+  "indicativo": "TI2AZ",
+  "codigo": "JNU2UT",
+  "fecha": "2026-10-03 00:03:58",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2AZ_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CE3GC",
   "codigo": "W9Y8EK",
   "fecha": "2026-09-24 21:33:52",
