@@ -9408,6 +9408,13 @@
   "archivo": "qsl/QSL_CE6LLC_2026-10.webp"
  },
  {
+  "indicativo": "CE6LLC",
+  "codigo": "8KH9CP",
+  "fecha": "2026-10-03 01:53:40",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE6LLC_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CE2RK",
   "codigo": "KGYAJP",
   "fecha": "2026-10-02 00:05:19",
