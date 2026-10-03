@@ -9730,6 +9730,13 @@
   "archivo": "qsl/QSL_HK7BNI_2026-10.webp"
  },
  {
+  "indicativo": "HK7BNI",
+  "codigo": "AGNG9V",
+  "fecha": "2026-10-03 00:23:14",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK7BNI_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE3ADC",
   "codigo": "9WCPJN",
   "fecha": "2026-09-27 00:57:10",
