@@ -11886,6 +11886,13 @@
   "archivo": "qsl/QSL_PJ2LS_2026-10.webp"
  },
  {
+  "indicativo": "PJ2LS",
+  "codigo": "NMBNKS",
+  "fecha": "2026-10-03 13:53:48",
+  "pais": "Curazao",
+  "archivo": "qsl/QSL_PJ2LS_2026-10_EV.webp"
+ },
+ {
   "indicativo": "ZP6CEA",
   "codigo": "ZRVZ6E",
   "fecha": "2026-10-03 12:02:41",
