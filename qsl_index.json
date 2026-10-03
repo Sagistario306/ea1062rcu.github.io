@@ -2562,6 +2562,13 @@
   "archivo": "qsl/QSL_XE2NLM_2026-10.webp"
  },
  {
+  "indicativo": "XE2NLM",
+  "codigo": "ACA5U3",
+  "fecha": "2026-10-03 00:07:50",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2NLM_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE2ITZ",
   "codigo": "GXS7NJ",
   "fecha": "2026-09-26 00:02:07",
