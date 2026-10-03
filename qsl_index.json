@@ -11354,6 +11354,13 @@
   "archivo": "qsl/QSL_EA5LN_2026-10.webp"
  },
  {
+  "indicativo": "EA5LN",
+  "codigo": "CRGF8T",
+  "fecha": "2026-10-03 00:01:46",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA5LN_2026-10_EV.webp"
+ },
+ {
   "indicativo": "ZP4MNB",
   "codigo": "S9CSSY",
   "fecha": "2026-10-01 01:15:12",
