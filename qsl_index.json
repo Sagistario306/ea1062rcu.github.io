@@ -13230,6 +13230,13 @@
   "archivo": "qsl/QSL_XE1YGA_2026-10.webp"
  },
  {
+  "indicativo": "XE1YGA",
+  "codigo": "NJC8QW",
+  "fecha": "2026-10-03 00:03:28",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1YGA_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CE1SJJ",
   "codigo": "9WYG3Q",
   "fecha": "2026-09-03 00:04:31",
