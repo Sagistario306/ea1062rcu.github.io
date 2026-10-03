@@ -24192,6 +24192,13 @@
   "archivo": "qsl/QSL_HJ4AGL_2026-10.webp"
  },
  {
+  "indicativo": "HJ4AGL",
+  "codigo": "T7PNRS",
+  "fecha": "2026-10-03 00:05:51",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ4AGL_2026-10_EV.webp"
+ },
+ {
   "indicativo": "A65GJ",
   "codigo": "SK9QTK",
   "fecha": "2026-09-27 00:39:04",
