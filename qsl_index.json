@@ -12348,6 +12348,13 @@
   "archivo": "qsl/QSL_CO5ABC_2026-10.webp"
  },
  {
+  "indicativo": "CO5ABC",
+  "codigo": "KBS3NK",
+  "fecha": "2026-10-03 19:41:58",
+  "pais": "Cuba",
+  "archivo": "qsl/QSL_CO5ABC_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HK5AKN",
   "codigo": "2334WD",
   "fecha": "2026-09-01 01:38:16",
