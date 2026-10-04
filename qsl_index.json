@@ -8253,6 +8253,13 @@
   "archivo": "qsl/QSL_HJ4LSP_2026-10.webp"
  },
  {
+  "indicativo": "HJ4LSP",
+  "codigo": "7NU32U",
+  "fecha": "2026-10-04 12:30:32",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ4LSP_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HK4DAC",
   "codigo": "43S3FW",
   "fecha": "2026-09-25 00:15:52",
