@@ -1617,6 +1617,13 @@
   "archivo": "qsl/QSL_CE3MXM_2026-10.webp"
  },
  {
+  "indicativo": "CE3MXM",
+  "codigo": "47D793",
+  "fecha": "2026-10-04 13:08:22",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3MXM_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE1ACA",
   "codigo": "P8MF8N",
   "fecha": "2026-09-02 00:35:35",
