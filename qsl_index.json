@@ -3360,6 +3360,13 @@
   "archivo": "qsl/QSL_CE4NQS_2026-10.webp"
  },
  {
+  "indicativo": "CE4NQS",
+  "codigo": "87B8F8",
+  "fecha": "2026-10-04 13:53:24",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE4NQS_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YC0TBU",
   "codigo": "S5QD68",
   "fecha": "2026-09-02 00:18:48",
