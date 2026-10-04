@@ -23702,6 +23702,13 @@
   "archivo": "qsl/QSL_XE2FOG_2026-10.webp"
  },
  {
+  "indicativo": "XE2FOG",
+  "codigo": "VMA3YQ",
+  "fecha": "2026-10-04 00:17:51",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2FOG_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CE3PJD",
   "codigo": "XW8HUK",
   "fecha": "2026-09-23 09:17:08",
