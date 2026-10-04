@@ -2408,6 +2408,13 @@
   "archivo": "qsl/QSL_XE2RCS_2026-10.webp"
  },
  {
+  "indicativo": "XE2RCS",
+  "codigo": "Z73RN8",
+  "fecha": "2026-10-04 00:03:39",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2RCS_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HK5VD",
   "codigo": "EEGG8U",
   "fecha": "2026-09-04 00:23:52",
