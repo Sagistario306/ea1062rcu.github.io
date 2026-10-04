@@ -25394,5 +25394,12 @@
   "fecha": "2026-10-04 15:41:33",
   "pais": "Haiti",
   "archivo": "qsl/QSL_HHRS5_2026-10.webp"
+ },
+ {
+  "indicativo": "HHRS5",
+  "codigo": "NN3H4V",
+  "fecha": "2026-10-04 15:41:42",
+  "pais": "Haiti",
+  "archivo": "qsl/QSL_HHRS5_2026-10_EV.webp"
  }
 ]
