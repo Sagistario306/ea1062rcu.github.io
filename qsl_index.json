@@ -5145,6 +5145,13 @@
   "archivo": "qsl/QSL_HK3ZTU_2026-10.webp"
  },
  {
+  "indicativo": "HK3ZTU",
+  "codigo": "V482EF",
+  "fecha": "2026-10-04 01:37:06",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK3ZTU_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YD3HNL",
   "codigo": "Y9U8AN",
   "fecha": "2026-09-06 03:08:58",
