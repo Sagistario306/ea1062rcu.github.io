@@ -567,6 +567,13 @@
   "archivo": "qsl/QSL_HP3ICC_2026-10.webp"
  },
  {
+  "indicativo": "HP3ICC",
+  "codigo": "MKHDN7",
+  "fecha": "2026-10-04 19:50:34",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP3ICC_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CE2UGO",
   "codigo": "4G5WVW",
   "fecha": "2026-10-03 00:50:41",
