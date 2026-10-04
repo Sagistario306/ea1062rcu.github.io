@@ -9639,6 +9639,13 @@
   "archivo": "qsl/QSL_TI5GAA_2026-10.webp"
  },
  {
+  "indicativo": "TI5GAA",
+  "codigo": "WQT5YK",
+  "fecha": "2026-10-04 01:46:12",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI5GAA_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE1BEH",
   "codigo": "ETJ7TC",
   "fecha": "2026-09-02 00:28:33",
