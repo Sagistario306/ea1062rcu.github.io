@@ -11382,6 +11382,13 @@
   "archivo": "qsl/QSL_HP3EYZ_2026-10.webp"
  },
  {
+  "indicativo": "HP3EYZ",
+  "codigo": "NQJQ6U",
+  "fecha": "2026-10-04 17:00:47",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP3EYZ_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CE3AEA",
   "codigo": "C3URPG",
   "fecha": "2026-09-27 19:09:06",
