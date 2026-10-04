@@ -4907,6 +4907,13 @@
   "archivo": "qsl/QSL_TI4GO_2026-10.webp"
  },
  {
+  "indicativo": "TI4GO",
+  "codigo": "B8GPNK",
+  "fecha": "2026-10-04 14:35:39",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI4GO_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EB5BYP",
   "codigo": "WQT32J",
   "fecha": "2026-09-29 00:00:41",
