@@ -2989,6 +2989,13 @@
   "archivo": "qsl/QSL_CE3ABZ_2026-10.webp"
  },
  {
+  "indicativo": "CE3ABZ",
+  "codigo": "YBF9HJ",
+  "fecha": "2026-10-04 00:01:00",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3ABZ_2026-10_EV.webp"
+ },
+ {
   "indicativo": "9M2CLA",
   "codigo": "MGSWWU",
   "fecha": "2026-09-03 00:06:01",
