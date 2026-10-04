@@ -7581,6 +7581,13 @@
   "archivo": "qsl/QSL_TI0ARC_2026-10.webp"
  },
  {
+  "indicativo": "TI0ARC",
+  "codigo": "J4PEQC",
+  "fecha": "2026-10-04 02:42:35",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI0ARC_2026-10_EV.webp"
+ },
+ {
   "indicativo": "TI2BSH",
   "codigo": "ZB3G7U",
   "fecha": "2026-10-01 01:24:08",
