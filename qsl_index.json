@@ -5761,6 +5761,13 @@
   "archivo": "qsl/QSL_XE2EM_2026-10.webp"
  },
  {
+  "indicativo": "XE2EM",
+  "codigo": "PP434Z",
+  "fecha": "2026-10-04 00:07:38",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2EM_2026-10_EV.webp"
+ },
+ {
   "indicativo": "DU1ZC",
   "codigo": "4DZTW9",
   "fecha": "2026-09-03 00:13:27",
