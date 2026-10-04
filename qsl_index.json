@@ -10633,6 +10633,13 @@
   "archivo": "qsl/QSL_HK3BJ_2026-10.webp"
  },
  {
+  "indicativo": "HK3BJ",
+  "codigo": "AAX4YG",
+  "fecha": "2026-10-04 03:21:22",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK3BJ_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YD0BCH",
   "codigo": "YWMHKS",
   "fecha": "2026-09-03 00:02:15",
