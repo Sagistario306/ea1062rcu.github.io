@@ -9842,6 +9842,13 @@
   "archivo": "qsl/QSL_HJ5JMS_2026-10.webp"
  },
  {
+  "indicativo": "HJ5JMS",
+  "codigo": "CYBWXN",
+  "fecha": "2026-10-04 11:08:05",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ5JMS_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE1RLZ",
   "codigo": "XDNZC7",
   "fecha": "2026-09-24 21:22:20",
