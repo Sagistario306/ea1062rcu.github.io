@@ -5957,6 +5957,13 @@
   "archivo": "qsl/QSL_XE2GR_2026-10.webp"
  },
  {
+  "indicativo": "XE2GR",
+  "codigo": "5FSVDM",
+  "fecha": "2026-10-04 00:02:35",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2GR_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE2HC",
   "codigo": "VA68UZ",
   "fecha": "2026-09-04 00:08:30",
