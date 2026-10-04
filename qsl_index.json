@@ -13146,6 +13146,13 @@
   "archivo": "qsl/QSL_HI8J_2026-10.webp"
  },
  {
+  "indicativo": "HI8J",
+  "codigo": "GUKCP2",
+  "fecha": "2026-10-04 17:27:15",
+  "pais": "Republica Dominicana",
+  "archivo": "qsl/QSL_HI8J_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YD6HMM",
   "codigo": "4N22Z6",
   "fecha": "2026-09-03 00:14:48",
