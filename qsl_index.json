@@ -9828,6 +9828,13 @@
   "archivo": "qsl/QSL_TI2CVJ_2026-10.webp"
  },
  {
+  "indicativo": "TI2CVJ",
+  "codigo": "TGS26F",
+  "fecha": "2026-10-04 13:41:59",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2CVJ_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CX3JG",
   "codigo": "CQVKQD",
   "fecha": "2026-10-02 00:49:36",
