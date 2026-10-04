@@ -19299,6 +19299,13 @@
   "archivo": "qsl/QSL_KP3A_2026-10.webp"
  },
  {
+  "indicativo": "KP3A",
+  "codigo": "PZWW7Y",
+  "fecha": "2026-10-04 19:09:13",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP3A_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EA2WS",
   "codigo": "2JWZRU",
   "fecha": "2026-09-09 15:30:37",
