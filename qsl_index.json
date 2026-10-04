@@ -11928,6 +11928,13 @@
   "archivo": "qsl/QSL_KP4KYG_2026-10.webp"
  },
  {
+  "indicativo": "KP4KYG",
+  "codigo": "2RVECD",
+  "fecha": "2026-10-04 11:06:53",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4KYG_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HR5HAC",
   "codigo": "UCBU4G",
   "fecha": "2026-10-02 15:56:20",
