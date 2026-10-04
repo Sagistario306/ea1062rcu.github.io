@@ -24885,6 +24885,13 @@
   "archivo": "qsl/QSL_CE3JGV_2026-10.webp"
  },
  {
+  "indicativo": "CE3JGV",
+  "codigo": "8FRKSJ",
+  "fecha": "2026-10-04 04:39:54",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3JGV_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HI8HSC",
   "codigo": "6PKW39",
   "fecha": "2026-09-28 13:48:50",
