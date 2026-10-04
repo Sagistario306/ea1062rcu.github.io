@@ -23415,6 +23415,13 @@
   "archivo": "qsl/QSL_NP3CN_2026-10.webp"
  },
  {
+  "indicativo": "NP3CN",
+  "codigo": "DFUUC9",
+  "fecha": "2026-10-04 01:45:16",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP3CN_2026-10_EV.webp"
+ },
+ {
   "indicativo": "LU2EZW",
   "codigo": "2KN5KB",
   "fecha": "2026-09-21 01:59:24",
