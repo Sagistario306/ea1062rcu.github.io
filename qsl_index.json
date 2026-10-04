@@ -12327,6 +12327,13 @@
   "archivo": "qsl/QSL_HI8AM_2026-10.webp"
  },
  {
+  "indicativo": "HI8AM",
+  "codigo": "UK5WPC",
+  "fecha": "2026-10-04 20:43:05",
+  "pais": "Republica Dominicana",
+  "archivo": "qsl/QSL_HI8AM_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YN1ZAV",
   "codigo": "9Q2U6R",
   "fecha": "2026-09-03 00:52:55",
