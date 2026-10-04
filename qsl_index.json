@@ -9233,6 +9233,13 @@
   "archivo": "qsl/QSL_CE1OAD_2026-10.webp"
  },
  {
+  "indicativo": "CE1OAD",
+  "codigo": "MG2HCZ",
+  "fecha": "2026-10-04 13:37:59",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE1OAD_2026-10_EV.webp"
+ },
+ {
   "indicativo": "JA1YKX",
   "codigo": "BSXXY7",
   "fecha": "2026-09-01 01:30:02",
