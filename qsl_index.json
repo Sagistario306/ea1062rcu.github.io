@@ -21168,6 +21168,13 @@
   "archivo": "qsl/QSL_XE2HEC_2026-10.webp"
  },
  {
+  "indicativo": "XE2HEC",
+  "codigo": "UY5QEX",
+  "fecha": "2026-10-04 00:01:37",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2HEC_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EA3ARM",
   "codigo": "VUTRBQ",
   "fecha": "2026-09-14 17:37:16",
