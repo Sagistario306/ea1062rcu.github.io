@@ -9051,6 +9051,13 @@
   "archivo": "qsl/QSL_HP6MEC_2026-10.webp"
  },
  {
+  "indicativo": "HP6MEC",
+  "codigo": "A49SDG",
+  "fecha": "2026-10-04 21:34:06",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP6MEC_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HP6EEM",
   "codigo": "B6AYU9",
   "fecha": "2026-10-02 00:05:40",
