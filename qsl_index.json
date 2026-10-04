@@ -7000,6 +7000,13 @@
   "archivo": "qsl/QSL_HJ1BNL_2026-10.webp"
  },
  {
+  "indicativo": "HJ1BNL",
+  "codigo": "A48Z9B",
+  "fecha": "2026-10-04 00:40:34",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ1BNL_2026-10_EV.webp"
+ },
+ {
   "indicativo": "OA4DFM",
   "codigo": "UQT3RH",
   "fecha": "2026-10-02 00:17:07",
