@@ -4053,6 +4053,13 @@
   "archivo": "qsl/QSL_CE3GDI_2026-10.webp"
  },
  {
+  "indicativo": "CE3GDI",
+  "codigo": "FZ7XCY",
+  "fecha": "2026-10-04 01:48:13",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3GDI_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YB8VK",
   "codigo": "6QRCKB",
   "fecha": "2026-09-03 00:15:43",
