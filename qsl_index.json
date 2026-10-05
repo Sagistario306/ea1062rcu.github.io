@@ -7497,6 +7497,13 @@
   "archivo": "qsl/QSL_CE1DR_2026-10.webp"
  },
  {
+  "indicativo": "CE1DR",
+  "codigo": "B62D2H",
+  "fecha": "2026-10-05 10:19:39",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE1DR_2026-10_EV.webp"
+ },
+ {
   "indicativo": "TI5FSP",
   "codigo": "UU7V5J",
   "fecha": "2026-09-02 00:13:31",
