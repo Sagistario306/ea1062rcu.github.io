@@ -10080,6 +10080,13 @@
   "archivo": "qsl/QSL_XE3K_2026-10.webp"
  },
  {
+  "indicativo": "XE3K",
+  "codigo": "P3HNRQ",
+  "fecha": "2026-10-05 02:34:09",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE3K_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EA1IWI",
   "codigo": "ZDUE74",
   "fecha": "2026-09-04 00:33:31",
