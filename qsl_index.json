@@ -18214,6 +18214,13 @@
   "archivo": "qsl/QSL_HK6F_2026-10.webp"
  },
  {
+  "indicativo": "HK6F",
+  "codigo": "7MFVJ3",
+  "fecha": "2026-10-05 11:40:27",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK6F_2026-10_EV.webp"
+ },
+ {
   "indicativo": "9M2VPR",
   "codigo": "ANCK4U",
   "fecha": "2026-09-07 12:11:14",
