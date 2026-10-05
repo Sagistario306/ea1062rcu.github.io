@@ -24612,6 +24612,13 @@
   "archivo": "qsl/QSL_KP4FIE_2026-10.webp"
  },
  {
+  "indicativo": "KP4FIE",
+  "codigo": "F9JUKJ",
+  "fecha": "2026-10-05 20:53:29",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4FIE_2026-10_EV.webp"
+ },
+ {
   "indicativo": "OZ8NST",
   "codigo": "XFAQW5",
   "fecha": "2026-09-27 00:03:43",
