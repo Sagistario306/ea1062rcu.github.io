@@ -25604,5 +25604,12 @@
   "fecha": "2026-10-05 00:01:03",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1XZQ_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "KP4ZZ",
+  "codigo": "N762GS",
+  "fecha": "2026-10-05 11:05:20",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4ZZ_2026-10.webp"
  }
 ]
