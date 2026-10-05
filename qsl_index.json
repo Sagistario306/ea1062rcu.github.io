@@ -6762,6 +6762,13 @@
   "archivo": "qsl/QSL_XE3JCL_2026-10.webp"
  },
  {
+  "indicativo": "XE3JCL",
+  "codigo": "6YKT33",
+  "fecha": "2026-10-05 00:11:24",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE3JCL_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HK6BRK",
   "codigo": "6A5JT3",
   "fecha": "2026-09-25 00:10:58",
