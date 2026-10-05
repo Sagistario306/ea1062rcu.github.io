@@ -7140,6 +7140,13 @@
   "archivo": "qsl/QSL_HK4X_2026-09.png"
  },
  {
+  "indicativo": "TI3ESG",
+  "codigo": "HT82XG",
+  "fecha": "2026-10-05 20:23:54",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI3ESG_2026-10.webp"
+ },
+ {
   "indicativo": "CX4CXX",
   "codigo": "93FS69",
   "fecha": "2026-09-25 01:38:06",
