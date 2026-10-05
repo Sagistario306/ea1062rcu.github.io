@@ -511,6 +511,13 @@
   "archivo": "qsl/QSL_CE3AHV_2026-10.webp"
  },
  {
+  "indicativo": "CE3AHV",
+  "codigo": "GW5ZHQ",
+  "fecha": "2026-10-05 09:40:44",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3AHV_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EB4HDM",
   "codigo": "QKYJ5S",
   "fecha": "2026-09-03 00:20:39",
