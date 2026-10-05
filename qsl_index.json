@@ -9618,6 +9618,13 @@
   "archivo": "qsl/QSL_LU2MGQ_2026-10_EV.webp"
  },
  {
+  "indicativo": "NP3F",
+  "codigo": "WGMM8U",
+  "fecha": "2026-10-05 10:16:08",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP3F_2026-10.webp"
+ },
+ {
   "indicativo": "CE6LLC",
   "codigo": "EGN9VB",
   "fecha": "2026-10-03 01:53:35",
