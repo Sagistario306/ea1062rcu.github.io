@@ -7252,6 +7252,13 @@
   "archivo": "qsl/QSL_NP4JM_2026-10.webp"
  },
  {
+  "indicativo": "NP4JM",
+  "codigo": "UC4PJX",
+  "fecha": "2026-10-05 11:39:43",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4JM_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YE2BDN",
   "codigo": "6BEMB2",
   "fecha": "2026-09-04 00:22:36",
