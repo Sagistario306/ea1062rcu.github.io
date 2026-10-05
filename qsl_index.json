@@ -2499,6 +2499,13 @@
   "archivo": "qsl/QSL_XE1EL_2026-10_EV.webp"
  },
  {
+  "indicativo": "EB1GOD",
+  "codigo": "WS4THE",
+  "fecha": "2026-10-05 00:00:13",
+  "pais": "España",
+  "archivo": "qsl/QSL_EB1GOD_2026-10.webp"
+ },
+ {
   "indicativo": "9M8ZAL",
   "codigo": "8EXJV9",
   "fecha": "2026-09-02 00:00:24",
