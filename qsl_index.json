@@ -12670,6 +12670,13 @@
   "archivo": "qsl/QSL_CE3JSG_2026-10.webp"
  },
  {
+  "indicativo": "CE3JSG",
+  "codigo": "PSSBCB",
+  "fecha": "2026-10-05 13:08:51",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3JSG_2026-10_EV.webp"
+ },
+ {
   "indicativo": "8P4AD",
   "codigo": "BEEMP5",
   "fecha": "2026-10-02 00:20:37",
