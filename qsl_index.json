@@ -8505,6 +8505,13 @@
   "archivo": "qsl/QSL_LW2ECC_2026-10.webp"
  },
  {
+  "indicativo": "LW2ECC",
+  "codigo": "PGXAPE",
+  "fecha": "2026-10-05 00:00:28",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW2ECC_2026-10_EV.webp"
+ },
+ {
   "indicativo": "9W2ESR",
   "codigo": "8CDT7V",
   "fecha": "2026-09-02 00:20:34",
