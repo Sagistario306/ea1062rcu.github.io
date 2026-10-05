@@ -10080,6 +10080,13 @@
   "archivo": "qsl/QSL_HK7ALI_2026-10.webp"
  },
  {
+  "indicativo": "HK7ALI",
+  "codigo": "AF6DAT",
+  "fecha": "2026-10-05 13:25:06",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK7ALI_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE1GSY",
   "codigo": "A9WMMW",
   "fecha": "2026-09-25 00:06:33",
