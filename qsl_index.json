@@ -8841,6 +8841,13 @@
   "archivo": "qsl/QSL_CE6NDC_2026-10.webp"
  },
  {
+  "indicativo": "CE6NDC",
+  "codigo": "N7UAZP",
+  "fecha": "2026-10-05 11:45:02",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE6NDC_2026-10_EV.webp"
+ },
+ {
   "indicativo": "TI7JCC",
   "codigo": "T4KV4N",
   "fecha": "2026-09-08 14:52:41",
