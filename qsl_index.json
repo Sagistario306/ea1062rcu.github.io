@@ -25478,5 +25478,12 @@
   "fecha": "2026-10-05 00:00:56",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1XZQ_2026-10.webp"
+ },
+ {
+  "indicativo": "XE1XZQ",
+  "codigo": "QN6UFY",
+  "fecha": "2026-10-05 00:01:03",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1XZQ_2026-10_EV.webp"
  }
 ]
