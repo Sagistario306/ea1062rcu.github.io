@@ -23856,6 +23856,13 @@
   "archivo": "qsl/QSL_KP3IV_2026-10.webp"
  },
  {
+  "indicativo": "KP3IV",
+  "codigo": "ZDW96N",
+  "fecha": "2026-10-05 23:30:09",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP3IV_2026-10_EV.webp"
+ },
+ {
   "indicativo": "LU4CN",
   "codigo": "YZCPDH",
   "fecha": "2026-09-21 20:23:22",
