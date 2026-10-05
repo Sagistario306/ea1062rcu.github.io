@@ -9793,6 +9793,13 @@
   "archivo": "qsl/QSL_HK3Z_2026-10.webp"
  },
  {
+  "indicativo": "HK3Z",
+  "codigo": "QYKYSJ",
+  "fecha": "2026-10-05 14:31:24",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK3Z_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HJ7OZ",
   "codigo": "F32DK5",
   "fecha": "2026-09-30 18:27:31",
