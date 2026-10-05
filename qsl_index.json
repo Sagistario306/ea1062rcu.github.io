@@ -9898,6 +9898,13 @@
   "archivo": "qsl/QSL_TI0RHU_2026-10.webp"
  },
  {
+  "indicativo": "TI0RHU",
+  "codigo": "8G5SCZ",
+  "fecha": "2026-10-05 03:39:43",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI0RHU_2026-10_EV.webp"
+ },
+ {
   "indicativo": "TI2CVJ",
   "codigo": "QSQ4ZM",
   "fecha": "2026-10-04 13:41:48",
