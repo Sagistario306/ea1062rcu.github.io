@@ -25688,5 +25688,12 @@
   "fecha": "2026-10-05 14:32:40",
   "pais": "Venezuela",
   "archivo": "qsl/QSL_YV9ESI_2026-10.webp"
+ },
+ {
+  "indicativo": "YV9ESI",
+  "codigo": "PBDPB2",
+  "fecha": "2026-10-05 14:32:48",
+  "pais": "Venezuela",
+  "archivo": "qsl/QSL_YV9ESI_2026-10_EV.webp"
  }
 ]
