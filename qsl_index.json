@@ -4760,6 +4760,13 @@
   "archivo": "qsl/QSL_CE2PQ_2026-10.webp"
  },
  {
+  "indicativo": "CE2PQ",
+  "codigo": "HFRJM4",
+  "fecha": "2026-10-05 10:19:28",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE2PQ_2026-10_EV.webp"
+ },
+ {
   "indicativo": "9W2LCF",
   "codigo": "B4RSVK",
   "fecha": "2026-09-04 00:24:53",
