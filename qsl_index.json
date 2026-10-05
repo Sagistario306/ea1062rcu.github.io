@@ -10927,6 +10927,13 @@
   "archivo": "qsl/QSL_KP4HE_2026-10.webp"
  },
  {
+  "indicativo": "KP4HE",
+  "codigo": "DHKFET",
+  "fecha": "2026-10-05 14:10:49",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4HE_2026-10_EV.webp"
+ },
+ {
   "indicativo": "OA2EIQ",
   "codigo": "MCMVP5",
   "fecha": "2026-10-04 12:46:20",
