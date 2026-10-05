@@ -2667,6 +2667,13 @@
   "archivo": "qsl/QSL_XE2MFT_2026-10.webp"
  },
  {
+  "indicativo": "XE2MFT",
+  "codigo": "AC8H3P",
+  "fecha": "2026-10-05 01:17:49",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2MFT_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EA1MZ",
   "codigo": "AA93CU",
   "fecha": "2026-10-01 00:00:37",
