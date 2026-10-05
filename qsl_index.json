@@ -1883,6 +1883,13 @@
   "archivo": "qsl/QSL_CE6AIG_2026-10.webp"
  },
  {
+  "indicativo": "CE6AIG",
+  "codigo": "TPADKX",
+  "fecha": "2026-10-05 11:23:16",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE6AIG_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YB1DDK",
   "codigo": "N4AP59",
   "fecha": "2026-09-02 00:27:32",
