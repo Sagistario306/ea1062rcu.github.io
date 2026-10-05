@@ -14196,6 +14196,13 @@
   "archivo": "qsl/QSL_CE3IBW_2026-10.webp"
  },
  {
+  "indicativo": "CE3IBW",
+  "codigo": "T24BQR",
+  "fecha": "2026-10-05 03:10:32",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3IBW_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HP3AEC",
   "codigo": "XPG768",
   "fecha": "2026-09-25 01:02:24",
