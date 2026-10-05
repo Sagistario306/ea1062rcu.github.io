@@ -9989,6 +9989,13 @@
   "archivo": "qsl/QSL_HK6EB_2026-10.webp"
  },
  {
+  "indicativo": "HK6EB",
+  "codigo": "RK6DXK",
+  "fecha": "2026-10-05 13:12:45",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK6EB_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HJ5JMS",
   "codigo": "WSG27Z",
   "fecha": "2026-10-04 11:07:59",
