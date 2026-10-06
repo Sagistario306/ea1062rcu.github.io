@@ -3199,6 +3199,13 @@
   "archivo": "qsl/QSL_XE2NCH_2026-10.webp"
  },
  {
+  "indicativo": "XE2NCH",
+  "codigo": "RCYMDQ",
+  "fecha": "2026-10-06 00:01:22",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2NCH_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YD0ABC",
   "codigo": "HK65EY",
   "fecha": "2026-09-04 00:06:46",
