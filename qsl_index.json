@@ -1113,6 +1113,13 @@
   "archivo": "qsl/QSL_XE1EE_2026-10.webp"
  },
  {
+  "indicativo": "XE1EE",
+  "codigo": "WJ5TMA",
+  "fecha": "2026-10-06 01:15:15",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1EE_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CE1RLP",
   "codigo": "GXYU8Y",
   "fecha": "2026-09-25 00:19:06",
