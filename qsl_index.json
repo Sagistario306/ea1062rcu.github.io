@@ -12474,6 +12474,13 @@
   "archivo": "qsl/QSL_HI8K_2026-10.webp"
  },
  {
+  "indicativo": "HI8K",
+  "codigo": "WPK7TU",
+  "fecha": "2026-10-06 12:59:36",
+  "pais": "Republica Dominicana",
+  "archivo": "qsl/QSL_HI8K_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YN1ZES",
   "codigo": "AZYD45",
   "fecha": "2026-09-04 00:09:39",
