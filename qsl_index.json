@@ -24948,6 +24948,13 @@
   "archivo": "qsl/QSL_XE2EOS_2026-10.webp"
  },
  {
+  "indicativo": "XE2EOS",
+  "codigo": "MKMGMZ",
+  "fecha": "2026-10-06 00:10:42",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2EOS_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HJ4AGL",
   "codigo": "Z8MTGS",
   "fecha": "2026-10-03 00:05:45",
