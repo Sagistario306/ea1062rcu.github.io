@@ -23408,6 +23408,13 @@
   "archivo": "qsl/QSL_XE3JAR_2026-10.webp"
  },
  {
+  "indicativo": "XE3JAR",
+  "codigo": "7AAKQK",
+  "fecha": "2026-10-06 00:00:30",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE3JAR_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YY4APV",
   "codigo": "M9WVC7",
   "fecha": "2026-09-17 21:40:41",
