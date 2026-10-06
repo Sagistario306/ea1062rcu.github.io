@@ -3955,6 +3955,13 @@
   "archivo": "qsl/QSL_TI3GB_2026-10.webp"
  },
  {
+  "indicativo": "TI3GB",
+  "codigo": "S6W9RD",
+  "fecha": "2026-10-06 23:01:21",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI3GB_2026-10_EV.webp"
+ },
+ {
   "indicativo": "DX1PAR",
   "codigo": "YDRCJZ",
   "fecha": "2026-09-02 00:19:39",
