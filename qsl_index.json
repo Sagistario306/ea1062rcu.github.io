@@ -12887,6 +12887,13 @@
   "archivo": "qsl/QSL_HK4LGH_2026-10.webp"
  },
  {
+  "indicativo": "HK4LGH",
+  "codigo": "AYHA25",
+  "fecha": "2026-10-06 21:38:43",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK4LGH_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CX8AF",
   "codigo": "DUB5BZ",
   "fecha": "2026-09-25 00:07:33",
