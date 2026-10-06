@@ -13209,6 +13209,13 @@
   "archivo": "qsl/QSL_XE3CCJ_2026-10.webp"
  },
  {
+  "indicativo": "XE3CCJ",
+  "codigo": "TW3QNN",
+  "fecha": "2026-10-06 01:05:34",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE3CCJ_2026-10_EV.webp"
+ },
+ {
   "indicativo": "TI2TID",
   "codigo": "KBGSA4",
   "fecha": "2026-10-03 00:37:18",
