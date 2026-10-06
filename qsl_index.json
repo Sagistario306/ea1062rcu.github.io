@@ -13741,6 +13741,13 @@
   "archivo": "qsl/QSL_TI4LDR_2026-10.webp"
  },
  {
+  "indicativo": "TI4LDR",
+  "codigo": "Z8C5MN",
+  "fecha": "2026-10-06 13:11:29",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI4LDR_2026-10_EV.webp"
+ },
+ {
   "indicativo": "9W2BXG",
   "codigo": "USNZND",
   "fecha": "2026-09-03 00:19:01",
