@@ -1078,6 +1078,13 @@
   "archivo": "qsl/QSL_XE2MVZ_2026-10.webp"
  },
  {
+  "indicativo": "XE2MVZ",
+  "codigo": "ZSVJGU",
+  "fecha": "2026-10-06 00:09:25",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2MVZ_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EA7URS",
   "codigo": "VFXGH3",
   "fecha": "2026-09-03 00:49:12",
