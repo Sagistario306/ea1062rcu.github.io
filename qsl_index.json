@@ -819,6 +819,13 @@
   "archivo": "qsl/QSL_CE3FOT_2026-10.webp"
  },
  {
+  "indicativo": "CE3FOT",
+  "codigo": "Z3W2T9",
+  "fecha": "2026-10-06 19:50:52",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3FOT_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE1MW",
   "codigo": "MC36UD",
   "fecha": "2026-10-01 00:01:18",
