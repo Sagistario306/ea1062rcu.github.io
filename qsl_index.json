@@ -13930,6 +13930,13 @@
   "archivo": "qsl/QSL_XE1NOV_2026-10.webp"
  },
  {
+  "indicativo": "XE1NOV",
+  "codigo": "6CKJ5P",
+  "fecha": "2026-10-06 00:10:52",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1NOV_2026-10_EV.webp"
+ },
+ {
   "indicativo": "TI5DJA",
   "codigo": "PFMNMR",
   "fecha": "2026-10-02 00:06:42",
