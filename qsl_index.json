@@ -11928,6 +11928,13 @@
   "archivo": "qsl/QSL_CE4UJP_2026-10.webp"
  },
  {
+  "indicativo": "CE4UJP",
+  "codigo": "CKV8PF",
+  "fecha": "2026-10-06 22:39:25",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE4UJP_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EA5KGJ",
   "codigo": "DWJ9GX",
   "fecha": "2026-10-03 00:00:38",
