@@ -2912,6 +2912,13 @@
   "archivo": "qsl/QSL_EA1HJA_2026-10.webp"
  },
  {
+  "indicativo": "EA1HJA",
+  "codigo": "Q52A3E",
+  "fecha": "2026-10-06 00:00:41",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA1HJA_2026-10_EV.webp"
+ },
+ {
   "indicativo": "DX2OHR",
   "codigo": "V4W4TH",
   "fecha": "2026-09-01 01:32:27",
