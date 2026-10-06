@@ -7672,6 +7672,13 @@
   "archivo": "qsl/QSL_XE1JEG_2026-10.webp"
  },
  {
+  "indicativo": "XE1JEG",
+  "codigo": "RX2DCF",
+  "fecha": "2026-10-06 00:58:55",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1JEG_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YV5ADM",
   "codigo": "CM25JG",
   "fecha": "2026-09-26 08:16:27",
