@@ -3549,6 +3549,13 @@
   "archivo": "qsl/QSL_HK3VIO_2026-10.webp"
  },
  {
+  "indicativo": "HK3VIO",
+  "codigo": "V64WRT",
+  "fecha": "2026-10-06 05:24:37",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK3VIO_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YC2PAB",
   "codigo": "E9CN3X",
   "fecha": "2026-09-02 00:29:19",
