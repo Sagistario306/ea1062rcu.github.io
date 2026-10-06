@@ -6426,6 +6426,13 @@
   "archivo": "qsl/QSL_CX4IC_2026-10.webp"
  },
  {
+  "indicativo": "CX4IC",
+  "codigo": "45A89Z",
+  "fecha": "2026-10-06 10:16:32",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX4IC_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YD2AGT",
   "codigo": "BPM5MU",
   "fecha": "2026-09-01 01:29:19",
