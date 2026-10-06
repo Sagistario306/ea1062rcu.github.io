@@ -11592,6 +11592,13 @@
   "archivo": "qsl/QSL_TI4DMR_2026-10.webp"
  },
  {
+  "indicativo": "TI4DMR",
+  "codigo": "9ZUCN7",
+  "fecha": "2026-10-06 22:06:50",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI4DMR_2026-10_EV.webp"
+ },
+ {
   "indicativo": "9M2SGN",
   "codigo": "YYYY3Q",
   "fecha": "2026-09-04 00:04:42",
