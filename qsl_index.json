@@ -2961,6 +2961,13 @@
   "archivo": "qsl/QSL_XE3ISS_2026-10.webp"
  },
  {
+  "indicativo": "XE3ISS",
+  "codigo": "S2GQTD",
+  "fecha": "2026-10-06 00:17:52",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE3ISS_2026-10_EV.webp"
+ },
+ {
   "indicativo": "DX6RAN",
   "codigo": "M2CRVV",
   "fecha": "2026-09-03 00:25:29",
