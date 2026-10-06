@@ -22120,6 +22120,13 @@
   "archivo": "qsl/QSL_KP4RDS_2026-10.webp"
  },
  {
+  "indicativo": "KP4RDS",
+  "codigo": "EKBS8C",
+  "fecha": "2026-10-06 19:17:04",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4RDS_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YB3JFS",
   "codigo": "83W67R",
   "fecha": "2026-09-15 19:40:15",
