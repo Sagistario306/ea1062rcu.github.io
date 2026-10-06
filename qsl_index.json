@@ -14294,6 +14294,13 @@
   "archivo": "qsl/QSL_CX7RGN_2026-10.webp"
  },
  {
+  "indicativo": "CX7RGN",
+  "codigo": "99PWB2",
+  "fecha": "2026-10-06 10:53:53",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX7RGN_2026-10_EV.webp"
+ },
+ {
   "indicativo": "DV1K",
   "codigo": "5V85EA",
   "fecha": "2026-09-03 00:12:11",
