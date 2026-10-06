@@ -3553,7 +3553,7 @@
   "codigo": "V64WRT",
   "fecha": "2026-10-06 05:24:37",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK3VIO_2026-10_EV.webp"
+  "archivo": "qsl/QSL_HK3VIO_2026-10_EV.png"
  },
  {
   "indicativo": "YC2PAB",
@@ -6420,17 +6420,10 @@
  },
  {
   "indicativo": "CX4IC",
-  "codigo": "55CF65",
-  "fecha": "2026-09-05 04:31:19",
+  "codigo": "KQGAZE",
+  "fecha": "2026-10-06 10:16:26",
   "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX4IC_2026-09.webp"
- },
- {
-  "indicativo": "CX4IC",
-  "codigo": "PACAYF",
-  "fecha": "2026-09-05 04:31:25",
-  "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX4IC_2026-09_EV.webp"
+  "archivo": "qsl/QSL_CX4IC_2026-10.webp"
  },
  {
   "indicativo": "YD2AGT",
