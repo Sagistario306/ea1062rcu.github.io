@@ -7448,6 +7448,13 @@
   "archivo": "qsl/QSL_XE2NI_2026-10.webp"
  },
  {
+  "indicativo": "XE2NI",
+  "codigo": "QXBVBS",
+  "fecha": "2026-10-07 00:20:34",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2NI_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CE3ESB",
   "codigo": "7QWZVX",
   "fecha": "2026-10-03 01:16:23",
