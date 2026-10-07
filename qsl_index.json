@@ -7364,6 +7364,13 @@
   "archivo": "qsl/QSL_TG6NER_2026-10.webp"
  },
  {
+  "indicativo": "TG6NER",
+  "codigo": "Y2ZAVU",
+  "fecha": "2026-10-07 18:47:52",
+  "pais": "Guatemala",
+  "archivo": "qsl/QSL_TG6NER_2026-10_EV.webp"
+ },
+ {
   "indicativo": "NP4JM",
   "codigo": "U98Y8R",
   "fecha": "2026-10-05 11:39:34",
