@@ -7294,6 +7294,13 @@
   "archivo": "qsl/QSL_CE6ACR_2026-10.webp"
  },
  {
+  "indicativo": "CE6ACR",
+  "codigo": "N3X368",
+  "fecha": "2026-10-07 19:04:40",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE6ACR_2026-10_EV.webp"
+ },
+ {
   "indicativo": "CE8TDO",
   "codigo": "NT37KX",
   "fecha": "2026-10-06 14:38:20",
