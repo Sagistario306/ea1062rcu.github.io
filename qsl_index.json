@@ -3045,6 +3045,13 @@
   "archivo": "qsl/QSL_CE3PBR_2026-10.webp"
  },
  {
+  "indicativo": "CE3PBR",
+  "codigo": "G58C6F",
+  "fecha": "2026-10-07 14:34:11",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3PBR_2026-10_EV.webp"
+ },
+ {
   "indicativo": "JR8YPW",
   "codigo": "GST5G6",
   "fecha": "2026-09-02 00:41:49",
