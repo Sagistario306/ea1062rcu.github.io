@@ -5684,6 +5684,13 @@
   "archivo": "qsl/QSL_NP4KB_2026-10.webp"
  },
  {
+  "indicativo": "NP4KB",
+  "codigo": "WK8Z2Z",
+  "fecha": "2026-10-07 11:53:14",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4KB_2026-10_EV.webp"
+ },
+ {
   "indicativo": "LU9DA",
   "codigo": "S89F6X",
   "fecha": "2026-09-04 00:30:37",
