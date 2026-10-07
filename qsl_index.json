@@ -8141,6 +8141,13 @@
   "archivo": "qsl/QSL_LW2DBP_2026-10.webp"
  },
  {
+  "indicativo": "LW2DBP",
+  "codigo": "STA9H5",
+  "fecha": "2026-10-07 00:01:42",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW2DBP_2026-10_EV.webp"
+ },
+ {
   "indicativo": "DW6OC",
   "codigo": "AURH7V",
   "fecha": "2026-09-04 00:33:55",
