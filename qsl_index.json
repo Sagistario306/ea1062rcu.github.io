@@ -26115,5 +26115,12 @@
   "fecha": "2026-10-07 13:31:48",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK1AN_2026-10.webp"
+ },
+ {
+  "indicativo": "HK1AN",
+  "codigo": "G6XE36",
+  "fecha": "2026-10-07 13:32:18",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK1AN_2026-10_EV.webp"
  }
 ]
