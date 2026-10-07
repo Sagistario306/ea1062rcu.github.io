@@ -2366,6 +2366,13 @@
   "archivo": "qsl/QSL_EB7BZA_2026-10.webp"
  },
  {
+  "indicativo": "EB7BZA",
+  "codigo": "YR78SG",
+  "fecha": "2026-10-07 00:01:18",
+  "pais": "España",
+  "archivo": "qsl/QSL_EB7BZA_2026-10_EV.webp"
+ },
+ {
   "indicativo": "9W2RLW",
   "codigo": "GNJX68",
   "fecha": "2026-09-04 00:10:10",
