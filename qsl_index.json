@@ -24276,6 +24276,13 @@
   "archivo": "qsl/QSL_XE2KAS_2026-10.webp"
  },
  {
+  "indicativo": "XE2KAS",
+  "codigo": "EGRTTN",
+  "fecha": "2026-10-07 00:15:29",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2KAS_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HR2RD",
   "codigo": "NHDTUE",
   "fecha": "2026-09-22 22:08:53",
