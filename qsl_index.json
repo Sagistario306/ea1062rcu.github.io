@@ -11179,6 +11179,13 @@
   "archivo": "qsl/QSL_XE1SAX_2026-10.webp"
  },
  {
+  "indicativo": "XE1SAX",
+  "codigo": "4N52XH",
+  "fecha": "2026-10-07 00:20:44",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1SAX_2026-10_EV.webp"
+ },
+ {
   "indicativo": "HP1LNK",
   "codigo": "UFU3AT",
   "fecha": "2026-10-05 17:31:15",
