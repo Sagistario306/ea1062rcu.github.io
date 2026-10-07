@@ -7298,7 +7298,7 @@
   "codigo": "N3X368",
   "fecha": "2026-10-07 19:04:40",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE6ACR_2026-10_EV.webp"
+  "archivo": "qsl/QSL_CE6ACR_2026-10_EV.png"
  },
  {
   "indicativo": "CE8TDO",
@@ -11723,6 +11723,13 @@
   "fecha": "2026-09-04 00:04:48",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2SGN_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "NP4ED",
+  "codigo": "X66AFF",
+  "fecha": "2026-10-07 21:16:40",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4ED_2026-10.webp"
  },
  {
   "indicativo": "9W2OKX",
