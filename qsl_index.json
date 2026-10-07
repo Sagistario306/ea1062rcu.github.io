@@ -9996,6 +9996,13 @@
   "archivo": "qsl/QSL_CE4JVU_2026-10.webp"
  },
  {
+  "indicativo": "CE4JVU",
+  "codigo": "NYJTH5",
+  "fecha": "2026-10-07 04:34:00",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE4JVU_2026-10_EV.webp"
+ },
+ {
   "indicativo": "LU1UDP",
   "codigo": "W5KSBU",
   "fecha": "2026-09-11 02:08:43",
