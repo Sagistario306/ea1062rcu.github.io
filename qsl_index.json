@@ -210,6 +210,13 @@
   "archivo": "qsl/QSL_LW6ENA_2026-10.webp"
  },
  {
+  "indicativo": "LW6ENA",
+  "codigo": "N3Z2AF",
+  "fecha": "2026-10-07 00:06:04",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW6ENA_2026-10_EV.webp"
+ },
+ {
   "indicativo": "YD6ASL",
   "codigo": "XWVN9N",
   "fecha": "2026-09-01 14:35:09",
