@@ -10878,6 +10878,13 @@
   "archivo": "qsl/QSL_XE1SAY_2026-10.webp"
  },
  {
+  "indicativo": "XE1SAY",
+  "codigo": "BBBMUU",
+  "fecha": "2026-10-07 02:13:59",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1SAY_2026-10_EV.webp"
+ },
+ {
   "indicativo": "9W2GDL",
   "codigo": "KQXXN2",
   "fecha": "2026-09-01 14:38:00",
