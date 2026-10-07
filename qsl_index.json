@@ -2156,6 +2156,13 @@
   "archivo": "qsl/QSL_LW5DB_2026-10.webp"
  },
  {
+  "indicativo": "LW5DB",
+  "codigo": "6AKNRW",
+  "fecha": "2026-10-07 00:03:01",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW5DB_2026-10_EV.webp"
+ },
+ {
   "indicativo": "TG5ALY",
   "codigo": "K4R4WQ",
   "fecha": "2026-09-04 00:29:25",
