@@ -4893,6 +4893,13 @@
   "archivo": "qsl/QSL_CE3TKG_2026-10.webp"
  },
  {
+  "indicativo": "CE3TKG",
+  "codigo": "C2HYH4",
+  "fecha": "2026-10-07 13:54:42",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3TKG_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE2ERA",
   "codigo": "768D7R",
   "fecha": "2026-10-02 00:00:43",
