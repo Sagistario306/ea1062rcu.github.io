@@ -7441,6 +7441,13 @@
   "archivo": "qsl/QSL_CE3TMM_2026-10.webp"
  },
  {
+  "indicativo": "CE3TMM",
+  "codigo": "QUMXB3",
+  "fecha": "2026-10-07 11:11:11",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3TMM_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE2NI",
   "codigo": "NYC247",
   "fecha": "2026-10-07 00:20:28",
