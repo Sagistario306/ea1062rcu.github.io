@@ -4669,6 +4669,13 @@
   "archivo": "qsl/QSL_XE2OR_2026-10.webp"
  },
  {
+  "indicativo": "XE2OR",
+  "codigo": "CXJPX3",
+  "fecha": "2026-10-07 05:49:46",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2OR_2026-10_EV.webp"
+ },
+ {
   "indicativo": "EC5M",
   "codigo": "RHM372",
   "fecha": "2026-10-06 00:00:56",
