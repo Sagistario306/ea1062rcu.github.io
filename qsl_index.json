@@ -7435,17 +7435,10 @@
  },
  {
   "indicativo": "CE3TMM",
-  "codigo": "ANNNFQ",
-  "fecha": "2026-09-03 00:09:47",
+  "codigo": "KYPX2D",
+  "fecha": "2026-10-07 11:10:40",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE3TMM_2026-09.webp"
- },
- {
-  "indicativo": "CE3TMM",
-  "codigo": "TMM8R4",
-  "fecha": "2026-09-03 00:09:53",
-  "pais": "Chile",
-  "archivo": "qsl/QSL_CE3TMM_2026-09_EV.webp"
+  "archivo": "qsl/QSL_CE3TMM_2026-10.webp"
  },
  {
   "indicativo": "XE2NI",
@@ -14060,7 +14053,7 @@
   "codigo": "GDT8NS",
   "fecha": "2026-10-07 06:19:07",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1NW_2026-10_EV.webp"
+  "archivo": "qsl/QSL_XE1NW_2026-10_EV.png"
  },
  {
   "indicativo": "ZP6XSM",
