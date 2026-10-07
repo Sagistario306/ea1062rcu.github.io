@@ -14693,6 +14693,13 @@
   "archivo": "qsl/QSL_XE1LPP_2026-10.webp"
  },
  {
+  "indicativo": "XE1LPP",
+  "codigo": "FUY5UD",
+  "fecha": "2026-10-07 00:10:17",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1LPP_2026-10_EV.webp"
+ },
+ {
   "indicativo": "9W2SDM",
   "codigo": "P84BGG",
   "fecha": "2026-09-03 00:23:25",
