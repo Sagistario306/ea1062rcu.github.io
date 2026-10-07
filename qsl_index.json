@@ -11732,6 +11732,13 @@
   "archivo": "qsl/QSL_NP4ED_2026-10.webp"
  },
  {
+  "indicativo": "NP4ED",
+  "codigo": "H32GBN",
+  "fecha": "2026-10-07 21:16:46",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4ED_2026-10_EV.webp"
+ },
+ {
   "indicativo": "9W2OKX",
   "codigo": "E8GFRT",
   "fecha": "2026-09-04 00:01:02",
