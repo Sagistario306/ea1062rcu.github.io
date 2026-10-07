@@ -14056,6 +14056,13 @@
   "archivo": "qsl/QSL_XE1NW_2026-10.webp"
  },
  {
+  "indicativo": "XE1NW",
+  "codigo": "GDT8NS",
+  "fecha": "2026-10-07 06:19:07",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1NW_2026-10_EV.webp"
+ },
+ {
   "indicativo": "ZP6XSM",
   "codigo": "46X4DB",
   "fecha": "2026-09-25 10:44:38",
