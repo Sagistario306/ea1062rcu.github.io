@@ -10080,6 +10080,13 @@
   "archivo": "qsl/QSL_HP1SEB_2026-10.webp"
  },
  {
+  "indicativo": "HP1SEB",
+  "codigo": "THWN25",
+  "fecha": "2026-10-07 22:28:27",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP1SEB_2026-10_EV.webp"
+ },
+ {
   "indicativo": "LU2XCV",
   "codigo": "VXFK6C",
   "fecha": "2026-09-05 15:47:00",
