@@ -14343,6 +14343,13 @@
   "archivo": "qsl/QSL_8P9BT_2026-10.webp"
  },
  {
+  "indicativo": "8P9BT",
+  "codigo": "TASX29",
+  "fecha": "2026-10-07 11:48:00",
+  "pais": "Barbados",
+  "archivo": "qsl/QSL_8P9BT_2026-10_EV.webp"
+ },
+ {
   "indicativo": "JH9FCP",
   "codigo": "QSSC72",
   "fecha": "2026-09-04 00:01:23",
