@@ -1106,6 +1106,13 @@
   "archivo": "qsl/QSL_XE3O_2026-10.webp"
  },
  {
+  "indicativo": "XE3O",
+  "codigo": "Q6HG82",
+  "fecha": "2026-10-07 05:36:38",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE3O_2026-10_EV.webp"
+ },
+ {
   "indicativo": "XE1EE",
   "codigo": "5YP2A3",
   "fecha": "2026-10-06 01:15:09",
