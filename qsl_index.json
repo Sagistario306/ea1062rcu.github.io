@@ -6787,7 +6787,7 @@
   "codigo": "8THP99",
   "fecha": "2026-10-08 12:32:10",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1ZJZ_2026-10.webp"
+  "archivo": "qsl/QSL_XE1ZJZ_2026-10.png"
  },
  {
   "indicativo": "KP4GBF",
@@ -26171,5 +26171,12 @@
   "fecha": "2026-10-08 04:06:57",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HJ4WT_2026-10.webp"
+ },
+ {
+  "indicativo": "N0KFB",
+  "codigo": "8WXH3W",
+  "fecha": "2026-10-08 13:41:21",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_N0KFB_2026-10.webp"
  }
 ]
