@@ -11088,6 +11088,13 @@
   "archivo": "qsl/QSL_TI4ROB_2026-09.webp"
  },
  {
+  "indicativo": "TI3ATS",
+  "codigo": "CT57QS",
+  "fecha": "2026-10-08 15:22:36",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI3ATS_2026-10.webp"
+ },
+ {
   "indicativo": "CX4AT",
   "codigo": "YN8TQS",
   "fecha": "2026-10-01 00:16:19",
