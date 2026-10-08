@@ -14865,7 +14865,7 @@
   "codigo": "G3ZKRB",
   "fecha": "2026-10-08 16:19:02",
   "pais": "Peru",
-  "archivo": "qsl/QSL_OA4AYO_2026-10.webp"
+  "archivo": "qsl/QSL_OA4AYO_2026-10.png"
  },
  {
   "indicativo": "EA8CTS",
@@ -26206,5 +26206,12 @@
   "fecha": "2026-10-08 15:31:05",
   "pais": "Australia",
   "archivo": "qsl/QSL_VK1MIC_2026-10.webp"
+ },
+ {
+  "indicativo": "CX9TM",
+  "codigo": "KRD9F4",
+  "fecha": "2026-10-08 20:41:50",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX9TM_2026-10.webp"
  }
 ]
