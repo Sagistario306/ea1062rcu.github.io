@@ -2167,7 +2167,7 @@
   "codigo": "MZVB6G",
   "fecha": "2026-10-09 19:11:40",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK2LS_2026-10.webp"
+  "archivo": "qsl/QSL_HK2LS_2026-10.png"
  },
  {
   "indicativo": "LU6OFV",
@@ -12741,10 +12741,10 @@
  },
  {
   "indicativo": "YV2FYY",
-  "codigo": "A8MPCQ",
-  "fecha": "2026-09-27 13:38:16",
+  "codigo": "5KV4EJ",
+  "fecha": "2026-10-09 21:25:56",
   "pais": "Venezuela",
-  "archivo": "qsl/QSL_YV2FYY_2026-09.webp"
+  "archivo": "qsl/QSL_YV2FYY_2026-10.webp"
  },
  {
   "indicativo": "EA7CCC",
@@ -26500,12 +26500,5 @@
   "fecha": "2026-10-09 18:00:59",
   "pais": "Noruega",
   "archivo": "qsl/QSL_LB9YH_2026-10.webp"
- },
- {
-  "indicativo": "GFZ26TUTW",
-  "codigo": "SCS7HH",
-  "fecha": "2026-10-09 18:09:36",
-  "pais": "Reino Unido",
-  "archivo": "qsl/QSL_GFZ26TUTW_2026-10.webp"
  }
 ]
