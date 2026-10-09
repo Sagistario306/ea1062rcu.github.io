@@ -9107,6 +9107,13 @@
   "archivo": "qsl/QSL_XE2ALF_2026-10_EV.webp"
  },
  {
+  "indicativo": "XE2ACF",
+  "codigo": "3GNJDF",
+  "fecha": "2026-10-09 18:01:13",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2ACF_2026-10.webp"
+ },
+ {
   "indicativo": "TG9JMR",
   "codigo": "Z9XC8N",
   "fecha": "2026-10-01 13:33:04",
