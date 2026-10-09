@@ -26262,5 +26262,12 @@
   "fecha": "2026-10-09 02:55:32",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP1CMB_2026-10.webp"
+ },
+ {
+  "indicativo": "HK2B",
+  "codigo": "CPKU8V",
+  "fecha": "2026-10-09 03:34:00",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK2B_2026-10.webp"
  }
 ]
