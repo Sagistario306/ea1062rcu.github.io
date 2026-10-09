@@ -10875,7 +10875,7 @@
   "codigo": "H657JV",
   "fecha": "2026-10-09 11:44:40",
   "pais": "Panama",
-  "archivo": "qsl/QSL_HP2DUI_2026-10.webp"
+  "archivo": "qsl/QSL_HP2DUI_2026-10.png"
  },
  {
   "indicativo": "9V1VB",
@@ -26318,5 +26318,12 @@
   "fecha": "2026-10-09 11:07:20",
   "pais": "Portugal",
   "archivo": "qsl/QSL_CT2HEV_2026-10.webp"
+ },
+ {
+  "indicativo": "G8JBQ",
+  "codigo": "F3CFD7",
+  "fecha": "2026-10-09 12:05:37",
+  "pais": "Reino Unido",
+  "archivo": "qsl/QSL_G8JBQ_2026-10.webp"
  }
 ]
