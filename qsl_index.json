@@ -26850,5 +26850,12 @@
   "fecha": "2026-10-10 22:26:10",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_NP4HV_2026-10.webp"
+ },
+ {
+  "indicativo": "XE1EC",
+  "codigo": "GMXSMA",
+  "fecha": "2026-10-10 23:26:41",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1EC_2026-10.webp"
  }
 ]
