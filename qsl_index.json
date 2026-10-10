@@ -1509,7 +1509,7 @@
   "codigo": "9PWA7D",
   "fecha": "2026-10-10 01:32:17",
   "pais": "Filipinas",
-  "archivo": "qsl/QSL_DU8HC_2026-10.webp"
+  "archivo": "qsl/QSL_DU8HC_2026-10.png"
  },
  {
   "indicativo": "DV1OTT",
@@ -14204,17 +14204,10 @@
  },
  {
   "indicativo": "DV5CEL",
-  "codigo": "E5XQHD",
-  "fecha": "2026-09-04 00:07:39",
+  "codigo": "RASMDU",
+  "fecha": "2026-10-10 02:49:02",
   "pais": "Filipinas",
-  "archivo": "qsl/QSL_DV5CEL_2026-09.webp"
- },
- {
-  "indicativo": "DV5CEL",
-  "codigo": "TCNKHG",
-  "fecha": "2026-09-04 00:07:44",
-  "pais": "Filipinas",
-  "archivo": "qsl/QSL_DV5CEL_2026-09_EV.webp"
+  "archivo": "qsl/QSL_DV5CEL_2026-10.webp"
  },
  {
   "indicativo": "EA3HUJ",
