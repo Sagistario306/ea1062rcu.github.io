@@ -12961,7 +12961,7 @@
   "codigo": "CCJJ7X",
   "fecha": "2026-10-10 18:06:15",
   "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX2TG_2026-10.webp"
+  "archivo": "qsl/QSL_CX2TG_2026-10.png"
  },
  {
   "indicativo": "EA5KGV",
@@ -26815,5 +26815,12 @@
   "fecha": "2026-10-10 17:51:40",
   "pais": "Italia",
   "archivo": "qsl/QSL_I2NOY_2026-10.webp"
+ },
+ {
+  "indicativo": "VU2LCI",
+  "codigo": "URE3WJ",
+  "fecha": "2026-10-10 19:06:06",
+  "pais": "India",
+  "archivo": "qsl/QSL_VU2LCI_2026-10.webp"
  }
 ]
