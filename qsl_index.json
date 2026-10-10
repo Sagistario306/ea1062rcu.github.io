@@ -8547,6 +8547,13 @@
   "archivo": "qsl/QSL_LW2ECC_2026-10_EV.webp"
  },
  {
+  "indicativo": "LU7DOT",
+  "codigo": "NF6T5A",
+  "fecha": "2026-10-10 00:02:00",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU7DOT_2026-10.webp"
+ },
+ {
   "indicativo": "9W2ESR",
   "codigo": "8CDT7V",
   "fecha": "2026-09-02 00:20:34",
