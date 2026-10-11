@@ -10955,6 +10955,13 @@
   "archivo": "qsl/QSL_KP4HE_2026-10_EV.webp"
  },
  {
+  "indicativo": "LU5EOI",
+  "codigo": "MQNAN5",
+  "fecha": "2026-10-11 00:00:51",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU5EOI_2026-10.webp"
+ },
+ {
   "indicativo": "OA2EIQ",
   "codigo": "MCMVP5",
   "fecha": "2026-10-04 12:46:20",
