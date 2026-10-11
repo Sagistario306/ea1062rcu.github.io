@@ -6118,6 +6118,13 @@
   "archivo": "qsl/QSL_HK5FCI_2026-10.webp"
  },
  {
+  "indicativo": "HK3G",
+  "codigo": "3QVAB3",
+  "fecha": "2026-10-11 17:11:10",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK3G_2026-10.webp"
+ },
+ {
   "indicativo": "TI2STB",
   "codigo": "ZB28QZ",
   "fecha": "2026-10-02 00:32:33",
