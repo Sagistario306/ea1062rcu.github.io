@@ -62,20 +62,20 @@
  "pendientes": 738,
  "metricas_reciprocidad": {
   "club": {
-   "entregadas": 52,
-   "descargadas": 28,
-   "confirmadas": 52,
-   "retenidas": 26,
-   "pct_descarga": 53.8,
+   "entregadas": 53,
+   "descargadas": 29,
+   "confirmadas": 53,
+   "retenidas": 20,
+   "pct_descarga": 54.7,
    "pct_reciprocidad": 100.0,
-   "conversion": 185.7
+   "conversion": 182.8
   },
   "nuevos": {
-   "entregadas": 716,
-   "descargadas": 2,
+   "entregadas": 715,
+   "descargadas": 1,
    "confirmadas": 0,
-   "retenidas": 2,
-   "pct_descarga": 0.3,
+   "retenidas": 1,
+   "pct_descarga": 0.1,
    "pct_reciprocidad": 0.0,
    "conversion": 0.0
   }
