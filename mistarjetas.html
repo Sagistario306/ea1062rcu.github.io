@@ -63,6 +63,19 @@ function buscarMisTarjetas() {
         </p>
         <a class="boton-descargar" href="${e.archivo}" download="eQSL_${e.indicativo}.webp"
            onclick="avisarWriteback('${base}','${e.codigo}')">⬇️ DESCARGAR MI eQSL</a>
+        <div class="caja-qsl" style="margin-top:24px; border:2px solid #fbbf24; border-radius:12px; padding:20px; background:#1e293b;">
+          <h3 style="color:#fbbf24; margin-top:0;">🏆 TU DIPLOMA NUMERADO TE ESPERA</h3>
+          <p>Confirma este QSO en <a href="https://logbook.qrz.com" target="_blank" style="color:#3b82f6;">QRZ.com</a> (2 minutos) y reclama tu número del DX HONOR ROLL.</p>
+          <p style="color:#94a3b8; font-size:14px;">Anota en tu logbook QRZ:<br>
+          <strong style="color:#f1f5f9;">EA1062RCU · ${e.fecha} UTC · 2M · PKT</strong></p>
+          <div style="text-align:center; margin-top:16px;">
+            <a href="https://logbook.qrz.com" target="_blank" 
+               style="display:inline-block; background:linear-gradient(135deg,#f59e0b,#fbbf24); color:#0f172a; padding:14px 32px; border-radius:8px; text-decoration:none; font-weight:700; font-size:16px;">
+               ✅ CONFIRMAR EN QRZ.COM
+            </a>
+          </div>
+          <p style="color:#64748b; font-size:12px; margin-top:12px;">La estrella de confirmado te otorga ingreso al club y diploma numerado oficial.</p>
+        </div>
       </div>`).join('');
 }
 
