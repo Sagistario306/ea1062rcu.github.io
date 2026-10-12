@@ -111,7 +111,20 @@ fetch('qsl_index.json?v=' + Date.now())
     if (inCode) inCode.value = code.toUpperCase();
   }
   if (call && code) {
-    setTimeout(buscarQSL, 500);
+    // Esperar a que el índice cargue antes de auto-buscar (max 5s)
+    let intentos = 0;
+    const iv = setInterval(() => {
+      intentos++;
+      if (indice && indice.length > 0 || intentos >= 10) {
+        clearInterval(iv);
+        if (indice && indice.length > 0) {
+          buscarQSL();
+        } else {
+          const out = document.getElementById('resultado');
+          if (out) out.innerHTML = '<p class="error-qsl">⏳ Índice cargando… reintenta en unos segundos o pulsa BUSCAR MI eQSL.</p>';
+        }
+      }
+    }, 500);
   }
 })();
 
@@ -132,7 +145,7 @@ function buscarQSL() {
   );
 
   if (!q) {
-    out.innerHTML = '<p class="error-qsl">❌ Código no válido para ese indicativo.<br>Verifica los datos o espera tu próxima recepción.</p>';
+    out.innerHTML = '<p class="error-qsl">⚠️ No encontramos esa tarjeta.<br>• Verifica que el código sea el de este mes (no uno anterior).<br>• Si descargaste recientemente, espera ~10 min y vuelve a buscar.<br>• Si persiste, escribe al bot: /codigo TU_CALL</p>';
     return;
   }
 
