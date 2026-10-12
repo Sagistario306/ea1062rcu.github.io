@@ -12849,7 +12849,7 @@
   "codigo": "KB7MHY",
   "fecha": "2026-10-11 21:39:09",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK5AKN_2026-10.webp"
+  "archivo": "qsl/QSL_HK5AKN_2026-10.png"
  },
  {
   "indicativo": "CE3JSG",
@@ -27151,5 +27151,12 @@
   "fecha": "2026-10-11 19:54:44",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI5AGZ_2026-10.webp"
+ },
+ {
+  "indicativo": "KJ5IK",
+  "codigo": "YV4QSS",
+  "fecha": "2026-10-12 00:00:01",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_KJ5IK_2026-10.webp"
  }
 ]
