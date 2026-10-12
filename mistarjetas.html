@@ -9,12 +9,12 @@
 <body>
 <div class="contenedor-qsl">
 
-  <h1>🎴 Mis tarjetas</h1>
+  <h1> Mis tarjetas</h1>
   <p class="nota-qsl">Ingresa tu indicativo y descarga todas las eQSL que el bot te ha emitido. Sin códigos: solo un clic por tarjeta.</p>
 
   <div class="caja-qsl">
-    <input type="text" id="input-call" placeholder="TU_CALL (ej: CX4AT)" autocomplete="off">
-    <button class="boton-qsl" onclick="buscarMisTarjetas()">🔍 BUSCAR MIS TARJETAS</button>
+    <input type="text" id="input-call" placeholder="TU_CALL (ej: LU9DUV)" autocomplete="off">
+    <button class="boton-qsl" onclick="buscarMisTarjetas()"> BUSCAR MIS TARJETAS</button>
   </div>
 
   <div id="resultado"></div>
@@ -24,7 +24,7 @@
   <p style="text-align:center;">
     <a href="index.html" style="color:#3b82f6;">← Inicio</a> ·
     <a href="eqsl.html" style="color:#3b82f6;">📫 Búsqueda con código</a> ·
-    <a href="estadisticas.html" style="color:#3b82f6;">📊 Estadísticas</a>
+    <a href="estadisticas.html" style="color:#3b82f6;"> Estadísticas</a>
   </p>
 </div>
 
@@ -40,10 +40,11 @@ fetch('qsl_index.json?v=' + Date.now())
 function buscarMisTarjetas() {
   const raw = document.getElementById('input-call').value.trim().toUpperCase();
   const out = document.getElementById('resultado');
-  if (!raw) { out.innerHTML = '<p class="error-qsl">️ Escribe tu indicativo.</p>'; return; }
+  if (!raw) { out.innerHTML = '<p class="error-qsl">⚠️ Escribe tu indicativo.</p>'; return; }
   const base = raw.split('-')[0];
   if (!indice.length) { out.innerHTML = '<p class="error-qsl">⏳ Índice cargando; reintenta en unos segundos.</p>'; return; }
 
+  // Mostrar TODAS las tarjetas del call (sin límite de meses)
   const mias = indice
     .filter(e => (e.indicativo || '').split('-')[0].toUpperCase() === base)
     .sort((a,b) => (b.fecha||'').localeCompare(a.fecha||''));
@@ -53,12 +54,19 @@ function buscarMisTarjetas() {
     return;
   }
 
-  out.innerHTML = '<p class="nota-qsl">🎉 <b>'+mias.length+'</b> tarjeta(s) para <b>'+base+'</b>:</p>' +
-    mias.map(e => `
+  // Agrupar por tipo
+  const mensuales = mias.filter(e => !e.archivo.includes('_EV.'));
+  const eventos = mias.filter(e => e.archivo.includes('_EV.'));
+
+  let html = '<p class="nota-qsl">🎉 <b>'+mias.length+'</b> tarjeta(s) para <b>'+base+'</b>:</p>';
+  
+  if (mensuales.length) {
+    html += '<h3 style="color:#3b82f6; margin-top:20px;">📅 Tarjetas Mensuales</h3>';
+    html += mensuales.map(e => `
       <div class="caja-qsl" style="text-align:center; margin-bottom:18px;">
         <img src="${e.archivo}" alt="eQSL ${e.indicativo}" style="max-width:100%; border-radius:10px;">
         <p style="margin-top:12px; color:#f1f5f9;">
-           ¡Felicitaciones <strong>${e.indicativo}</strong>! (${e.pais || ''})<br>
+          🎉 ¡Felicitaciones <strong>${e.indicativo}</strong>! (${e.pais || ''})<br>
           📅 Recepción: ${e.fecha || ''} UTC
         </p>
         <a class="boton-descargar" href="${e.archivo}" download="eQSL_${e.indicativo}.webp"
@@ -77,6 +85,36 @@ function buscarMisTarjetas() {
           <p style="color:#64748b; font-size:12px; margin-top:12px;">La estrella de confirmado te otorga ingreso al club y diploma numerado oficial.</p>
         </div>
       </div>`).join('');
+  }
+  
+  if (eventos.length) {
+    html += '<h3 style="color:#f59e0b; margin-top:30px;">🎁 Eventos Especiales</h3>';
+    html += eventos.map(e => `
+      <div class="caja-qsl" style="text-align:center; margin-bottom:18px;">
+        <img src="${e.archivo}" alt="eQSL ${e.indicativo}" style="max-width:100%; border-radius:10px;">
+        <p style="margin-top:12px; color:#f1f5f9;">
+          🎉 ¡Felicitaciones <strong>${e.indicativo}</strong>! (${e.pais || ''})<br>
+          📅 Evento: ${e.fecha || ''} UTC
+        </p>
+        <a class="boton-descargar" href="${e.archivo}" download="eQSL_${e.indicativo}.webp"
+           onclick="avisarWriteback('${base}','${e.codigo}')">⬇️ DESCARGAR MI eQSL</a>
+        <div class="caja-qsl" style="margin-top:24px; border:2px solid #fbbf24; border-radius:12px; padding:20px; background:#1e293b;">
+          <h3 style="color:#fbbf24; margin-top:0;">🏆 TU DIPLOMA NUMERADO TE ESPERA</h3>
+          <p>Confirma este QSO en <a href="https://logbook.qrz.com" target="_blank" style="color:#3b82f6;">QRZ.com</a> (2 minutos) y reclama tu número del DX HONOR ROLL.</p>
+          <p style="color:#94a3b8; font-size:14px;">Anota en tu logbook QRZ:<br>
+          <strong style="color:#f1f5f9;">EA1062RCU · ${e.fecha} UTC · 2M · PKT</strong></p>
+          <div style="text-align:center; margin-top:16px;">
+            <a href="https://logbook.qrz.com" target="_blank" 
+               style="display:inline-block; background:linear-gradient(135deg,#f59e0b,#fbbf24); color:#0f172a; padding:14px 32px; border-radius:8px; text-decoration:none; font-weight:700; font-size:16px;">
+               ✅ CONFIRMAR EN QRZ.COM
+            </a>
+          </div>
+          <p style="color:#64748b; font-size:12px; margin-top:12px;">La estrella de confirmado te otorga ingreso al club y diploma numerado oficial.</p>
+        </div>
+      </div>`).join('');
+  }
+
+  out.innerHTML = html;
 }
 
 function avisarWriteback(base, code) {
