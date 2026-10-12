@@ -27228,5 +27228,12 @@
   "fecha": "2026-10-12 00:10:30",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU6MDG_2026-10.webp"
+ },
+ {
+  "indicativo": "KH6L",
+  "codigo": "PTDVDD",
+  "fecha": "2026-10-12 00:11:54",
+  "pais": "Hawai",
+  "archivo": "qsl/QSL_KH6L_2026-10.webp"
  }
 ]
