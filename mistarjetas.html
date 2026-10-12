@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mis tarjetas · EA1062RCU</title>
+<link rel="stylesheet" href="style-v10.css">
+</head>
+<body>
+<div class="contenedor-qsl">
+
+  <h1>🎴 Mis tarjetas</h1>
+  <p class="nota-qsl">Ingresa tu indicativo y descarga todas las eQSL que el bot te ha emitido. Sin códigos: solo un clic por tarjeta.</p>
+
+  <div class="caja-qsl">
+    <input type="text" id="input-call" placeholder="TU_CALL (ej: CX4AT)" autocomplete="off">
+    <button class="boton-qsl" onclick="buscarMisTarjetas()">🔍 BUSCAR MIS TARJETAS</button>
+  </div>
+
+  <div id="resultado"></div>
+
+  <p class="nota-qsl">Gracias por tu señal · Confirma recepción en el perfil QRZ de EA1062RCU · 73s</p>
+
+  <p style="text-align:center;">
+    <a href="index.html" style="color:#3b82f6;">← Inicio</a> ·
+    <a href="eqsl.html" style="color:#3b82f6;">📫 Búsqueda con código</a> ·
+    <a href="estadisticas.html" style="color:#3b82f6;">📊 Estadísticas</a>
+  </p>
+</div>
+
+<script>
+const URL_WRITEBACK = 'https://script.google.com/macros/s/AKfycbxHfWASG7dyAgSxVy2AIV4rAGPJ7i27xvPzf14hD19BUXHSNtsV0VHhcPnnRTEk061M/exec';
+
+let indice = [];
+fetch('qsl_index.json?v=' + Date.now())
+  .then(r => r.ok ? r.json() : [])
+  .then(d => { indice = Array.isArray(d) ? d : Object.values(d); })
+  .catch(() => console.log('Error cargando índice'));
+
+function buscarMisTarjetas() {
+  const raw = document.getElementById('input-call').value.trim().toUpperCase();
+  const out = document.getElementById('resultado');
+  if (!raw) { out.innerHTML = '<p class="error-qsl">️ Escribe tu indicativo.</p>'; return; }
+  const base = raw.split('-')[0];
+  if (!indice.length) { out.innerHTML = '<p class="error-qsl">⏳ Índice cargando; reintenta en unos segundos.</p>'; return; }
+
+  const mias = indice
+    .filter(e => (e.indicativo || '').split('-')[0].toUpperCase() === base)
+    .sort((a,b) => (b.fecha||'').localeCompare(a.fecha||''));
+
+  if (!mias.length) {
+    out.innerHTML = '<p class="error-qsl">❌ Sin tarjetas para <b>'+base+'</b>.<br>Si fuiste detectado recientemente, espera unos minutos y vuelve. 73</p>';
+    return;
+  }
+
+  out.innerHTML = '<p class="nota-qsl">🎉 <b>'+mias.length+'</b> tarjeta(s) para <b>'+base+'</b>:</p>' +
+    mias.map(e => `
+      <div class="caja-qsl" style="text-align:center; margin-bottom:18px;">
+        <img src="${e.archivo}" alt="eQSL ${e.indicativo}" style="max-width:100%; border-radius:10px;">
+        <p style="margin-top:12px; color:#f1f5f9;">
+           ¡Felicitaciones <strong>${e.indicativo}</strong>! (${e.pais || ''})<br>
+          📅 Recepción: ${e.fecha || ''} UTC
+        </p>
+        <a class="boton-descargar" href="${e.archivo}" download="eQSL_${e.indicativo}.webp"
+           onclick="avisarWriteback('${base}','${e.codigo}')">⬇️ DESCARGAR MI eQSL</a>
+      </div>`).join('');
+}
+
+function avisarWriteback(base, code) {
+  try {
+    fetch(URL_WRITEBACK, {method:'POST', mode:'no-cors',
+      body: JSON.stringify({call: base, code: code})}).catch(()=>{});
+  } catch(e) {}
+}
+
+document.getElementById('input-call').addEventListener('keydown', e => { if (e.key === 'Enter') buscarMisTarjetas(); });
+</script>
+</body>
+</html>
