@@ -27249,5 +27249,12 @@
   "fecha": "2026-10-12 00:14:29",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU3EBS_2026-10.webp"
+ },
+ {
+  "indicativo": "ZS1TX",
+  "codigo": "QNSZKD",
+  "fecha": "2026-10-12 00:29:59",
+  "pais": "Sudafrica",
+  "archivo": "qsl/QSL_ZS1TX_2026-10.webp"
  }
 ]
