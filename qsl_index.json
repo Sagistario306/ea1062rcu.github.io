@@ -20609,10 +20609,10 @@
  },
  {
   "indicativo": "CE4CIT",
-  "codigo": "PNMJPW",
-  "fecha": "2026-09-11 19:43:10",
+  "codigo": "RH83S9",
+  "fecha": "2026-10-13 23:50:06",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE4CIT_2026-09.webp"
+  "archivo": "qsl/QSL_CE4CIT_2026-10.webp"
  },
  {
   "indicativo": "EA7JWA",
@@ -32947,6 +32947,13 @@
   "fecha": "2026-09-11 19:36 UTC",
   "pais": "",
   "archivo": "qsl/QSL_ZP6EUA_2026-09.webp"
+ },
+ {
+  "indicativo": "CE4CIT",
+  "codigo": "PNMJPW",
+  "fecha": "2026-09-11 19:43 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_CE4CIT_2026-09.webp"
  },
  {
   "indicativo": "HP1RJA",
