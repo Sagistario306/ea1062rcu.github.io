@@ -6377,6 +6377,13 @@
   "archivo": "qsl/QSL_HC1FQ_2026-10_EV.webp"
  },
  {
+  "indicativo": "LU3JAR",
+  "codigo": "HUUZV2",
+  "fecha": "2026-10-13 00:05:59",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU3JAR_2026-10.webp"
+ },
+ {
   "indicativo": "HC1LNM",
   "codigo": "7ZAAJ6",
   "fecha": "2026-09-24 21:20:26",
