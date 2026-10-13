@@ -27724,6 +27724,13 @@
   "codigo": "YWSP5G",
   "fecha": "2026-10-13 15:04:27",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI3LRO_2026-10.webp"
+  "archivo": "qsl/QSL_TI3LRO_2026-10.png"
+ },
+ {
+  "indicativo": "TI2BMT",
+  "codigo": "8CHY99",
+  "fecha": "2026-10-13 18:15:29",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2BMT_2026-10.webp"
  }
 ]
