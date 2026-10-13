@@ -27718,5 +27718,12 @@
   "fecha": "2026-10-13 14:00:00",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI5LUA_2026-10.webp"
+ },
+ {
+  "indicativo": "TI3LRO",
+  "codigo": "YWSP5G",
+  "fecha": "2026-10-13 15:04:27",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI3LRO_2026-10.webp"
  }
 ]
