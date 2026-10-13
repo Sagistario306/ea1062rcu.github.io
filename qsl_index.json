@@ -27725,5 +27725,12 @@
   "fecha": "2026-10-13 13:56:06",
   "pais": "Alaska",
   "archivo": "qsl/QSL_KL7TC_2026-10.webp"
+ },
+ {
+  "indicativo": "TI5LUA",
+  "codigo": "CX6UD9",
+  "fecha": "2026-10-13 14:00:00",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI5LUA_2026-10.webp"
  }
 ]
