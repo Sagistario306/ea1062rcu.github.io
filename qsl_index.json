@@ -5601,17 +5601,10 @@
  },
  {
   "indicativo": "YB2SAT",
-  "codigo": "9EJWVP",
-  "fecha": "2026-09-03 00:10:26",
+  "codigo": "YFX58B",
+  "fecha": "2026-10-14 00:02:27",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YB2SAT_2026-09.webp"
- },
- {
-  "indicativo": "YB2SAT",
-  "codigo": "WUK6FA",
-  "fecha": "2026-09-03 00:10:31",
-  "pais": "Indonesia",
-  "archivo": "qsl/QSL_YB2SAT_2026-09_EV.webp"
+  "archivo": "qsl/QSL_YB2SAT_2026-10.webp"
  },
  {
   "indicativo": "JR1VD",
@@ -28474,6 +28467,20 @@
   "fecha": "2026-09-04 00:21 UTC",
   "pais": "",
   "archivo": "qsl/QSL_YD0BSK_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "YB2SAT",
+  "codigo": "9EJWVP",
+  "fecha": "2026-09-03 00:10 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_YB2SAT_2026-09.webp"
+ },
+ {
+  "indicativo": "YB2SAT",
+  "codigo": "WUK6FA",
+  "fecha": "2026-09-03 00:10 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_YB2SAT_2026-09_EV.webp"
  },
  {
   "indicativo": "XE2EM",
