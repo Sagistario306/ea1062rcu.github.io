@@ -6511,17 +6511,10 @@
  },
  {
   "indicativo": "LU3IBM",
-  "codigo": "R543HV",
-  "fecha": "2026-09-02 00:30:38",
+  "codigo": "2PX27E",
+  "fecha": "2026-10-14 00:12:45",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU3IBM_2026-09.webp"
- },
- {
-  "indicativo": "LU3IBM",
-  "codigo": "WF7RCV",
-  "fecha": "2026-09-02 00:30:42",
-  "pais": "Argentina",
-  "archivo": "qsl/QSL_LU3IBM_2026-09_EV.webp"
+  "archivo": "qsl/QSL_LU3IBM_2026-10.webp"
  },
  {
   "indicativo": "CE1AZP",
@@ -28740,6 +28733,20 @@
   "fecha": "2026-09-04 00:39 UTC",
   "pais": "",
   "archivo": "qsl/QSL_TG9ASO_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "LU3IBM",
+  "codigo": "R543HV",
+  "fecha": "2026-09-02 00:30 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_LU3IBM_2026-09.webp"
+ },
+ {
+  "indicativo": "LU3IBM",
+  "codigo": "WF7RCV",
+  "fecha": "2026-09-02 00:30 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_LU3IBM_2026-09_EV.webp"
  },
  {
   "indicativo": "YD6HHD",
