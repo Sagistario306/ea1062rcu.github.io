@@ -3781,17 +3781,10 @@
  },
  {
   "indicativo": "EA6MW",
-  "codigo": "YFJ959",
-  "fecha": "2026-09-04 00:24:04",
+  "codigo": "F7JDAN",
+  "fecha": "2026-10-14 00:13:27",
   "pais": "España",
-  "archivo": "qsl/QSL_EA6MW_2026-09.webp"
- },
- {
-  "indicativo": "EA6MW",
-  "codigo": "S3RSK7",
-  "fecha": "2026-09-04 00:24:11",
-  "pais": "España",
-  "archivo": "qsl/QSL_EA6MW_2026-09_EV.webp"
+  "archivo": "qsl/QSL_EA6MW_2026-10.webp"
  },
  {
   "indicativo": "TI3GB",
@@ -32737,6 +32730,20 @@
   "fecha": "2026-09-04 00:23 UTC",
   "pais": "",
   "archivo": "qsl/QSL_XE2RCS_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "EA6MW",
+  "codigo": "YFJ959",
+  "fecha": "2026-09-04 00:24 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_EA6MW_2026-09.webp"
+ },
+ {
+  "indicativo": "EA6MW",
+  "codigo": "S3RSK7",
+  "fecha": "2026-09-04 00:24 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_EA6MW_2026-09_EV.webp"
  },
  {
   "indicativo": "HP1UPR",
