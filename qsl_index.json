@@ -1631,6 +1631,13 @@
   "archivo": "qsl/QSL_4I9WSR_2026-09_EV.webp"
  },
  {
+  "indicativo": "HK6REC",
+  "codigo": "3WP5BU",
+  "fecha": "2026-10-15 16:15:35",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK6REC_2026-10.webp"
+ },
+ {
   "indicativo": "EA8CHC",
   "codigo": "C8V36P",
   "fecha": "2026-10-05 00:01:08",
