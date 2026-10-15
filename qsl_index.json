@@ -8212,10 +8212,10 @@
  },
  {
   "indicativo": "LW4DBE",
-  "codigo": "5ANWC8",
-  "fecha": "2026-09-28 00:04:21",
+  "codigo": "XJJK5A",
+  "fecha": "2026-10-15 10:00:55",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LW4DBE_2026-09.webp"
+  "archivo": "qsl/QSL_LW4DBE_2026-10.webp"
  },
  {
   "indicativo": "HJ4LSP",
@@ -29475,6 +29475,13 @@
   "fecha": "2026-09-04 00:06 UTC",
   "pais": "",
   "archivo": "qsl/QSL_CX4AE_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "LW4DBE",
+  "codigo": "5ANWC8",
+  "fecha": "2026-09-28 00:04 UTC",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW4DBE_2026-09.webp"
  },
  {
   "indicativo": "HJ4LSP",
