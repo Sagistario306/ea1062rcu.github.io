@@ -9276,17 +9276,10 @@
  },
  {
   "indicativo": "JA1YKX",
-  "codigo": "BSXXY7",
-  "fecha": "2026-09-01 01:30:02",
+  "codigo": "NDDKA9",
+  "fecha": "2026-10-15 05:40:11",
   "pais": "Japon",
-  "archivo": "qsl/QSL_JA1YKX_2026-09.webp"
- },
- {
-  "indicativo": "JA1YKX",
-  "codigo": "SF63AM",
-  "fecha": "2026-09-01 01:30:05",
-  "pais": "Japon",
-  "archivo": "qsl/QSL_JA1YKX_2026-09_EV.webp"
+  "archivo": "qsl/QSL_JA1YKX_2026-10.webp"
  },
  {
   "indicativo": "JH5HOA",
@@ -29909,6 +29902,20 @@
   "fecha": "2026-09-24 21:22 UTC",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE1OAD_2026-09.webp"
+ },
+ {
+  "indicativo": "JA1YKX",
+  "codigo": "BSXXY7",
+  "fecha": "2026-09-01 01:30 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_JA1YKX_2026-09.webp"
+ },
+ {
+  "indicativo": "JA1YKX",
+  "codigo": "SF63AM",
+  "fecha": "2026-09-01 01:30 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_JA1YKX_2026-09_EV.webp"
  },
  {
   "indicativo": "XE2ARS",
