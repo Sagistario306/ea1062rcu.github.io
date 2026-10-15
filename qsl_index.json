@@ -22513,10 +22513,10 @@
  },
  {
   "indicativo": "ZS6DAB",
-  "codigo": "BWUF2K",
-  "fecha": "2026-09-16 14:37:47",
+  "codigo": "ERAP75",
+  "fecha": "2026-10-15 05:45:26",
   "pais": "Sudafrica",
-  "archivo": "qsl/QSL_ZS6DAB_2026-09.webp"
+  "archivo": "qsl/QSL_ZS6DAB_2026-10.webp"
  },
  {
   "indicativo": "PY2BI",
@@ -33458,6 +33458,13 @@
   "fecha": "2026-09-16 14:36 UTC",
   "pais": "",
   "archivo": "qsl/QSL_DB0SDA_2026-09.png"
+ },
+ {
+  "indicativo": "ZS6DAB",
+  "codigo": "BWUF2K",
+  "fecha": "2026-09-16 14:37 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_ZS6DAB_2026-09.png"
  },
  {
   "indicativo": "ZS6GEB",
