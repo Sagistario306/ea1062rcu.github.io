@@ -176,10 +176,10 @@
  },
  {
   "indicativo": "XE2MEM",
-  "codigo": "M3R62Z",
-  "fecha": "2026-09-28 13:26:58",
+  "codigo": "ZHW4A5",
+  "fecha": "2026-10-15 19:53:20",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2MEM_2026-09.webp"
+  "archivo": "qsl/QSL_XE2MEM_2026-10.webp"
  },
  {
   "indicativo": "EA4GEL",
@@ -34214,6 +34214,13 @@
   "fecha": "2026-09-28 12:16 UTC",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE3JGV_2026-09.webp"
+ },
+ {
+  "indicativo": "XE2MEM",
+  "codigo": "M3R62Z",
+  "fecha": "2026-09-28 13:26 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2MEM_2026-09.webp"
  },
  {
   "indicativo": "HR1LEO",
