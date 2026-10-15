@@ -22667,10 +22667,10 @@
  },
  {
   "indicativo": "VE1BZZ",
-  "codigo": "H6N3WH",
-  "fecha": "2026-09-16 14:40:48",
+  "codigo": "V9UNV2",
+  "fecha": "2026-10-15 05:39:00",
   "pais": "Canada",
-  "archivo": "qsl/QSL_VE1BZZ_2026-09.webp"
+  "archivo": "qsl/QSL_VE1BZZ_2026-10.webp"
  },
  {
   "indicativo": "F4NRR",
@@ -33409,6 +33409,13 @@
   "fecha": "2026-09-16 14:40 UTC",
   "pais": "",
   "archivo": "qsl/QSL_ZS6EY_2026-09.png"
+ },
+ {
+  "indicativo": "VE1BZZ",
+  "codigo": "H6N3WH",
+  "fecha": "2026-09-16 14:40 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_VE1BZZ_2026-09.png"
  },
  {
   "indicativo": "ZR1RTG",
