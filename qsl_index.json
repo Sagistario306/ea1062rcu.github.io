@@ -23801,10 +23801,10 @@
  },
  {
   "indicativo": "TI2MCS",
-  "codigo": "6YKP63",
-  "fecha": "2026-09-18 06:31:52",
+  "codigo": "2M8MFT",
+  "fecha": "2026-10-15 18:24:55",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI2MCS_2026-09.webp"
+  "archivo": "qsl/QSL_TI2MCS_2026-10.webp"
  },
  {
   "indicativo": "9V1AD",
@@ -33808,6 +33808,13 @@
   "fecha": "2026-09-18 01:04 UTC",
   "pais": "El Salvador",
   "archivo": "qsl/QSL_YS1FP_2026-09.webp"
+ },
+ {
+  "indicativo": "TI2MCS",
+  "codigo": "6YKP63",
+  "fecha": "2026-09-18 06:31 UTC",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2MCS_2026-09.webp"
  },
  {
   "indicativo": "KP4ORP",
