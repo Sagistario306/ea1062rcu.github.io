@@ -7337,17 +7337,10 @@
  },
  {
   "indicativo": "CX5AL",
-  "codigo": "2VJRA7",
-  "fecha": "2026-09-04 00:32:38",
+  "codigo": "ZY34MX",
+  "fecha": "2026-10-15 18:39:58",
   "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX5AL_2026-09.webp"
- },
- {
-  "indicativo": "CX5AL",
-  "codigo": "JZ77RJ",
-  "fecha": "2026-09-04 00:32:44",
-  "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX5AL_2026-09_EV.webp"
+  "archivo": "qsl/QSL_CX5AL_2026-10.webp"
  },
  {
   "indicativo": "OA4DEX",
@@ -29370,6 +29363,20 @@
   "fecha": "2026-09-02 00:18 UTC",
   "pais": "",
   "archivo": "qsl/QSL_CE3VNA_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "CX5AL",
+  "codigo": "2VJRA7",
+  "fecha": "2026-09-04 00:32 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_CX5AL_2026-09.webp"
+ },
+ {
+  "indicativo": "CX5AL",
+  "codigo": "JZ77RJ",
+  "fecha": "2026-09-04 00:32 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_CX5AL_2026-09_EV.webp"
  },
  {
   "indicativo": "OA4DEX",
