@@ -20490,10 +20490,10 @@
  },
  {
   "indicativo": "KP4LEO",
-  "codigo": "SR7R26",
-  "fecha": "2026-09-11 12:58:50",
+  "codigo": "E8S4SS",
+  "fecha": "2026-10-15 14:01:28",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_KP4LEO_2026-09.webp"
+  "archivo": "qsl/QSL_KP4LEO_2026-10.webp"
  },
  {
   "indicativo": "EA1JH",
@@ -33451,6 +33451,13 @@
   "fecha": "2026-09-10 16:06 UTC",
   "pais": "",
   "archivo": "qsl/QSL_YV4AVN_2026-09.webp"
+ },
+ {
+  "indicativo": "KP4LEO",
+  "codigo": "SR7R26",
+  "fecha": "2026-09-11 12:58 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_KP4LEO_2026-09.webp"
  },
  {
   "indicativo": "XE1ASJ",
