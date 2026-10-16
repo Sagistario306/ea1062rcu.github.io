@@ -10956,10 +10956,10 @@
  },
  {
   "indicativo": "LU1AQY",
-  "codigo": "PW6W3Z",
-  "fecha": "2026-09-28 00:05:46",
+  "codigo": "92QUN6",
+  "fecha": "2026-10-16 01:46:45",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU1AQY_2026-09.webp"
+  "archivo": "qsl/QSL_LU1AQY_2026-10.webp"
  },
  {
   "indicativo": "CX9ACP",
@@ -30847,6 +30847,13 @@
   "fecha": "2026-09-25 15:20 UTC",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP4DOG_2026-09.webp"
+ },
+ {
+  "indicativo": "LU1AQY",
+  "codigo": "PW6W3Z",
+  "fecha": "2026-09-28 00:05 UTC",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1AQY_2026-09.webp"
  },
  {
   "indicativo": "HP1LNK",
