@@ -6112,17 +6112,10 @@
  },
  {
   "indicativo": "JR2TER",
-  "codigo": "AMRKJE",
-  "fecha": "2026-09-01 01:33:29",
+  "codigo": "5Y9RJ5",
+  "fecha": "2026-10-16 00:32:06",
   "pais": "Japon",
-  "archivo": "qsl/QSL_JR2TER_2026-09.webp"
- },
- {
-  "indicativo": "JR2TER",
-  "codigo": "9YNF5Q",
-  "fecha": "2026-09-01 01:33:32",
-  "pais": "Japon",
-  "archivo": "qsl/QSL_JR2TER_2026-09_EV.webp"
+  "archivo": "qsl/QSL_JR2TER_2026-10.webp"
  },
  {
   "indicativo": "4G1DFP",
@@ -28929,6 +28922,20 @@
   "fecha": "2026-09-24 21:30 UTC",
   "pais": "Venezuela",
   "archivo": "qsl/QSL_YV5NSF_2026-09.webp"
+ },
+ {
+  "indicativo": "JR2TER",
+  "codigo": "AMRKJE",
+  "fecha": "2026-09-01 01:33 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_JR2TER_2026-09.webp"
+ },
+ {
+  "indicativo": "JR2TER",
+  "codigo": "9YNF5Q",
+  "fecha": "2026-09-01 01:33 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_JR2TER_2026-09_EV.webp"
  },
  {
   "indicativo": "4G1DFP",
