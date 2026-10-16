@@ -21113,10 +21113,10 @@
  },
  {
   "indicativo": "LU1IAS",
-  "codigo": "695N3Y",
-  "fecha": "2026-09-12 15:41:55",
+  "codigo": "JR7AWE",
+  "fecha": "2026-10-16 01:08:46",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU1IAS_2026-09.webp"
+  "archivo": "qsl/QSL_LU1IAS_2026-10.webp"
  },
  {
   "indicativo": "9W2GAH",
@@ -33794,6 +33794,13 @@
   "fecha": "2026-09-12 13:21 UTC",
   "pais": "",
   "archivo": "qsl/QSL_HP3AXL_2026-09.webp"
+ },
+ {
+  "indicativo": "LU1IAS",
+  "codigo": "695N3Y",
+  "fecha": "2026-09-12 15:42 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_LU1IAS_2026-09.webp"
  },
  {
   "indicativo": "8P5AB",
