@@ -17718,17 +17718,10 @@
  },
  {
   "indicativo": "LU1ASB",
-  "codigo": "BABJ54",
-  "fecha": "2026-09-06 13:34:25",
+  "codigo": "GE2DCW",
+  "fecha": "2026-10-16 01:57:49",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU1ASB_2026-09.webp"
- },
- {
-  "indicativo": "LU1ASB",
-  "codigo": "RT46U5",
-  "fecha": "2026-09-06 13:34:57",
-  "pais": "Argentina",
-  "archivo": "qsl/QSL_LU1ASB_2026-09_EV.webp"
+  "archivo": "qsl/QSL_LU1ASB_2026-10.webp"
  },
  {
   "indicativo": "EA6RF",
@@ -33591,6 +33584,20 @@
   "fecha": "2026-09-06 13:15 UTC",
   "pais": "",
   "archivo": "qsl/QSL_YV4EMX_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "LU1ASB",
+  "codigo": "BABJ54",
+  "fecha": "2026-09-06 13:35 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_LU1ASB_2026-09.webp"
+ },
+ {
+  "indicativo": "LU1ASB",
+  "codigo": "RT46U5",
+  "fecha": "2026-09-06 13:35 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_LU1ASB_2026-09_EV.webp"
  },
  {
   "indicativo": "OA4EAN",
