@@ -7134,17 +7134,10 @@
  },
  {
   "indicativo": "YD2VDY",
-  "codigo": "QVCHU7",
-  "fecha": "2026-09-04 00:18:59",
+  "codigo": "JMUTUR",
+  "fecha": "2026-10-16 00:36:54",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YD2VDY_2026-09.webp"
- },
- {
-  "indicativo": "YD2VDY",
-  "codigo": "JUA5FU",
-  "fecha": "2026-09-04 00:19:06",
-  "pais": "Indonesia",
-  "archivo": "qsl/QSL_YD2VDY_2026-09_EV.webp"
+  "archivo": "qsl/QSL_YD2VDY_2026-10.webp"
  },
  {
   "indicativo": "CE1VPG",
@@ -29398,6 +29391,20 @@
   "fecha": "2026-09-24 21:28 UTC",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_NP4JM_2026-09.webp"
+ },
+ {
+  "indicativo": "YD2VDY",
+  "codigo": "QVCHU7",
+  "fecha": "2026-09-04 00:19 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_YD2VDY_2026-09.webp"
+ },
+ {
+  "indicativo": "YD2VDY",
+  "codigo": "JUA5FU",
+  "fecha": "2026-09-04 00:19 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_YD2VDY_2026-09_EV.webp"
  },
  {
   "indicativo": "CE1VPG",
