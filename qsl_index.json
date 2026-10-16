@@ -25019,10 +25019,10 @@
  },
  {
   "indicativo": "PU1XMG",
-  "codigo": "GPW7TV",
-  "fecha": "2026-09-27 00:04:03",
+  "codigo": "ZD5JQD",
+  "fecha": "2026-10-16 00:33:34",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PU1XMG_2026-09.webp"
+  "archivo": "qsl/QSL_PU1XMG_2026-10.webp"
  },
  {
   "indicativo": "PY2KTM",
@@ -34263,6 +34263,13 @@
   "fecha": "2026-09-26 21:06 UTC",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP4FIE_2026-09.webp"
+ },
+ {
+  "indicativo": "PU1XMG",
+  "codigo": "GPW7TV",
+  "fecha": "2026-09-27 00:04 UTC",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU1XMG_2026-09.webp"
  },
  {
   "indicativo": "XE2LUZ",
