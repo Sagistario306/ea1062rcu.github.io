@@ -5979,17 +5979,10 @@
  },
  {
   "indicativo": "9M2MIN",
-  "codigo": "FN5ADN",
-  "fecha": "2026-09-01 01:25:46",
+  "codigo": "5EH2HZ",
+  "fecha": "2026-10-16 00:31:26",
   "pais": "Malasia",
-  "archivo": "qsl/QSL_9M2MIN_2026-09.webp"
- },
- {
-  "indicativo": "9M2MIN",
-  "codigo": "59S33C",
-  "fecha": "2026-09-01 01:25:49",
-  "pais": "Malasia",
-  "archivo": "qsl/QSL_9M2MIN_2026-09_EV.webp"
+  "archivo": "qsl/QSL_9M2MIN_2026-10.webp"
  },
  {
   "indicativo": "XE1CFS",
@@ -28824,6 +28817,20 @@
   "fecha": "2026-09-04 00:32 UTC",
   "pais": "",
   "archivo": "qsl/QSL_LU4SCM_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "9M2MIN",
+  "codigo": "FN5ADN",
+  "fecha": "2026-09-01 01:25 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_9M2MIN_2026-09.webp"
+ },
+ {
+  "indicativo": "9M2MIN",
+  "codigo": "59S33C",
+  "fecha": "2026-09-01 01:25 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_9M2MIN_2026-09_EV.webp"
  },
  {
   "indicativo": "XE1CFS",
