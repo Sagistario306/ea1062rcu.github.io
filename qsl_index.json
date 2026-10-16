@@ -6399,17 +6399,10 @@
  },
  {
   "indicativo": "XE2SK",
-  "codigo": "PDUG6Z",
-  "fecha": "2026-09-03 00:13:07",
+  "codigo": "239QJR",
+  "fecha": "2026-10-16 11:56:34",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2SK_2026-09.webp"
- },
- {
-  "indicativo": "XE2SK",
-  "codigo": "JHT2WJ",
-  "fecha": "2026-09-03 00:13:13",
-  "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2SK_2026-09_EV.webp"
+  "archivo": "qsl/QSL_XE2SK_2026-10.webp"
  },
  {
   "indicativo": "CE7DE",
@@ -29167,6 +29160,20 @@
   "fecha": "2026-09-05 00:20 UTC",
   "pais": "",
   "archivo": "qsl/QSL_HC1FQ_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "XE2SK",
+  "codigo": "PDUG6Z",
+  "fecha": "2026-09-03 00:13 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_XE2SK_2026-09.webp"
+ },
+ {
+  "indicativo": "XE2SK",
+  "codigo": "JHT2WJ",
+  "fecha": "2026-09-03 00:13 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_XE2SK_2026-09_EV.webp"
  },
  {
   "indicativo": "CE7DE",
