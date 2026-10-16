@@ -23990,10 +23990,10 @@
  },
  {
   "indicativo": "PP2CC",
-  "codigo": "HA36CC",
-  "fecha": "2026-09-20 00:20:02",
+  "codigo": "TNR7EZ",
+  "fecha": "2026-10-16 00:32:18",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PP2CC_2026-09.webp"
+  "archivo": "qsl/QSL_PP2CC_2026-10.webp"
  },
  {
   "indicativo": "PP5AMP",
@@ -33948,6 +33948,13 @@
   "fecha": "2026-09-19 23:14 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2NBI_2026-09.webp"
+ },
+ {
+  "indicativo": "PP2CC",
+  "codigo": "HA36CC",
+  "fecha": "2026-09-20 00:20 UTC",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PP2CC_2026-09.webp"
  },
  {
   "indicativo": "CE6RLA",
