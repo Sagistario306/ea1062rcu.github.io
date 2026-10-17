@@ -6931,17 +6931,10 @@
  },
  {
   "indicativo": "XE1JMB",
-  "codigo": "WJ37ZA",
-  "fecha": "2026-09-04 00:17:21",
+  "codigo": "SVNWDV",
+  "fecha": "2026-10-17 01:05:14",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1JMB_2026-09.webp"
- },
- {
-  "indicativo": "XE1JMB",
-  "codigo": "94DZ79",
-  "fecha": "2026-09-04 00:17:28",
-  "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1JMB_2026-09_EV.webp"
+  "archivo": "qsl/QSL_XE1JMB_2026-10.webp"
  },
  {
   "indicativo": "HK4X",
@@ -29601,6 +29594,20 @@
   "fecha": "2026-09-04 00:00 UTC",
   "pais": "",
   "archivo": "qsl/QSL_HP8ATN_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "XE1JMB",
+  "codigo": "WJ37ZA",
+  "fecha": "2026-09-04 00:17 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_XE1JMB_2026-09.webp"
+ },
+ {
+  "indicativo": "XE1JMB",
+  "codigo": "94DZ79",
+  "fecha": "2026-09-04 00:17 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_XE1JMB_2026-09_EV.webp"
  },
  {
   "indicativo": "CE6ACR",
