@@ -9661,17 +9661,10 @@
  },
  {
   "indicativo": "LU1HFE",
-  "codigo": "PB2BWX",
-  "fecha": "2026-09-07 21:55:59",
+  "codigo": "GKAWC6",
+  "fecha": "2026-10-17 00:19:24",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU1HFE_2026-09.webp"
- },
- {
-  "indicativo": "LU1HFE",
-  "codigo": "J5N8W5",
-  "fecha": "2026-09-07 21:56:06",
-  "pais": "Argentina",
-  "archivo": "qsl/QSL_LU1HFE_2026-09_EV.webp"
+  "archivo": "qsl/QSL_LU1HFE_2026-10.webp"
  },
  {
   "indicativo": "HK3Z",
@@ -30630,6 +30623,20 @@
   "fecha": "2026-09-24 21:24 UTC",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE3EOA_2026-09.webp"
+ },
+ {
+  "indicativo": "LU1HFE",
+  "codigo": "PB2BWX",
+  "fecha": "2026-09-07 21:56 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_LU1HFE_2026-09.webp"
+ },
+ {
+  "indicativo": "LU1HFE",
+  "codigo": "J5N8W5",
+  "fecha": "2026-09-07 21:56 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_LU1HFE_2026-09_EV.webp"
  },
  {
   "indicativo": "TI5GAA",
