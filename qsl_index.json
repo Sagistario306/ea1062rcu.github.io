@@ -25817,10 +25817,10 @@
  },
  {
   "indicativo": "HK7JJA",
-  "codigo": "PBPY3V",
-  "fecha": "2026-09-29 02:32:24",
+  "codigo": "Y99UZC",
+  "fecha": "2026-10-17 11:48:04",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK7JJA_2026-09.webp"
+  "archivo": "qsl/QSL_HK7JJA_2026-10.webp"
  },
  {
   "indicativo": "OA4EIV",
@@ -34963,6 +34963,13 @@
   "fecha": "2026-09-29 00:24 UTC",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HJ5V_2026-09.webp"
+ },
+ {
+  "indicativo": "HK7JJA",
+  "codigo": "PBPY3V",
+  "fecha": "2026-09-29 02:32 UTC",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK7JJA_2026-09.webp"
  },
  {
   "indicativo": "OA4EIV",
