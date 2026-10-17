@@ -4572,10 +4572,10 @@
  },
  {
   "indicativo": "EB2EAS",
-  "codigo": "5JV8Q3",
-  "fecha": "2026-09-27 00:04:31",
+  "codigo": "9JEYFD",
+  "fecha": "2026-10-17 00:12:26",
   "pais": "España",
-  "archivo": "qsl/QSL_EB2EAS_2026-09.webp"
+  "archivo": "qsl/QSL_EB2EAS_2026-10.webp"
  },
  {
   "indicativo": "9W8KEN",
@@ -28719,6 +28719,13 @@
   "fecha": "2026-09-02 00:18 UTC",
   "pais": "",
   "archivo": "qsl/QSL_HR2DDL_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "EB2EAS",
+  "codigo": "5JV8Q3",
+  "fecha": "2026-09-27 00:04 UTC",
+  "pais": "España",
+  "archivo": "qsl/QSL_EB2EAS_2026-09.webp"
  },
  {
   "indicativo": "CE2PQ",
