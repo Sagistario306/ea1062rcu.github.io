@@ -24473,10 +24473,10 @@
  },
  {
   "indicativo": "LU1AQX",
-  "codigo": "76AR4A",
-  "fecha": "2026-09-23 13:03:50",
+  "codigo": "RZUC4Y",
+  "fecha": "2026-10-17 00:02:33",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU1AQX_2026-09.webp"
+  "archivo": "qsl/QSL_LU1AQX_2026-10.webp"
  },
  {
   "indicativo": "OA4EGY",
@@ -34473,6 +34473,13 @@
   "fecha": "2026-09-23 11:30 UTC",
   "pais": "Peru",
   "archivo": "qsl/QSL_OA4DKS_2026-09.webp"
+ },
+ {
+  "indicativo": "LU1AQX",
+  "codigo": "76AR4A",
+  "fecha": "2026-09-23 13:03 UTC",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1AQX_2026-09.webp"
  },
  {
   "indicativo": "XE2LAT",
