@@ -16521,17 +16521,10 @@
  },
  {
   "indicativo": "HI8SDR",
-  "codigo": "CF2WAW",
-  "fecha": "2026-09-05 11:44:53",
+  "codigo": "RPT2Q5",
+  "fecha": "2026-10-17 12:26:36",
   "pais": "Republica Dominicana",
-  "archivo": "qsl/QSL_HI8SDR_2026-09.webp"
- },
- {
-  "indicativo": "HI8SDR",
-  "codigo": "9K3K3W",
-  "fecha": "2026-09-05 11:44:59",
-  "pais": "Republica Dominicana",
-  "archivo": "qsl/QSL_HI8SDR_2026-09_EV.webp"
+  "archivo": "qsl/QSL_HI8SDR_2026-10.webp"
  },
  {
   "indicativo": "KP4DSV",
@@ -33976,6 +33969,20 @@
   "fecha": "2026-09-05 08:56 UTC",
   "pais": "",
   "archivo": "qsl/QSL_CE3WTZ_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "HI8SDR",
+  "codigo": "CF2WAW",
+  "fecha": "2026-09-05 11:45 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_HI8SDR_2026-09.webp"
+ },
+ {
+  "indicativo": "HI8SDR",
+  "codigo": "9K3K3W",
+  "fecha": "2026-09-05 11:45 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_HI8SDR_2026-09_EV.webp"
  },
  {
   "indicativo": "EA5JSM",
