@@ -12979,17 +12979,10 @@
  },
  {
   "indicativo": "HI3LER",
-  "codigo": "8PAMVD",
-  "fecha": "2026-09-03 00:14:39",
+  "codigo": "RDJ74R",
+  "fecha": "2026-10-17 13:33:02",
   "pais": "Republica Dominicana",
-  "archivo": "qsl/QSL_HI3LER_2026-09.webp"
- },
- {
-  "indicativo": "HI3LER",
-  "codigo": "C4PYP7",
-  "fecha": "2026-09-03 00:14:44",
-  "pais": "Republica Dominicana",
-  "archivo": "qsl/QSL_HI3LER_2026-09_EV.webp"
+  "archivo": "qsl/QSL_HI3LER_2026-10.webp"
  },
  {
   "indicativo": "HI8H",
@@ -28536,7 +28529,7 @@
   "codigo": "VXNKN5",
   "fecha": "2026-10-17 12:31:06",
   "pais": "Francia",
-  "archivo": "qsl/QSL_F1SEN_2026-10.webp"
+  "archivo": "qsl/QSL_F1SEN_2026-10.png"
  },
  {
   "indicativo": "9M2JUE",
@@ -31785,6 +31778,20 @@
   "fecha": "2026-09-25 02:08 UTC",
   "pais": "Uruguay",
   "archivo": "qsl/QSL_CX2TG_2026-09.webp"
+ },
+ {
+  "indicativo": "HI3LER",
+  "codigo": "8PAMVD",
+  "fecha": "2026-09-03 00:14 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_HI3LER_2026-09.webp"
+ },
+ {
+  "indicativo": "HI3LER",
+  "codigo": "C4PYP7",
+  "fecha": "2026-09-03 00:14 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_HI3LER_2026-09_EV.webp"
  },
  {
   "indicativo": "HI8EES",
