@@ -2990,17 +2990,10 @@
  },
  {
   "indicativo": "JR5LLA",
-  "codigo": "T9N9NB",
-  "fecha": "2026-09-02 00:15:53",
+  "codigo": "RUZK66",
+  "fecha": "2026-10-18 00:01:42",
   "pais": "Japon",
-  "archivo": "qsl/QSL_JR5LLA_2026-09.webp"
- },
- {
-  "indicativo": "JR5LLA",
-  "codigo": "866UHG",
-  "fecha": "2026-09-02 00:15:59",
-  "pais": "Japon",
-  "archivo": "qsl/QSL_JR5LLA_2026-09_EV.webp"
+  "archivo": "qsl/QSL_JR5LLA_2026-10.webp"
  },
  {
   "indicativo": "CE3ABZ",
@@ -32926,6 +32919,20 @@
   "fecha": "2026-09-02 00:15 UTC",
   "pais": "",
   "archivo": "qsl/QSL_XE1ZKC_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "JR5LLA",
+  "codigo": "T9N9NB",
+  "fecha": "2026-09-02 00:16 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_JR5LLA_2026-09.webp"
+ },
+ {
+  "indicativo": "JR5LLA",
+  "codigo": "866UHG",
+  "fecha": "2026-09-02 00:16 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_JR5LLA_2026-09_EV.webp"
  },
  {
   "indicativo": "EA3RKE",
