@@ -24641,10 +24641,10 @@
  },
  {
   "indicativo": "TG6ORP",
-  "codigo": "VGZW5S",
-  "fecha": "2026-09-25 13:06:22",
+  "codigo": "MHZEH9",
+  "fecha": "2026-10-18 12:47:45",
   "pais": "Guatemala",
-  "archivo": "qsl/QSL_TG6ORP_2026-09.webp"
+  "archivo": "qsl/QSL_TG6ORP_2026-10.webp"
  },
  {
   "indicativo": "PY4DO",
@@ -35096,6 +35096,13 @@
   "fecha": "2026-09-25 00:11 UTC",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE6AIG_2026-09.webp"
+ },
+ {
+  "indicativo": "TG6ORP",
+  "codigo": "VGZW5S",
+  "fecha": "2026-09-25 13:06 UTC",
+  "pais": "Guatemala",
+  "archivo": "qsl/QSL_TG6ORP_2026-09.webp"
  },
  {
   "indicativo": "OA4ENN",
