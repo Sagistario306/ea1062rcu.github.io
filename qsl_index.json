@@ -22464,10 +22464,10 @@
  },
  {
   "indicativo": "W0NE",
-  "codigo": "9NSB8B",
-  "fecha": "2026-09-16 14:34:52",
+  "codigo": "EA7VBD",
+  "fecha": "2026-10-18 00:00:25",
   "pais": "EE.UU",
-  "archivo": "qsl/QSL_W0NE_2026-09.webp"
+  "archivo": "qsl/QSL_W0NE_2026-10.webp"
  },
  {
   "indicativo": "KH6JUZ",
@@ -34459,6 +34459,13 @@
   "fecha": "2026-09-16 00:03 UTC",
   "pais": "",
   "archivo": "qsl/QSL_CX2SC_2026-09.png"
+ },
+ {
+  "indicativo": "W0NE",
+  "codigo": "9NSB8B",
+  "fecha": "2026-09-16 14:34 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_W0NE_2026-09.png"
  },
  {
   "indicativo": "KH6JUZ",
