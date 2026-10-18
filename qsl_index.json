@@ -24368,10 +24368,10 @@
  },
  {
   "indicativo": "HR2RD",
-  "codigo": "NHDTUE",
-  "fecha": "2026-09-22 22:08:53",
+  "codigo": "463XVR",
+  "fecha": "2026-10-18 16:07:46",
   "pais": "Honduras",
-  "archivo": "qsl/QSL_HR2RD_2026-09.webp"
+  "archivo": "qsl/QSL_HR2RD_2026-10.webp"
  },
  {
   "indicativo": "PY4ARR",
@@ -34998,6 +34998,13 @@
   "fecha": "2026-09-22 20:53 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2KAS_2026-09.webp"
+ },
+ {
+  "indicativo": "HR2RD",
+  "codigo": "NHDTUE",
+  "fecha": "2026-09-22 22:08 UTC",
+  "pais": "Honduras",
+  "archivo": "qsl/QSL_HR2RD_2026-09.webp"
  },
  {
   "indicativo": "PY4ARR",
