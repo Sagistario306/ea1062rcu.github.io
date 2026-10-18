@@ -24403,10 +24403,10 @@
  },
  {
   "indicativo": "PU2AMA",
-  "codigo": "9F4Z4G",
-  "fecha": "2026-09-23 00:00:21",
+  "codigo": "GY8TVU",
+  "fecha": "2026-10-18 00:02:15",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PU2AMA_2026-09.webp"
+  "archivo": "qsl/QSL_PU2AMA_2026-10.webp"
  },
  {
   "indicativo": "EA4IUK",
@@ -34795,6 +34795,13 @@
   "fecha": "2026-09-23 00:00 UTC",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PY4ARR_2026-09.webp"
+ },
+ {
+  "indicativo": "PU2AMA",
+  "codigo": "9F4Z4G",
+  "fecha": "2026-09-23 00:00 UTC",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU2AMA_2026-09.webp"
  },
  {
   "indicativo": "XE2FOG",
