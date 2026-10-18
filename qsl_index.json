@@ -3325,6 +3325,13 @@
   "archivo": "qsl/QSL_LU5ESB_2026-09_EV.webp"
  },
  {
+  "indicativo": "HK5F",
+  "codigo": "DV5CP4",
+  "fecha": "2026-10-18 19:16:53",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK5F_2026-10.webp"
+ },
+ {
   "indicativo": "HK4AM",
   "codigo": "AAX6AR",
   "fecha": "2026-10-02 00:06:53",
