@@ -24879,10 +24879,10 @@
  },
  {
   "indicativo": "TI2CCC",
-  "codigo": "TJGPWG",
-  "fecha": "2026-09-26 00:53:07",
+  "codigo": "6B7QEM",
+  "fecha": "2026-10-18 00:25:21",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI2CCC_2026-09.webp"
+  "archivo": "qsl/QSL_TI2CCC_2026-10.webp"
  },
  {
   "indicativo": "4Z5VK",
@@ -35075,6 +35075,13 @@
   "fecha": "2026-09-26 00:52 UTC",
   "pais": "Israel",
   "archivo": "qsl/QSL_4X1DA_2026-09.webp"
+ },
+ {
+  "indicativo": "TI2CCC",
+  "codigo": "TJGPWG",
+  "fecha": "2026-09-26 00:53 UTC",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2CCC_2026-09.webp"
  },
  {
   "indicativo": "4Z5VK",
