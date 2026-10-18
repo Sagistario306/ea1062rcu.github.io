@@ -25047,10 +25047,10 @@
  },
  {
   "indicativo": "PU2KWZ",
-  "codigo": "PEKY4N",
-  "fecha": "2026-09-27 00:03:56",
+  "codigo": "EVYME2",
+  "fecha": "2026-10-18 00:02:05",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PU2KWZ_2026-09.webp"
+  "archivo": "qsl/QSL_PU2KWZ_2026-10.webp"
  },
  {
   "indicativo": "SA0BSV",
@@ -35005,6 +35005,13 @@
   "fecha": "2026-09-26 21:06 UTC",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP4FIE_2026-09.webp"
+ },
+ {
+  "indicativo": "PU2KWZ",
+  "codigo": "PEKY4N",
+  "fecha": "2026-09-27 00:03 UTC",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU2KWZ_2026-09.webp"
  },
  {
   "indicativo": "PU1XMG",
