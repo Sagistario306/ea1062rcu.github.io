@@ -15471,17 +15471,10 @@
  },
  {
   "indicativo": "TI2VLM",
-  "codigo": "6KK7FH",
-  "fecha": "2026-09-05 01:33:01",
+  "codigo": "33HYQV",
+  "fecha": "2026-10-18 02:42:30",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI2VLM_2026-09.webp"
- },
- {
-  "indicativo": "TI2VLM",
-  "codigo": "TVPNPP",
-  "fecha": "2026-09-05 01:33:07",
-  "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI2VLM_2026-09_EV.webp"
+  "archivo": "qsl/QSL_TI2VLM_2026-10.webp"
  },
  {
   "indicativo": "JA9HCT",
@@ -34193,6 +34186,20 @@
   "fecha": "2026-09-05 00:43 UTC",
   "pais": "",
   "archivo": "qsl/QSL_CE3QC_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "TI2VLM",
+  "codigo": "6KK7FH",
+  "fecha": "2026-09-05 01:33 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_TI2VLM_2026-09.webp"
+ },
+ {
+  "indicativo": "TI2VLM",
+  "codigo": "TVPNPP",
+  "fecha": "2026-09-05 01:33 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_TI2VLM_2026-09_EV.webp"
  },
  {
   "indicativo": "HC6AC",
