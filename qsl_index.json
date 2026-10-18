@@ -6945,10 +6945,10 @@
  },
  {
   "indicativo": "HK4X",
-  "codigo": "82MMR5",
-  "fecha": "2026-09-26 00:43:07",
+  "codigo": "T8QJTP",
+  "fecha": "2026-10-18 21:59:54",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK4X_2026-09.png"
+  "archivo": "qsl/QSL_HK4X_2026-10.webp"
  },
  {
   "indicativo": "TI3ESG",
@@ -29937,6 +29937,13 @@
   "fecha": "2026-09-04 00:17 UTC",
   "pais": "",
   "archivo": "qsl/QSL_XE1JMB_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "HK4X",
+  "codigo": "82MMR5",
+  "fecha": "2026-09-26 00:43 UTC",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK4X_2026-09.webp"
  },
  {
   "indicativo": "CE6ACR",
