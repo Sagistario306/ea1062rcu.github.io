@@ -16,9 +16,9 @@
  {
   "num": 3,
   "indicativo": "CE4JWI",
-  "nivel": "VIP",
+  "nivel": "ESMERALDA",
   "ingreso": "202608",
-  "total": 2
+  "total": 3
  },
  {
   "num": 4,
@@ -100,9 +100,9 @@
  {
   "num": 16,
   "indicativo": "HC1FQ",
-  "nivel": "VIP",
+  "nivel": "ESMERALDA",
   "ingreso": "202608",
-  "total": 2
+  "total": 3
  },
  {
   "num": 17,
@@ -121,16 +121,16 @@
  {
   "num": 19,
   "indicativo": "XE2JJC",
-  "nivel": "VIP",
+  "nivel": "ESMERALDA",
   "ingreso": "202608",
-  "total": 1
+  "total": 3
  },
  {
   "num": 20,
   "indicativo": "OA4DOS",
-  "nivel": "VIP",
+  "nivel": "ESMERALDA",
   "ingreso": "202608",
-  "total": 2
+  "total": 3
  },
  {
   "num": 21,
@@ -219,9 +219,9 @@
  {
   "num": 34,
   "indicativo": "YD2VLD",
-  "nivel": "VIP",
+  "nivel": "ESMERALDA",
   "ingreso": "202608",
-  "total": 2
+  "total": 3
  },
  {
   "num": 35,
@@ -373,9 +373,9 @@
  {
   "num": 56,
   "indicativo": "KP4LCA",
-  "nivel": "VIP",
+  "nivel": "ESMERALDA",
   "ingreso": "2026-09",
-  "total": 2
+  "total": 3
  },
  {
   "num": 57,
@@ -429,9 +429,9 @@
  {
   "num": 64,
   "indicativo": "LU9DUV",
-  "nivel": "VIP",
+  "nivel": "ESMERALDA",
   "ingreso": "2026-09",
-  "total": 2
+  "total": 3
  },
  {
   "num": 65,
@@ -478,9 +478,9 @@
  {
   "num": 71,
   "indicativo": "CX4AT",
-  "nivel": "VIP",
+  "nivel": "ESMERALDA",
   "ingreso": "2026-09",
-  "total": 2
+  "total": 3
  },
  {
   "num": 72,
@@ -513,9 +513,9 @@
  {
   "num": 76,
   "indicativo": "YG1CBG",
-  "nivel": "VIP",
+  "nivel": "ESMERALDA",
   "ingreso": "2026-09",
-  "total": 2
+  "total": 3
  },
  {
   "num": 77,
@@ -583,9 +583,9 @@
  {
   "num": 86,
   "indicativo": "LW1DOW",
-  "nivel": "VIP",
+  "nivel": "ESMERALDA",
   "ingreso": "2026-09",
-  "total": 2
+  "total": 3
  },
  {
   "num": 87,
@@ -606,7 +606,7 @@
   "indicativo": "XE3MHM",
   "nivel": "VIP",
   "ingreso": "2026-09",
-  "total": 1
+  "total": 2
  },
  {
   "num": 90,
@@ -648,7 +648,7 @@
   "indicativo": "TI7JCC",
   "nivel": "VIP",
   "ingreso": "2026-09",
-  "total": 1
+  "total": 2
  },
  {
   "num": 96,
@@ -674,9 +674,9 @@
  {
   "num": 99,
   "indicativo": "LU1XLI",
-  "nivel": "VIP",
+  "nivel": "ESMERALDA",
   "ingreso": "2026-09",
-  "total": 2
+  "total": 3
  },
  {
   "num": 100,
@@ -697,7 +697,7 @@
   "indicativo": "YB2CZV",
   "nivel": "VIP",
   "ingreso": "2026-09",
-  "total": 1
+  "total": 2
  },
  {
   "num": 103,
@@ -851,7 +851,7 @@
   "indicativo": "CO5RMM",
   "nivel": "VIP",
   "ingreso": "2026-09",
-  "total": 1
+  "total": 2
  },
  {
   "num": 123,
@@ -905,6 +905,62 @@
  {
   "num": 130,
   "indicativo": "OA4DKS",
+  "nivel": "VIP",
+  "ingreso": "2026-10",
+  "total": 1
+ },
+ {
+  "num": 131,
+  "indicativo": "EA1FIR",
+  "nivel": "VIP",
+  "ingreso": "2026-10",
+  "total": 1
+ },
+ {
+  "num": 132,
+  "indicativo": "CE4JVU",
+  "nivel": "VIP",
+  "ingreso": "2026-10",
+  "total": 1
+ },
+ {
+  "num": 133,
+  "indicativo": "HR2LED",
+  "nivel": "VIP",
+  "ingreso": "2026-10",
+  "total": 1
+ },
+ {
+  "num": 134,
+  "indicativo": "TI2STB",
+  "nivel": "VIP",
+  "ingreso": "2026-10",
+  "total": 1
+ },
+ {
+  "num": 135,
+  "indicativo": "YY3CCL",
+  "nivel": "VIP",
+  "ingreso": "2026-10",
+  "total": 1
+ },
+ {
+  "num": 136,
+  "indicativo": "XE1LAB",
+  "nivel": "VIP",
+  "ingreso": "2026-10",
+  "total": 1
+ },
+ {
+  "num": 137,
+  "indicativo": "NP4JM",
+  "nivel": "VIP",
+  "ingreso": "2026-10",
+  "total": 1
+ },
+ {
+  "num": 138,
+  "indicativo": "XE1ZRG",
   "nivel": "VIP",
   "ingreso": "2026-10",
   "total": 1
