@@ -11978,10 +11978,10 @@
  },
  {
   "indicativo": "EA4EJV",
-  "codigo": "UZ2F6D",
-  "fecha": "2026-09-08 10:39:09",
+  "codigo": "S7KAJR",
+  "fecha": "2026-10-19 00:17:09",
   "pais": "España",
-  "archivo": "qsl/QSL_EA4EJV_2026-09.webp"
+  "archivo": "qsl/QSL_EA4EJV_2026-10.webp"
  },
  {
   "indicativo": "EA3HCP",
@@ -31981,6 +31981,13 @@
   "fecha": "2026-09-01 01:29 UTC",
   "pais": "",
   "archivo": "qsl/QSL_HI7LT_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "EA4EJV",
+  "codigo": "UZ2F6D",
+  "fecha": "2026-09-08 10:39 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_EA4EJV_2026-09.webp"
  },
  {
   "indicativo": "9Y4QA",
