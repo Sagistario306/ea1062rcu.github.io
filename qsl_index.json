@@ -1127,6 +1127,13 @@
   "archivo": "qsl/QSL_OA4ENN_2026-10_EV.webp"
  },
  {
+  "indicativo": "EC1CS",
+  "codigo": "U358HD",
+  "fecha": "2026-10-19 00:27:14",
+  "pais": "España",
+  "archivo": "qsl/QSL_EC1CS_2026-10.webp"
+ },
+ {
   "indicativo": "XE1CRG",
   "codigo": "9RS5FG",
   "fecha": "2026-10-04 00:06:25",
