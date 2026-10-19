@@ -253,17 +253,10 @@
  },
  {
   "indicativo": "EB1AD",
-  "codigo": "BTFQ4Q",
-  "fecha": "2026-09-01 00:39:53",
+  "codigo": "BGPFUD",
+  "fecha": "2026-10-19 00:01:21",
   "pais": "España",
-  "archivo": "qsl/QSL_EB1AD_2026-09.webp"
- },
- {
-  "indicativo": "EB1AD",
-  "codigo": "Y3T63C",
-  "fecha": "2026-09-01 00:39:56",
-  "pais": "España",
-  "archivo": "qsl/QSL_EB1AD_2026-09_EV.webp"
+  "archivo": "qsl/QSL_EB1AD_2026-10.webp"
  },
  {
   "indicativo": "9W2OBB",
@@ -32590,6 +32583,20 @@
   "fecha": "2026-09-01 00:39 UTC",
   "pais": "",
   "archivo": "qsl/QSL_YD2SMG_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "EB1AD",
+  "codigo": "BTFQ4Q",
+  "fecha": "2026-09-01 00:39 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_EB1AD_2026-09.webp"
+ },
+ {
+  "indicativo": "EB1AD",
+  "codigo": "Y3T63C",
+  "fecha": "2026-09-01 00:39 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_EB1AD_2026-09_EV.webp"
  },
  {
   "indicativo": "YD2VLD",
