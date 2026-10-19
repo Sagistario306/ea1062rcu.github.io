@@ -21974,10 +21974,10 @@
  },
  {
   "indicativo": "JA2YSO",
-  "codigo": "5MXJEV",
-  "fecha": "2026-09-15 01:02:04",
+  "codigo": "JX2UFZ",
+  "fecha": "2026-10-19 00:03:47",
   "pais": "Japon",
-  "archivo": "qsl/QSL_JA2YSO_2026-09.png"
+  "archivo": "qsl/QSL_JA2YSO_2026-10.webp"
  },
  {
   "indicativo": "LU1OAU",
@@ -34900,6 +34900,13 @@
   "fecha": "2026-09-14 17:31 UTC",
   "pais": "",
   "archivo": "qsl/QSL_XE2HEC_2026-09.webp"
+ },
+ {
+  "indicativo": "JA2YSO",
+  "codigo": "5MXJEV",
+  "fecha": "2026-09-15 01:02 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_JA2YSO_2026-09.png"
  },
  {
   "indicativo": "XE2RDX",
