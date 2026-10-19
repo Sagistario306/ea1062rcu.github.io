@@ -8866,7 +8866,7 @@
   "codigo": "AJKAYB",
   "fecha": "2026-10-19 14:18:07",
   "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX2JO_2026-10.webp"
+  "archivo": "qsl/QSL_CX2JO_2026-10.png"
  },
  {
   "indicativo": "KP4NET",
@@ -28964,6 +28964,13 @@
   "fecha": "2026-10-19 13:31:52",
   "pais": "Polonia",
   "archivo": "qsl/QSL_SQ3KNR_2026-10.webp"
+ },
+ {
+  "indicativo": "DC7JZB",
+  "codigo": "358S96",
+  "fecha": "2026-10-19 16:55:46",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DC7JZB_2026-10.webp"
  },
  {
   "indicativo": "9M2JUE",
