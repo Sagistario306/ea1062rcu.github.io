@@ -10749,7 +10749,7 @@
   "codigo": "WJXJF4",
   "fecha": "2026-10-19 02:24:52",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU1BJW_2026-10.webp"
+  "archivo": "qsl/QSL_LU1BJW_2026-10.png"
  },
  {
   "indicativo": "9V1VB",
@@ -28922,6 +28922,13 @@
   "fecha": "2026-10-19 01:36:02",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU3OB_2026-10.webp"
+ },
+ {
+  "indicativo": "ZS6PHS",
+  "codigo": "WQQTF3",
+  "fecha": "2026-10-19 03:43:44",
+  "pais": "Sudafrica",
+  "archivo": "qsl/QSL_ZS6PHS_2026-10.webp"
  },
  {
   "indicativo": "9M2JUE",
