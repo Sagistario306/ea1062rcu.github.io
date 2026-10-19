@@ -8863,17 +8863,10 @@
  },
  {
   "indicativo": "CX2JO",
-  "codigo": "K5VBPZ",
-  "fecha": "2026-09-05 09:41:38",
+  "codigo": "AJKAYB",
+  "fecha": "2026-10-19 14:18:07",
   "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX2JO_2026-09.webp"
- },
- {
-  "indicativo": "CX2JO",
-  "codigo": "B8WGYP",
-  "fecha": "2026-09-05 09:41:43",
-  "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX2JO_2026-09_EV.webp"
+  "archivo": "qsl/QSL_CX2JO_2026-10.webp"
  },
  {
   "indicativo": "KP4NET",
@@ -30917,6 +30910,20 @@
   "fecha": "2026-09-24 21:19 UTC",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP1RY_2026-09.webp"
+ },
+ {
+  "indicativo": "CX2JO",
+  "codigo": "K5VBPZ",
+  "fecha": "2026-09-05 09:41 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_CX2JO_2026-09.webp"
+ },
+ {
+  "indicativo": "CX2JO",
+  "codigo": "B8WGYP",
+  "fecha": "2026-09-05 09:41 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_CX2JO_2026-09_EV.webp"
  },
  {
   "indicativo": "KP4NET",
