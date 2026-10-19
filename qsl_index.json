@@ -8898,17 +8898,10 @@
  },
  {
   "indicativo": "TI2CHJ",
-  "codigo": "UX2Z4H",
-  "fecha": "2026-09-04 00:04:54",
+  "codigo": "2C3DQ6",
+  "fecha": "2026-10-19 20:39:48",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI2CHJ_2026-09.webp"
- },
- {
-  "indicativo": "TI2CHJ",
-  "codigo": "PQ2TRB",
-  "fecha": "2026-09-04 00:05:00",
-  "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI2CHJ_2026-09_EV.webp"
+  "archivo": "qsl/QSL_TI2CHJ_2026-10.webp"
  },
  {
   "indicativo": "CX8MXX",
@@ -30994,6 +30987,20 @@
   "fecha": "2026-09-29 16:58 UTC",
   "pais": "Uruguay",
   "archivo": "qsl/QSL_CX7FH_2026-09.webp"
+ },
+ {
+  "indicativo": "TI2CHJ",
+  "codigo": "UX2Z4H",
+  "fecha": "2026-09-04 00:05 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_TI2CHJ_2026-09.webp"
+ },
+ {
+  "indicativo": "TI2CHJ",
+  "codigo": "PQ2TRB",
+  "fecha": "2026-09-04 00:05 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_TI2CHJ_2026-09_EV.webp"
  },
  {
   "indicativo": "HP8EVA",
