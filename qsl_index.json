@@ -13644,10 +13644,10 @@
  },
  {
   "indicativo": "HI3EMO",
-  "codigo": "BZBZNB",
-  "fecha": "2026-09-26 15:48:28",
+  "codigo": "82JA69",
+  "fecha": "2026-10-20 11:20:29",
   "pais": "Republica Dominicana",
-  "archivo": "qsl/QSL_HI3EMO_2026-09.png"
+  "archivo": "qsl/QSL_HI3EMO_2026-10.webp"
  },
  {
   "indicativo": "DX1FLR",
@@ -32828,6 +32828,13 @@
   "fecha": "2026-09-26 00:01 UTC",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU6MHO_2026-09.webp"
+ },
+ {
+  "indicativo": "HI3EMO",
+  "codigo": "BZBZNB",
+  "fecha": "2026-09-26 15:48 UTC",
+  "pais": "Republica Dominicana",
+  "archivo": "qsl/QSL_HI3EMO_2026-09.webp"
  },
  {
   "indicativo": "DX1FLR",
