@@ -23633,10 +23633,10 @@
  },
  {
   "indicativo": "TI3FAM",
-  "codigo": "JK66Q4",
-  "fecha": "2026-09-16 18:56:48",
+  "codigo": "YMYAA4",
+  "fecha": "2026-10-20 18:35:28",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI3FAM_2026-09.webp"
+  "archivo": "qsl/QSL_TI3FAM_2026-10.webp"
  },
  {
   "indicativo": "XE1RAG",
@@ -35593,6 +35593,13 @@
   "fecha": "2026-09-16 15:29 UTC",
   "pais": "",
   "archivo": "qsl/QSL_PR2AR_2026-09.png"
+ },
+ {
+  "indicativo": "TI3FAM",
+  "codigo": "JK66Q4",
+  "fecha": "2026-09-16 18:56 UTC",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI3FAM_2026-09.webp"
  },
  {
   "indicativo": "CX8CAG",
