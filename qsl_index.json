@@ -23636,7 +23636,7 @@
   "codigo": "YMYAA4",
   "fecha": "2026-10-20 18:35:28",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI3FAM_2026-10.webp"
+  "archivo": "qsl/QSL_TI3FAM_2026-10.png"
  },
  {
   "indicativo": "XE1RAG",
@@ -29223,6 +29223,13 @@
   "fecha": "2026-10-20 17:10:45",
   "pais": "Reino Unido",
   "archivo": "qsl/QSL_G5NOV_2026-10.webp"
+ },
+ {
+  "indicativo": "SQ5AM",
+  "codigo": "WN82F7",
+  "fecha": "2026-10-20 19:10:21",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SQ5AM_2026-10.webp"
  },
  {
   "indicativo": "9M2JUE",
