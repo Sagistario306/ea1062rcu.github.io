@@ -13532,10 +13532,10 @@
  },
  {
   "indicativo": "YC2UAI",
-  "codigo": "NESSKM",
-  "fecha": "2026-09-13 17:22:49",
+  "codigo": "DD93W2",
+  "fecha": "2026-10-20 00:27:13",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YC2UAI_2026-09.webp"
+  "archivo": "qsl/QSL_YC2UAI_2026-10.webp"
  },
  {
   "indicativo": "HI8J",
@@ -32723,6 +32723,13 @@
   "fecha": "2026-09-25 00:09 UTC",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE3FFC_2026-09.webp"
+ },
+ {
+  "indicativo": "YC2UAI",
+  "codigo": "NESSKM",
+  "fecha": "2026-09-13 17:23 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_YC2UAI_2026-09.webp"
  },
  {
   "indicativo": "HI8J",
