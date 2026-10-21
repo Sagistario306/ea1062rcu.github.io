@@ -9094,17 +9094,10 @@
  },
  {
   "indicativo": "9M2DSL",
-  "codigo": "JCDB24",
-  "fecha": "2026-09-02 00:23:40",
+  "codigo": "ZMBPS8",
+  "fecha": "2026-10-21 00:01:32",
   "pais": "Malasia",
-  "archivo": "qsl/QSL_9M2DSL_2026-09.webp"
- },
- {
-  "indicativo": "9M2DSL",
-  "codigo": "A4XFB9",
-  "fecha": "2026-09-02 00:23:45",
-  "pais": "Malasia",
-  "archivo": "qsl/QSL_9M2DSL_2026-09_EV.webp"
+  "archivo": "qsl/QSL_9M2DSL_2026-10.webp"
  },
  {
   "indicativo": "JH0YKS",
@@ -31421,6 +31414,20 @@
   "fecha": "2026-09-25 12:35 UTC",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP6EEM_2026-09.webp"
+ },
+ {
+  "indicativo": "9M2DSL",
+  "codigo": "JCDB24",
+  "fecha": "2026-09-02 00:23 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_9M2DSL_2026-09.webp"
+ },
+ {
+  "indicativo": "9M2DSL",
+  "codigo": "A4XFB9",
+  "fecha": "2026-09-02 00:23 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_9M2DSL_2026-09_EV.webp"
  },
  {
   "indicativo": "9W2KPD",
