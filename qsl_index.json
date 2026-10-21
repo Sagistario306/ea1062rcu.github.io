@@ -22338,10 +22338,10 @@
  },
  {
   "indicativo": "LU2ALS",
-  "codigo": "CC9RQ2",
-  "fecha": "2026-09-15 19:03:02",
+  "codigo": "BSVXEY",
+  "fecha": "2026-10-21 02:28:40",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU2ALS_2026-09.png"
+  "archivo": "qsl/QSL_LU2ALS_2026-10.webp"
  },
  {
   "indicativo": "KP4RDS",
@@ -35712,6 +35712,13 @@
   "fecha": "2026-09-15 03:09 UTC",
   "pais": "",
   "archivo": "qsl/QSL_XE2RDX_2026-09.png"
+ },
+ {
+  "indicativo": "LU2ALS",
+  "codigo": "CC9RQ2",
+  "fecha": "2026-09-15 19:03 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_LU2ALS_2026-09.png"
  },
  {
   "indicativo": "KP4RDS",
