@@ -24613,10 +24613,10 @@
  },
  {
   "indicativo": "XE1HJN",
-  "codigo": "U5Z9Z6",
-  "fecha": "2026-09-23 17:21:05",
+  "codigo": "AFQ27K",
+  "fecha": "2026-10-21 18:35:08",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1HJN_2026-09.webp"
+  "archivo": "qsl/QSL_XE1HJN_2026-10.webp"
  },
  {
   "indicativo": "YV5JDP",
@@ -36230,6 +36230,13 @@
   "fecha": "2026-09-23 13:03 UTC",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1AQX_2026-09.webp"
+ },
+ {
+  "indicativo": "XE1HJN",
+  "codigo": "U5Z9Z6",
+  "fecha": "2026-09-23 17:21 UTC",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1HJN_2026-09.webp"
  },
  {
   "indicativo": "XE2LAT",
