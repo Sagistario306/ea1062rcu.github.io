@@ -7876,17 +7876,10 @@
  },
  {
   "indicativo": "JH3XPP",
-  "codigo": "GPXAYP",
-  "fecha": "2026-09-03 00:09:27",
+  "codigo": "ZH2DB8",
+  "fecha": "2026-10-21 00:01:49",
   "pais": "Japon",
-  "archivo": "qsl/QSL_JH3XPP_2026-09.webp"
- },
- {
-  "indicativo": "JH3XPP",
-  "codigo": "8V6Y7P",
-  "fecha": "2026-09-03 00:09:32",
-  "pais": "Japon",
-  "archivo": "qsl/QSL_JH3XPP_2026-09_EV.webp"
+  "archivo": "qsl/QSL_JH3XPP_2026-10.webp"
  },
  {
   "indicativo": "YD3DCY",
@@ -30854,6 +30847,20 @@
   "fecha": "2026-09-01 14:41 UTC",
   "pais": "",
   "archivo": "qsl/QSL_EA6WQ_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "JH3XPP",
+  "codigo": "GPXAYP",
+  "fecha": "2026-09-03 00:09 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_JH3XPP_2026-09.webp"
+ },
+ {
+  "indicativo": "JH3XPP",
+  "codigo": "8V6Y7P",
+  "fecha": "2026-09-03 00:09 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_JH3XPP_2026-09_EV.webp"
  },
  {
   "indicativo": "LW2DBP",
