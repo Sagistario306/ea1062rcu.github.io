@@ -22569,10 +22569,10 @@
  },
  {
   "indicativo": "KB7VGK",
-  "codigo": "K6MGZG",
-  "fecha": "2026-09-16 14:36:22",
+  "codigo": "XU8MXU",
+  "fecha": "2026-10-21 00:00:07",
   "pais": "EE.UU",
-  "archivo": "qsl/QSL_KB7VGK_2026-09.webp"
+  "archivo": "qsl/QSL_KB7VGK_2026-10.webp"
  },
  {
   "indicativo": "KA4DRZ",
@@ -35551,6 +35551,13 @@
   "fecha": "2026-09-16 14:35 UTC",
   "pais": "",
   "archivo": "qsl/QSL_KH6JUZ_2026-09.png"
+ },
+ {
+  "indicativo": "KB7VGK",
+  "codigo": "K6MGZG",
+  "fecha": "2026-09-16 14:36 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_KB7VGK_2026-09.png"
  },
  {
   "indicativo": "DB0SDA",
