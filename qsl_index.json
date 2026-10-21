@@ -3963,10 +3963,10 @@
  },
  {
   "indicativo": "EA2FFX",
-  "codigo": "2YZU3R",
-  "fecha": "2026-09-29 00:00:38",
+  "codigo": "QNCV5C",
+  "fecha": "2026-10-21 00:08:51",
   "pais": "España",
-  "archivo": "qsl/QSL_EA2FFX_2026-09.webp"
+  "archivo": "qsl/QSL_EA2FFX_2026-10.webp"
  },
  {
   "indicativo": "TI2DRU",
@@ -29342,6 +29342,13 @@
   "fecha": "2026-09-02 00:44 UTC",
   "pais": "",
   "archivo": "qsl/QSL_9M2JUE_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "EA2FFX",
+  "codigo": "2YZU3R",
+  "fecha": "2026-09-29 00:00 UTC",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA2FFX_2026-09.webp"
  },
  {
   "indicativo": "TI2DRU",
