@@ -25719,10 +25719,10 @@
  },
  {
   "indicativo": "HP1AAD",
-  "codigo": "2ACTKN",
-  "fecha": "2026-09-28 18:23:25",
+  "codigo": "VZVFJ8",
+  "fecha": "2026-10-21 15:35:32",
   "pais": "Panama",
-  "archivo": "qsl/QSL_HP1AAD_2026-09.webp"
+  "archivo": "qsl/QSL_HP1AAD_2026-10.webp"
  },
  {
   "indicativo": "YY5LSD",
@@ -36517,6 +36517,13 @@
   "fecha": "2026-09-28 13:26 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2MEM_2026-09.webp"
+ },
+ {
+  "indicativo": "HP1AAD",
+  "codigo": "2ACTKN",
+  "fecha": "2026-09-28 18:23 UTC",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP1AAD_2026-09.webp"
  },
  {
   "indicativo": "HR1LEO",
