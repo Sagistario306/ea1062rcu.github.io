@@ -8667,17 +8667,10 @@
  },
  {
   "indicativo": "LW5DR",
-  "codigo": "3D5TJX",
-  "fecha": "2026-09-01 14:40:57",
+  "codigo": "P3M7A4",
+  "fecha": "2026-10-21 12:56:26",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LW5DR_2026-09.webp"
- },
- {
-  "indicativo": "LW5DR",
-  "codigo": "3UMJ8M",
-  "fecha": "2026-09-01 14:41:02",
-  "pais": "Argentina",
-  "archivo": "qsl/QSL_LW5DR_2026-09_EV.webp"
+  "archivo": "qsl/QSL_LW5DR_2026-10.webp"
  },
  {
   "indicativo": "LU2HNC",
@@ -31288,6 +31281,20 @@
   "fecha": "2026-09-26 15:33 UTC",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE4FVQ_2026-09.webp"
+ },
+ {
+  "indicativo": "LW5DR",
+  "codigo": "3D5TJX",
+  "fecha": "2026-09-01 14:41 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_LW5DR_2026-09.webp"
+ },
+ {
+  "indicativo": "LW5DR",
+  "codigo": "3UMJ8M",
+  "fecha": "2026-09-01 14:41 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_LW5DR_2026-09_EV.webp"
  },
  {
   "indicativo": "YV7BMZ",
