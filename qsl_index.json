@@ -23934,10 +23934,10 @@
  },
  {
   "indicativo": "PR2KW",
-  "codigo": "52ZB2G",
-  "fecha": "2026-09-19 00:00:00",
+  "codigo": "N8JAUM",
+  "fecha": "2026-10-21 00:01:56",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PR2KW_2026-09.webp"
+  "archivo": "qsl/QSL_PR2KW_2026-10.webp"
  },
  {
   "indicativo": "PU5RFP",
@@ -35831,6 +35831,13 @@
   "fecha": "2026-09-18 14:06 UTC",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP4ORP_2026-09.webp"
+ },
+ {
+  "indicativo": "PR2KW",
+  "codigo": "52ZB2G",
+  "fecha": "2026-09-19 00:00 UTC",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PR2KW_2026-09.webp"
  },
  {
   "indicativo": "HR2LED",
