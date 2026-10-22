@@ -24592,10 +24592,10 @@
  },
  {
   "indicativo": "OA4EGY",
-  "codigo": "847RV7",
-  "fecha": "2026-09-23 13:35:46",
+  "codigo": "TWBEUY",
+  "fecha": "2026-10-22 14:24:27",
   "pais": "Peru",
-  "archivo": "qsl/QSL_OA4EGY_2026-09.webp"
+  "archivo": "qsl/QSL_OA4EGY_2026-10.webp"
  },
  {
   "indicativo": "LU9DOA",
@@ -36496,6 +36496,13 @@
   "fecha": "2026-09-23 13:03 UTC",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1AQX_2026-09.webp"
+ },
+ {
+  "indicativo": "OA4EGY",
+  "codigo": "847RV7",
+  "fecha": "2026-09-23 13:35 UTC",
+  "pais": "Peru",
+  "archivo": "qsl/QSL_OA4EGY_2026-09.webp"
  },
  {
   "indicativo": "XE1HJN",
