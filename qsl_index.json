@@ -24683,10 +24683,10 @@
  },
  {
   "indicativo": "LU4QCI",
-  "codigo": "7F6TC5",
-  "fecha": "2026-09-24 16:36:43",
+  "codigo": "ANQ9Y2",
+  "fecha": "2026-10-22 01:05:16",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU4QCI_2026-09.webp"
+  "archivo": "qsl/QSL_LU4QCI_2026-10.webp"
  },
  {
   "indicativo": "XE2LAT",
@@ -36391,6 +36391,13 @@
   "fecha": "2026-09-23 17:21 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1HJN_2026-09.webp"
+ },
+ {
+  "indicativo": "LU4QCI",
+  "codigo": "7F6TC5",
+  "fecha": "2026-09-24 16:36 UTC",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU4QCI_2026-09.webp"
  },
  {
   "indicativo": "XE2LAT",
