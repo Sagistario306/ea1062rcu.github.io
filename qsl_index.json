@@ -2640,17 +2640,10 @@
  },
  {
   "indicativo": "YD6HGG",
-  "codigo": "T6HGS2",
-  "fecha": "2026-09-05 15:03:33",
+  "codigo": "W9MMTF",
+  "fecha": "2026-10-22 00:28:11",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YD6HGG_2026-09.webp"
- },
- {
-  "indicativo": "YD6HGG",
-  "codigo": "SPPXGX",
-  "fecha": "2026-09-05 15:03:39",
-  "pais": "Indonesia",
-  "archivo": "qsl/QSL_YD6HGG_2026-09_EV.png"
+  "archivo": "qsl/QSL_YD6HGG_2026-10.webp"
  },
  {
   "indicativo": "EA8EE",
@@ -35656,6 +35649,20 @@
   "fecha": "2026-09-05 14:22 UTC",
   "pais": "",
   "archivo": "qsl/QSL_XE2MMT_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "YD6HGG",
+  "codigo": "T6HGS2",
+  "fecha": "2026-09-05 15:03 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_YD6HGG_2026-09.webp"
+ },
+ {
+  "indicativo": "YD6HGG",
+  "codigo": "SPPXGX",
+  "fecha": "2026-09-05 15:03 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_YD6HGG_2026-09_EV.webp"
  },
  {
   "indicativo": "EA5JSM",
