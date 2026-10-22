@@ -24616,7 +24616,7 @@
   "codigo": "AFQ27K",
   "fecha": "2026-10-21 18:35:08",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1HJN_2026-10.webp"
+  "archivo": "qsl/QSL_XE1HJN_2026-10.png"
  },
  {
   "indicativo": "YV5JDP",
@@ -29482,6 +29482,13 @@
   "fecha": "2026-10-21 16:47:12",
   "pais": "Polonia",
   "archivo": "qsl/QSL_SQ9MTX_2026-10.webp"
+ },
+ {
+  "indicativo": "NB2Y",
+  "codigo": "C7ZSJM",
+  "fecha": "2026-10-22 00:15:54",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_NB2Y_2026-10.webp"
  },
  {
   "indicativo": "9M2JUE",
