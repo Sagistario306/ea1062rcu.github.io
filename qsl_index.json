@@ -12510,10 +12510,10 @@
  },
  {
   "indicativo": "EA4HQQ",
-  "codigo": "PTW366",
-  "fecha": "2026-09-08 21:24:53",
+  "codigo": "XK7BGK",
+  "fecha": "2026-10-22 00:19:02",
   "pais": "España",
-  "archivo": "qsl/QSL_EA4HQQ_2026-09.webp"
+  "archivo": "qsl/QSL_EA4HQQ_2026-10.webp"
  },
  {
   "indicativo": "HI8CJG",
@@ -32968,6 +32968,13 @@
   "fecha": "2026-09-25 10:37 UTC",
   "pais": "Republica Dominicana",
   "archivo": "qsl/QSL_HI8K_2026-09.webp"
+ },
+ {
+  "indicativo": "EA4HQQ",
+  "codigo": "PTW366",
+  "fecha": "2026-09-08 21:25 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_EA4HQQ_2026-09.webp"
  },
  {
   "indicativo": "HI8CJG",
