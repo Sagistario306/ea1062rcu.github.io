@@ -24165,10 +24165,10 @@
  },
  {
   "indicativo": "EA1IXG",
-  "codigo": "PVDDED",
-  "fecha": "2026-09-20 00:23:12",
+  "codigo": "W57XJ4",
+  "fecha": "2026-10-23 00:23:56",
   "pais": "España",
-  "archivo": "qsl/QSL_EA1IXG_2026-09.png"
+  "archivo": "qsl/QSL_EA1IXG_2026-10.webp"
  },
  {
   "indicativo": "PY5POL",
@@ -36531,6 +36531,13 @@
   "fecha": "2026-09-20 00:20 UTC",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PP2CC_2026-09.webp"
+ },
+ {
+  "indicativo": "EA1IXG",
+  "codigo": "PVDDED",
+  "fecha": "2026-09-20 00:23 UTC",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA1IXG_2026-09.webp"
  },
  {
   "indicativo": "CE6RLA",
