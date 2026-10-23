@@ -20119,10 +20119,10 @@
  },
  {
   "indicativo": "LU8CSM",
-  "codigo": "MT2HT8",
-  "fecha": "2026-09-09 20:39:32",
+  "codigo": "PRJFGD",
+  "fecha": "2026-10-23 11:52:43",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU8CSM_2026-09.webp"
+  "archivo": "qsl/QSL_LU8CSM_2026-10.webp"
  },
  {
   "indicativo": "HK4DAP",
@@ -36174,6 +36174,13 @@
   "fecha": "2026-09-09 17:07 UTC",
   "pais": "",
   "archivo": "qsl/QSL_CE2VQD_2026-09.webp"
+ },
+ {
+  "indicativo": "LU8CSM",
+  "codigo": "MT2HT8",
+  "fecha": "2026-09-09 20:39 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_LU8CSM_2026-09.webp"
  },
  {
   "indicativo": "HK4DAP",
