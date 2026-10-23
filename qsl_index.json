@@ -23591,10 +23591,10 @@
  },
  {
   "indicativo": "PY2TOW",
-  "codigo": "QM86QA",
-  "fecha": "2026-09-16 15:29:15",
+  "codigo": "5JNC39",
+  "fecha": "2026-10-23 00:00:49",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY2TOW_2026-09.webp"
+  "archivo": "qsl/QSL_PY2TOW_2026-10.webp"
  },
  {
   "indicativo": "PY6GOE",
@@ -36328,6 +36328,13 @@
   "fecha": "2026-09-16 15:29 UTC",
   "pais": "",
   "archivo": "qsl/QSL_PR2AR_2026-09.png"
+ },
+ {
+  "indicativo": "PY2TOW",
+  "codigo": "QM86QA",
+  "fecha": "2026-09-16 15:29 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_PY2TOW_2026-09.png"
  },
  {
   "indicativo": "TI3FAM",
