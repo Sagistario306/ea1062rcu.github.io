@@ -22261,10 +22261,10 @@
  },
  {
   "indicativo": "EA1HOT",
-  "codigo": "9GAH3W",
-  "fecha": "2026-09-15 09:52:14",
+  "codigo": "PJAV9J",
+  "fecha": "2026-10-24 00:03:25",
   "pais": "España",
-  "archivo": "qsl/QSL_EA1HOT_2026-09.png"
+  "archivo": "qsl/QSL_EA1HOT_2026-10.webp"
  },
  {
   "indicativo": "EA5JPD",
@@ -36482,6 +36482,13 @@
   "fecha": "2026-09-15 03:09 UTC",
   "pais": "",
   "archivo": "qsl/QSL_XE2RDX_2026-09.png"
+ },
+ {
+  "indicativo": "EA1HOT",
+  "codigo": "9GAH3W",
+  "fecha": "2026-09-15 09:52 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_EA1HOT_2026-09.png"
  },
  {
   "indicativo": "LU2ALS",
