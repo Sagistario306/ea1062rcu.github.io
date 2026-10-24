@@ -11579,10 +11579,10 @@
  },
  {
   "indicativo": "LU9CNS",
-  "codigo": "Q5VW5B",
-  "fecha": "2026-09-26 00:02:49",
+  "codigo": "VGVZ7C",
+  "fecha": "2026-10-24 12:49:34",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU9CNS_2026-09.png"
+  "archivo": "qsl/QSL_LU9CNS_2026-10.webp"
  },
  {
   "indicativo": "HP3EYZ",
@@ -33171,6 +33171,13 @@
   "fecha": "2026-09-25 00:14 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1LAB_2026-09.webp"
+ },
+ {
+  "indicativo": "LU9CNS",
+  "codigo": "Q5VW5B",
+  "fecha": "2026-09-26 00:02 UTC",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU9CNS_2026-09.webp"
  },
  {
   "indicativo": "CE3AEA",
