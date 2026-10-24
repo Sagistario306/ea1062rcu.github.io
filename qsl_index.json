@@ -24396,10 +24396,10 @@
  },
  {
   "indicativo": "PY5QQ",
-  "codigo": "SFJRC6",
-  "fecha": "2026-09-22 00:00:24",
+  "codigo": "5UCPMK",
+  "fecha": "2026-10-24 00:10:17",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY5QQ_2026-09.webp"
+  "archivo": "qsl/QSL_PY5QQ_2026-10.webp"
  },
  {
   "indicativo": "LU4AFJ",
@@ -36825,6 +36825,13 @@
   "fecha": "2026-09-21 21:55 UTC",
   "pais": "Uruguay",
   "archivo": "qsl/QSL_CX6BK_2026-09.webp"
+ },
+ {
+  "indicativo": "PY5QQ",
+  "codigo": "SFJRC6",
+  "fecha": "2026-09-22 00:00 UTC",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY5QQ_2026-09.webp"
  },
  {
   "indicativo": "HQ7CEE",
