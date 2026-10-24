@@ -19636,10 +19636,10 @@
  },
  {
   "indicativo": "EA3FQO",
-  "codigo": "3GADE7",
-  "fecha": "2026-09-08 13:57:40",
+  "codigo": "V63YFW",
+  "fecha": "2026-10-24 05:29:55",
   "pais": "España",
-  "archivo": "qsl/QSL_EA3FQO_2026-09.png"
+  "archivo": "qsl/QSL_EA3FQO_2026-10.webp"
  },
  {
   "indicativo": "EA8CLY",
@@ -36391,6 +36391,13 @@
   "fecha": "2026-09-08 13:55 UTC",
   "pais": "",
   "archivo": "qsl/QSL_EA3IWN_2026-09.png"
+ },
+ {
+  "indicativo": "EA3FQO",
+  "codigo": "3GADE7",
+  "fecha": "2026-09-08 13:57 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_EA3FQO_2026-09.webp"
  },
  {
   "indicativo": "JH4AMC",
