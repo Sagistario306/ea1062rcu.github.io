@@ -6423,7 +6423,7 @@
   "codigo": "UHVAE3",
   "fecha": "2026-10-24 01:24:11",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YD3BEQ_2026-10.webp"
+  "archivo": "qsl/QSL_YD3BEQ_2026-10.png"
  },
  {
   "indicativo": "XE2SK",
@@ -29930,6 +29930,13 @@
   "fecha": "2026-10-24 00:36:52",
   "pais": "Indonesia",
   "archivo": "qsl/QSL_YD2UNL_2026-10.webp"
+ },
+ {
+  "indicativo": "VK3ZAZ",
+  "codigo": "PTPJY6",
+  "fecha": "2026-10-24 01:57:16",
+  "pais": "Australia",
+  "archivo": "qsl/QSL_VK3ZAZ_2026-10.webp"
  },
  {
   "indicativo": "9M2JUE",
