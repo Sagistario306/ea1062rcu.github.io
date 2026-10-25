@@ -20406,10 +20406,10 @@
  },
  {
   "indicativo": "LW9DGO",
-  "codigo": "YMSFRC",
-  "fecha": "2026-09-10 10:49:38",
+  "codigo": "6JFWEB",
+  "fecha": "2026-10-25 20:42:19",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LW9DGO_2026-09.webp"
+  "archivo": "qsl/QSL_LW9DGO_2026-10.webp"
  },
  {
   "indicativo": "NP4AT",
@@ -30153,7 +30153,7 @@
   "codigo": "EXCCSD",
   "fecha": "2026-10-25 19:02:24",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YB0CSP_2026-10.webp"
+  "archivo": "qsl/QSL_YB0CSP_2026-10.png"
  },
  {
   "indicativo": "9M2JUE",
@@ -36713,6 +36713,13 @@
   "fecha": "2026-09-10 03:57 UTC",
   "pais": "",
   "archivo": "qsl/QSL_HJ6AFK_2026-09.webp"
+ },
+ {
+  "indicativo": "LW9DGO",
+  "codigo": "YMSFRC",
+  "fecha": "2026-09-10 10:49 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_LW9DGO_2026-09.webp"
  },
  {
   "indicativo": "DU8BL",
