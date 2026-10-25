@@ -21925,10 +21925,10 @@
  },
  {
   "indicativo": "9M2EDQ",
-  "codigo": "SK2SVN",
-  "fecha": "2026-09-14 08:51:11",
+  "codigo": "CGXTH6",
+  "fecha": "2026-10-25 03:53:24",
   "pais": "Malasia",
-  "archivo": "qsl/QSL_9M2EDQ_2026-09.webp"
+  "archivo": "qsl/QSL_9M2EDQ_2026-10.webp"
  },
  {
   "indicativo": "9W2JAP",
@@ -36769,6 +36769,13 @@
   "fecha": "2026-09-13 22:19 UTC",
   "pais": "",
   "archivo": "qsl/QSL_CX8BLD_2026-09.webp"
+ },
+ {
+  "indicativo": "9M2EDQ",
+  "codigo": "SK2SVN",
+  "fecha": "2026-09-14 08:51 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_9M2EDQ_2026-09.webp"
  },
  {
   "indicativo": "XE2HEC",
