@@ -3917,7 +3917,7 @@
   "codigo": "YYWVW4",
   "fecha": "2026-10-24 14:50:30",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU1VG_2026-10.webp"
+  "archivo": "qsl/QSL_LU1VG_2026-10.png"
  },
  {
   "indicativo": "9M2JUE",
@@ -30021,6 +30021,13 @@
   "fecha": "2026-10-24 12:20:12",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HJ5K_2026-10.webp"
+ },
+ {
+  "indicativo": "AC5RN",
+  "codigo": "PBXU77",
+  "fecha": "2026-10-25 03:44:50",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_AC5RN_2026-10.webp"
  },
  {
   "indicativo": "9M2JUE",
