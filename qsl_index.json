@@ -274,10 +274,10 @@
  },
  {
   "indicativo": "TI4OP",
-  "codigo": "H5AUNP",
-  "fecha": "2026-09-24 21:24:53",
+  "codigo": "PZD7AT",
+  "fecha": "2026-10-25 23:33:24",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI4OP_2026-09.webp"
+  "archivo": "qsl/QSL_TI4OP_2026-10.webp"
  },
  {
   "indicativo": "HK4D",
@@ -37350,6 +37350,13 @@
   "fecha": "2026-09-24 21:21 UTC",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI3GB_2026-09.webp"
+ },
+ {
+  "indicativo": "TI4OP",
+  "codigo": "H5AUNP",
+  "fecha": "2026-09-24 21:24 UTC",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI4OP_2026-09.webp"
  },
  {
   "indicativo": "HK4AM",
