@@ -30,9 +30,9 @@
  {
   "num": 5,
   "indicativo": "YD7KVL",
-  "nivel": "VIP",
+  "nivel": "ESMERALDA",
   "ingreso": "202608",
-  "total": 2
+  "total": 3
  },
  {
   "num": 6,
@@ -88,6 +88,13 @@
   "indicativo": "LU4DOV",
   "nivel": "VIP",
   "ingreso": "202608",
+  "total": 1
+ },
+ {
+  "num": 14,
+  "indicativo": "LU4KEG",
+  "nivel": "VIP",
+  "ingreso": "2026-09",
   "total": 1
  },
  {
@@ -163,9 +170,9 @@
  {
   "num": 25,
   "indicativo": "LU4FGS",
-  "nivel": "VIP",
+  "nivel": "ESMERALDA",
   "ingreso": "202608",
-  "total": 2
+  "total": 3
  },
  {
   "num": 26,
@@ -186,6 +193,13 @@
   "indicativo": "LU2DGE",
   "nivel": "VIP",
   "ingreso": "202608",
+  "total": 1
+ },
+ {
+  "num": 29,
+  "indicativo": "PR2AR",
+  "nivel": "VIP",
+  "ingreso": "2026-09",
   "total": 1
  },
  {
@@ -277,7 +291,7 @@
   "indicativo": "EB1AD",
   "nivel": "VIP",
   "ingreso": "202608",
-  "total": 1
+  "total": 2
  },
  {
   "num": 43,
@@ -387,9 +401,9 @@
  {
   "num": 58,
   "indicativo": "YV5GHW",
-  "nivel": "VIP",
+  "nivel": "ESMERALDA",
   "ingreso": "2026-09",
-  "total": 2
+  "total": 3
  },
  {
   "num": 59,
@@ -443,16 +457,16 @@
  {
   "num": 66,
   "indicativo": "LU2XCV",
-  "nivel": "VIP",
+  "nivel": "ESMERALDA",
   "ingreso": "2026-09",
-  "total": 2
+  "total": 3
  },
  {
   "num": 67,
   "indicativo": "LU6EGD",
-  "nivel": "VIP",
+  "nivel": "ESMERALDA",
   "ingreso": "2026-09",
-  "total": 2
+  "total": 3
  },
  {
   "num": 68,
@@ -543,7 +557,7 @@
   "indicativo": "YD9IRE",
   "nivel": "VIP",
   "ingreso": "2026-09",
-  "total": 1
+  "total": 2
  },
  {
   "num": 81,
@@ -611,9 +625,9 @@
  {
   "num": 90,
   "indicativo": "YC1SNI",
-  "nivel": "VIP",
+  "nivel": "ESMERALDA",
   "ingreso": "2026-09",
-  "total": 2
+  "total": 3
  },
  {
   "num": 91,
@@ -688,9 +702,9 @@
  {
   "num": 101,
   "indicativo": "YC2UAI",
-  "nivel": "VIP",
+  "nivel": "ESMERALDA",
   "ingreso": "2026-09",
-  "total": 2
+  "total": 3
  },
  {
   "num": 102,
@@ -737,6 +751,13 @@
  {
   "num": 108,
   "indicativo": "YV4AVN",
+  "nivel": "VIP",
+  "ingreso": "2026-09",
+  "total": 1
+ },
+ {
+  "num": 109,
+  "indicativo": "EA4CPM",
   "nivel": "VIP",
   "ingreso": "2026-09",
   "total": 1
@@ -807,27 +828,6 @@
  {
   "num": 119,
   "indicativo": "YD6ATD",
-  "nivel": "VIP",
-  "ingreso": "2026-09",
-  "total": 1
- },
- {
-  "num": 29,
-  "indicativo": "PR2AR",
-  "nivel": "VIP",
-  "ingreso": "2026-09",
-  "total": 1
- },
- {
-  "num": 14,
-  "indicativo": "LU4KEG",
-  "nivel": "VIP",
-  "ingreso": "2026-09",
-  "total": 1
- },
- {
-  "num": 109,
-  "indicativo": "EA4CPM",
   "nivel": "VIP",
   "ingreso": "2026-09",
   "total": 1
@@ -921,14 +921,14 @@
   "indicativo": "CE4JVU",
   "nivel": "VIP",
   "ingreso": "2026-10",
-  "total": 1
+  "total": 2
  },
  {
   "num": 133,
   "indicativo": "HR2LED",
   "nivel": "VIP",
   "ingreso": "2026-10",
-  "total": 1
+  "total": 2
  },
  {
   "num": 134,
@@ -961,6 +961,62 @@
  {
   "num": 138,
   "indicativo": "XE1ZRG",
+  "nivel": "VIP",
+  "ingreso": "2026-10",
+  "total": 1
+ },
+ {
+  "num": 139,
+  "indicativo": "YC3LDO",
+  "nivel": "VIP",
+  "ingreso": "2026-10",
+  "total": 2
+ },
+ {
+  "num": 140,
+  "indicativo": "YD6SRR",
+  "nivel": "VIP",
+  "ingreso": "2026-10",
+  "total": 1
+ },
+ {
+  "num": 141,
+  "indicativo": "EB1MM",
+  "nivel": "VIP",
+  "ingreso": "2026-10",
+  "total": 1
+ },
+ {
+  "num": 142,
+  "indicativo": "XE1ELI",
+  "nivel": "VIP",
+  "ingreso": "2026-10",
+  "total": 2
+ },
+ {
+  "num": 143,
+  "indicativo": "YY6RTJ",
+  "nivel": "VIP",
+  "ingreso": "2026-10",
+  "total": 2
+ },
+ {
+  "num": 144,
+  "indicativo": "HC3RB",
+  "nivel": "VIP",
+  "ingreso": "2026-10",
+  "total": 1
+ },
+ {
+  "num": 145,
+  "indicativo": "YD6AOR",
+  "nivel": "VIP",
+  "ingreso": "2026-10",
+  "total": 1
+ },
+ {
+  "num": 146,
+  "indicativo": "LU9EFF",
   "nivel": "VIP",
   "ingreso": "2026-10",
   "total": 1
