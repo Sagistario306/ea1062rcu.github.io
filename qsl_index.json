@@ -21596,10 +21596,10 @@
  },
  {
   "indicativo": "LU6AFP",
-  "codigo": "GF3XNN",
-  "fecha": "2026-09-13 08:00:38",
+  "codigo": "S2PJKF",
+  "fecha": "2026-10-25 18:58:28",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU6AFP_2026-09.webp"
+  "archivo": "qsl/QSL_LU6AFP_2026-10.webp"
  },
  {
   "indicativo": "EA5ABG",
@@ -36811,6 +36811,13 @@
   "fecha": "2026-09-13 07:26 UTC",
   "pais": "",
   "archivo": "qsl/QSL_YD1AJQ_2026-09.webp"
+ },
+ {
+  "indicativo": "LU6AFP",
+  "codigo": "GF3XNN",
+  "fecha": "2026-09-13 08:00 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_LU6AFP_2026-09.webp"
  },
  {
   "indicativo": "HK3ER",
