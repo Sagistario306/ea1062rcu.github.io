@@ -25649,10 +25649,10 @@
  },
  {
   "indicativo": "HS3LIQ",
-  "codigo": "H55FEG",
-  "fecha": "2026-09-28 00:00:09",
+  "codigo": "TRG2HM",
+  "fecha": "2026-10-26 13:11:48",
   "pais": "Tailandia",
-  "archivo": "qsl/QSL_HS3LIQ_2026-09.webp"
+  "archivo": "qsl/QSL_HS3LIQ_2026-10.webp"
  },
  {
   "indicativo": "IV3AQU",
@@ -38477,6 +38477,13 @@
   "fecha": "2026-09-27 16:03 UTC",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HJ1ACR_2026-09.webp"
+ },
+ {
+  "indicativo": "HS3LIQ",
+  "codigo": "H55FEG",
+  "fecha": "2026-09-28 00:00 UTC",
+  "pais": "Tailandia",
+  "archivo": "qsl/QSL_HS3LIQ_2026-09.webp"
  },
  {
   "indicativo": "PY2KUU",
