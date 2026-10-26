@@ -24592,10 +24592,10 @@
  },
  {
   "indicativo": "LU1BA",
-  "codigo": "EZTSE2",
-  "fecha": "2026-09-22 01:42:56",
-  "pais": "Argentina",
-  "archivo": "qsl/QSL_LU1BA_2026-09.png"
+  "codigo": "MXHZ8T",
+  "fecha": "2026-10-26 12:35:29",
+  "pais": "Antartida",
+  "archivo": "qsl/QSL_LU1BA_2026-10.webp"
  },
  {
   "indicativo": "EA3JBB",
@@ -37693,6 +37693,13 @@
   "fecha": "2026-09-22 01:24 UTC",
   "pais": "Honduras",
   "archivo": "qsl/QSL_HQ7CEE_2026-09.webp"
+ },
+ {
+  "indicativo": "LU1BA",
+  "codigo": "EZTSE2",
+  "fecha": "2026-09-22 01:42 UTC",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1BA_2026-09.webp"
  },
  {
   "indicativo": "XE2KAS",
