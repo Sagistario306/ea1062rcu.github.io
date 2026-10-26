@@ -5229,6 +5229,13 @@
   "archivo": "qsl/QSL_TG9SRP_2026-10_EV.webp"
  },
  {
+  "indicativo": "JR4TAG",
+  "codigo": "W7679W",
+  "fecha": "2026-10-26 00:04:56",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JR4TAG_2026-10.webp"
+ },
+ {
   "indicativo": "YG2CFW",
   "codigo": "4WBMM9",
   "fecha": "2026-10-10 00:02:06",
