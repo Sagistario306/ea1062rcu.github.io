@@ -30198,6 +30198,13 @@
   "archivo": "qsl/QSL_VE2SIG_2026-10.webp"
  },
  {
+  "indicativo": "VE2GFV",
+  "codigo": "SNFV4V",
+  "fecha": "2026-10-26 00:01:27",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE2GFV_2026-10.webp"
+ },
+ {
   "indicativo": "9M2JUE",
   "codigo": "M2GZB6",
   "fecha": "2026-09-02 00:44 UTC",
