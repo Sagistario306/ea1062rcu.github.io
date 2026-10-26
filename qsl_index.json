@@ -21708,10 +21708,10 @@
  },
  {
   "indicativo": "JH1XPA",
-  "codigo": "PW7EHH",
-  "fecha": "2026-09-13 14:04:45",
+  "codigo": "3NETUB",
+  "fecha": "2026-10-26 00:02:49",
   "pais": "Japon",
-  "archivo": "qsl/QSL_JH1XPA_2026-09.webp"
+  "archivo": "qsl/QSL_JH1XPA_2026-10.webp"
  },
  {
   "indicativo": "9W2ZVD",
@@ -36930,6 +36930,13 @@
   "fecha": "2026-09-13 08:00 UTC",
   "pais": "",
   "archivo": "qsl/QSL_LU6AFP_2026-09.webp"
+ },
+ {
+  "indicativo": "JH1XPA",
+  "codigo": "PW7EHH",
+  "fecha": "2026-09-13 14:04 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_JH1XPA_2026-09.webp"
  },
  {
   "indicativo": "HK3ER",
