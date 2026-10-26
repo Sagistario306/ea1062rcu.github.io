@@ -23129,10 +23129,10 @@
  },
  {
   "indicativo": "CS5CC",
-  "codigo": "EGBSHM",
-  "fecha": "2026-09-16 14:42:37",
+  "codigo": "TPEBCH",
+  "fecha": "2026-10-26 13:12:04",
   "pais": "Portugal",
-  "archivo": "qsl/QSL_CS5CC_2026-09.webp"
+  "archivo": "qsl/QSL_CS5CC_2026-10.webp"
  },
  {
   "indicativo": "PU4ASL",
@@ -37917,6 +37917,13 @@
   "fecha": "2026-09-16 14:42 UTC",
   "pais": "",
   "archivo": "qsl/QSL_ZS2VS_2026-09.png"
+ },
+ {
+  "indicativo": "CS5CC",
+  "codigo": "EGBSHM",
+  "fecha": "2026-09-16 14:42 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_CS5CC_2026-09.png"
  },
  {
   "indicativo": "8P6EX",
