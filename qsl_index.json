@@ -25278,10 +25278,10 @@
  },
  {
   "indicativo": "G7TRL",
-  "codigo": "A7WD62",
-  "fecha": "2026-09-27 00:03:48",
+  "codigo": "WV95PW",
+  "fecha": "2026-10-26 13:13:32",
   "pais": "Reino Unido",
-  "archivo": "qsl/QSL_G7TRL_2026-09.webp"
+  "archivo": "qsl/QSL_G7TRL_2026-10.webp"
  },
  {
   "indicativo": "IZ3LWT",
@@ -38477,6 +38477,13 @@
   "fecha": "2026-09-26 21:06 UTC",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP4FIE_2026-09.webp"
+ },
+ {
+  "indicativo": "G7TRL",
+  "codigo": "A7WD62",
+  "fecha": "2026-09-27 00:03 UTC",
+  "pais": "Reino Unido",
+  "archivo": "qsl/QSL_G7TRL_2026-09.webp"
  },
  {
   "indicativo": "PU2KWZ",
