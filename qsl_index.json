@@ -22989,10 +22989,10 @@
  },
  {
   "indicativo": "VK7RC",
-  "codigo": "TDJ8KR",
-  "fecha": "2026-09-16 14:40:19",
+  "codigo": "GE68QA",
+  "fecha": "2026-10-26 13:11:07",
   "pais": "Australia",
-  "archivo": "qsl/QSL_VK7RC_2026-09.webp"
+  "archivo": "qsl/QSL_VK7RC_2026-10.webp"
  },
  {
   "indicativo": "VU3YAY",
@@ -37861,6 +37861,13 @@
   "fecha": "2026-09-16 14:40 UTC",
   "pais": "",
   "archivo": "qsl/QSL_ZS6EY_2026-09.png"
+ },
+ {
+  "indicativo": "VK7RC",
+  "codigo": "TDJ8KR",
+  "fecha": "2026-09-16 14:40 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_VK7RC_2026-09.png"
  },
  {
   "indicativo": "VE1BZZ",
