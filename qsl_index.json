@@ -277,7 +277,7 @@
   "codigo": "PZD7AT",
   "fecha": "2026-10-25 23:33:24",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI4OP_2026-10.webp"
+  "archivo": "qsl/QSL_TI4OP_2026-10.png"
  },
  {
   "indicativo": "HK4D",
@@ -30147,6 +30147,13 @@
   "fecha": "2026-10-25 19:02:24",
   "pais": "Indonesia",
   "archivo": "qsl/QSL_YB0CSP_2026-10.png"
+ },
+ {
+  "indicativo": "N0YZT",
+  "codigo": "GVKFDQ",
+  "fecha": "2026-10-26 00:00:01",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_N0YZT_2026-10.webp"
  },
  {
   "indicativo": "9M2JUE",
