@@ -21463,10 +21463,10 @@
  },
  {
   "indicativo": "JR2BEF",
-  "codigo": "MZ72RB",
-  "fecha": "2026-09-12 22:56:58",
+  "codigo": "YN9MCZ",
+  "fecha": "2026-10-26 00:00:50",
   "pais": "Japon",
-  "archivo": "qsl/QSL_JR2BEF_2026-09.webp"
+  "archivo": "qsl/QSL_JR2BEF_2026-10.webp"
  },
  {
   "indicativo": "JH9FEH",
@@ -36881,6 +36881,13 @@
   "fecha": "2026-09-12 19:07 UTC",
   "pais": "",
   "archivo": "qsl/QSL_JA1NVL_2026-09.webp"
+ },
+ {
+  "indicativo": "JR2BEF",
+  "codigo": "MZ72RB",
+  "fecha": "2026-09-12 22:57 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_JR2BEF_2026-09.webp"
  },
  {
   "indicativo": "YD1OCG",
