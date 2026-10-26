@@ -24594,8 +24594,8 @@
   "indicativo": "LU1BA",
   "codigo": "MXHZ8T",
   "fecha": "2026-10-26 12:35:29",
-  "pais": "Antartida",
-  "archivo": "qsl/QSL_LU1BA_2026-10.webp"
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1BA_2026-10.png"
  },
  {
   "indicativo": "EA3JBB",
@@ -30495,7 +30495,7 @@
   "indicativo": "KC4FIE",
   "codigo": "ME6598",
   "fecha": "2026-10-26 10:34:17",
-  "pais": "Antartida",
+  "pais": "EE.UU",
   "archivo": "qsl/QSL_KC4FIE_2026-10.webp"
  },
  {
@@ -30518,6 +30518,13 @@
   "fecha": "2026-10-26 11:40:53",
   "pais": "Sudafrica",
   "archivo": "qsl/QSL_ZS1ABU_2026-10.webp"
+ },
+ {
+  "indicativo": "SQ8AMX",
+  "codigo": "6V9REM",
+  "fecha": "2026-10-26 13:02:42",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SQ8AMX_2026-10.webp"
  },
  {
   "indicativo": "9M2JUE",
