@@ -24235,10 +24235,10 @@
  },
  {
   "indicativo": "HJ4JSN",
-  "codigo": "CCFS9D",
-  "fecha": "2026-09-19 20:55:13",
+  "codigo": "BPBPYC",
+  "fecha": "2026-10-26 00:05:33",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ4JSN_2026-09.webp"
+  "archivo": "qsl/QSL_HJ4JSN_2026-10.webp"
  },
  {
   "indicativo": "XE1TWA",
@@ -37273,6 +37273,13 @@
   "fecha": "2026-09-19 03:33 UTC",
   "pais": "Honduras",
   "archivo": "qsl/QSL_HR5PAR_2026-09.webp"
+ },
+ {
+  "indicativo": "HJ4JSN",
+  "codigo": "CCFS9D",
+  "fecha": "2026-09-19 20:55 UTC",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ4JSN_2026-09.webp"
  },
  {
   "indicativo": "XE2NBI",
