@@ -20119,10 +20119,10 @@
  },
  {
   "indicativo": "EA8BC",
-  "codigo": "VY4PSD",
-  "fecha": "2026-09-09 15:49:01",
-  "pais": "España",
-  "archivo": "qsl/QSL_EA8BC_2026-09.webp"
+  "codigo": "QT4JK8",
+  "fecha": "2026-10-26 10:15:03",
+  "pais": "Islas Canarias",
+  "archivo": "qsl/QSL_EA8BC_2026-10.webp"
  },
  {
   "indicativo": "EA4DCE",
@@ -36965,6 +36965,13 @@
   "fecha": "2026-09-09 15:22 UTC",
   "pais": "",
   "archivo": "qsl/QSL_KP3A_2026-09.webp"
+ },
+ {
+  "indicativo": "EA8BC",
+  "codigo": "VY4PSD",
+  "fecha": "2026-09-09 15:49 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_EA8BC_2026-09.webp"
  },
  {
   "indicativo": "CE2VQD",
