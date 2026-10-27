@@ -19552,10 +19552,10 @@
  },
  {
   "indicativo": "JA2QNV",
-  "codigo": "RGM4NM",
-  "fecha": "2026-09-08 01:46:40",
+  "codigo": "GPXM3N",
+  "fecha": "2026-10-27 02:23:47",
   "pais": "Japon",
-  "archivo": "qsl/QSL_JA2QNV_2026-09.webp"
+  "archivo": "qsl/QSL_JA2QNV_2026-10.webp"
  },
  {
   "indicativo": "JR4XKR",
@@ -37861,6 +37861,13 @@
   "fecha": "2026-09-08 00:55 UTC",
   "pais": "",
   "archivo": "qsl/QSL_8P6PE_2026-09.webp"
+ },
+ {
+  "indicativo": "JA2QNV",
+  "codigo": "RGM4NM",
+  "fecha": "2026-09-08 01:46 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_JA2QNV_2026-09.webp"
  },
  {
   "indicativo": "EA3IWN",
