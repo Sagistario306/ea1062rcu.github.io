@@ -25978,10 +25978,10 @@
  },
  {
   "indicativo": "PY6ZIM",
-  "codigo": "XV833Z",
-  "fecha": "2026-09-29 00:00:06",
+  "codigo": "5Y84GA",
+  "fecha": "2026-10-27 09:25:25",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY6ZIM_2026-09.webp"
+  "archivo": "qsl/QSL_PY6ZIM_2026-10.webp"
  },
  {
   "indicativo": "E21TMW",
@@ -39072,6 +39072,13 @@
   "fecha": "2026-09-29 00:00 UTC",
   "pais": "Polonia",
   "archivo": "qsl/QSL_SP2OFR_2026-09.webp"
+ },
+ {
+  "indicativo": "PY6ZIM",
+  "codigo": "XV833Z",
+  "fecha": "2026-09-29 00:00 UTC",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY6ZIM_2026-09.webp"
  },
  {
   "indicativo": "HJ5V",
