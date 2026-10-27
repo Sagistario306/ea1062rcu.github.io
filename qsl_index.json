@@ -24613,10 +24613,10 @@
  },
  {
   "indicativo": "EA3JBB",
-  "codigo": "ZJE99G",
-  "fecha": "2026-09-22 05:52:33",
+  "codigo": "SZ2VDR",
+  "fecha": "2026-10-27 06:58:25",
   "pais": "España",
-  "archivo": "qsl/QSL_EA3JBB_2026-09.webp"
+  "archivo": "qsl/QSL_EA3JBB_2026-10.webp"
  },
  {
   "indicativo": "EA2FKS",
@@ -38547,6 +38547,13 @@
   "fecha": "2026-09-22 01:42 UTC",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1BA_2026-09.webp"
+ },
+ {
+  "indicativo": "EA3JBB",
+  "codigo": "ZJE99G",
+  "fecha": "2026-09-22 05:52 UTC",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA3JBB_2026-09.webp"
  },
  {
   "indicativo": "XE2KAS",
