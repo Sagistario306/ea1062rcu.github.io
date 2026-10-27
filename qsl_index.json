@@ -7715,17 +7715,10 @@
  },
  {
   "indicativo": "EC4DA",
-  "codigo": "RGU66F",
-  "fecha": "2026-09-01 14:38:44",
+  "codigo": "DEPXSA",
+  "fecha": "2026-10-27 07:14:59",
   "pais": "España",
-  "archivo": "qsl/QSL_EC4DA_2026-09.webp"
- },
- {
-  "indicativo": "EC4DA",
-  "codigo": "PZHW57",
-  "fecha": "2026-09-01 14:38:50",
-  "pais": "España",
-  "archivo": "qsl/QSL_EC4DA_2026-09_EV.webp"
+  "archivo": "qsl/QSL_EC4DA_2026-10.webp"
  },
  {
   "indicativo": "EA1HWX",
@@ -32898,6 +32891,20 @@
   "fecha": "2026-09-01 14:41 UTC",
   "pais": "",
   "archivo": "qsl/QSL_EA6WQ_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "EC4DA",
+  "codigo": "RGU66F",
+  "fecha": "2026-09-01 14:38 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_EC4DA_2026-09.webp"
+ },
+ {
+  "indicativo": "EC4DA",
+  "codigo": "PZHW57",
+  "fecha": "2026-09-01 14:38 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_EC4DA_2026-09_EV.webp"
  },
  {
   "indicativo": "9M2ODD",
