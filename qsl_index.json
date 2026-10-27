@@ -22810,7 +22810,7 @@
   "codigo": "PU93KX",
   "fecha": "2026-10-27 13:28:19",
   "pais": "Sudafrica",
-  "archivo": "qsl/QSL_ZS5X_2026-10.webp"
+  "archivo": "qsl/QSL_ZS5X_2026-10.png"
  },
  {
   "indicativo": "KB7VGK",
@@ -31309,6 +31309,13 @@
   "fecha": "2026-10-27 13:26:39",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU2BN_2026-10.webp"
+ },
+ {
+  "indicativo": "BG6LKT",
+  "codigo": "SXK3GW",
+  "fecha": "2026-10-27 16:23:22",
+  "pais": "China",
+  "archivo": "qsl/QSL_BG6LKT_2026-10.webp"
  },
  {
   "indicativo": "9M2JUE",
