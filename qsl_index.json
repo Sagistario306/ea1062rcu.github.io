@@ -22807,10 +22807,10 @@
  },
  {
   "indicativo": "ZS5X",
-  "codigo": "GKBN4G",
-  "fecha": "2026-09-16 14:36:12",
+  "codigo": "PU93KX",
+  "fecha": "2026-10-27 13:28:19",
   "pais": "Sudafrica",
-  "archivo": "qsl/QSL_ZS5X_2026-09.webp"
+  "archivo": "qsl/QSL_ZS5X_2026-10.webp"
  },
  {
   "indicativo": "KB7VGK",
@@ -38295,6 +38295,13 @@
   "fecha": "2026-09-16 14:35 UTC",
   "pais": "",
   "archivo": "qsl/QSL_KH6JUZ_2026-09.png"
+ },
+ {
+  "indicativo": "ZS5X",
+  "codigo": "GKBN4G",
+  "fecha": "2026-09-16 14:36 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_ZS5X_2026-09.png"
  },
  {
   "indicativo": "KB7VGK",
