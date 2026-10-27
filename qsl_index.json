@@ -10095,10 +10095,10 @@
  },
  {
   "indicativo": "LU4MNE",
-  "codigo": "N8J6SN",
-  "fecha": "2026-09-12 14:29:03",
+  "codigo": "37XNWX",
+  "fecha": "2026-10-27 18:46:11",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU4MNE_2026-09.webp"
+  "archivo": "qsl/QSL_LU4MNE_2026-10.webp"
  },
  {
   "indicativo": "EA1HYZ",
@@ -34088,6 +34088,13 @@
   "fecha": "2026-09-25 00:04 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE3K_2026-09.webp"
+ },
+ {
+  "indicativo": "LU4MNE",
+  "codigo": "N8J6SN",
+  "fecha": "2026-09-12 14:29 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_LU4MNE_2026-09.webp"
  },
  {
   "indicativo": "EA1HYZ",
