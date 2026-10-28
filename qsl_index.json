@@ -25761,10 +25761,10 @@
  },
  {
   "indicativo": "TA4CQ",
-  "codigo": "QYKW37",
-  "fecha": "2026-09-28 00:00:22",
+  "codigo": "WBYFHZ",
+  "fecha": "2026-10-28 05:30:38",
   "pais": "Turquia",
-  "archivo": "qsl/QSL_TA4CQ_2026-09.webp"
+  "archivo": "qsl/QSL_TA4CQ_2026-10.webp"
  },
  {
   "indicativo": "PY3JGS",
@@ -39485,6 +39485,13 @@
   "fecha": "2026-09-28 00:00 UTC",
   "pais": "Tailandia",
   "archivo": "qsl/QSL_HS3LIQ_2026-09.webp"
+ },
+ {
+  "indicativo": "TA4CQ",
+  "codigo": "QYKW37",
+  "fecha": "2026-09-28 00:00 UTC",
+  "pais": "Turquia",
+  "archivo": "qsl/QSL_TA4CQ_2026-09.webp"
  },
  {
   "indicativo": "PY2KUU",
