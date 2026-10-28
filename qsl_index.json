@@ -23269,10 +23269,10 @@
  },
  {
   "indicativo": "VU2HS",
-  "codigo": "A77534",
-  "fecha": "2026-09-16 14:43:38",
+  "codigo": "6XQSCX",
+  "fecha": "2026-10-28 22:24:41",
   "pais": "India",
-  "archivo": "qsl/QSL_VU2HS_2026-09.webp"
+  "archivo": "qsl/QSL_VU2HS_2026-10.webp"
  },
  {
   "indicativo": "CS1APO",
@@ -39296,6 +39296,13 @@
   "fecha": "2026-09-16 14:42 UTC",
   "pais": "",
   "archivo": "qsl/QSL_CS5CC_2026-09.png"
+ },
+ {
+  "indicativo": "VU2HS",
+  "codigo": "A77534",
+  "fecha": "2026-09-16 14:43 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_VU2HS_2026-09.png"
  },
  {
   "indicativo": "ZL4VM",
