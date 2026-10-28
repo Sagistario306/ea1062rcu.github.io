@@ -25054,10 +25054,10 @@
  },
  {
   "indicativo": "HS6KLJ",
-  "codigo": "TYVVH4",
-  "fecha": "2026-09-26 00:49:10",
+  "codigo": "CVE5S3",
+  "fecha": "2026-10-28 23:01:16",
   "pais": "Tailandia",
-  "archivo": "qsl/QSL_HS6KLJ_2026-09.webp"
+  "archivo": "qsl/QSL_HS6KLJ_2026-10.webp"
  },
  {
   "indicativo": "HS3ZFO",
@@ -39786,6 +39786,13 @@
   "fecha": "2026-09-26 00:38 UTC",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1ALV_2026-09.webp"
+ },
+ {
+  "indicativo": "HS6KLJ",
+  "codigo": "TYVVH4",
+  "fecha": "2026-09-26 00:49 UTC",
+  "pais": "Tailandia",
+  "archivo": "qsl/QSL_HS6KLJ_2026-09.webp"
  },
  {
   "indicativo": "OH2PU",
