@@ -23346,10 +23346,10 @@
  },
  {
   "indicativo": "ZL4VM",
-  "codigo": "B3PF2B",
-  "fecha": "2026-09-16 14:45:11",
+  "codigo": "2RE5UF",
+  "fecha": "2026-10-28 05:58:10",
   "pais": "Nueva Zelanda",
-  "archivo": "qsl/QSL_ZL4VM_2026-09.webp"
+  "archivo": "qsl/QSL_ZL4VM_2026-10.webp"
  },
  {
   "indicativo": "CT5HPY",
@@ -39170,6 +39170,13 @@
   "fecha": "2026-09-16 14:42 UTC",
   "pais": "",
   "archivo": "qsl/QSL_CS5CC_2026-09.png"
+ },
+ {
+  "indicativo": "ZL4VM",
+  "codigo": "B3PF2B",
+  "fecha": "2026-09-16 14:45 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_ZL4VM_2026-09.png"
  },
  {
   "indicativo": "VU3KEB",
