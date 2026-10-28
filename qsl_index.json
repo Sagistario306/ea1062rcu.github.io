@@ -5534,7 +5534,7 @@
   "codigo": "SZDVP7",
   "fecha": "2026-10-28 03:57:51",
   "pais": "Japon",
-  "archivo": "qsl/QSL_JA3XPS_2026-10.webp"
+  "archivo": "qsl/QSL_JA3XPS_2026-10.png"
  },
  {
   "indicativo": "NP4KB",
@@ -31456,6 +31456,13 @@
   "fecha": "2026-10-28 01:07:55",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PU8WIN_2026-10.webp"
+ },
+ {
+  "indicativo": "VK7XTC",
+  "codigo": "RMYHDS",
+  "fecha": "2026-10-28 05:23:02",
+  "pais": "Australia",
+  "archivo": "qsl/QSL_VK7XTC_2026-10.webp"
  },
  {
   "indicativo": "9M2JUE",
