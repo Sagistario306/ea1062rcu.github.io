@@ -13871,7 +13871,7 @@
   "codigo": "H4EWAB",
   "fecha": "2026-10-28 16:57:46",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU8AP_2026-10.webp"
+  "archivo": "qsl/QSL_LU8AP_2026-10.png"
  },
  {
   "indicativo": "HI3EMO",
@@ -32100,6 +32100,13 @@
   "fecha": "2026-10-28 16:41:08",
   "pais": "Indonesia",
   "archivo": "qsl/QSL_YH0AA_2026-10.webp"
+ },
+ {
+  "indicativo": "ZL2TCH",
+  "codigo": "N6MPDN",
+  "fecha": "2026-10-28 18:06:29",
+  "pais": "Nueva Zelanda",
+  "archivo": "qsl/QSL_ZL2TCH_2026-10.webp"
  },
  {
   "indicativo": "9M2JUE",
