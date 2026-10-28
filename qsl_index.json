@@ -22828,10 +22828,10 @@
  },
  {
   "indicativo": "VK2ADG",
-  "codigo": "FUDFF6",
-  "fecha": "2026-09-16 14:35:52",
+  "codigo": "HBBDTY",
+  "fecha": "2026-10-28 05:44:21",
   "pais": "Australia",
-  "archivo": "qsl/QSL_VK2ADG_2026-09.webp"
+  "archivo": "qsl/QSL_VK2ADG_2026-10.webp"
  },
  {
   "indicativo": "ZS5X",
@@ -39016,6 +39016,13 @@
   "fecha": "2026-09-16 14:35 UTC",
   "pais": "",
   "archivo": "qsl/QSL_KH6JUZ_2026-09.png"
+ },
+ {
+  "indicativo": "VK2ADG",
+  "codigo": "FUDFF6",
+  "fecha": "2026-09-16 14:36 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_VK2ADG_2026-09.png"
  },
  {
   "indicativo": "ZS5X",
