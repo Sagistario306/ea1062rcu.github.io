@@ -25159,10 +25159,10 @@
  },
  {
   "indicativo": "LA3SP",
-  "codigo": "WV7CJ6",
-  "fecha": "2026-09-26 00:51:50",
+  "codigo": "6JNMWX",
+  "fecha": "2026-10-28 05:25:13",
   "pais": "Noruega",
-  "archivo": "qsl/QSL_LA3SP_2026-09.webp"
+  "archivo": "qsl/QSL_LA3SP_2026-10.webp"
  },
  {
   "indicativo": "TA5ADB",
@@ -39114,6 +39114,13 @@
   "fecha": "2026-09-26 00:49 UTC",
   "pais": "Finlandia",
   "archivo": "qsl/QSL_OH2PU_2026-09.webp"
+ },
+ {
+  "indicativo": "LA3SP",
+  "codigo": "WV7CJ6",
+  "fecha": "2026-09-26 00:51 UTC",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LA3SP_2026-09.webp"
  },
  {
   "indicativo": "4X1DA",
