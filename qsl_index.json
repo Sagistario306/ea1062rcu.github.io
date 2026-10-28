@@ -23738,10 +23738,10 @@
  },
  {
   "indicativo": "VU3PXF",
-  "codigo": "WMF5D3",
-  "fecha": "2026-09-16 15:27:28",
+  "codigo": "UXKE9N",
+  "fecha": "2026-10-28 05:35:31",
   "pais": "India",
-  "archivo": "qsl/QSL_VU3PXF_2026-09.webp"
+  "archivo": "qsl/QSL_VU3PXF_2026-10.webp"
  },
  {
   "indicativo": "VE1SIM",
@@ -39023,6 +39023,13 @@
   "fecha": "2026-09-16 15:27 UTC",
   "pais": "",
   "archivo": "qsl/QSL_ZS1MJT_2026-09.png"
+ },
+ {
+  "indicativo": "VU3PXF",
+  "codigo": "WMF5D3",
+  "fecha": "2026-09-16 15:27 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_VU3PXF_2026-09.png"
  },
  {
   "indicativo": "PY3JRT",
