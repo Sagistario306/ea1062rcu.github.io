@@ -4001,7 +4001,7 @@
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
   "pais": "Malasia",
-  "archivo": "qsl/QSL_9W2BWS_2026-10.webp"
+  "archivo": "qsl/QSL_9W2BWS_2026-10.png"
  },
  {
   "indicativo": "EA2FFX",
@@ -32086,6 +32086,13 @@
   "fecha": "2026-10-28 13:40:16",
   "pais": "Tailandia",
   "archivo": "qsl/QSL_HS6PAU_2026-10.webp"
+ },
+ {
+  "indicativo": "YH0AA",
+  "codigo": "U4UGS2",
+  "fecha": "2026-10-28 16:41:08",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YH0AA_2026-10.webp"
  },
  {
   "indicativo": "9M2JUE",
