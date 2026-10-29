@@ -11061,17 +11061,10 @@
  },
  {
   "indicativo": "XE2MVB",
-  "codigo": "GTFEDZ",
-  "fecha": "2026-09-02 00:34:46",
+  "codigo": "KESN9Y",
+  "fecha": "2026-10-29 18:35:43",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2MVB_2026-09.webp"
- },
- {
-  "indicativo": "XE2MVB",
-  "codigo": "7N6S7W",
-  "fecha": "2026-09-02 00:34:51",
-  "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2MVB_2026-09_EV.webp"
+  "archivo": "qsl/QSL_XE2MVB_2026-10.webp"
  },
  {
   "indicativo": "HC1TCH",
@@ -36153,6 +36146,20 @@
   "fecha": "2026-09-25 17:28 UTC",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP1LNK_2026-09.webp"
+ },
+ {
+  "indicativo": "XE2MVB",
+  "codigo": "GTFEDZ",
+  "fecha": "2026-09-02 00:34 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_XE2MVB_2026-09.webp"
+ },
+ {
+  "indicativo": "XE2MVB",
+  "codigo": "7N6S7W",
+  "fecha": "2026-09-02 00:34 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_XE2MVB_2026-09_EV.webp"
  },
  {
   "indicativo": "HC1TCH",
