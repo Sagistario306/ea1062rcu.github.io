@@ -11064,7 +11064,7 @@
   "codigo": "KESN9Y",
   "fecha": "2026-10-29 18:35:43",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2MVB_2026-10.webp"
+  "archivo": "qsl/QSL_XE2MVB_2026-10.png"
  },
  {
   "indicativo": "HC1TCH",
@@ -32954,6 +32954,13 @@
   "fecha": "2026-10-29 11:25:17",
   "pais": "Guantánamo Bay",
   "archivo": "qsl/QSL_KG4NDS_2026-10.png"
+ },
+ {
+  "indicativo": "ZL2ACV",
+  "codigo": "9CPM3A",
+  "fecha": "2026-10-29 20:20:38",
+  "pais": "Nueva Zelanda",
+  "archivo": "qsl/QSL_ZL2ACV_2026-10.webp"
  },
  {
   "indicativo": "9M2JUE",
