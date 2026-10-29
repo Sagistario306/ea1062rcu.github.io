@@ -4312,6 +4312,13 @@
   "archivo": "qsl/QSL_LU9TRL_2026-10_EV.webp"
  },
  {
+  "indicativo": "YG2BTP",
+  "codigo": "836VQV",
+  "fecha": "2026-10-29 13:44:50",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YG2BTP_2026-10.webp"
+ },
+ {
   "indicativo": "JH0ZMR",
   "codigo": "KUSCSB",
   "fecha": "2026-09-04 00:24:17",
@@ -32939,7 +32946,7 @@
   "codigo": "45GZFK",
   "fecha": "2026-10-29 11:25:17",
   "pais": "Guantánamo Bay",
-  "archivo": "qsl/QSL_KG4NDS_2026-10.webp"
+  "archivo": "qsl/QSL_KG4NDS_2026-10.png"
  },
  {
   "indicativo": "9M2JUE",
