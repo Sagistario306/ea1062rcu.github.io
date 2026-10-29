@@ -14921,7 +14921,7 @@
   "codigo": "SF8J93",
   "fecha": "2026-10-29 14:22:57",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU3IA_2026-10.webp"
+  "archivo": "qsl/QSL_LU3IA_2026-10.png"
  },
  {
   "indicativo": "LU3HBC",
@@ -24186,10 +24186,10 @@
  },
  {
   "indicativo": "LU4KEG",
-  "codigo": "B3A3NP",
-  "fecha": "2026-09-18 02:32:30",
+  "codigo": "YVJER2",
+  "fecha": "2026-10-29 15:37:12",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU4KEG_2026-09.png"
+  "archivo": "qsl/QSL_LU4KEG_2026-10.webp"
  },
  {
   "indicativo": "HJ4ACD",
@@ -40304,6 +40304,13 @@
   "fecha": "2026-09-18 01:04 UTC",
   "pais": "El Salvador",
   "archivo": "qsl/QSL_YS1FP_2026-09.webp"
+ },
+ {
+  "indicativo": "LU4KEG",
+  "codigo": "B3A3NP",
+  "fecha": "2026-09-18 02:32 UTC",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU4KEG_2026-09.webp"
  },
  {
   "indicativo": "TI2MCS",
