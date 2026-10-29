@@ -4316,7 +4316,7 @@
   "codigo": "836VQV",
   "fecha": "2026-10-29 13:44:50",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YG2BTP_2026-10.webp"
+  "archivo": "qsl/QSL_YG2BTP_2026-10.png"
  },
  {
   "indicativo": "JH0ZMR",
@@ -11653,6 +11653,13 @@
   "fecha": "2026-10-04 17:00:47",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP3EYZ_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "LU8EQA",
+  "codigo": "P6GFKD",
+  "fecha": "2026-10-29 14:01:52",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU8EQA_2026-10.webp"
  },
  {
   "indicativo": "HK3ZVE",
