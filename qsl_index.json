@@ -33145,6 +33145,20 @@
   "archivo": "qsl/QSL_IT9CNT_2026-10.webp"
  },
  {
+  "indicativo": "BI3ODB",
+  "codigo": "AR9MHE",
+  "fecha": "2026-10-30 00:04:01",
+  "pais": "China",
+  "archivo": "qsl/QSL_BI3ODB_2026-10.webp"
+ },
+ {
+  "indicativo": "DF1MP",
+  "codigo": "FXHVYA",
+  "fecha": "2026-10-30 00:04:08",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DF1MP_2026-10.webp"
+ },
+ {
   "indicativo": "9M2JUE",
   "codigo": "M2GZB6",
   "fecha": "2026-09-02 00:44 UTC",
