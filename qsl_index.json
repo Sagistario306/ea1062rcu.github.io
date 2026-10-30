@@ -25733,10 +25733,10 @@
  },
  {
   "indicativo": "SR3DPN",
-  "codigo": "ZRGA3H",
-  "fecha": "2026-09-28 00:00:05",
+  "codigo": "45F4GH",
+  "fecha": "2026-10-30 00:03:23",
   "pais": "Polonia",
-  "archivo": "qsl/QSL_SR3DPN_2026-09.webp"
+  "archivo": "qsl/QSL_SR3DPN_2026-10.webp"
  },
  {
   "indicativo": "LD9TT",
@@ -40983,6 +40983,13 @@
   "fecha": "2026-09-28 00:00 UTC",
   "pais": "Grecia",
   "archivo": "qsl/QSL_SV3SKM_2026-09.webp"
+ },
+ {
+  "indicativo": "SR3DPN",
+  "codigo": "ZRGA3H",
+  "fecha": "2026-09-28 00:00 UTC",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SR3DPN_2026-09.webp"
  },
  {
   "indicativo": "HS3LIQ",
