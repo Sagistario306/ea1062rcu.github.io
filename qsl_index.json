@@ -23157,10 +23157,10 @@
  },
  {
   "indicativo": "F5KGA",
-  "codigo": "AW3YXJ",
-  "fecha": "2026-09-16 14:41:19",
+  "codigo": "7DZS2W",
+  "fecha": "2026-10-30 01:19:55",
   "pais": "Francia",
-  "archivo": "qsl/QSL_F5KGA_2026-09.webp"
+  "archivo": "qsl/QSL_F5KGA_2026-10.webp"
  },
  {
   "indicativo": "ZR1RTG",
@@ -40612,6 +40612,13 @@
   "fecha": "2026-09-16 14:40 UTC",
   "pais": "",
   "archivo": "qsl/QSL_VE1BZZ_2026-09.png"
+ },
+ {
+  "indicativo": "F5KGA",
+  "codigo": "AW3YXJ",
+  "fecha": "2026-09-16 14:41 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_F5KGA_2026-09.png"
  },
  {
   "indicativo": "ZR1RTG",
