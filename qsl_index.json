@@ -33180,6 +33180,20 @@
   "archivo": "qsl/QSL_IK3ZGB_2026-10.webp"
  },
  {
+  "indicativo": "PU2PPP",
+  "codigo": "FHBGW6",
+  "fecha": "2026-10-30 00:05:14",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU2PPP_2026-10.webp"
+ },
+ {
+  "indicativo": "IU8VYH",
+  "codigo": "P8WF2N",
+  "fecha": "2026-10-30 00:05:14",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IU8VYH_2026-10.webp"
+ },
+ {
   "indicativo": "9M2JUE",
   "codigo": "M2GZB6",
   "fecha": "2026-09-02 00:44 UTC",
