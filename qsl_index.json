@@ -33103,6 +33103,13 @@
   "archivo": "qsl/QSL_TA2TR_2026-10.webp"
  },
  {
+  "indicativo": "VE3OMP",
+  "codigo": "YAJYZ9",
+  "fecha": "2026-10-30 00:03:03",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE3OMP_2026-10.webp"
+ },
+ {
   "indicativo": "9M2JUE",
   "codigo": "M2GZB6",
   "fecha": "2026-09-02 00:44 UTC",
