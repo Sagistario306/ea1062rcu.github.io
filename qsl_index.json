@@ -33460,6 +33460,13 @@
   "archivo": "qsl/QSL_DF8FL_2026-10.webp"
  },
  {
+  "indicativo": "VK2WJ",
+  "codigo": "VHARGP",
+  "fecha": "2026-10-30 03:22:55",
+  "pais": "Australia",
+  "archivo": "qsl/QSL_VK2WJ_2026-10.webp"
+ },
+ {
   "indicativo": "9M2JUE",
   "codigo": "M2GZB6",
   "fecha": "2026-09-02 00:44 UTC",
