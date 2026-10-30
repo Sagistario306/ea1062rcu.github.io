@@ -17053,17 +17053,10 @@
  },
  {
   "indicativo": "XE3OJA",
-  "codigo": "9DJAKT",
-  "fecha": "2026-09-05 15:37:49",
+  "codigo": "AA82M2",
+  "fecha": "2026-10-30 03:18:46",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE3OJA_2026-09.webp"
- },
- {
-  "indicativo": "XE3OJA",
-  "codigo": "5JS8TA",
-  "fecha": "2026-09-05 15:37:55",
-  "pais": "Mexico",
-  "archivo": "qsl/QSL_XE3OJA_2026-09_EV.webp"
+  "archivo": "qsl/QSL_XE3OJA_2026-10.webp"
  },
  {
   "indicativo": "OA3DUU",
@@ -40038,6 +40031,20 @@
   "fecha": "2026-09-05 15:03 UTC",
   "pais": "",
   "archivo": "qsl/QSL_YD6HGG_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "XE3OJA",
+  "codigo": "9DJAKT",
+  "fecha": "2026-09-05 15:37 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_XE3OJA_2026-09.webp"
+ },
+ {
+  "indicativo": "XE3OJA",
+  "codigo": "5JS8TA",
+  "fecha": "2026-09-05 15:37 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_XE3OJA_2026-09_EV.webp"
  },
  {
   "indicativo": "EA5JSM",
