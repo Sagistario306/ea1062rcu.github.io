@@ -26104,10 +26104,10 @@
  },
  {
   "indicativo": "IK8TGH",
-  "codigo": "UST8KA",
-  "fecha": "2026-09-29 00:00:47",
+  "codigo": "YTAF8S",
+  "fecha": "2026-10-30 00:19:34",
   "pais": "Italia",
-  "archivo": "qsl/QSL_IK8TGH_2026-09.webp"
+  "archivo": "qsl/QSL_IK8TGH_2026-10.webp"
  },
  {
   "indicativo": "PE1OYS",
@@ -41319,6 +41319,13 @@
   "fecha": "2026-09-29 00:00 UTC",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PY6ZIM_2026-09.webp"
+ },
+ {
+  "indicativo": "IK8TGH",
+  "codigo": "UST8KA",
+  "fecha": "2026-09-29 00:00 UTC",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IK8TGH_2026-09.webp"
  },
  {
   "indicativo": "HJ5V",
