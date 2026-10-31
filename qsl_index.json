@@ -13000,17 +13000,10 @@
  },
  {
   "indicativo": "LU7AGT",
-  "codigo": "S6GAGS",
-  "fecha": "2026-09-01 14:39:25",
+  "codigo": "6PE7TJ",
+  "fecha": "2026-10-31 11:18:42",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU7AGT_2026-09.webp"
- },
- {
-  "indicativo": "LU7AGT",
-  "codigo": "3XRFZZ",
-  "fecha": "2026-09-01 14:39:30",
-  "pais": "Argentina",
-  "archivo": "qsl/QSL_LU7AGT_2026-09_EV.webp"
+  "archivo": "qsl/QSL_LU7AGT_2026-10.webp"
  },
  {
   "indicativo": "CO5ABC",
@@ -38386,6 +38379,20 @@
   "fecha": "2026-09-01 01:34 UTC",
   "pais": "",
   "archivo": "qsl/QSL_9W3ASD_2026-09_EV.webp"
+ },
+ {
+  "indicativo": "LU7AGT",
+  "codigo": "S6GAGS",
+  "fecha": "2026-09-01 14:39 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_LU7AGT_2026-09.webp"
+ },
+ {
+  "indicativo": "LU7AGT",
+  "codigo": "3XRFZZ",
+  "fecha": "2026-09-01 14:39 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_LU7AGT_2026-09_EV.webp"
  },
  {
   "indicativo": "CO5ABC",
