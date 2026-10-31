@@ -33831,6 +33831,20 @@
   "archivo": "qsl/QSL_W4CVY_2026-10.webp"
  },
  {
+  "indicativo": "KA4BOI",
+  "codigo": "J272CF",
+  "fecha": "2026-10-31 00:00:35",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_KA4BOI_2026-10.webp"
+ },
+ {
+  "indicativo": "SP6LHM",
+  "codigo": "VQPXDW",
+  "fecha": "2026-10-31 00:00:35",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP6LHM_2026-10.webp"
+ },
+ {
   "indicativo": "9M2JUE",
   "codigo": "M2GZB6",
   "fecha": "2026-09-02 00:44 UTC",
