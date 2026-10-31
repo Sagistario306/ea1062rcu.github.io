@@ -33845,6 +33845,13 @@
   "archivo": "qsl/QSL_SP6LHM_2026-10.webp"
  },
  {
+  "indicativo": "PU5MRT",
+  "codigo": "GB4PP4",
+  "fecha": "2026-10-31 00:00:42",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU5MRT_2026-10.webp"
+ },
+ {
   "indicativo": "9M2JUE",
   "codigo": "M2GZB6",
   "fecha": "2026-09-02 00:44 UTC",
