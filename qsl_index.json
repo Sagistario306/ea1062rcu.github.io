@@ -23521,10 +23521,10 @@
  },
  {
   "indicativo": "VU3NKU",
-  "codigo": "3J5RVT",
-  "fecha": "2026-09-16 14:47:31",
+  "codigo": "ZE9EWC",
+  "fecha": "2026-10-31 07:21:05",
   "pais": "India",
-  "archivo": "qsl/QSL_VU3NKU_2026-09.webp"
+  "archivo": "qsl/QSL_VU3NKU_2026-10.webp"
  },
  {
   "indicativo": "UR0DVB",
@@ -41767,6 +41767,13 @@
   "fecha": "2026-09-16 14:46 UTC",
   "pais": "",
   "archivo": "qsl/QSL_ZL2CJ_2026-09.png"
+ },
+ {
+  "indicativo": "VU3NKU",
+  "codigo": "3J5RVT",
+  "fecha": "2026-09-16 14:47 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_VU3NKU_2026-09.png"
  },
  {
   "indicativo": "8P6EX",
