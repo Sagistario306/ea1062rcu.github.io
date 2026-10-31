@@ -22488,7 +22488,7 @@
   "codigo": "AYUPMT",
   "fecha": "2026-10-30 19:28:03",
   "pais": "Japon",
-  "archivo": "qsl/QSL_JH1NHK_2026-10.webp"
+  "archivo": "qsl/QSL_JH1NHK_2026-10.png"
  },
  {
   "indicativo": "DV4JD",
@@ -33801,6 +33801,13 @@
   "fecha": "2026-10-30 19:03:34",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK3DG_2026-10.webp"
+ },
+ {
+  "indicativo": "VK3AIF",
+  "codigo": "RBTTYC",
+  "fecha": "2026-10-31 00:00:04",
+  "pais": "Australia",
+  "archivo": "qsl/QSL_VK3AIF_2026-10.webp"
  },
  {
   "indicativo": "9M2JUE",
