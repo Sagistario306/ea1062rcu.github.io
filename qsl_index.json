@@ -23486,10 +23486,10 @@
  },
  {
   "indicativo": "ZL2CJ",
-  "codigo": "2HMBTZ",
-  "fecha": "2026-09-16 14:46:38",
+  "codigo": "PB9RPR",
+  "fecha": "2026-10-31 03:21:23",
   "pais": "Nueva Zelanda",
-  "archivo": "qsl/QSL_ZL2CJ_2026-09.webp"
+  "archivo": "qsl/QSL_ZL2CJ_2026-10.webp"
  },
  {
   "indicativo": "VU3FML",
@@ -41571,6 +41571,13 @@
   "fecha": "2026-09-16 14:45 UTC",
   "pais": "",
   "archivo": "qsl/QSL_VU3KEB_2026-09.png"
+ },
+ {
+  "indicativo": "ZL2CJ",
+  "codigo": "2HMBTZ",
+  "fecha": "2026-09-16 14:46 UTC",
+  "pais": "",
+  "archivo": "qsl/QSL_ZL2CJ_2026-09.png"
  },
  {
   "indicativo": "8P6EX",
