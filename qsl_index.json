@@ -33950,6 +33950,20 @@
   "archivo": "qsl/QSL_TB2MLU_2026-10.webp"
  },
  {
+  "indicativo": "VA7UCK",
+  "codigo": "UYZZE9",
+  "fecha": "2026-10-31 00:03:31",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VA7UCK_2026-10.webp"
+ },
+ {
+  "indicativo": "LA4XNA",
+  "codigo": "UBMJ5R",
+  "fecha": "2026-10-31 00:03:32",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LA4XNA_2026-10.webp"
+ },
+ {
   "indicativo": "9M2JUE",
   "codigo": "M2GZB6",
   "fecha": "2026-09-02 00:44 UTC",
