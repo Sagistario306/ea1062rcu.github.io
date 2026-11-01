@@ -13811,6 +13811,13 @@
   "archivo": "qsl/QSL_PY2TK_2026-11.webp"
  },
  {
+  "indicativo": "PY2TK",
+  "codigo": "MEHVPU",
+  "fecha": "2026-11-01 00:12:44",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY2TK_2026-11_EV.webp"
+ },
+ {
   "indicativo": "LU9JGQ",
   "codigo": "Q7TA3W",
   "fecha": "2026-10-22 00:27:18",
@@ -18968,5 +18975,12 @@
   "fecha": "2026-11-01 00:10:35",
   "pais": "China",
   "archivo": "qsl/QSL_BG5EFA_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "IW3QID",
+  "codigo": "FSQ4TT",
+  "fecha": "2026-11-01 00:12:41",
+  "pais": "Sicilia",
+  "archivo": "qsl/QSL_IW3QID_2026-11.webp"
  }
 ]
