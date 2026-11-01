@@ -3508,17 +3508,10 @@
  },
  {
   "indicativo": "HC1FQ",
-  "codigo": "DRRKF2",
-  "fecha": "2026-10-01 19:08:53",
+  "codigo": "HA5MWF",
+  "fecha": "2026-11-01 05:52:23",
   "pais": "Ecuador",
-  "archivo": "qsl/QSL_HC1FQ_2026-10.webp"
- },
- {
-  "indicativo": "HC1FQ",
-  "codigo": "ASTYDB",
-  "fecha": "2026-10-01 19:09:07",
-  "pais": "Ecuador",
-  "archivo": "qsl/QSL_HC1FQ_2026-10_EV.webp"
+  "archivo": "qsl/QSL_HC1FQ_2026-11.webp"
  },
  {
   "indicativo": "LU3JAR",
@@ -16280,6 +16273,13 @@
   "fecha": "2026-11-01 05:52:21",
   "pais": "Rusia",
   "archivo": "qsl/QSL_RC3C_2026-11.webp"
+ },
+ {
+  "indicativo": "RC3C",
+  "codigo": "T6G623",
+  "fecha": "2026-11-01 05:52:25",
+  "pais": "Rusia",
+  "archivo": "qsl/QSL_RC3C_2026-11_EV.webp"
  },
  {
   "indicativo": "HA3MGA",
