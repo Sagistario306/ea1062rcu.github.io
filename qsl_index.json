@@ -19061,6 +19061,13 @@
   "archivo": "qsl/QSL_OM7DD_2026-11.webp"
  },
  {
+  "indicativo": "OM7DD",
+  "codigo": "RQ9EQN",
+  "fecha": "2026-11-01 10:14:53",
+  "pais": "Republica Eslovaca",
+  "archivo": "qsl/QSL_OM7DD_2026-11_EV.webp"
+ },
+ {
   "indicativo": "PS7JAP",
   "codigo": "VQ4KMS",
   "fecha": "2026-10-31 01:48:03",
