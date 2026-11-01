@@ -15316,6 +15316,13 @@
   "archivo": "qsl/QSL_SP5CWC_2026-11.webp"
  },
  {
+  "indicativo": "SP5CWC",
+  "codigo": "WZYH5B",
+  "fecha": "2026-11-01 00:06:07",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP5CWC_2026-11_EV.webp"
+ },
+ {
   "indicativo": "LU2BN",
   "codigo": "FVEV77",
   "fecha": "2026-10-27 13:26:39",
