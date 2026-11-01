@@ -16450,6 +16450,13 @@
   "archivo": "qsl/QSL_F4IPO_2026-11.webp"
  },
  {
+  "indicativo": "F4IPO",
+  "codigo": "JDPKUG",
+  "fecha": "2026-11-01 00:00:27",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F4IPO_2026-11_EV.webp"
+ },
+ {
   "indicativo": "SL6ZAQ",
   "codigo": "KAQQDT",
   "fecha": "2026-10-29 03:00:30",
