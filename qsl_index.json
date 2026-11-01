@@ -18898,5 +18898,12 @@
   "fecha": "2026-11-01 00:10:01",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PU2UIV_2026-11.webp"
+ },
+ {
+  "indicativo": "PU2UIV",
+  "codigo": "E6F7SU",
+  "fecha": "2026-11-01 00:10:07",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU2UIV_2026-11_EV.webp"
  }
 ]
