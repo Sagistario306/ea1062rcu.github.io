@@ -18695,5 +18695,12 @@
   "fecha": "2026-11-01 00:06:18",
   "pais": "EE.UU",
   "archivo": "qsl/QSL_K5HDF_2026-11.webp"
+ },
+ {
+  "indicativo": "K5HDF",
+  "codigo": "6PX5BX",
+  "fecha": "2026-11-01 00:06:27",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_K5HDF_2026-11_EV.webp"
  }
 ]
