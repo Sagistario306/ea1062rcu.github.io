@@ -15960,6 +15960,13 @@
   "archivo": "qsl/QSL_BA3PZT_2026-11.webp"
  },
  {
+  "indicativo": "BA3PZT",
+  "codigo": "KG4QM9",
+  "fecha": "2026-11-01 05:53:42",
+  "pais": "China",
+  "archivo": "qsl/QSL_BA3PZT_2026-11_EV.webp"
+ },
+ {
   "indicativo": "RA1AMW",
   "codigo": "SBHKDY",
   "fecha": "2026-11-01 05:43:09",
