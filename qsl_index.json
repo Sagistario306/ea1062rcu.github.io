@@ -13300,6 +13300,13 @@
   "archivo": "qsl/QSL_TA6B_2026-11.webp"
  },
  {
+  "indicativo": "TA6B",
+  "codigo": "VU83VD",
+  "fecha": "2026-11-01 00:01:40",
+  "pais": "Turquia",
+  "archivo": "qsl/QSL_TA6B_2026-11_EV.webp"
+ },
+ {
   "indicativo": "F4GGK",
   "codigo": "85RHZF",
   "fecha": "2026-10-19 19:48:55",
