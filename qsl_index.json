@@ -13686,10 +13686,10 @@
  },
  {
   "indicativo": "NB2Y",
-  "codigo": "5MYYHX",
-  "fecha": "2026-11-01 00:06:32",
+  "codigo": "C7ZSJM",
+  "fecha": "2026-10-22 00:15:54",
   "pais": "EE.UU",
-  "archivo": "qsl/QSL_NB2Y_2026-11.webp"
+  "archivo": "qsl/QSL_NB2Y_2026-10.webp"
  },
  {
   "indicativo": "KG4EGZ",
@@ -18695,12 +18695,5 @@
   "fecha": "2026-11-01 00:06:18",
   "pais": "EE.UU",
   "archivo": "qsl/QSL_K5HDF_2026-11.webp"
- },
- {
-  "indicativo": "K5HDF",
-  "codigo": "6PX5BX",
-  "fecha": "2026-11-01 00:06:27",
-  "pais": "EE.UU",
-  "archivo": "qsl/QSL_K5HDF_2026-11_EV.webp"
  }
 ]
