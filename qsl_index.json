@@ -11347,6 +11347,13 @@
   "archivo": "qsl/QSL_VE3PAB_2026-11.webp"
  },
  {
+  "indicativo": "VE3PAB",
+  "codigo": "TQ4J5A",
+  "fecha": "2026-11-01 05:50:35",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE3PAB_2026-11_EV.webp"
+ },
+ {
   "indicativo": "PY2SYE",
   "codigo": "8DFAN8",
   "fecha": "2026-10-11 00:01:02",
