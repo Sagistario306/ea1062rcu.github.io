@@ -19241,5 +19241,12 @@
   "fecha": "2026-11-01 05:51:04",
   "pais": "Canada",
   "archivo": "qsl/QSL_VE3GIF_2026-11.webp"
+ },
+ {
+  "indicativo": "VE3GIF",
+  "codigo": "7G3WKN",
+  "fecha": "2026-11-01 05:51:10",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE3GIF_2026-11_EV.webp"
  }
 ]
