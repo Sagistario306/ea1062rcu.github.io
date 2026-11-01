@@ -17227,6 +17227,13 @@
   "archivo": "qsl/QSL_IK3ZGB_2026-11.webp"
  },
  {
+  "indicativo": "IK3ZGB",
+  "codigo": "8478VJ",
+  "fecha": "2026-11-01 00:06:18",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IK3ZGB_2026-11_EV.webp"
+ },
+ {
   "indicativo": "PU2PPP",
   "codigo": "FHBGW6",
   "fecha": "2026-10-30 00:05:14",
@@ -18681,5 +18688,12 @@
   "fecha": "2026-11-01 00:05:38",
   "pais": "Canada",
   "archivo": "qsl/QSL_VE2AAQ_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "K5HDF",
+  "codigo": "S7GUER",
+  "fecha": "2026-11-01 00:06:18",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_K5HDF_2026-11.webp"
  }
 ]
