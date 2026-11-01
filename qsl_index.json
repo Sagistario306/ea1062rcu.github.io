@@ -14651,6 +14651,13 @@
   "archivo": "qsl/QSL_OY6ADA_2026-11.webp"
  },
  {
+  "indicativo": "OY6ADA",
+  "codigo": "2A2YXM",
+  "fecha": "2026-11-01 00:05:44",
+  "pais": "Dinamarca",
+  "archivo": "qsl/QSL_OY6ADA_2026-11_EV.webp"
+ },
+ {
   "indicativo": "IN3XSV",
   "codigo": "GCHESP",
   "fecha": "2026-10-26 13:05:22",
