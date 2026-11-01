@@ -9569,6 +9569,13 @@
   "archivo": "qsl/QSL_VU3PXF_2026-11.webp"
  },
  {
+  "indicativo": "VU3PXF",
+  "codigo": "JZY5FX",
+  "fecha": "2026-11-01 06:00:24",
+  "pais": "India",
+  "archivo": "qsl/QSL_VU3PXF_2026-11_EV.webp"
+ },
+ {
   "indicativo": "PY3JRT",
   "codigo": "9NXYHX",
   "fecha": "2026-10-10 00:01:05",
