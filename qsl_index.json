@@ -11341,10 +11341,10 @@
  },
  {
   "indicativo": "VE3PAB",
-  "codigo": "3H6ZZC",
-  "fecha": "2026-10-11 00:00:44",
+  "codigo": "XYRV3C",
+  "fecha": "2026-11-01 05:50:30",
   "pais": "Canada",
-  "archivo": "qsl/QSL_VE3PAB_2026-10.webp"
+  "archivo": "qsl/QSL_VE3PAB_2026-11.webp"
  },
  {
   "indicativo": "PY2SYE",
@@ -19206,5 +19206,12 @@
   "fecha": "2026-11-01 05:50:23",
   "pais": "Alemania",
   "archivo": "qsl/QSL_DK4TC_2026-11.webp"
+ },
+ {
+  "indicativo": "DK4TC",
+  "codigo": "S3VR5Y",
+  "fecha": "2026-11-01 05:50:31",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DK4TC_2026-11_EV.webp"
  }
 ]
