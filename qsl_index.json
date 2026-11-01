@@ -8603,6 +8603,13 @@
   "archivo": "qsl/QSL_TI5LJR_2026-11.webp"
  },
  {
+  "indicativo": "TI5LJR",
+  "codigo": "V5P6R2",
+  "fecha": "2026-11-01 00:11:46",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI5LJR_2026-11_EV.webp"
+ },
+ {
   "indicativo": "XE1LPP",
   "codigo": "R9F8VU",
   "fecha": "2026-10-07 00:10:11",
@@ -15862,6 +15869,13 @@
   "archivo": "qsl/QSL_TA7SDR_2026-11.webp"
  },
  {
+  "indicativo": "TA7SDR",
+  "codigo": "YQZT9D",
+  "fecha": "2026-11-01 00:11:59",
+  "pais": "Turquia",
+  "archivo": "qsl/QSL_TA7SDR_2026-11_EV.webp"
+ },
+ {
   "indicativo": "IW3HVB",
   "codigo": "6X5UYC",
   "fecha": "2026-11-01 00:01:15",
@@ -17298,10 +17312,17 @@
  },
  {
   "indicativo": "4S7SA",
-  "codigo": "MCXEC7",
-  "fecha": "2026-10-30 00:03:39",
+  "codigo": "CAR7AK",
+  "fecha": "2026-11-01 00:11:51",
   "pais": "Sri Lanka",
-  "archivo": "qsl/QSL_4S7SA_2026-10.webp"
+  "archivo": "qsl/QSL_4S7SA_2026-11.webp"
+ },
+ {
+  "indicativo": "4S7SA",
+  "codigo": "R2VFRX",
+  "fecha": "2026-11-01 00:11:56",
+  "pais": "Sri Lanka",
+  "archivo": "qsl/QSL_4S7SA_2026-11_EV.webp"
  },
  {
   "indicativo": "BX8AAN",
