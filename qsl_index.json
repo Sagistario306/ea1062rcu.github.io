@@ -18583,5 +18583,12 @@
   "fecha": "2026-11-01 00:03:42",
   "pais": "Paises Bajos",
   "archivo": "qsl/QSL_PD5CN_2026-11.webp"
+ },
+ {
+  "indicativo": "PD5CN",
+  "codigo": "TESWYK",
+  "fecha": "2026-11-01 00:03:47",
+  "pais": "Paises Bajos",
+  "archivo": "qsl/QSL_PD5CN_2026-11_EV.webp"
  }
 ]
