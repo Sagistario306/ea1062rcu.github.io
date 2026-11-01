@@ -16247,6 +16247,13 @@
   "archivo": "qsl/QSL_OY6DDD_2026-11.webp"
  },
  {
+  "indicativo": "OY6DDD",
+  "codigo": "5PB7QE",
+  "fecha": "2026-11-01 05:47:00",
+  "pais": "Dinamarca",
+  "archivo": "qsl/QSL_OY6DDD_2026-11_EV.webp"
+ },
+ {
   "indicativo": "SM2FXT",
   "codigo": "YZKNXB",
   "fecha": "2026-10-28 05:47:01",
