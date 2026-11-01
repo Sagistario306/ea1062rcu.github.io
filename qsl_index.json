@@ -11501,6 +11501,13 @@
   "archivo": "qsl/QSL_TA2QD_2026-11.webp"
  },
  {
+  "indicativo": "TA2QD",
+  "codigo": "2MY4D7",
+  "fecha": "2026-11-01 00:07:34",
+  "pais": "Turquia",
+  "archivo": "qsl/QSL_TA2QD_2026-11_EV.webp"
+ },
+ {
   "indicativo": "DL7VAF",
   "codigo": "ZPJ9K6",
   "fecha": "2026-10-11 15:59:03",
