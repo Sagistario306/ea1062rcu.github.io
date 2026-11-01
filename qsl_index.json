@@ -16429,6 +16429,13 @@
   "archivo": "qsl/QSL_IT9ELT_2026-11.webp"
  },
  {
+  "indicativo": "IT9ELT",
+  "codigo": "SDT9G3",
+  "fecha": "2026-11-01 00:00:36",
+  "pais": "Sicilia",
+  "archivo": "qsl/QSL_IT9ELT_2026-11_EV.webp"
+ },
+ {
   "indicativo": "IU8UOQ",
   "codigo": "CRZG5D",
   "fecha": "2026-11-01 00:00:15",
