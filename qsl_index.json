@@ -15799,13 +15799,6 @@
   "archivo": "qsl/QSL_F4GVN_2026-11.webp"
  },
  {
-  "indicativo": "F4GVN",
-  "codigo": "PK6S8C",
-  "fecha": "2026-11-01 00:09:34",
-  "pais": "Francia",
-  "archivo": "qsl/QSL_F4GVN_2026-11_EV.webp"
- },
- {
   "indicativo": "M0HKC",
   "codigo": "QUTBMC",
   "fecha": "2026-10-28 05:30:05",
@@ -18208,10 +18201,10 @@
  },
  {
   "indicativo": "SV2JOL",
-  "codigo": "GSYH6A",
-  "fecha": "2026-11-01 00:09:39",
+  "codigo": "2WGAKK",
+  "fecha": "2026-10-31 00:12:44",
   "pais": "Grecia",
-  "archivo": "qsl/QSL_SV2JOL_2026-11.webp"
+  "archivo": "qsl/QSL_SV2JOL_2026-10.webp"
  },
  {
   "indicativo": "VK7KAM",
