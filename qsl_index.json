@@ -8603,13 +8603,6 @@
   "archivo": "qsl/QSL_TI5LJR_2026-11.webp"
  },
  {
-  "indicativo": "TI5LJR",
-  "codigo": "V5P6R2",
-  "fecha": "2026-11-01 00:11:46",
-  "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI5LJR_2026-11_EV.webp"
- },
- {
   "indicativo": "XE1LPP",
   "codigo": "R9F8VU",
   "fecha": "2026-10-07 00:10:11",
@@ -17305,10 +17298,10 @@
  },
  {
   "indicativo": "4S7SA",
-  "codigo": "CAR7AK",
-  "fecha": "2026-11-01 00:11:51",
+  "codigo": "MCXEC7",
+  "fecha": "2026-10-30 00:03:39",
   "pais": "Sri Lanka",
-  "archivo": "qsl/QSL_4S7SA_2026-11.webp"
+  "archivo": "qsl/QSL_4S7SA_2026-10.webp"
  },
  {
   "indicativo": "BX8AAN",
