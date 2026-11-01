@@ -12293,10 +12293,17 @@
  },
  {
   "indicativo": "VA7MAS",
-  "codigo": "Y7DTR7",
-  "fecha": "2026-10-15 05:37:52",
+  "codigo": "4WRHP9",
+  "fecha": "2026-11-01 00:09:25",
   "pais": "Canada",
-  "archivo": "qsl/QSL_VA7MAS_2026-10.webp"
+  "archivo": "qsl/QSL_VA7MAS_2026-11.webp"
+ },
+ {
+  "indicativo": "VA7MAS",
+  "codigo": "RTJKYD",
+  "fecha": "2026-11-01 00:09:30",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VA7MAS_2026-11_EV.webp"
  },
  {
   "indicativo": "KO4FIE",
@@ -15790,6 +15797,13 @@
   "fecha": "2026-11-01 00:09:19",
   "pais": "Francia",
   "archivo": "qsl/QSL_F4GVN_2026-11.webp"
+ },
+ {
+  "indicativo": "F4GVN",
+  "codigo": "PK6S8C",
+  "fecha": "2026-11-01 00:09:34",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F4GVN_2026-11_EV.webp"
  },
  {
   "indicativo": "M0HKC",
