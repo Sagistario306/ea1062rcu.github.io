@@ -14645,10 +14645,10 @@
  },
  {
   "indicativo": "OY6ADA",
-  "codigo": "7S3NU9",
-  "fecha": "2026-10-26 13:05:16",
+  "codigo": "X9DFPC",
+  "fecha": "2026-11-01 00:05:34",
   "pais": "Dinamarca",
-  "archivo": "qsl/QSL_OY6ADA_2026-10.webp"
+  "archivo": "qsl/QSL_OY6ADA_2026-11.webp"
  },
  {
   "indicativo": "IN3XSV",
@@ -18639,5 +18639,12 @@
   "fecha": "2026-11-01 00:03:47",
   "pais": "Paises Bajos",
   "archivo": "qsl/QSL_PD5CN_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "VE2AAQ",
+  "codigo": "M2X8VR",
+  "fecha": "2026-11-01 00:05:31",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE2AAQ_2026-11.webp"
  }
 ]
