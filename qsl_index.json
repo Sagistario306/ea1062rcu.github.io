@@ -16198,6 +16198,13 @@
   "archivo": "qsl/QSL_KD9YIL_2026-11.webp"
  },
  {
+  "indicativo": "KD9YIL",
+  "codigo": "UD3HDP",
+  "fecha": "2026-11-01 00:05:52",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_KD9YIL_2026-11_EV.png"
+ },
+ {
   "indicativo": "4S6MKM",
   "codigo": "6QTZQ4",
   "fecha": "2026-10-29 02:49:50",
@@ -16633,10 +16640,10 @@
  },
  {
   "indicativo": "OH2BTG",
-  "codigo": "RTKXNA",
-  "fecha": "2026-10-29 03:04:51",
+  "codigo": "EK4XVE",
+  "fecha": "2026-11-01 00:05:51",
   "pais": "Finlandia",
-  "archivo": "qsl/QSL_OH2BTG_2026-10.webp"
+  "archivo": "qsl/QSL_OH2BTG_2026-11.webp"
  },
  {
   "indicativo": "TA3GLY",
