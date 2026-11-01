@@ -8600,7 +8600,7 @@
   "codigo": "PSQTTK",
   "fecha": "2026-11-01 00:11:16",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI5LJR_2026-11.png"
+  "archivo": "qsl/QSL_TI5LJR_2026-11.webp"
  },
  {
   "indicativo": "XE1LPP",
@@ -16056,6 +16056,13 @@
   "fecha": "2026-11-01 00:11:15",
   "pais": "Finlandia",
   "archivo": "qsl/QSL_OH2FZV_2026-11.webp"
+ },
+ {
+  "indicativo": "OH2FZV",
+  "codigo": "U77P5S",
+  "fecha": "2026-11-01 00:11:22",
+  "pais": "Finlandia",
+  "archivo": "qsl/QSL_OH2FZV_2026-11_EV.webp"
  },
  {
   "indicativo": "LD4KA",
