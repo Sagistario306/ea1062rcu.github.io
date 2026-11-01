@@ -18555,5 +18555,12 @@
   "fecha": "2026-11-01 00:03:06",
   "pais": "Turquia",
   "archivo": "qsl/QSL_TA6ATK_2026-11.webp"
+ },
+ {
+  "indicativo": "TA6ATK",
+  "codigo": "NXCEB5",
+  "fecha": "2026-11-01 00:03:20",
+  "pais": "Turquia",
+  "archivo": "qsl/QSL_TA6ATK_2026-11_EV.webp"
  }
 ]
