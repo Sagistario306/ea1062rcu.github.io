@@ -18982,5 +18982,19 @@
   "fecha": "2026-11-01 00:12:41",
   "pais": "Sicilia",
   "archivo": "qsl/QSL_IW3QID_2026-11.webp"
+ },
+ {
+  "indicativo": "IW3QID",
+  "codigo": "VXVJYD",
+  "fecha": "2026-11-01 00:12:57",
+  "pais": "Sicilia",
+  "archivo": "qsl/QSL_IW3QID_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "BH7JFR",
+  "codigo": "DMX9JJ",
+  "fecha": "2026-11-01 00:12:58",
+  "pais": "China",
+  "archivo": "qsl/QSL_BH7JFR_2026-11.webp"
  }
 ]
