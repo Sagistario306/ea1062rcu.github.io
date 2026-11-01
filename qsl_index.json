@@ -17395,6 +17395,13 @@
   "archivo": "qsl/QSL_LZ3DRA_2026-11.webp"
  },
  {
+  "indicativo": "LZ3DRA",
+  "codigo": "ENMA92",
+  "fecha": "2026-11-01 23:35:10",
+  "pais": "Bulgaria",
+  "archivo": "qsl/QSL_LZ3DRA_2026-11_EV.webp"
+ },
+ {
   "indicativo": "F4AEU",
   "codigo": "W55NTW",
   "fecha": "2026-10-29 03:08:18",
