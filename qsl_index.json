@@ -4928,6 +4928,13 @@
   "archivo": "qsl/QSL_KP4NET_2026-11.webp"
  },
  {
+  "indicativo": "KP4NET",
+  "codigo": "M89Z79",
+  "fecha": "2026-11-01 06:05:02",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4NET_2026-11_EV.webp"
+ },
+ {
   "indicativo": "CX7FH",
   "codigo": "DKBUPW",
   "fecha": "2026-10-05 20:05:28",
