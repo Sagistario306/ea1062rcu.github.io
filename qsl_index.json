@@ -15869,13 +15869,6 @@
   "archivo": "qsl/QSL_TA7SDR_2026-11.webp"
  },
  {
-  "indicativo": "TA7SDR",
-  "codigo": "YQZT9D",
-  "fecha": "2026-11-01 00:11:59",
-  "pais": "Turquia",
-  "archivo": "qsl/QSL_TA7SDR_2026-11_EV.webp"
- },
- {
   "indicativo": "IW3HVB",
   "codigo": "6X5UYC",
   "fecha": "2026-11-01 00:01:15",
@@ -16059,10 +16052,10 @@
  },
  {
   "indicativo": "LD4SH",
-  "codigo": "57G3ZG",
-  "fecha": "2026-11-01 00:12:04",
+  "codigo": "NMEDJK",
+  "fecha": "2026-10-28 05:37:11",
   "pais": "Noruega",
-  "archivo": "qsl/QSL_LD4SH_2026-11.webp"
+  "archivo": "qsl/QSL_LD4SH_2026-10.webp"
  },
  {
   "indicativo": "OH2FZV",
