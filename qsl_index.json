@@ -19360,5 +19360,12 @@
   "fecha": "2026-11-01 05:56:06",
   "pais": "Ucrania",
   "archivo": "qsl/QSL_UR5DGN_2026-11.webp"
+ },
+ {
+  "indicativo": "UR5DGN",
+  "codigo": "AZCQTY",
+  "fecha": "2026-11-01 05:56:11",
+  "pais": "Ucrania",
+  "archivo": "qsl/QSL_UR5DGN_2026-11_EV.webp"
  }
 ]
