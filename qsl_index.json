@@ -5313,6 +5313,13 @@
   "archivo": "qsl/QSL_9M2DAU_2026-11.webp"
  },
  {
+  "indicativo": "9M2DAU",
+  "codigo": "36RAA3",
+  "fecha": "2026-11-01 06:15:36",
+  "pais": "Malasia Occidental",
+  "archivo": "qsl/QSL_9M2DAU_2026-11_EV.webp"
+ },
+ {
   "indicativo": "CE2RK",
   "codigo": "KGYAJP",
   "fecha": "2026-10-02 00:05:19",
