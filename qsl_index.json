@@ -13938,10 +13938,10 @@
  },
  {
   "indicativo": "PY1AL",
-  "codigo": "UC68WX",
-  "fecha": "2026-10-23 00:09:06",
+  "codigo": "GGHN7M",
+  "fecha": "2026-11-01 00:09:05",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY1AL_2026-10.webp"
+  "archivo": "qsl/QSL_PY1AL_2026-11.png"
  },
  {
   "indicativo": "YB2XVT",
@@ -15965,6 +15965,13 @@
   "fecha": "2026-11-01 00:08:54",
   "pais": "Austria",
   "archivo": "qsl/QSL_OE7FMI_2026-11.webp"
+ },
+ {
+  "indicativo": "OE7FMI",
+  "codigo": "XD9MXT",
+  "fecha": "2026-11-01 00:09:02",
+  "pais": "Austria",
+  "archivo": "qsl/QSL_OE7FMI_2026-11_EV.webp"
  },
  {
   "indicativo": "F4AGQ",
