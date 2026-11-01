@@ -602,6 +602,13 @@
   "archivo": "qsl/QSL_HK4G_2026-11.webp"
  },
  {
+  "indicativo": "HK4G",
+  "codigo": "HQ3U26",
+  "fecha": "2026-11-01 12:13:03",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK4G_2026-11_EV.webp"
+ },
+ {
   "indicativo": "DX1E",
   "codigo": "5UXVYJ",
   "fecha": "2026-10-08 13:48:38",
