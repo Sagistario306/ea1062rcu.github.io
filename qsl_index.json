@@ -10655,10 +10655,10 @@
  },
  {
   "indicativo": "ZS1V",
-  "codigo": "7YZUR4",
-  "fecha": "2026-10-09 00:02:35",
+  "codigo": "TR8R5E",
+  "fecha": "2026-11-01 00:07:02",
   "pais": "Sudafrica",
-  "archivo": "qsl/QSL_ZS1V_2026-10.webp"
+  "archivo": "qsl/QSL_ZS1V_2026-11.webp"
  },
  {
   "indicativo": "ZS6WPD",
@@ -15902,6 +15902,13 @@
   "fecha": "2026-11-01 00:06:58",
   "pais": "Gales",
   "archivo": "qsl/QSL_MW0ATK_2026-11.webp"
+ },
+ {
+  "indicativo": "MW0ATK",
+  "codigo": "XD8GVP",
+  "fecha": "2026-11-01 00:07:03",
+  "pais": "Gales",
+  "archivo": "qsl/QSL_MW0ATK_2026-11_EV.webp"
  },
  {
   "indicativo": "LA2BPA",
