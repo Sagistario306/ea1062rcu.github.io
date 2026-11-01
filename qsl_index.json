@@ -11900,6 +11900,13 @@
   "archivo": "qsl/QSL_ZS1TX_2026-11.webp"
  },
  {
+  "indicativo": "ZS1TX",
+  "codigo": "9JHYSK",
+  "fecha": "2026-11-01 07:34:30",
+  "pais": "Sudafrica",
+  "archivo": "qsl/QSL_ZS1TX_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI2LX",
   "codigo": "T92A43",
   "fecha": "2026-10-12 00:48:24",
