@@ -3018,10 +3018,17 @@
  },
  {
   "indicativo": "YG2CFW",
-  "codigo": "4WBMM9",
-  "fecha": "2026-10-10 00:02:06",
+  "codigo": "7VSZSK",
+  "fecha": "2026-11-01 00:09:48",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YG2CFW_2026-10.webp"
+  "archivo": "qsl/QSL_YG2CFW_2026-11.webp"
+ },
+ {
+  "indicativo": "YG2CFW",
+  "codigo": "AJP4HU",
+  "fecha": "2026-11-01 00:09:54",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YG2CFW_2026-11_EV.webp"
  },
  {
   "indicativo": "JH4KAG",
@@ -18884,5 +18891,12 @@
   "fecha": "2026-11-01 00:08:45",
   "pais": "Sri Lanka",
   "archivo": "qsl/QSL_4S6AWA_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "PU2UIV",
+  "codigo": "PGTGU6",
+  "fecha": "2026-11-01 00:10:01",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU2UIV_2026-11.webp"
  }
 ]
