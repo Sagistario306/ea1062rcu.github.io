@@ -15953,6 +15953,13 @@
   "archivo": "qsl/QSL_F4AGQ_2026-11.webp"
  },
  {
+  "indicativo": "F4AGQ",
+  "codigo": "4C47W2",
+  "fecha": "2026-11-01 00:07:55",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F4AGQ_2026-11_EV.webp"
+ },
+ {
   "indicativo": "VR2UGX",
   "codigo": "5FX2J5",
   "fecha": "2026-10-28 05:35:51",
@@ -18103,10 +18110,10 @@
  },
  {
   "indicativo": "BG6RIB",
-  "codigo": "FQGZCD",
-  "fecha": "2026-10-31 00:09:09",
+  "codigo": "5MPPS9",
+  "fecha": "2026-11-01 00:07:56",
   "pais": "China",
-  "archivo": "qsl/QSL_BG6RIB_2026-10.webp"
+  "archivo": "qsl/QSL_BG6RIB_2026-11.png"
  },
  {
   "indicativo": "F5VLQ",
