@@ -10031,13 +10031,6 @@
   "archivo": "qsl/QSL_SV3SKM_2026-11.webp"
  },
  {
-  "indicativo": "SV3SKM",
-  "codigo": "3EMYCN",
-  "fecha": "2026-11-01 00:08:16",
-  "pais": "Grecia",
-  "archivo": "qsl/QSL_SV3SKM_2026-11_EV.webp"
- },
- {
   "indicativo": "SR3DPN",
   "codigo": "45F4GH",
   "fecha": "2026-10-30 00:03:23",
@@ -16850,10 +16843,10 @@
  },
  {
   "indicativo": "DG2RBV",
-  "codigo": "TVHAEP",
-  "fecha": "2026-11-01 00:08:21",
+  "codigo": "AZC8NU",
+  "fecha": "2026-10-29 03:17:50",
   "pais": "Alemania",
-  "archivo": "qsl/QSL_DG2RBV_2026-11.webp"
+  "archivo": "qsl/QSL_DG2RBV_2026-10.webp"
  },
  {
   "indicativo": "VK3AS",
