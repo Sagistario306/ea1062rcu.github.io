@@ -11263,6 +11263,13 @@
   "archivo": "qsl/QSL_VK3SED_2026-11.webp"
  },
  {
+  "indicativo": "VK3SED",
+  "codigo": "TUEYBU",
+  "fecha": "2026-11-01 05:57:44",
+  "pais": "Australia",
+  "archivo": "qsl/QSL_VK3SED_2026-11_EV.webp"
+ },
+ {
   "indicativo": "KH2SR",
   "codigo": "QDVH6M",
   "fecha": "2026-10-10 15:14:37",
