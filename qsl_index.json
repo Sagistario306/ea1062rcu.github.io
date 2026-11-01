@@ -9443,6 +9443,13 @@
   "archivo": "qsl/QSL_CS5CC_2026-11.webp"
  },
  {
+  "indicativo": "CS5CC",
+  "codigo": "URSJC3",
+  "fecha": "2026-11-01 05:53:19",
+  "pais": "Portugal",
+  "archivo": "qsl/QSL_CS5CC_2026-11_EV.webp"
+ },
+ {
   "indicativo": "VU2HS",
   "codigo": "6XQSCX",
   "fecha": "2026-10-28 22:24:41",
