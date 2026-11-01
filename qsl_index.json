@@ -16080,10 +16080,10 @@
  },
  {
   "indicativo": "HG8GL",
-  "codigo": "WKWB3R",
-  "fecha": "2026-10-28 05:39:31",
+  "codigo": "JR2SPZ",
+  "fecha": "2026-11-01 00:10:33",
   "pais": "Hungria",
-  "archivo": "qsl/QSL_HG8GL_2026-10.webp"
+  "archivo": "qsl/QSL_HG8GL_2026-11.webp"
  },
  {
   "indicativo": "LA6GGA",
@@ -18912,5 +18912,12 @@
   "fecha": "2026-11-01 00:10:30",
   "pais": "China",
   "archivo": "qsl/QSL_BG5EFA_2026-11.webp"
+ },
+ {
+  "indicativo": "BG5EFA",
+  "codigo": "DC3MG6",
+  "fecha": "2026-11-01 00:10:35",
+  "pais": "China",
+  "archivo": "qsl/QSL_BG5EFA_2026-11_EV.webp"
  }
 ]
