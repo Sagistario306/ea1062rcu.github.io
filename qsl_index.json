@@ -10052,6 +10052,13 @@
   "archivo": "qsl/QSL_TA4CQ_2026-11.webp"
  },
  {
+  "indicativo": "TA4CQ",
+  "codigo": "ETSVKB",
+  "fecha": "2026-11-01 00:00:09",
+  "pais": "Turquia",
+  "archivo": "qsl/QSL_TA4CQ_2026-11_EV.webp"
+ },
+ {
   "indicativo": "PY2KUU",
   "codigo": "J93GRB",
   "fecha": "2026-10-08 13:43:42",
