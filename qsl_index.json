@@ -19717,5 +19717,12 @@
   "fecha": "2026-11-01 10:47:59",
   "pais": "Creta",
   "archivo": "qsl/QSL_SV9CAE_2026-11.webp"
+ },
+ {
+  "indicativo": "SV9CAE",
+  "codigo": "CDPRT2",
+  "fecha": "2026-11-01 10:48:04",
+  "pais": "Creta",
+  "archivo": "qsl/QSL_SV9CAE_2026-11_EV.webp"
  }
 ]
