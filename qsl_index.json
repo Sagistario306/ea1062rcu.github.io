@@ -17808,6 +17808,13 @@
   "archivo": "qsl/QSL_VK2JPG_2026-11.webp"
  },
  {
+  "indicativo": "VK2JPG",
+  "codigo": "SWH2M6",
+  "fecha": "2026-11-01 05:52:08",
+  "pais": "Australia",
+  "archivo": "qsl/QSL_VK2JPG_2026-11_EV.webp"
+ },
+ {
   "indicativo": "OM5KV",
   "codigo": "PBHWAB",
   "fecha": "2026-10-30 00:59:06",
@@ -18551,10 +18558,10 @@
  },
  {
   "indicativo": "IS0QLX",
-  "codigo": "APZWAD",
-  "fecha": "2026-10-31 00:21:04",
+  "codigo": "EPUARW",
+  "fecha": "2026-11-01 05:52:09",
   "pais": "Cerdeña",
-  "archivo": "qsl/QSL_IS0QLX_2026-10.webp"
+  "archivo": "qsl/QSL_IS0QLX_2026-11.webp"
  },
  {
   "indicativo": "VK2YBB",
