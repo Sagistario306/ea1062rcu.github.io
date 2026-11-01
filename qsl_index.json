@@ -16202,7 +16202,7 @@
   "codigo": "UD3HDP",
   "fecha": "2026-11-01 00:05:52",
   "pais": "EE.UU",
-  "archivo": "qsl/QSL_KD9YIL_2026-11_EV.png"
+  "archivo": "qsl/QSL_KD9YIL_2026-11_EV.webp"
  },
  {
   "indicativo": "4S6MKM",
@@ -16644,6 +16644,13 @@
   "fecha": "2026-11-01 00:05:51",
   "pais": "Finlandia",
   "archivo": "qsl/QSL_OH2BTG_2026-11.webp"
+ },
+ {
+  "indicativo": "OH2BTG",
+  "codigo": "QU7WSN",
+  "fecha": "2026-11-01 00:05:55",
+  "pais": "Finlandia",
+  "archivo": "qsl/QSL_OH2BTG_2026-11_EV.webp"
  },
  {
   "indicativo": "TA3GLY",
