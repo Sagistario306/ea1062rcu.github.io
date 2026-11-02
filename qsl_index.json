@@ -3598,6 +3598,13 @@
   "archivo": "qsl/QSL_6K5SWM_2026-11.webp"
  },
  {
+  "indicativo": "6K5SWM",
+  "codigo": "7M7E2D",
+  "fecha": "2026-11-02 15:31:38",
+  "pais": "Corea",
+  "archivo": "qsl/QSL_6K5SWM_2026-11_EV.webp"
+ },
+ {
   "indicativo": "ZL2BAU",
   "codigo": "CPPC2J",
   "fecha": "2026-11-01 06:15:48",
