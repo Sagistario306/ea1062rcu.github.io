@@ -2191,6 +2191,13 @@
   "archivo": "qsl/QSL_YC2PAB_2026-11.webp"
  },
  {
+  "indicativo": "YC2PAB",
+  "codigo": "7JJSRJ",
+  "fecha": "2026-11-02 01:06:05",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YC2PAB_2026-11_EV.webp"
+ },
+ {
   "indicativo": "YD2VLD",
   "codigo": "FTDSHK",
   "fecha": "2026-10-16 00:35:48",
