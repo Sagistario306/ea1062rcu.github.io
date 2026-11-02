@@ -18246,7 +18246,7 @@
   "codigo": "GZNQG6",
   "fecha": "2026-11-02 05:45:52",
   "pais": "Reino Unido",
-  "archivo": "qsl/QSL_2E0LPZ_2026-11_EV.webp"
+  "archivo": "qsl/QSL_2E0LPZ_2026-11_EV.png"
  },
  {
   "indicativo": "9A3XZ",
@@ -21005,5 +21005,12 @@
   "fecha": "2026-11-02 05:20:16",
   "pais": "Suiza",
   "archivo": "qsl/QSL_HB9EYW_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "HB9EIY",
+  "codigo": "VU5EHT",
+  "fecha": "2026-11-02 06:06:45",
+  "pais": "Suiza",
+  "archivo": "qsl/QSL_HB9EIY_2026-11.webp"
  }
 ]
