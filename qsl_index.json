@@ -9653,6 +9653,13 @@
   "archivo": "qsl/QSL_ZS6DAB_2026-11.webp"
  },
  {
+  "indicativo": "ZS6DAB",
+  "codigo": "K833UQ",
+  "fecha": "2026-11-02 05:37:00",
+  "pais": "Sudafrica",
+  "archivo": "qsl/QSL_ZS6DAB_2026-11_EV.webp"
+ },
+ {
   "indicativo": "ZS6GEB",
   "codigo": "8YJ86B",
   "fecha": "2026-10-15 05:42:08",
