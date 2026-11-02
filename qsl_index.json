@@ -10256,10 +10256,10 @@
  },
  {
   "indicativo": "TG6ORP",
-  "codigo": "MHZEH9",
-  "fecha": "2026-10-18 12:47:45",
+  "codigo": "6W4AGG",
+  "fecha": "2026-11-02 13:55:26",
   "pais": "Guatemala",
-  "archivo": "qsl/QSL_TG6ORP_2026-10.webp"
+  "archivo": "qsl/QSL_TG6ORP_2026-11.webp"
  },
  {
   "indicativo": "HS6KLJ",
@@ -21166,5 +21166,12 @@
   "fecha": "2026-11-02 13:44:09",
   "pais": "Luxemburgo",
   "archivo": "qsl/QSL_LX1SP_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "EW7RR",
+  "codigo": "R4ANJH",
+  "fecha": "2026-11-02 13:55:23",
+  "pais": "Bielorrusia",
+  "archivo": "qsl/QSL_EW7RR_2026-11.webp"
  }
 ]
