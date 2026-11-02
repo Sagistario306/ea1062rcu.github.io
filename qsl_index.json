@@ -19153,10 +19153,10 @@
  },
  {
   "indicativo": "F4MTL",
-  "codigo": "QKDRHD",
-  "fecha": "2026-10-31 01:00:27",
+  "codigo": "ARAWUC",
+  "fecha": "2026-11-02 00:02:10",
   "pais": "Francia",
-  "archivo": "qsl/QSL_F4MTL_2026-10.webp"
+  "archivo": "qsl/QSL_F4MTL_2026-11.webp"
  },
  {
   "indicativo": "VK2AEC",
@@ -19962,5 +19962,12 @@
   "fecha": "2026-11-02 00:02:05",
   "pais": "EE.UU",
   "archivo": "qsl/QSL_KC3ARQ_2026-11.webp"
+ },
+ {
+  "indicativo": "KC3ARQ",
+  "codigo": "DPA3HA",
+  "fecha": "2026-11-02 00:02:15",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_KC3ARQ_2026-11_EV.webp"
  }
 ]
