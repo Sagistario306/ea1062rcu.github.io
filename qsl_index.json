@@ -20214,5 +20214,12 @@
   "fecha": "2026-11-02 00:07:59",
   "pais": "Canada",
   "archivo": "qsl/QSL_VA3IGN_2026-11.webp"
+ },
+ {
+  "indicativo": "VA3IGN",
+  "codigo": "NJQNM9",
+  "fecha": "2026-11-02 00:08:04",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VA3IGN_2026-11_EV.webp"
  }
 ]
