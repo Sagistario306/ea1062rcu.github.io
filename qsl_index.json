@@ -20347,5 +20347,12 @@
   "fecha": "2026-11-02 00:11:14",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2O_2026-11.webp"
+ },
+ {
+  "indicativo": "XE2O",
+  "codigo": "AQQ4UV",
+  "fecha": "2026-11-02 00:11:35",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2O_2026-11_EV.webp"
  }
 ]
