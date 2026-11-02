@@ -14336,6 +14336,13 @@
   "archivo": "qsl/QSL_G1SRD_2026-11.webp"
  },
  {
+  "indicativo": "G1SRD",
+  "codigo": "AAGG7Y",
+  "fecha": "2026-11-02 04:01:21",
+  "pais": "Reino Unido",
+  "archivo": "qsl/QSL_G1SRD_2026-11_EV.webp"
+ },
+ {
   "indicativo": "ZR6AGS",
   "codigo": "S2SEP5",
   "fecha": "2026-10-22 05:32:12",
