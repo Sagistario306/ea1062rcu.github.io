@@ -16080,10 +16080,10 @@
  },
  {
   "indicativo": "TA7KES",
-  "codigo": "HZEWPB",
-  "fecha": "2026-10-28 05:26:09",
+  "codigo": "Z6VRXZ",
+  "fecha": "2026-11-02 00:07:06",
   "pais": "Turquia",
-  "archivo": "qsl/QSL_TA7KES_2026-10.webp"
+  "archivo": "qsl/QSL_TA7KES_2026-11.webp"
  },
  {
   "indicativo": "SM5TGV",
@@ -20165,5 +20165,12 @@
   "fecha": "2026-11-02 00:06:57",
   "pais": "China",
   "archivo": "qsl/QSL_BG2BRQ_2026-11.webp"
+ },
+ {
+  "indicativo": "BG2BRQ",
+  "codigo": "97JKA7",
+  "fecha": "2026-11-02 00:07:07",
+  "pais": "China",
+  "archivo": "qsl/QSL_BG2BRQ_2026-11_EV.webp"
  }
 ]
