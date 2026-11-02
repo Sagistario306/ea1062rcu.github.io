@@ -16129,10 +16129,10 @@
  },
  {
   "indicativo": "TA2HZ",
-  "codigo": "CKW3AJ",
-  "fecha": "2026-10-28 05:27:09",
+  "codigo": "WPU3VK",
+  "fecha": "2026-11-02 00:08:13",
   "pais": "Turquia",
-  "archivo": "qsl/QSL_TA2HZ_2026-10.webp"
+  "archivo": "qsl/QSL_TA2HZ_2026-11.webp"
  },
  {
   "indicativo": "DN9MSN",
@@ -20221,5 +20221,12 @@
   "fecha": "2026-11-02 00:08:04",
   "pais": "Canada",
   "archivo": "qsl/QSL_VA3IGN_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "VA3CNM",
+  "codigo": "3GEZ3J",
+  "fecha": "2026-11-02 00:08:14",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VA3CNM_2026-11.webp"
  }
 ]
