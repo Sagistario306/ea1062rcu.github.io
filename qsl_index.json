@@ -15408,10 +15408,10 @@
  },
  {
   "indicativo": "OE5RBO",
-  "codigo": "Y7T56Y",
-  "fecha": "2026-10-26 13:11:55",
+  "codigo": "UJ386K",
+  "fecha": "2026-11-02 00:03:54",
   "pais": "Austria",
-  "archivo": "qsl/QSL_OE5RBO_2026-10.webp"
+  "archivo": "qsl/QSL_OE5RBO_2026-11.webp"
  },
  {
   "indicativo": "OM2ASH",
@@ -20039,5 +20039,12 @@
   "fecha": "2026-11-02 00:03:39",
   "pais": "EE.UU",
   "archivo": "qsl/QSL_KE5YIM_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "BG0EYK",
+  "codigo": "KC2E9F",
+  "fecha": "2026-11-02 00:03:53",
+  "pais": "China",
+  "archivo": "qsl/QSL_BG0EYK_2026-11.webp"
  }
 ]
