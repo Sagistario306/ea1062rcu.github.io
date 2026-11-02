@@ -19878,5 +19878,19 @@
   "fecha": "2026-11-02 00:00:43",
   "pais": "EE.UU",
   "archivo": "qsl/QSL_WC4J_2026-11.webp"
+ },
+ {
+  "indicativo": "WC4J",
+  "codigo": "RA29QR",
+  "fecha": "2026-11-02 00:00:54",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_WC4J_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "SQ7KWP",
+  "codigo": "9WUSCF",
+  "fecha": "2026-11-02 00:00:50",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SQ7KWP_2026-11.webp"
  }
 ]
