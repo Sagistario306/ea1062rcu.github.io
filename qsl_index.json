@@ -2283,10 +2283,10 @@
  },
  {
   "indicativo": "9W3FAB",
-  "codigo": "RHQS4B",
-  "fecha": "2026-10-22 00:23:28",
+  "codigo": "VQZ5JK",
+  "fecha": "2026-11-02 00:18:34",
   "pais": "Malasia",
-  "archivo": "qsl/QSL_9W3FAB_2026-10.webp"
+  "archivo": "qsl/QSL_9W3FAB_2026-11.webp"
  },
  {
   "indicativo": "YB1JQC",
@@ -17638,6 +17638,13 @@
   "fecha": "2026-11-02 00:18:28",
   "pais": "Alemania",
   "archivo": "qsl/QSL_DC8OH_2026-11.webp"
+ },
+ {
+  "indicativo": "DC8OH",
+  "codigo": "DAGK5Z",
+  "fecha": "2026-11-02 00:18:33",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DC8OH_2026-11_EV.webp"
  },
  {
   "indicativo": "OH1MN",
