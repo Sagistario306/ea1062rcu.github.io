@@ -20592,5 +20592,12 @@
   "fecha": "2026-11-02 00:29:58",
   "pais": "Francia",
   "archivo": "qsl/QSL_F5RAV_2026-11.webp"
+ },
+ {
+  "indicativo": "F5RAV",
+  "codigo": "S97278",
+  "fecha": "2026-11-02 00:30:04",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F5RAV_2026-11_EV.webp"
  }
 ]
