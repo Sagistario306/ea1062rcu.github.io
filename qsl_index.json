@@ -6097,6 +6097,13 @@
   "archivo": "qsl/QSL_XE2MDH_2026-11.webp"
  },
  {
+  "indicativo": "XE2MDH",
+  "codigo": "9GYA2N",
+  "fecha": "2026-11-02 01:18:10",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2MDH_2026-11_EV.webp"
+ },
+ {
   "indicativo": "9M2RTX",
   "codigo": "JZU9Z4",
   "fecha": "2026-10-28 07:25:29",
