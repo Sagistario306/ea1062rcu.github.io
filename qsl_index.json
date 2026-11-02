@@ -19892,5 +19892,12 @@
   "fecha": "2026-11-02 00:00:50",
   "pais": "Polonia",
   "archivo": "qsl/QSL_SQ7KWP_2026-11.webp"
+ },
+ {
+  "indicativo": "SQ7KWP",
+  "codigo": "2SMV7F",
+  "fecha": "2026-11-02 00:01:01",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SQ7KWP_2026-11_EV.webp"
  }
 ]
