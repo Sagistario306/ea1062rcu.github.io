@@ -2370,7 +2370,7 @@
   "codigo": "P3GACK",
   "fecha": "2026-11-02 19:10:20",
   "pais": "Republica Dominicana",
-  "archivo": "qsl/QSL_HI6LT_2026-11_EV.webp"
+  "archivo": "qsl/QSL_HI6LT_2026-11_EV.png"
  },
  {
   "indicativo": "HI7LT",
@@ -3039,10 +3039,10 @@
  },
  {
   "indicativo": "HR2LED",
-  "codigo": "XW6ZVJ",
-  "fecha": "2026-11-01 10:15:14",
+  "codigo": "85CN9Z",
+  "fecha": "2026-11-02 19:26:53",
   "pais": "Honduras",
-  "archivo": "qsl/QSL_HR2LED_2026-11_EV.webp"
+  "archivo": "qsl/QSL_HR2LED_2026-11.webp"
  },
  {
   "indicativo": "XE2NBI",
@@ -5283,5 +5283,12 @@
   "fecha": "2026-11-02 13:55:43",
   "pais": "Bielorrusia",
   "archivo": "qsl/QSL_EW7RR_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "MM3DKA",
+  "codigo": "AT5TM3",
+  "fecha": "2026-11-02 19:26:54",
+  "pais": "Escocia",
+  "archivo": "qsl/QSL_MM3DKA_2026-11.webp"
  }
 ]
