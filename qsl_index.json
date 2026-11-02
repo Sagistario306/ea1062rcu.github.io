@@ -18054,10 +18054,10 @@
  },
  {
   "indicativo": "SR6NPK",
-  "codigo": "VCPZDM",
-  "fecha": "2026-10-30 00:03:08",
+  "codigo": "63Y6B5",
+  "fecha": "2026-11-02 00:07:51",
   "pais": "Polonia",
-  "archivo": "qsl/QSL_SR6NPK_2026-10.webp"
+  "archivo": "qsl/QSL_SR6NPK_2026-11.webp"
  },
  {
   "indicativo": "BV3VP",
@@ -20193,5 +20193,12 @@
   "fecha": "2026-11-02 00:07:40",
   "pais": "China",
   "archivo": "qsl/QSL_BG1MIF_2026-11.webp"
+ },
+ {
+  "indicativo": "BG1MIF",
+  "codigo": "T9ZHPG",
+  "fecha": "2026-11-02 00:07:50",
+  "pais": "China",
+  "archivo": "qsl/QSL_BG1MIF_2026-11_EV.webp"
  }
 ]
