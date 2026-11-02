@@ -11953,7 +11953,7 @@
   "codigo": "YWSB6Q",
   "fecha": "2026-11-02 00:08:32",
   "pais": "Canada",
-  "archivo": "qsl/QSL_VA5JC_2026-11.png"
+  "archivo": "qsl/QSL_VA5JC_2026-11.webp"
  },
  {
   "indicativo": "VA7NKL",
@@ -20249,5 +20249,12 @@
   "fecha": "2026-11-02 00:08:30",
   "pais": "Italia",
   "archivo": "qsl/QSL_IU2DYI_2026-11.webp"
+ },
+ {
+  "indicativo": "IU2DYI",
+  "codigo": "Q39PRC",
+  "fecha": "2026-11-02 00:08:36",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IU2DYI_2026-11_EV.webp"
  }
 ]
