@@ -16111,7 +16111,7 @@
   "codigo": "BV8BEH",
   "fecha": "2026-11-02 00:01:51",
   "pais": "Italia",
-  "archivo": "qsl/QSL_IZ1NJN_2026-11.png"
+  "archivo": "qsl/QSL_IZ1NJN_2026-11.webp"
  },
  {
   "indicativo": "IW2DWN",
@@ -19941,5 +19941,12 @@
   "fecha": "2026-11-02 00:01:47",
   "pais": "China",
   "archivo": "qsl/QSL_BG6MLO_2026-11.webp"
+ },
+ {
+  "indicativo": "BG6MLO",
+  "codigo": "UNU3BN",
+  "fecha": "2026-11-02 00:01:55",
+  "pais": "China",
+  "archivo": "qsl/QSL_BG6MLO_2026-11_EV.webp"
  }
 ]
