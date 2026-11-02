@@ -4270,6 +4270,13 @@
   "archivo": "qsl/QSL_LZ3DRA_2026-11.webp"
  },
  {
+  "indicativo": "LZ3DRA",
+  "codigo": "JCDJCM",
+  "fecha": "2026-11-02 15:34:52",
+  "pais": "Bulgaria",
+  "archivo": "qsl/QSL_LZ3DRA_2026-11_EV.webp"
+ },
+ {
   "indicativo": "IW0SAG",
   "codigo": "NDKCED",
   "fecha": "2026-11-02 00:06:27",
