@@ -3606,10 +3606,10 @@
  },
  {
   "indicativo": "KG4VUK",
-  "codigo": "PV2JPZ",
-  "fecha": "2026-11-01 05:53:27",
+  "codigo": "5QRA4H",
+  "fecha": "2026-11-02 15:29:05",
   "pais": "Guantánamo Bay",
-  "archivo": "qsl/QSL_KG4VUK_2026-11_EV.webp"
+  "archivo": "qsl/QSL_KG4VUK_2026-11.webp"
  },
  {
   "indicativo": "F4ICE",
@@ -4485,6 +4485,13 @@
   "fecha": "2026-11-02 15:28:59",
   "pais": "Creta",
   "archivo": "qsl/QSL_SV9EFL_2026-11.webp"
+ },
+ {
+  "indicativo": "SV9EFL",
+  "codigo": "V2CFXN",
+  "fecha": "2026-11-02 15:29:09",
+  "pais": "Creta",
+  "archivo": "qsl/QSL_SV9EFL_2026-11_EV.webp"
  },
  {
   "indicativo": "LY2EZ",
