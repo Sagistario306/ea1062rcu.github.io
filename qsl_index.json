@@ -16626,10 +16626,10 @@
  },
  {
   "indicativo": "HS8TAB",
-  "codigo": "KC48YH",
-  "fecha": "2026-10-28 05:34:01",
+  "codigo": "PX56G6",
+  "fecha": "2026-11-02 00:25:10",
   "pais": "Tailandia",
-  "archivo": "qsl/QSL_HS8TAB_2026-10.webp"
+  "archivo": "qsl/QSL_HS8TAB_2026-11.webp"
  },
  {
   "indicativo": "OZ1KX",
@@ -17862,6 +17862,13 @@
   "fecha": "2026-11-02 00:25:06",
   "pais": "Austria",
   "archivo": "qsl/QSL_OE6XTR_2026-11.webp"
+ },
+ {
+  "indicativo": "OE6XTR",
+  "codigo": "3AUBEZ",
+  "fecha": "2026-11-02 00:25:12",
+  "pais": "Austria",
+  "archivo": "qsl/QSL_OE6XTR_2026-11_EV.webp"
  },
  {
   "indicativo": "VK6LD",
