@@ -20174,6 +20174,13 @@
   "archivo": "qsl/QSL_LY4RJ_2026-11.webp"
  },
  {
+  "indicativo": "LY4RJ",
+  "codigo": "CKBBCE",
+  "fecha": "2026-11-02 12:59:59",
+  "pais": "Lituania",
+  "archivo": "qsl/QSL_LY4RJ_2026-11_EV.webp"
+ },
+ {
   "indicativo": "2E1MCT",
   "codigo": "PHJ2DR",
   "fecha": "2026-10-31 08:52:46",
