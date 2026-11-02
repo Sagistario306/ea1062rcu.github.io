@@ -71,10 +71,10 @@
  },
  {
   "indicativo": "YC3LDO",
-  "codigo": "T3FS8E",
-  "fecha": "2026-10-15 05:43:39",
+  "codigo": "W8CRMT",
+  "fecha": "2026-11-02 03:38:58",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YC3LDO_2026-10.webp"
+  "archivo": "qsl/QSL_YC3LDO_2026-11.webp"
  },
  {
   "indicativo": "XE2VP",
@@ -5671,17 +5671,10 @@
  },
  {
   "indicativo": "CX3JG",
-  "codigo": "CQVKQD",
-  "fecha": "2026-10-02 00:49:36",
+  "codigo": "3BRNNU",
+  "fecha": "2026-11-02 01:18:42",
   "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX3JG_2026-10.webp"
- },
- {
-  "indicativo": "CX3JG",
-  "codigo": "Q877KY",
-  "fecha": "2026-10-02 00:49:44",
-  "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX3JG_2026-10_EV.webp"
+  "archivo": "qsl/QSL_CX3JG_2026-11.webp"
  },
  {
   "indicativo": "HK6EB",
@@ -20809,5 +20802,12 @@
   "fecha": "2026-11-02 01:08:47",
   "pais": "Suiza",
   "archivo": "qsl/QSL_HB3YDW_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "OE1LAB",
+  "codigo": "Y37XXA",
+  "fecha": "2026-11-02 02:56:24",
+  "pais": "Austria",
+  "archivo": "qsl/QSL_OE1LAB_2026-11.png"
  }
 ]
