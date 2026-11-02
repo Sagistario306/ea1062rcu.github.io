@@ -823,7 +823,7 @@
   "codigo": "S64N73",
   "fecha": "2026-11-02 20:18:00",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE3RHA_2026-11_EV.webp"
+  "archivo": "qsl/QSL_CE3RHA_2026-11_EV.png"
  },
  {
   "indicativo": "HK3LRB",
@@ -1450,10 +1450,10 @@
  },
  {
   "indicativo": "CE1VPG",
-  "codigo": "TQC935",
-  "fecha": "2026-11-01 23:24:00",
+  "codigo": "KBUR64",
+  "fecha": "2026-11-02 20:42:44",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE1VPG_2026-11_EV.webp"
+  "archivo": "qsl/QSL_CE1VPG_2026-11.webp"
  },
  {
   "indicativo": "CE3TMM",
