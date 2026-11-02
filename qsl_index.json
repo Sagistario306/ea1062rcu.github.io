@@ -21159,5 +21159,12 @@
   "fecha": "2026-11-02 13:44:03",
   "pais": "Luxemburgo",
   "archivo": "qsl/QSL_LX1SP_2026-11.webp"
+ },
+ {
+  "indicativo": "LX1SP",
+  "codigo": "BT6SZX",
+  "fecha": "2026-11-02 13:44:09",
+  "pais": "Luxemburgo",
+  "archivo": "qsl/QSL_LX1SP_2026-11_EV.webp"
  }
 ]
