@@ -833,6 +833,13 @@
   "archivo": "qsl/QSL_NP4GT_2026-11.webp"
  },
  {
+  "indicativo": "NP4GT",
+  "codigo": "S6NEYF",
+  "fecha": "2026-11-02 18:26:17",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4GT_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI3GB",
   "codigo": "S6W9RD",
   "fecha": "2026-10-06 23:01:21",
