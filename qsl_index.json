@@ -4914,6 +4914,13 @@
   "archivo": "qsl/QSL_HB9CPJ_2026-11.webp"
  },
  {
+  "indicativo": "HB9CPJ",
+  "codigo": "BWA663",
+  "fecha": "2026-11-02 15:27:54",
+  "pais": "Suiza",
+  "archivo": "qsl/QSL_HB9CPJ_2026-11_EV.webp"
+ },
+ {
   "indicativo": "F5RAV",
   "codigo": "S97278",
   "fecha": "2026-11-02 00:30:04",
