@@ -2653,6 +2653,13 @@
   "archivo": "qsl/QSL_HK4FZ_2026-11.webp"
  },
  {
+  "indicativo": "HK4FZ",
+  "codigo": "7QNHSZ",
+  "fecha": "2026-11-02 18:38:40",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK4FZ_2026-11_EV.webp"
+ },
+ {
   "indicativo": "CE3DQX",
   "codigo": "6CRM7J",
   "fecha": "2026-10-03 00:31:27",
