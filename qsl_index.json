@@ -11712,10 +11712,10 @@
  },
  {
   "indicativo": "PY2RIC",
-  "codigo": "AY2GSC",
-  "fecha": "2026-10-11 00:01:57",
+  "codigo": "BY7UDY",
+  "fecha": "2026-11-02 00:18:02",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY2RIC_2026-10.webp"
+  "archivo": "qsl/QSL_PY2RIC_2026-11.webp"
  },
  {
   "indicativo": "KH6BFD",
@@ -17092,6 +17092,13 @@
   "fecha": "2026-11-02 00:17:59",
   "pais": "Noruega",
   "archivo": "qsl/QSL_LD3KS_2026-11.webp"
+ },
+ {
+  "indicativo": "LD3KS",
+  "codigo": "H8EQ9D",
+  "fecha": "2026-11-02 00:18:03",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LD3KS_2026-11_EV.webp"
  },
  {
   "indicativo": "IW4BMA",
