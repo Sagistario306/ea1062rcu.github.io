@@ -1456,6 +1456,13 @@
   "archivo": "qsl/QSL_CE1VPG_2026-11.webp"
  },
  {
+  "indicativo": "CE1VPG",
+  "codigo": "V33JMS",
+  "fecha": "2026-11-02 20:42:49",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE1VPG_2026-11_EV.webp"
+ },
+ {
   "indicativo": "CE3TMM",
   "codigo": "QUMXB3",
   "fecha": "2026-10-07 11:11:11",
