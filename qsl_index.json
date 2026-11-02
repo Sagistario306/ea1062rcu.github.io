@@ -11879,6 +11879,13 @@
   "archivo": "qsl/QSL_4Z1BO_2026-11.webp"
  },
  {
+  "indicativo": "4Z1BO",
+  "codigo": "PJATMM",
+  "fecha": "2026-11-02 06:22:39",
+  "pais": "Israel",
+  "archivo": "qsl/QSL_4Z1BO_2026-11_EV.webp"
+ },
+ {
   "indicativo": "SV4FFZ",
   "codigo": "CE8TFM",
   "fecha": "2026-10-11 05:09:28",
