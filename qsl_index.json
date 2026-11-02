@@ -14533,10 +14533,10 @@
  },
  {
   "indicativo": "WX3C",
-  "codigo": "GTMUMW",
-  "fecha": "2026-10-25 03:46:15",
+  "codigo": "PKYWNM",
+  "fecha": "2026-11-02 00:00:00",
   "pais": "EE.UU",
-  "archivo": "qsl/QSL_WX3C_2026-10.webp"
+  "archivo": "qsl/QSL_WX3C_2026-11.webp"
  },
  {
   "indicativo": "VA3NFA",
@@ -19850,5 +19850,12 @@
   "fecha": "2026-11-01 22:49:58",
   "pais": "Suiza",
   "archivo": "qsl/QSL_HB9ESL_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "IU8IAA",
+  "codigo": "95MMG4",
+  "fecha": "2026-11-02 00:00:12",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IU8IAA_2026-11.webp"
  }
 ]
