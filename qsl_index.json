@@ -1002,10 +1002,10 @@
  },
  {
   "indicativo": "9W2JRQ",
-  "codigo": "GYE43N",
-  "fecha": "2026-10-18 00:03:15",
+  "codigo": "QCW2Q2",
+  "fecha": "2026-11-02 00:09:10",
   "pais": "Malasia",
-  "archivo": "qsl/QSL_9W2JRQ_2026-10.webp"
+  "archivo": "qsl/QSL_9W2JRQ_2026-11.webp"
  },
  {
   "indicativo": "LU5DLT",
@@ -18429,6 +18429,13 @@
   "fecha": "2026-11-02 00:09:02",
   "pais": "Grecia",
   "archivo": "qsl/QSL_SV2HJW_2026-11.webp"
+ },
+ {
+  "indicativo": "SV2HJW",
+  "codigo": "X5M62N",
+  "fecha": "2026-11-02 00:09:09",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV2HJW_2026-11_EV.webp"
  },
  {
   "indicativo": "SV2HIA",
