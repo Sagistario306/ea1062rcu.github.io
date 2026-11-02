@@ -11950,10 +11950,10 @@
  },
  {
   "indicativo": "VA5JC",
-  "codigo": "GA3WVJ",
-  "fecha": "2026-10-12 00:00:49",
+  "codigo": "YWSB6Q",
+  "fecha": "2026-11-02 00:08:32",
   "pais": "Canada",
-  "archivo": "qsl/QSL_VA5JC_2026-10.webp"
+  "archivo": "qsl/QSL_VA5JC_2026-11.png"
  },
  {
   "indicativo": "VA7NKL",
@@ -20242,5 +20242,12 @@
   "fecha": "2026-11-02 00:08:23",
   "pais": "Canada",
   "archivo": "qsl/QSL_VA3CNM_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "IU2DYI",
+  "codigo": "PC9SQR",
+  "fecha": "2026-11-02 00:08:30",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IU2DYI_2026-11.webp"
  }
 ]
