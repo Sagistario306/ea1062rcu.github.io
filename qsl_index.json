@@ -5381,5 +5381,12 @@
   "fecha": "2026-11-02 21:01:09",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE4BRR_2026-11.webp"
+ },
+ {
+  "indicativo": "CE4BRR",
+  "codigo": "REE5A4",
+  "fecha": "2026-11-02 21:01:16",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE4BRR_2026-11_EV.webp"
  }
 ]
