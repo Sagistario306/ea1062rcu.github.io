@@ -5152,6 +5152,13 @@
   "archivo": "qsl/QSL_HB9ZIE_2026-11.webp"
  },
  {
+  "indicativo": "HB9ZIE",
+  "codigo": "BDU9TJ",
+  "fecha": "2026-11-02 18:23:33",
+  "pais": "Suiza",
+  "archivo": "qsl/QSL_HB9ZIE_2026-11_EV.webp"
+ },
+ {
   "indicativo": "MM9STM",
   "codigo": "3NZ6X6",
   "fecha": "2026-11-02 15:30:26",
