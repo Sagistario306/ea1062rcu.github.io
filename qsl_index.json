@@ -15233,10 +15233,10 @@
  },
  {
   "indicativo": "F4ERR",
-  "codigo": "NCB3BC",
-  "fecha": "2026-10-26 13:03:56",
+  "codigo": "B9KCXV",
+  "fecha": "2026-11-03 05:56:24",
   "pais": "Francia",
-  "archivo": "qsl/QSL_F4ERR_2026-10.webp"
+  "archivo": "qsl/QSL_F4ERR_2026-11.png"
  },
  {
   "indicativo": "DG1EZ",
@@ -21441,6 +21441,13 @@
   "archivo": "qsl/QSL_SP3DUB_2026-11_EV.webp"
  },
  {
+  "indicativo": "BG5TVX",
+  "codigo": "U4SP34",
+  "fecha": "2026-11-03 05:56:23",
+  "pais": "China",
+  "archivo": "qsl/QSL_BG5TVX_2026-11.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
@@ -22356,6 +22363,13 @@
   "fecha": "2026-10-26 04:42:46",
   "pais": "EE.UU",
   "archivo": "qsl/QSL_K2EHE_2026-10.webp"
+ },
+ {
+  "indicativo": "F4ERR",
+  "codigo": "NCB3BC",
+  "fecha": "2026-10-26 13:03:56",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F4ERR_2026-10.webp"
  },
  {
   "indicativo": "OZ3LFG",
