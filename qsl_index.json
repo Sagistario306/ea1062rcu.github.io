@@ -10312,10 +10312,10 @@
  },
  {
   "indicativo": "LA3SP",
-  "codigo": "6JNMWX",
-  "fecha": "2026-10-28 05:25:13",
+  "codigo": "VCKQDB",
+  "fecha": "2026-11-03 06:04:04",
   "pais": "Noruega",
-  "archivo": "qsl/QSL_LA3SP_2026-10.webp"
+  "archivo": "qsl/QSL_LA3SP_2026-11.webp"
  },
  {
   "indicativo": "4X1DA",
@@ -22650,6 +22650,13 @@
   "fecha": "2026-10-28 23:01:16",
   "pais": "Tailandia",
   "archivo": "qsl/QSL_HS6KLJ_2026-10.webp"
+ },
+ {
+  "indicativo": "LA3SP",
+  "codigo": "6JNMWX",
+  "fecha": "2026-10-28 05:25:13",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LA3SP_2026-10.webp"
  },
  {
   "indicativo": "4X1DA",
