@@ -17249,10 +17249,10 @@
  },
  {
   "indicativo": "4S5SC",
-  "codigo": "BUXBSG",
-  "fecha": "2026-10-29 02:48:41",
+  "codigo": "728S7Q",
+  "fecha": "2026-11-03 05:18:45",
   "pais": "Sri Lanka",
-  "archivo": "qsl/QSL_4S5SC_2026-10.webp"
+  "archivo": "qsl/QSL_4S5SC_2026-11.webp"
  },
  {
   "indicativo": "W4DJW",
@@ -22104,6 +22104,13 @@
   "fecha": "2026-10-11 05:35:50",
   "pais": "Israel",
   "archivo": "qsl/QSL_4X5AS_2026-10.webp"
+ },
+ {
+  "indicativo": "4S5SC",
+  "codigo": "BUXBSG",
+  "fecha": "2026-10-29 02:48:41",
+  "pais": "Sri Lanka",
+  "archivo": "qsl/QSL_4S5SC_2026-10.webp"
  },
  {
   "indicativo": "9W2FII",
