@@ -7400,10 +7400,10 @@
  },
  {
   "indicativo": "EB7FAO",
-  "codigo": "JJ64CD",
-  "fecha": "2026-10-28 03:53:20",
+  "codigo": "TQ4383",
+  "fecha": "2026-11-03 06:39:25",
   "pais": "España",
-  "archivo": "qsl/QSL_EB7FAO_2026-10.webp"
+  "archivo": "qsl/QSL_EB7FAO_2026-11.webp"
  },
  {
   "indicativo": "EA7KD",
@@ -22538,6 +22538,13 @@
   "fecha": "2026-10-08 00:09:52",
   "pais": "Cuba",
   "archivo": "qsl/QSL_CO5RMM_2026-10.webp"
+ },
+ {
+  "indicativo": "EB7FAO",
+  "codigo": "JJ64CD",
+  "fecha": "2026-10-28 03:53:20",
+  "pais": "España",
+  "archivo": "qsl/QSL_EB7FAO_2026-10.webp"
  },
  {
   "indicativo": "YC1EKP",
