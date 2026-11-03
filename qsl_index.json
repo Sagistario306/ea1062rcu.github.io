@@ -9990,10 +9990,10 @@
  },
  {
   "indicativo": "PR2KW",
-  "codigo": "N8JAUM",
-  "fecha": "2026-10-21 00:01:56",
+  "codigo": "WJZPVY",
+  "fecha": "2026-11-03 05:56:38",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PR2KW_2026-10.webp"
+  "archivo": "qsl/QSL_PR2KW_2026-11.webp"
  },
  {
   "indicativo": "HR2LED",
@@ -22258,6 +22258,13 @@
   "fecha": "2026-10-28 05:35:31",
   "pais": "India",
   "archivo": "qsl/QSL_VU3PXF_2026-10.webp"
+ },
+ {
+  "indicativo": "PR2KW",
+  "codigo": "N8JAUM",
+  "fecha": "2026-10-21 00:01:56",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PR2KW_2026-10.webp"
  },
  {
   "indicativo": "HR2LED",
