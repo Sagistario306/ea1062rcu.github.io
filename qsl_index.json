@@ -21406,6 +21406,13 @@
   "archivo": "qsl/QSL_IZ3QLR_2026-11_EV.webp"
  },
  {
+  "indicativo": "BI3BNE",
+  "codigo": "RSGATC",
+  "fecha": "2026-11-03 00:04:54",
+  "pais": "China",
+  "archivo": "qsl/QSL_BI3BNE_2026-11.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
