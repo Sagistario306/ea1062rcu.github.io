@@ -19433,10 +19433,10 @@
  },
  {
   "indicativo": "PD2BVT",
-  "codigo": "J4K2Z2",
-  "fecha": "2026-10-30 06:19:22",
+  "codigo": "536TRD",
+  "fecha": "2026-11-03 07:04:15",
   "pais": "Paises Bajos",
-  "archivo": "qsl/QSL_PD2BVT_2026-10.webp"
+  "archivo": "qsl/QSL_PD2BVT_2026-11.webp"
  },
  {
   "indicativo": "HA7BJA",
@@ -23364,6 +23364,13 @@
   "fecha": "2026-10-30 04:58:18",
   "pais": "Finlandia",
   "archivo": "qsl/QSL_OH2HCB_2026-10.webp"
+ },
+ {
+  "indicativo": "PD2BVT",
+  "codigo": "J4K2Z2",
+  "fecha": "2026-10-30 06:19:22",
+  "pais": "Paises Bajos",
+  "archivo": "qsl/QSL_PD2BVT_2026-10.webp"
  },
  {
   "indicativo": "HA7BJA",
