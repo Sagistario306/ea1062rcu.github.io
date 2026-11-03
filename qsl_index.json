@@ -23093,6 +23093,13 @@
   "archivo": "qsl/QSL_N0GIK_2026-11.webp"
  },
  {
+  "indicativo": "N0GIK",
+  "codigo": "3TKSDC",
+  "fecha": "2026-11-03 23:18:30",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_N0GIK_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
