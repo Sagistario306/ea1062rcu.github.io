@@ -16940,6 +16940,13 @@
   "archivo": "qsl/QSL_OE7FMI_2026-11.webp"
  },
  {
+  "indicativo": "OE7FMI",
+  "codigo": "Y94JBY",
+  "fecha": "2026-11-03 00:16:36",
+  "pais": "Austria",
+  "archivo": "qsl/QSL_OE7FMI_2026-11_EV.webp"
+ },
+ {
   "indicativo": "F4AGQ",
   "codigo": "KTHBMG",
   "fecha": "2026-11-01 00:07:50",
