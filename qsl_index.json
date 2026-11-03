@@ -10472,6 +10472,13 @@
   "archivo": "qsl/QSL_SV3SKM_2026-11.webp"
  },
  {
+  "indicativo": "SV3SKM",
+  "codigo": "ZTNAXD",
+  "fecha": "2026-11-03 00:05:24",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV3SKM_2026-11_EV.png"
+ },
+ {
   "indicativo": "SR3DPN",
   "codigo": "45F4GH",
   "fecha": "2026-10-30 00:03:23",
