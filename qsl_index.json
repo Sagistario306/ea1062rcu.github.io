@@ -22330,6 +22330,13 @@
   "archivo": "qsl/QSL_G8PY_2026-11.webp"
  },
  {
+  "indicativo": "G8PY",
+  "codigo": "DFEKV8",
+  "fecha": "2026-11-03 08:02:48",
+  "pais": "Reino Unido",
+  "archivo": "qsl/QSL_G8PY_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
