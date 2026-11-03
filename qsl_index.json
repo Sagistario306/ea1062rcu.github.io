@@ -22127,6 +22127,13 @@
   "archivo": "qsl/QSL_OK2JIB_2026-11.webp"
  },
  {
+  "indicativo": "OK2JIB",
+  "codigo": "H73KDJ",
+  "fecha": "2026-11-03 06:51:59",
+  "pais": "Republica Checa",
+  "archivo": "qsl/QSL_OK2JIB_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
