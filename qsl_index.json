@@ -16633,10 +16633,10 @@
  },
  {
   "indicativo": "BG5GKN",
-  "codigo": "BUFUH5",
-  "fecha": "2026-10-28 05:29:25",
+  "codigo": "BKH89R",
+  "fecha": "2026-11-03 05:59:34",
   "pais": "China",
-  "archivo": "qsl/QSL_BG5GKN_2026-10.webp"
+  "archivo": "qsl/QSL_BG5GKN_2026-11.webp"
  },
  {
   "indicativo": "PE1IJY",
@@ -22580,6 +22580,13 @@
   "fecha": "2026-10-28 05:26:47",
   "pais": "Polonia",
   "archivo": "qsl/QSL_SP3Q_2026-10.webp"
+ },
+ {
+  "indicativo": "BG5GKN",
+  "codigo": "BUFUH5",
+  "fecha": "2026-10-28 05:29:25",
+  "pais": "China",
+  "archivo": "qsl/QSL_BG5GKN_2026-10.webp"
  },
  {
   "indicativo": "4S5SC",
