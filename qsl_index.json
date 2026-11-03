@@ -21658,6 +21658,20 @@
   "archivo": "qsl/QSL_TA3BF_2026-11.webp"
  },
  {
+  "indicativo": "TA3BF",
+  "codigo": "AQZG5J",
+  "fecha": "2026-11-03 06:00:35",
+  "pais": "Turquia",
+  "archivo": "qsl/QSL_TA3BF_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "BG5FWP",
+  "codigo": "SVRSR5",
+  "fecha": "2026-11-03 06:00:31",
+  "pais": "China",
+  "archivo": "qsl/QSL_BG5FWP_2026-11.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
