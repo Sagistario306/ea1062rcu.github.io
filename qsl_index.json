@@ -19034,10 +19034,10 @@
  },
  {
   "indicativo": "CT1ETG",
-  "codigo": "QYZMN8",
-  "fecha": "2026-10-30 00:06:54",
+  "codigo": "UYERTY",
+  "fecha": "2026-11-03 09:26:13",
   "pais": "Portugal",
-  "archivo": "qsl/QSL_CT1ETG_2026-10.webp"
+  "archivo": "qsl/QSL_CT1ETG_2026-11.webp"
  },
  {
   "indicativo": "KG4HIE",
@@ -23707,6 +23707,13 @@
   "fecha": "2026-10-30 00:04:57",
   "pais": "Sri Lanka",
   "archivo": "qsl/QSL_4S7DSB_2026-10.webp"
+ },
+ {
+  "indicativo": "CT1ETG",
+  "codigo": "QYZMN8",
+  "fecha": "2026-10-30 00:06:54",
+  "pais": "Portugal",
+  "archivo": "qsl/QSL_CT1ETG_2026-10.webp"
  },
  {
   "indicativo": "DJ6CX",
