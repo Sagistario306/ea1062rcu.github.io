@@ -17647,6 +17647,13 @@
   "archivo": "qsl/QSL_TB4AVR_2026-11.webp"
  },
  {
+  "indicativo": "TB4AVR",
+  "codigo": "HFQYFQ",
+  "fecha": "2026-11-03 00:11:36",
+  "pais": "Turquia",
+  "archivo": "qsl/QSL_TB4AVR_2026-11_EV.webp"
+ },
+ {
   "indicativo": "G4WLC",
   "codigo": "46ZSHP",
   "fecha": "2026-11-01 00:10:50",
