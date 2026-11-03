@@ -16191,6 +16191,13 @@
   "archivo": "qsl/QSL_HJ5VMG_2026-11.webp"
  },
  {
+  "indicativo": "HJ5VMG",
+  "codigo": "G434SB",
+  "fecha": "2026-11-03 15:05:19",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ5VMG_2026-11_EV.webp"
+ },
+ {
   "indicativo": "PY7UK",
   "codigo": "C36NVT",
   "fecha": "2026-10-27 00:08:25",
