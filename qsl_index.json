@@ -3753,10 +3753,10 @@
  },
  {
   "indicativo": "XE1ZJZ",
-  "codigo": "8THP99",
-  "fecha": "2026-10-08 12:32:10",
+  "codigo": "AT8ZQZ",
+  "fecha": "2026-11-03 22:09:56",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1ZJZ_2026-10.png"
+  "archivo": "qsl/QSL_XE1ZJZ_2026-11.webp"
  },
  {
   "indicativo": "OA4ELI",
@@ -23028,6 +23028,13 @@
   "fecha": "2026-10-01 00:05:39",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE7DE_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "XE1ZJZ",
+  "codigo": "8THP99",
+  "fecha": "2026-10-08 12:32:10",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1ZJZ_2026-10.webp"
  },
  {
   "indicativo": "LU1XLI",
