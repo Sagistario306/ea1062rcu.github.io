@@ -9717,10 +9717,10 @@
  },
  {
   "indicativo": "ZS5X",
-  "codigo": "PU93KX",
-  "fecha": "2026-10-27 13:28:19",
+  "codigo": "3RS84P",
+  "fecha": "2026-11-03 13:03:49",
   "pais": "Sudafrica",
-  "archivo": "qsl/QSL_ZS5X_2026-10.webp"
+  "archivo": "qsl/QSL_ZS5X_2026-11.webp"
  },
  {
   "indicativo": "KB7VGK",
@@ -23609,6 +23609,13 @@
   "fecha": "2026-10-25 03:53:24",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2EDQ_2026-10.webp"
+ },
+ {
+  "indicativo": "ZS5X",
+  "codigo": "PU93KX",
+  "fecha": "2026-10-27 13:28:19",
+  "pais": "Sudafrica",
+  "archivo": "qsl/QSL_ZS5X_2026-10.webp"
  },
  {
   "indicativo": "KB7VGK",
