@@ -19398,10 +19398,10 @@
  },
  {
   "indicativo": "OH6KW",
-  "codigo": "E5RVFM",
-  "fecha": "2026-10-30 06:27:09",
+  "codigo": "QAMMEV",
+  "fecha": "2026-11-03 06:27:01",
   "pais": "Finlandia",
-  "archivo": "qsl/QSL_OH6KW_2026-10.webp"
+  "archivo": "qsl/QSL_OH6KW_2026-11.webp"
  },
  {
   "indicativo": "PP5NT",
@@ -23168,6 +23168,13 @@
   "fecha": "2026-10-30 06:26:25",
   "pais": "Hungria",
   "archivo": "qsl/QSL_HA7BJA_2026-10.webp"
+ },
+ {
+  "indicativo": "OH6KW",
+  "codigo": "E5RVFM",
+  "fecha": "2026-10-30 06:27:09",
+  "pais": "Finlandia",
+  "archivo": "qsl/QSL_OH6KW_2026-10.webp"
  },
  {
   "indicativo": "LA4XNA",
