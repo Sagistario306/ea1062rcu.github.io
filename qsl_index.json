@@ -3763,7 +3763,7 @@
   "codigo": "YABQP8",
   "fecha": "2026-11-03 22:10:03",
   "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1ZJZ_2026-11_EV.webp"
+  "archivo": "qsl/QSL_XE1ZJZ_2026-11_EV.png"
  },
  {
   "indicativo": "OA4ELI",
@@ -22888,6 +22888,13 @@
   "fecha": "2026-11-03 21:01:55",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LW4EPN_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "9M4HK",
+  "codigo": "FGV9KF",
+  "fecha": "2026-11-03 23:05:57",
+  "pais": "Malasia Occidental",
+  "archivo": "qsl/QSL_9M4HK_2026-11.webp"
  },
  {
   "indicativo": "TI4GO",
