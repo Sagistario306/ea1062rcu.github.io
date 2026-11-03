@@ -19930,10 +19930,10 @@
  },
  {
   "indicativo": "IW3RHL",
-  "codigo": "HE3K66",
-  "fecha": "2026-10-31 00:05:20",
+  "codigo": "B45RJ8",
+  "fecha": "2026-11-03 07:26:21",
   "pais": "Sicilia",
-  "archivo": "qsl/QSL_IW3RHL_2026-10.webp"
+  "archivo": "qsl/QSL_IW3RHL_2026-11.webp"
  },
  {
   "indicativo": "PY2AMW",
@@ -23504,6 +23504,13 @@
   "fecha": "2026-10-31 00:03:32",
   "pais": "Noruega",
   "archivo": "qsl/QSL_LA4XNA_2026-10.webp"
+ },
+ {
+  "indicativo": "IW3RHL",
+  "codigo": "HE3K66",
+  "fecha": "2026-10-31 00:05:20",
+  "pais": "Sicilia",
+  "archivo": "qsl/QSL_IW3RHL_2026-10.webp"
  },
  {
   "indicativo": "YO7EPY",
