@@ -14456,10 +14456,10 @@
  },
  {
   "indicativo": "SP6TT",
-  "codigo": "PZEFWK",
-  "fecha": "2026-10-22 14:55:21",
+  "codigo": "C3T3VW",
+  "fecha": "2026-11-03 05:57:01",
   "pais": "Polonia",
-  "archivo": "qsl/QSL_SP6TT_2026-10.webp"
+  "archivo": "qsl/QSL_SP6TT_2026-11.webp"
  },
  {
   "indicativo": "KG0KM",
@@ -18669,6 +18669,13 @@
   "archivo": "qsl/QSL_4S7DSB_2026-11.webp"
  },
  {
+  "indicativo": "4S7DSB",
+  "codigo": "MFVXJ6",
+  "fecha": "2026-11-03 05:57:02",
+  "pais": "Sri Lanka",
+  "archivo": "qsl/QSL_4S7DSB_2026-11_EV.webp"
+ },
+ {
   "indicativo": "IK3ZGB",
   "codigo": "QBM9DZ",
   "fecha": "2026-11-01 00:06:13",
@@ -22391,6 +22398,13 @@
   "fecha": "2026-10-11 05:35:50",
   "pais": "Israel",
   "archivo": "qsl/QSL_4X5AS_2026-10.webp"
+ },
+ {
+  "indicativo": "SP6TT",
+  "codigo": "PZEFWK",
+  "fecha": "2026-10-22 14:55:21",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP6TT_2026-10.webp"
  },
  {
   "indicativo": "K2EHE",
