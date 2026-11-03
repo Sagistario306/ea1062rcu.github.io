@@ -19285,6 +19285,13 @@
   "archivo": "qsl/QSL_EA4HGA_2026-11.webp"
  },
  {
+  "indicativo": "EA4HGA",
+  "codigo": "EPHGP5",
+  "fecha": "2026-11-03 06:51:18",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA4HGA_2026-11_EV.webp"
+ },
+ {
   "indicativo": "OE2CKF",
   "codigo": "2EN5E8",
   "fecha": "2026-11-03 06:45:37",
