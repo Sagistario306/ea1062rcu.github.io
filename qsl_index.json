@@ -3872,10 +3872,10 @@
  },
  {
   "indicativo": "9M2VIS",
-  "codigo": "7EKK46",
-  "fecha": "2026-10-26 13:12:25",
+  "codigo": "2GNGK9",
+  "fecha": "2026-11-03 07:35:42",
   "pais": "Malasia Occidental",
-  "archivo": "qsl/QSL_9M2VIS_2026-10.webp"
+  "archivo": "qsl/QSL_9M2VIS_2026-11.webp"
  },
  {
   "indicativo": "HJ1BNL",
@@ -22405,6 +22405,13 @@
   "fecha": "2026-10-04 00:06:39",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1XLI_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "9M2VIS",
+  "codigo": "7EKK46",
+  "fecha": "2026-10-26 13:12:25",
+  "pais": "Malasia Occidental",
+  "archivo": "qsl/QSL_9M2VIS_2026-10.webp"
  },
  {
   "indicativo": "KP4LCA",
