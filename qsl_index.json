@@ -8939,6 +8939,13 @@
   "archivo": "qsl/QSL_CE3IBW_2026-11.webp"
  },
  {
+  "indicativo": "CE3IBW",
+  "codigo": "F6762X",
+  "fecha": "2026-11-03 21:34:12",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3IBW_2026-11_EV.webp"
+ },
+ {
   "indicativo": "HP3AEC",
   "codigo": "N6QTQ3",
   "fecha": "2026-10-10 19:10:02",
