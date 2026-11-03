@@ -10640,6 +10640,13 @@
   "archivo": "qsl/QSL_4X1ZQ_2026-11.webp"
  },
  {
+  "indicativo": "4X1ZQ",
+  "codigo": "8Z636D",
+  "fecha": "2026-11-03 11:10:35",
+  "pais": "Israel",
+  "archivo": "qsl/QSL_4X1ZQ_2026-11_EV.webp"
+ },
+ {
   "indicativo": "HQ3CRP",
   "codigo": "FE44V2",
   "fecha": "2026-10-12 12:37:13",
