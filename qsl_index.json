@@ -15233,10 +15233,10 @@
  },
  {
   "indicativo": "N7EEL",
-  "codigo": "3RS86Z",
-  "fecha": "2026-10-26 04:41:58",
-  "pais": "EE.UU",
-  "archivo": "qsl/QSL_N7EEL_2026-10.webp"
+  "codigo": "F4X762",
+  "fecha": "2026-11-03 23:16:36",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_N7EEL_2026-11.webp"
  },
  {
   "indicativo": "WX4RKB",
@@ -24218,6 +24218,13 @@
   "fecha": "2026-10-26 00:00:42",
   "pais": "Canada",
   "archivo": "qsl/QSL_VE2SIG_2026-10.webp"
+ },
+ {
+  "indicativo": "N7EEL",
+  "codigo": "3RS86Z",
+  "fecha": "2026-10-26 04:41:58",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_N7EEL_2026-10.webp"
  },
  {
   "indicativo": "K2EHE",
