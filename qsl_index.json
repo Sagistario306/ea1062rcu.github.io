@@ -21700,6 +21700,13 @@
   "archivo": "qsl/QSL_F4CWZ_2026-11.webp"
  },
  {
+  "indicativo": "F4CWZ",
+  "codigo": "48ADJ6",
+  "fecha": "2026-11-03 06:01:10",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F4CWZ_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
