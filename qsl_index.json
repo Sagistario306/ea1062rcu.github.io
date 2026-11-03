@@ -9633,10 +9633,10 @@
  },
  {
   "indicativo": "JH1NHK",
-  "codigo": "AYUPMT",
-  "fecha": "2026-10-30 19:28:03",
+  "codigo": "UCA3YM",
+  "fecha": "2026-11-03 21:08:13",
   "pais": "Japon",
-  "archivo": "qsl/QSL_JH1NHK_2026-10.webp"
+  "archivo": "qsl/QSL_JH1NHK_2026-11.webp"
  },
  {
   "indicativo": "DV4JD",
@@ -23756,6 +23756,13 @@
   "fecha": "2026-10-25 03:53:24",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2EDQ_2026-10.webp"
+ },
+ {
+  "indicativo": "JH1NHK",
+  "codigo": "AYUPMT",
+  "fecha": "2026-10-30 19:28:03",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JH1NHK_2026-10.webp"
  },
  {
   "indicativo": "ZS5X",
