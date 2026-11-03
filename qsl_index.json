@@ -18663,10 +18663,10 @@
  },
  {
   "indicativo": "PU5SZN",
-  "codigo": "YWTFHU",
-  "fecha": "2026-10-29 08:55:35",
+  "codigo": "V32N2T",
+  "fecha": "2026-11-03 09:02:13",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PU5SZN_2026-10.webp"
+  "archivo": "qsl/QSL_PU5SZN_2026-11.webp"
  },
  {
   "indicativo": "VR2VYE",
@@ -23637,6 +23637,13 @@
   "fecha": "2026-10-29 05:00:55",
   "pais": "Republica Checa",
   "archivo": "qsl/QSL_OK2MD_2026-10.webp"
+ },
+ {
+  "indicativo": "PU5SZN",
+  "codigo": "YWTFHU",
+  "fecha": "2026-10-29 08:55:35",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU5SZN_2026-10.webp"
  },
  {
   "indicativo": "4S7DSB",
