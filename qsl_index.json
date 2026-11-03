@@ -19426,10 +19426,10 @@
  },
  {
   "indicativo": "IW3HXV",
-  "codigo": "9AA6HY",
-  "fecha": "2026-10-30 06:35:26",
+  "codigo": "Y969YB",
+  "fecha": "2026-11-03 06:34:22",
   "pais": "Sicilia",
-  "archivo": "qsl/QSL_IW3HXV_2026-10.webp"
+  "archivo": "qsl/QSL_IW3HXV_2026-11.webp"
  },
  {
   "indicativo": "SV9EFL",
@@ -23196,6 +23196,13 @@
   "fecha": "2026-10-30 06:27:09",
   "pais": "Finlandia",
   "archivo": "qsl/QSL_OH6KW_2026-10.webp"
+ },
+ {
+  "indicativo": "IW3HXV",
+  "codigo": "9AA6HY",
+  "fecha": "2026-10-30 06:35:26",
+  "pais": "Sicilia",
+  "archivo": "qsl/QSL_IW3HXV_2026-10.webp"
  },
  {
   "indicativo": "LA4XNA",
