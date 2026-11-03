@@ -16598,10 +16598,10 @@
  },
  {
   "indicativo": "IW6NH",
-  "codigo": "NTDUJF",
-  "fecha": "2026-10-28 05:28:26",
+  "codigo": "4ZJGMD",
+  "fecha": "2026-11-03 06:03:25",
   "pais": "Sicilia",
-  "archivo": "qsl/QSL_IW6NH_2026-10.webp"
+  "archivo": "qsl/QSL_IW6NH_2026-11.webp"
  },
  {
   "indicativo": "DF4OR",
@@ -22748,6 +22748,13 @@
   "fecha": "2026-10-28 05:27:16",
   "pais": "Alemania",
   "archivo": "qsl/QSL_DN9MSN_2026-10.webp"
+ },
+ {
+  "indicativo": "IW6NH",
+  "codigo": "NTDUJF",
+  "fecha": "2026-10-28 05:28:26",
+  "pais": "Sicilia",
+  "archivo": "qsl/QSL_IW6NH_2026-10.webp"
  },
  {
   "indicativo": "BG5GKN",
