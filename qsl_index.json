@@ -17802,10 +17802,10 @@
  },
  {
   "indicativo": "IK1MHM",
-  "codigo": "UT48W9",
-  "fecha": "2026-10-29 02:58:19",
+  "codigo": "WCXBCC",
+  "fecha": "2026-11-03 06:06:50",
   "pais": "Italia",
-  "archivo": "qsl/QSL_IK1MHM_2026-10.webp"
+  "archivo": "qsl/QSL_IK1MHM_2026-11.webp"
  },
  {
   "indicativo": "DF2OO",
@@ -22944,6 +22944,13 @@
   "fecha": "2026-10-29 02:57:51",
   "pais": "Canada",
   "archivo": "qsl/QSL_VE2GPQ_2026-10.webp"
+ },
+ {
+  "indicativo": "IK1MHM",
+  "codigo": "UT48W9",
+  "fecha": "2026-10-29 02:58:19",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IK1MHM_2026-10.webp"
  },
  {
   "indicativo": "DD5LF",
