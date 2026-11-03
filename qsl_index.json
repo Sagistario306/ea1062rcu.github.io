@@ -22757,6 +22757,13 @@
   "archivo": "qsl/QSL_HB9SEX_2026-11.webp"
  },
  {
+  "indicativo": "HB9SEX",
+  "codigo": "ZZ5JAV",
+  "fecha": "2026-11-03 12:44:46",
+  "pais": "Suiza",
+  "archivo": "qsl/QSL_HB9SEX_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
