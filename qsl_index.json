@@ -19244,10 +19244,10 @@
  },
  {
   "indicativo": "OH2HCB",
-  "codigo": "2685TD",
-  "fecha": "2026-10-30 04:58:18",
+  "codigo": "UXVEEU",
+  "fecha": "2026-11-03 06:15:10",
   "pais": "Finlandia",
-  "archivo": "qsl/QSL_OH2HCB_2026-10.webp"
+  "archivo": "qsl/QSL_OH2HCB_2026-11.webp"
  },
  {
   "indicativo": "ZL3UDH",
@@ -23119,6 +23119,13 @@
   "fecha": "2026-10-30 03:00:50",
   "pais": "Alemania",
   "archivo": "qsl/QSL_DJ6CX_2026-10.webp"
+ },
+ {
+  "indicativo": "OH2HCB",
+  "codigo": "2685TD",
+  "fecha": "2026-10-30 04:58:18",
+  "pais": "Finlandia",
+  "archivo": "qsl/QSL_OH2HCB_2026-10.webp"
  },
  {
   "indicativo": "HA7BJA",
