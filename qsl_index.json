@@ -15793,10 +15793,10 @@
  },
  {
   "indicativo": "M7IDE",
-  "codigo": "B67UQT",
-  "fecha": "2026-10-26 13:11:22",
+  "codigo": "PSJ9QF",
+  "fecha": "2026-11-03 08:25:45",
   "pais": "Reino Unido",
-  "archivo": "qsl/QSL_M7IDE_2026-10.webp"
+  "archivo": "qsl/QSL_M7IDE_2026-11.webp"
  },
  {
   "indicativo": "9A9N",
@@ -23434,6 +23434,13 @@
   "fecha": "2026-10-26 13:10:52",
   "pais": "Italia",
   "archivo": "qsl/QSL_IU7IQS_2026-10.webp"
+ },
+ {
+  "indicativo": "M7IDE",
+  "codigo": "B67UQT",
+  "fecha": "2026-10-26 13:11:22",
+  "pais": "Reino Unido",
+  "archivo": "qsl/QSL_M7IDE_2026-10.webp"
  },
  {
   "indicativo": "OZ3LFG",
