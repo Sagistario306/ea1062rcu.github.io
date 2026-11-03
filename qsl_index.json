@@ -18488,10 +18488,10 @@
  },
  {
   "indicativo": "N1ZNJ",
-  "codigo": "Q9TFHK",
-  "fecha": "2026-10-30 00:01:38",
+  "codigo": "6E4Z58",
+  "fecha": "2026-11-03 00:01:14",
   "pais": "EE.UU",
-  "archivo": "qsl/QSL_N1ZNJ_2026-10.webp"
+  "archivo": "qsl/QSL_N1ZNJ_2026-11.webp"
  },
  {
   "indicativo": "YO6LRV",
@@ -22223,6 +22223,13 @@
   "fecha": "2026-10-29 02:52:31",
   "pais": "Canada",
   "archivo": "qsl/QSL_VA7DHR_2026-10.webp"
+ },
+ {
+  "indicativo": "N1ZNJ",
+  "codigo": "Q9TFHK",
+  "fecha": "2026-10-30 00:01:38",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_N1ZNJ_2026-10.webp"
  },
  {
   "indicativo": "9W2FII",
