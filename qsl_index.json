@@ -16808,10 +16808,10 @@
  },
  {
   "indicativo": "SM6UNC",
-  "codigo": "9SHDSF",
-  "fecha": "2026-10-28 05:32:11",
+  "codigo": "B34C4U",
+  "fecha": "2026-11-03 00:19:51",
   "pais": "Suecia",
-  "archivo": "qsl/QSL_SM6UNC_2026-10.webp"
+  "archivo": "qsl/QSL_SM6UNC_2026-11.webp"
  },
  {
   "indicativo": "LY5LM",
@@ -22643,6 +22643,13 @@
   "fecha": "2026-10-28 05:30:49",
   "pais": "Italia",
   "archivo": "qsl/QSL_IU8TRB_2026-10.webp"
+ },
+ {
+  "indicativo": "SM6UNC",
+  "codigo": "9SHDSF",
+  "fecha": "2026-10-28 05:32:11",
+  "pais": "Suecia",
+  "archivo": "qsl/QSL_SM6UNC_2026-10.webp"
  },
  {
   "indicativo": "SV2FNT",
