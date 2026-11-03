@@ -15723,10 +15723,10 @@
  },
  {
   "indicativo": "CT2GXB",
-  "codigo": "MJM4S5",
-  "fecha": "2026-10-26 13:09:54",
+  "codigo": "ZDDYES",
+  "fecha": "2026-11-03 08:18:48",
   "pais": "Portugal",
-  "archivo": "qsl/QSL_CT2GXB_2026-10.webp"
+  "archivo": "qsl/QSL_CT2GXB_2026-11.webp"
  },
  {
   "indicativo": "G0HEU",
@@ -23399,6 +23399,13 @@
   "fecha": "2026-10-26 13:09:46",
   "pais": "Noruega",
   "archivo": "qsl/QSL_LA5ESA_2026-10.webp"
+ },
+ {
+  "indicativo": "CT2GXB",
+  "codigo": "MJM4S5",
+  "fecha": "2026-10-26 13:09:54",
+  "pais": "Portugal",
+  "archivo": "qsl/QSL_CT2GXB_2026-10.webp"
  },
  {
   "indicativo": "IU7IQS",
