@@ -17375,10 +17375,10 @@
  },
  {
   "indicativo": "BH4HNL",
-  "codigo": "NHU3BX",
-  "fecha": "2026-10-29 02:50:27",
+  "codigo": "64CDK2",
+  "fecha": "2026-11-03 00:04:32",
   "pais": "China",
-  "archivo": "qsl/QSL_BH4HNL_2026-10.webp"
+  "archivo": "qsl/QSL_BH4HNL_2026-11.webp"
  },
  {
   "indicativo": "OZ2NML",
@@ -17907,10 +17907,10 @@
  },
  {
   "indicativo": "DD5LF",
-  "codigo": "AB3YB3",
-  "fecha": "2026-10-29 03:03:41",
+  "codigo": "CG2YG8",
+  "fecha": "2026-11-03 00:04:31",
   "pais": "Alemania",
-  "archivo": "qsl/QSL_DD5LF_2026-10.webp"
+  "archivo": "qsl/QSL_DD5LF_2026-11.webp"
  },
  {
   "indicativo": "OH2BTG",
@@ -22372,6 +22372,13 @@
   "archivo": "qsl/QSL_TB5TCA_2026-10.webp"
  },
  {
+  "indicativo": "BH4HNL",
+  "codigo": "NHU3BX",
+  "fecha": "2026-10-29 02:50:27",
+  "pais": "China",
+  "archivo": "qsl/QSL_BH4HNL_2026-10.webp"
+ },
+ {
   "indicativo": "VA7DHR",
   "codigo": "TQ8D3C",
   "fecha": "2026-10-29 02:52:31",
@@ -22384,6 +22391,13 @@
   "fecha": "2026-10-29 02:58:19",
   "pais": "Italia",
   "archivo": "qsl/QSL_IK1MHM_2026-10.webp"
+ },
+ {
+  "indicativo": "DD5LF",
+  "codigo": "AB3YB3",
+  "fecha": "2026-10-29 03:03:41",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DD5LF_2026-10.webp"
  },
  {
   "indicativo": "N1ZNJ",
