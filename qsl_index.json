@@ -10599,10 +10599,10 @@
  },
  {
   "indicativo": "SP2OFR",
-  "codigo": "3FTXYA",
-  "fecha": "2026-10-13 09:11:51",
+  "codigo": "7Z53EZ",
+  "fecha": "2026-11-03 00:06:26",
   "pais": "Polonia",
-  "archivo": "qsl/QSL_SP2OFR_2026-10.webp"
+  "archivo": "qsl/QSL_SP2OFR_2026-11.webp"
  },
  {
   "indicativo": "PY6ZIM",
@@ -22419,6 +22419,13 @@
   "fecha": "2026-10-11 05:35:50",
   "pais": "Israel",
   "archivo": "qsl/QSL_4X5AS_2026-10.webp"
+ },
+ {
+  "indicativo": "SP2OFR",
+  "codigo": "3FTXYA",
+  "fecha": "2026-10-13 09:11:51",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP2OFR_2026-10.webp"
  },
  {
   "indicativo": "KN1B",
