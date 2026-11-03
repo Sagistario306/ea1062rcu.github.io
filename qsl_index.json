@@ -14665,6 +14665,13 @@
   "archivo": "qsl/QSL_KG0KM_2026-11.webp"
  },
  {
+  "indicativo": "KG0KM",
+  "codigo": "83TENK",
+  "fecha": "2026-11-03 23:15:02",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_KG0KM_2026-11_EV.webp"
+ },
+ {
   "indicativo": "KD1OQ",
   "codigo": "KZNHW6",
   "fecha": "2026-10-23 00:00:17",
