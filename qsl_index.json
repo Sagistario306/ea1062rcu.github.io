@@ -3599,17 +3599,10 @@
  },
  {
   "indicativo": "CX4IC",
-  "codigo": "KQGAZE",
-  "fecha": "2026-10-06 10:16:26",
+  "codigo": "2N75SW",
+  "fecha": "2026-11-03 11:58:33",
   "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX4IC_2026-10.webp"
- },
- {
-  "indicativo": "CX4IC",
-  "codigo": "45A89Z",
-  "fecha": "2026-10-06 10:16:32",
-  "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX4IC_2026-10_EV.webp"
+  "archivo": "qsl/QSL_CX4IC_2026-11.webp"
  },
  {
   "indicativo": "YD2AGT",
@@ -22762,6 +22755,20 @@
   "fecha": "2026-10-11 01:42:39",
   "pais": "Filipinas",
   "archivo": "qsl/QSL_4G1DFP_2026-10.webp"
+ },
+ {
+  "indicativo": "CX4IC",
+  "codigo": "KQGAZE",
+  "fecha": "2026-10-06 10:16:26",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX4IC_2026-10.webp"
+ },
+ {
+  "indicativo": "CX4IC",
+  "codigo": "45A89Z",
+  "fecha": "2026-10-06 10:16:26",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX4IC_2026-10_EV.webp"
  },
  {
   "indicativo": "HC1FQ",
