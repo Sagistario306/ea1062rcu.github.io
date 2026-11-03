@@ -16710,17 +16710,10 @@
  },
  {
   "indicativo": "IW3HVB",
-  "codigo": "6X5UYC",
-  "fecha": "2026-11-01 00:01:15",
+  "codigo": "UEG4TK",
+  "fecha": "2026-11-03 00:01:40",
   "pais": "Sicilia",
   "archivo": "qsl/QSL_IW3HVB_2026-11.webp"
- },
- {
-  "indicativo": "IW3HVB",
-  "codigo": "93ZJYJ",
-  "fecha": "2026-11-01 00:01:20",
-  "pais": "Sicilia",
-  "archivo": "qsl/QSL_IW3HVB_2026-11_EV.webp"
  },
  {
   "indicativo": "OH1TT",
@@ -21271,6 +21264,13 @@
   "fecha": "2026-11-03 00:01:32",
   "pais": "EE.UU",
   "archivo": "qsl/QSL_W7KYG_2026-11.webp"
+ },
+ {
+  "indicativo": "W7KYG",
+  "codigo": "2Y3GP6",
+  "fecha": "2026-11-03 00:01:39",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_W7KYG_2026-11_EV.webp"
  },
  {
   "indicativo": "TI4GO",
