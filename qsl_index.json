@@ -19489,10 +19489,10 @@
  },
  {
   "indicativo": "SA4MDN",
-  "codigo": "DM8Q7Z",
-  "fecha": "2026-10-30 07:08:21",
+  "codigo": "HPZ48T",
+  "fecha": "2026-11-03 06:35:57",
   "pais": "Suecia",
-  "archivo": "qsl/QSL_SA4MDN_2026-10.webp"
+  "archivo": "qsl/QSL_SA4MDN_2026-11.webp"
  },
  {
   "indicativo": "IW1BND",
@@ -23210,6 +23210,13 @@
   "fecha": "2026-10-30 06:35:26",
   "pais": "Sicilia",
   "archivo": "qsl/QSL_IW3HXV_2026-10.webp"
+ },
+ {
+  "indicativo": "SA4MDN",
+  "codigo": "DM8Q7Z",
+  "fecha": "2026-10-30 07:08:21",
+  "pais": "Suecia",
+  "archivo": "qsl/QSL_SA4MDN_2026-10.webp"
  },
  {
   "indicativo": "LA4XNA",
