@@ -22435,6 +22435,13 @@
   "archivo": "qsl/QSL_OH5KZ_2026-11.webp"
  },
  {
+  "indicativo": "OH5KZ",
+  "codigo": "Q9JZM7",
+  "fecha": "2026-11-03 09:11:13",
+  "pais": "Finlandia",
+  "archivo": "qsl/QSL_OH5KZ_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
