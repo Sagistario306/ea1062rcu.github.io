@@ -19524,10 +19524,10 @@
  },
  {
   "indicativo": "OE5DRM",
-  "codigo": "W8Y85P",
-  "fecha": "2026-10-30 06:44:36",
+  "codigo": "X7F5A4",
+  "fecha": "2026-11-03 07:08:33",
   "pais": "Austria",
-  "archivo": "qsl/QSL_OE5DRM_2026-10.webp"
+  "archivo": "qsl/QSL_OE5DRM_2026-11.webp"
  },
  {
   "indicativo": "PD1ODE",
@@ -23427,6 +23427,13 @@
   "fecha": "2026-10-30 06:35:26",
   "pais": "Sicilia",
   "archivo": "qsl/QSL_IW3HXV_2026-10.webp"
+ },
+ {
+  "indicativo": "OE5DRM",
+  "codigo": "W8Y85P",
+  "fecha": "2026-10-30 06:44:36",
+  "pais": "Austria",
+  "archivo": "qsl/QSL_OE5DRM_2026-10.webp"
  },
  {
   "indicativo": "PD1ODE",
