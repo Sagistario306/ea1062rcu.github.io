@@ -6322,10 +6322,10 @@
  },
  {
   "indicativo": "TI3ATS",
-  "codigo": "CT57QS",
-  "fecha": "2026-10-08 15:22:36",
+  "codigo": "TDBXRY",
+  "fecha": "2026-11-03 19:11:00",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI3ATS_2026-10.webp"
+  "archivo": "qsl/QSL_TI3ATS_2026-11.webp"
  },
  {
   "indicativo": "TI4MUM",
@@ -23287,6 +23287,13 @@
   "fecha": "2026-10-26 11:13:46",
   "pais": "Indonesia",
   "archivo": "qsl/QSL_YC0AQN_2026-10.webp"
+ },
+ {
+  "indicativo": "TI3ATS",
+  "codigo": "CT57QS",
+  "fecha": "2026-10-08 15:22:36",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI3ATS_2026-10.webp"
  },
  {
   "indicativo": "CX4AT",
