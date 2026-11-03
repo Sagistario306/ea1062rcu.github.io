@@ -20028,10 +20028,10 @@
  },
  {
   "indicativo": "PY2AMW",
-  "codigo": "K6M57G",
-  "fecha": "2026-10-31 00:05:40",
+  "codigo": "DSPAYC",
+  "fecha": "2026-11-03 09:15:40",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY2AMW_2026-10.webp"
+  "archivo": "qsl/QSL_PY2AMW_2026-11.webp"
  },
  {
   "indicativo": "VE7AFF",
@@ -23805,6 +23805,13 @@
   "fecha": "2026-10-31 00:05:20",
   "pais": "Sicilia",
   "archivo": "qsl/QSL_IW3RHL_2026-10.webp"
+ },
+ {
+  "indicativo": "PY2AMW",
+  "codigo": "K6M57G",
+  "fecha": "2026-10-31 00:05:40",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY2AMW_2026-10.webp"
  },
  {
   "indicativo": "YO7EPY",
