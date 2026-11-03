@@ -19496,17 +19496,10 @@
  },
  {
   "indicativo": "4S7RO",
-  "codigo": "26BH37",
-  "fecha": "2026-11-02 00:04:54",
+  "codigo": "N3AAKX",
+  "fecha": "2026-11-03 00:02:40",
   "pais": "Sri Lanka",
   "archivo": "qsl/QSL_4S7RO_2026-11.webp"
- },
- {
-  "indicativo": "4S7RO",
-  "codigo": "JY555N",
-  "fecha": "2026-11-02 00:05:02",
-  "pais": "Sri Lanka",
-  "archivo": "qsl/QSL_4S7RO_2026-11_EV.webp"
  },
  {
   "indicativo": "SP7QAA",
@@ -19871,6 +19864,13 @@
   "fecha": "2026-11-03 00:02:33",
   "pais": "Francia",
   "archivo": "qsl/QSL_F4MTL_2026-11.webp"
+ },
+ {
+  "indicativo": "F4MTL",
+  "codigo": "ED2ARH",
+  "fecha": "2026-11-03 00:02:40",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F4MTL_2026-11_EV.webp"
  },
  {
   "indicativo": "VK2AEC",
