@@ -22834,6 +22834,13 @@
   "archivo": "qsl/QSL_TI3OBC_2026-11.webp"
  },
  {
+  "indicativo": "TI3OBC",
+  "codigo": "S6G5X9",
+  "fecha": "2026-11-03 18:57:43",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI3OBC_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
