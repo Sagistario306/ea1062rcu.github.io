@@ -19664,10 +19664,10 @@
  },
  {
   "indicativo": "SM0GBG",
-  "codigo": "ENZSAW",
-  "fecha": "2026-10-30 07:10:36",
+  "codigo": "URB43P",
+  "fecha": "2026-11-03 08:49:52",
   "pais": "Suecia",
-  "archivo": "qsl/QSL_SM0GBG_2026-10.webp"
+  "archivo": "qsl/QSL_SM0GBG_2026-11.webp"
  },
  {
   "indicativo": "UA1ZGR",
@@ -23714,6 +23714,13 @@
   "fecha": "2026-10-30 07:08:21",
   "pais": "Suecia",
   "archivo": "qsl/QSL_SA4MDN_2026-10.webp"
+ },
+ {
+  "indicativo": "SM0GBG",
+  "codigo": "ENZSAW",
+  "fecha": "2026-10-30 07:10:36",
+  "pais": "Suecia",
+  "archivo": "qsl/QSL_SM0GBG_2026-10.webp"
  },
  {
   "indicativo": "LA4XNA",
