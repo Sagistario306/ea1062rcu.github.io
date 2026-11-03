@@ -17703,6 +17703,13 @@
   "archivo": "qsl/QSL_VE2GPQ_2026-11.webp"
  },
  {
+  "indicativo": "VE2GPQ",
+  "codigo": "S2E5ND",
+  "fecha": "2026-11-03 05:58:32",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE2GPQ_2026-11_EV.png"
+ },
+ {
   "indicativo": "IU1FIG",
   "codigo": "MS8WH9",
   "fecha": "2026-10-29 02:57:56",
