@@ -17690,10 +17690,10 @@
  },
  {
   "indicativo": "IW2HJO",
-  "codigo": "CMTVTV",
-  "fecha": "2026-10-29 02:53:43",
+  "codigo": "ZWYB3D",
+  "fecha": "2026-11-03 06:42:36",
   "pais": "Sicilia",
-  "archivo": "qsl/QSL_IW2HJO_2026-10.webp"
+  "archivo": "qsl/QSL_IW2HJO_2026-11.webp"
  },
  {
   "indicativo": "DK8WF",
@@ -23217,6 +23217,13 @@
   "fecha": "2026-10-29 02:53:09",
   "pais": "Grecia",
   "archivo": "qsl/QSL_SV1GCX_2026-10.webp"
+ },
+ {
+  "indicativo": "IW2HJO",
+  "codigo": "CMTVTV",
+  "fecha": "2026-10-29 02:53:43",
+  "pais": "Sicilia",
+  "archivo": "qsl/QSL_IW2HJO_2026-10.webp"
  },
  {
   "indicativo": "TB4AVR",
