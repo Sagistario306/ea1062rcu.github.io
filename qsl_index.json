@@ -23058,6 +23058,13 @@
   "archivo": "qsl/QSL_AA3BR_2026-11.webp"
  },
  {
+  "indicativo": "AA3BR",
+  "codigo": "EJW8T8",
+  "fecha": "2026-11-03 23:17:53",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_AA3BR_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
