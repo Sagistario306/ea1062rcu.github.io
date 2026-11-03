@@ -1954,10 +1954,10 @@
  },
  {
   "indicativo": "9W3KMT",
-  "codigo": "DVUW3W",
-  "fecha": "2026-10-27 00:44:45",
+  "codigo": "N2HSYT",
+  "fecha": "2026-11-03 06:05:03",
   "pais": "Malasia",
-  "archivo": "qsl/QSL_9W3KMT_2026-10.webp"
+  "archivo": "qsl/QSL_9W3KMT_2026-11.webp"
  },
  {
   "indicativo": "9M2KEN",
@@ -22734,6 +22734,13 @@
   "fecha": "2026-10-11 05:35:50",
   "pais": "Israel",
   "archivo": "qsl/QSL_4X5AS_2026-10.webp"
+ },
+ {
+  "indicativo": "9W3KMT",
+  "codigo": "DVUW3W",
+  "fecha": "2026-10-27 00:44:45",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W3KMT_2026-10.webp"
  },
  {
   "indicativo": "SP6TT",
