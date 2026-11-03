@@ -21294,6 +21294,20 @@
   "archivo": "qsl/QSL_TA2KZY_2026-11.webp"
  },
  {
+  "indicativo": "TA2KZY",
+  "codigo": "TMG6Y8",
+  "fecha": "2026-11-03 00:02:06",
+  "pais": "Turquia",
+  "archivo": "qsl/QSL_TA2KZY_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "KI5AGS",
+  "codigo": "G76B4N",
+  "fecha": "2026-11-03 00:02:04",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_KI5AGS_2026-11.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
