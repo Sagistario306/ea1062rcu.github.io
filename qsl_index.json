@@ -12594,10 +12594,10 @@
  },
  {
   "indicativo": "K7QEQ",
-  "codigo": "SV73MJ",
-  "fecha": "2026-10-13 00:00:15",
-  "pais": "EE.UU",
-  "archivo": "qsl/QSL_K7QEQ_2026-10.webp"
+  "codigo": "R6GEUU",
+  "fecha": "2026-11-03 23:15:59",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_K7QEQ_2026-11.webp"
  },
  {
   "indicativo": "KC3LMP",
@@ -24141,6 +24141,13 @@
   "fecha": "2026-10-10 19:52:19",
   "pais": "Reino Unido",
   "archivo": "qsl/QSL_M0ZPG_2026-10.webp"
+ },
+ {
+  "indicativo": "K7QEQ",
+  "codigo": "SV73MJ",
+  "fecha": "2026-10-13 00:00:15",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_K7QEQ_2026-10.webp"
  },
  {
   "indicativo": "HJ5RTD",
