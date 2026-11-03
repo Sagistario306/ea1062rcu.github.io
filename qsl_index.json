@@ -10263,10 +10263,10 @@
  },
  {
   "indicativo": "LU1BA",
-  "codigo": "MXHZ8T",
-  "fecha": "2026-10-26 12:35:29",
+  "codigo": "XGQD2Z",
+  "fecha": "2026-11-03 21:44:18",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU1BA_2026-10.webp"
+  "archivo": "qsl/QSL_LU1BA_2026-11.webp"
  },
  {
   "indicativo": "EA3JBB",
@@ -23882,6 +23882,13 @@
   "fecha": "2026-10-01 13:36:54",
   "pais": "Honduras",
   "archivo": "qsl/QSL_HR2LED_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "LU1BA",
+  "codigo": "MXHZ8T",
+  "fecha": "2026-10-26 12:35:29",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1BA_2026-10.webp"
  },
  {
   "indicativo": "OA4DKS",
