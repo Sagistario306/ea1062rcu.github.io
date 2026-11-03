@@ -19222,6 +19222,13 @@
   "archivo": "qsl/QSL_HS8JNF_2026-11.webp"
  },
  {
+  "indicativo": "HS8JNF",
+  "codigo": "CCT8MS",
+  "fecha": "2026-11-03 00:29:04",
+  "pais": "Tailandia",
+  "archivo": "qsl/QSL_HS8JNF_2026-11_EV.webp"
+ },
+ {
   "indicativo": "M0HWK",
   "codigo": "VVMXX8",
   "fecha": "2026-10-30 05:50:26",
