@@ -21469,6 +21469,13 @@
   "archivo": "qsl/QSL_PU1MTB_2026-11_EV.webp"
  },
  {
+  "indicativo": "VE1OR",
+  "codigo": "69RPJ7",
+  "fecha": "2026-11-03 00:09:05",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE1OR_2026-11.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
