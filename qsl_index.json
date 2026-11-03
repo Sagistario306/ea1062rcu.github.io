@@ -10704,10 +10704,10 @@
  },
  {
   "indicativo": "PY6ZIM",
-  "codigo": "5Y84GA",
-  "fecha": "2026-10-27 09:25:25",
+  "codigo": "2CQNCC",
+  "fecha": "2026-11-03 10:24:02",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY6ZIM_2026-10.webp"
+  "archivo": "qsl/QSL_PY6ZIM_2026-11.webp"
  },
  {
   "indicativo": "IK8TGH",
@@ -23546,6 +23546,13 @@
   "fecha": "2026-10-11 05:35:50",
   "pais": "Israel",
   "archivo": "qsl/QSL_4X5AS_2026-10.webp"
+ },
+ {
+  "indicativo": "PY6ZIM",
+  "codigo": "5Y84GA",
+  "fecha": "2026-10-27 09:25:25",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY6ZIM_2026-10.webp"
  },
  {
   "indicativo": "YD2VKR",
