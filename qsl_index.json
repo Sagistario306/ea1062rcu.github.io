@@ -18663,10 +18663,10 @@
  },
  {
   "indicativo": "4S7DSB",
-  "codigo": "RGAGT8",
-  "fecha": "2026-10-30 00:04:57",
+  "codigo": "2CMWYB",
+  "fecha": "2026-11-03 05:56:54",
   "pais": "Sri Lanka",
-  "archivo": "qsl/QSL_4S7DSB_2026-10.webp"
+  "archivo": "qsl/QSL_4S7DSB_2026-11.webp"
  },
  {
   "indicativo": "IK3ZGB",
@@ -22426,6 +22426,13 @@
   "fecha": "2026-10-29 02:56:19",
   "pais": "Turquia",
   "archivo": "qsl/QSL_TB4AVR_2026-10.webp"
+ },
+ {
+  "indicativo": "4S7DSB",
+  "codigo": "RGAGT8",
+  "fecha": "2026-10-30 00:04:57",
+  "pais": "Sri Lanka",
+  "archivo": "qsl/QSL_4S7DSB_2026-10.webp"
  },
  {
   "indicativo": "LA4XNA",
