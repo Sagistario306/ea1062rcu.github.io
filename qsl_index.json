@@ -15653,10 +15653,10 @@
  },
  {
   "indicativo": "IU7IQS",
-  "codigo": "29G997",
-  "fecha": "2026-10-26 13:10:52",
+  "codigo": "G54ASU",
+  "fecha": "2026-11-03 05:58:22",
   "pais": "Italia",
-  "archivo": "qsl/QSL_IU7IQS_2026-10.webp"
+  "archivo": "qsl/QSL_IU7IQS_2026-11.webp"
  },
  {
   "indicativo": "IW8RGI",
@@ -22524,6 +22524,13 @@
   "fecha": "2026-10-26 13:07:25",
   "pais": "Turquia",
   "archivo": "qsl/QSL_TA3GR_2026-10.webp"
+ },
+ {
+  "indicativo": "IU7IQS",
+  "codigo": "29G997",
+  "fecha": "2026-10-26 13:10:52",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IU7IQS_2026-10.webp"
  },
  {
   "indicativo": "OZ3LFG",
