@@ -19286,10 +19286,10 @@
  },
  {
   "indicativo": "OE2CKF",
-  "codigo": "3DMEDP",
-  "fecha": "2026-10-30 04:57:19",
+  "codigo": "2EN5E8",
+  "fecha": "2026-11-03 06:45:37",
   "pais": "Austria",
-  "archivo": "qsl/QSL_OE2CKF_2026-10.webp"
+  "archivo": "qsl/QSL_OE2CKF_2026-11.webp"
  },
  {
   "indicativo": "OH2HCB",
@@ -23287,6 +23287,13 @@
   "fecha": "2026-10-30 03:00:50",
   "pais": "Alemania",
   "archivo": "qsl/QSL_DJ6CX_2026-10.webp"
+ },
+ {
+  "indicativo": "OE2CKF",
+  "codigo": "3DMEDP",
+  "fecha": "2026-10-30 04:57:19",
+  "pais": "Austria",
+  "archivo": "qsl/QSL_OE2CKF_2026-10.webp"
  },
  {
   "indicativo": "OH2HCB",
