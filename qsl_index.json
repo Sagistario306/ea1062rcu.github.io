@@ -22610,6 +22610,13 @@
   "archivo": "qsl/QSL_HS4IOO_2026-11.webp"
  },
  {
+  "indicativo": "HS4IOO",
+  "codigo": "UC9V77",
+  "fecha": "2026-11-03 10:48:27",
+  "pais": "Tailandia",
+  "archivo": "qsl/QSL_HS4IOO_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
