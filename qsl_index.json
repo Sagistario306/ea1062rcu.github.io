@@ -14659,10 +14659,10 @@
  },
  {
   "indicativo": "KG0KM",
-  "codigo": "PYUHM5",
-  "fecha": "2026-10-23 00:00:06",
-  "pais": "EE.UU",
-  "archivo": "qsl/QSL_KG0KM_2026-10.webp"
+  "codigo": "KGHECH",
+  "fecha": "2026-11-03 23:14:57",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_KG0KM_2026-11.webp"
  },
  {
   "indicativo": "KD1OQ",
@@ -22901,7 +22901,7 @@
   "codigo": "WP4EEP",
   "fecha": "2026-11-03 23:06:05",
   "pais": "Malasia Occidental",
-  "archivo": "qsl/QSL_9M4HK_2026-11_EV.webp"
+  "archivo": "qsl/QSL_9M4HK_2026-11_EV.png"
  },
  {
   "indicativo": "TI4GO",
@@ -24113,6 +24113,13 @@
   "fecha": "2026-10-22 14:55:21",
   "pais": "Polonia",
   "archivo": "qsl/QSL_SP6TT_2026-10.webp"
+ },
+ {
+  "indicativo": "KG0KM",
+  "codigo": "PYUHM5",
+  "fecha": "2026-10-23 00:00:06",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_KG0KM_2026-10.webp"
  },
  {
   "indicativo": "VE2SIG",
