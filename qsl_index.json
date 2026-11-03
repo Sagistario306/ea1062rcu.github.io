@@ -16451,10 +16451,10 @@
  },
  {
   "indicativo": "SP3Q",
-  "codigo": "Q7A5A4",
-  "fecha": "2026-10-28 05:26:47",
+  "codigo": "UJ6D98",
+  "fecha": "2026-11-03 05:58:41",
   "pais": "Polonia",
-  "archivo": "qsl/QSL_SP3Q_2026-10.webp"
+  "archivo": "qsl/QSL_SP3Q_2026-11.webp"
  },
  {
   "indicativo": "SQ9PQL",
@@ -22552,6 +22552,13 @@
   "fecha": "2026-10-28 05:23:18",
   "pais": "Dinamarca",
   "archivo": "qsl/QSL_OZ3LFG_2026-10.webp"
+ },
+ {
+  "indicativo": "SP3Q",
+  "codigo": "Q7A5A4",
+  "fecha": "2026-10-28 05:26:47",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP3Q_2026-10.webp"
  },
  {
   "indicativo": "4S5SC",
