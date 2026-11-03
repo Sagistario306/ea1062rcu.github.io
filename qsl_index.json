@@ -21434,6 +21434,13 @@
   "archivo": "qsl/QSL_SP3DUB_2026-11.webp"
  },
  {
+  "indicativo": "SP3DUB",
+  "codigo": "JX7ZNF",
+  "fecha": "2026-11-03 05:56:15",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP3DUB_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
