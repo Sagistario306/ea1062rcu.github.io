@@ -16192,10 +16192,10 @@
  },
  {
   "indicativo": "OZ3LFG",
-  "codigo": "APPXN5",
-  "fecha": "2026-10-28 05:23:18",
+  "codigo": "DHJ7WW",
+  "fecha": "2026-11-03 05:19:07",
   "pais": "Dinamarca",
-  "archivo": "qsl/QSL_OZ3LFG_2026-10.webp"
+  "archivo": "qsl/QSL_OZ3LFG_2026-11.webp"
  },
  {
   "indicativo": "F4ICE",
@@ -21231,6 +21231,13 @@
   "archivo": "qsl/QSL_N9EBJ_2026-11.webp"
  },
  {
+  "indicativo": "N9EBJ",
+  "codigo": "K2GA4A",
+  "fecha": "2026-11-03 05:19:08",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_N9EBJ_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
@@ -22132,6 +22139,13 @@
   "fecha": "2026-10-11 05:35:50",
   "pais": "Israel",
   "archivo": "qsl/QSL_4X5AS_2026-10.webp"
+ },
+ {
+  "indicativo": "OZ3LFG",
+  "codigo": "APPXN5",
+  "fecha": "2026-10-28 05:23:18",
+  "pais": "Dinamarca",
+  "archivo": "qsl/QSL_OZ3LFG_2026-10.webp"
  },
  {
   "indicativo": "4S5SC",
