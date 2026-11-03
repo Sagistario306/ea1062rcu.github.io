@@ -21431,7 +21431,7 @@
   "codigo": "SG33AQ",
   "fecha": "2026-11-03 00:05:52",
   "pais": "Grecia",
-  "archivo": "qsl/QSL_SV2TNO_2026-11_EV.png"
+  "archivo": "qsl/QSL_SV2TNO_2026-11_EV.webp"
  },
  {
   "indicativo": "PU1MTB",
@@ -21439,6 +21439,13 @@
   "fecha": "2026-11-03 00:05:49",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PU1MTB_2026-11.webp"
+ },
+ {
+  "indicativo": "PU1MTB",
+  "codigo": "6FTJTY",
+  "fecha": "2026-11-03 00:05:57",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU1MTB_2026-11_EV.webp"
  },
  {
   "indicativo": "TI4GO",
