@@ -18418,17 +18418,10 @@
  },
  {
   "indicativo": "HS1QPQ",
-  "codigo": "FK95YF",
-  "fecha": "2026-11-02 00:15:09",
+  "codigo": "UTDVFW",
+  "fecha": "2026-11-03 00:14:32",
   "pais": "Tailandia",
   "archivo": "qsl/QSL_HS1QPQ_2026-11.webp"
- },
- {
-  "indicativo": "HS1QPQ",
-  "codigo": "BXT8HB",
-  "fecha": "2026-11-02 00:15:18",
-  "pais": "Tailandia",
-  "archivo": "qsl/QSL_HS1QPQ_2026-11_EV.webp"
  },
  {
   "indicativo": "EA8DTO",
@@ -18996,6 +18989,13 @@
   "fecha": "2026-11-03 00:14:26",
   "pais": "Noruega",
   "archivo": "qsl/QSL_LA2MLA_2026-11.webp"
+ },
+ {
+  "indicativo": "LA2MLA",
+  "codigo": "ZYNZMC",
+  "fecha": "2026-11-03 00:14:32",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LA2MLA_2026-11_EV.webp"
  },
  {
   "indicativo": "VK3TIM",
