@@ -16773,10 +16773,10 @@
  },
  {
   "indicativo": "IU8TRB",
-  "codigo": "DFUWYJ",
-  "fecha": "2026-10-28 05:30:49",
+  "codigo": "P4M7HC",
+  "fecha": "2026-11-03 06:05:36",
   "pais": "Italia",
-  "archivo": "qsl/QSL_IU8TRB_2026-10.webp"
+  "archivo": "qsl/QSL_IU8TRB_2026-11.webp"
  },
  {
   "indicativo": "OY6DDC",
@@ -22846,6 +22846,13 @@
   "fecha": "2026-10-28 05:29:25",
   "pais": "China",
   "archivo": "qsl/QSL_BG5GKN_2026-10.webp"
+ },
+ {
+  "indicativo": "IU8TRB",
+  "codigo": "DFUWYJ",
+  "fecha": "2026-10-28 05:30:49",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IU8TRB_2026-10.webp"
  },
  {
   "indicativo": "4S5SC",
