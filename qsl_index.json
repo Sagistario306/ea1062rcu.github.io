@@ -14925,10 +14925,10 @@
  },
  {
   "indicativo": "VE2SIG",
-  "codigo": "6NS3BW",
-  "fecha": "2026-10-26 00:00:42",
+  "codigo": "HRQUE3",
+  "fecha": "2026-11-03 05:57:39",
   "pais": "Canada",
-  "archivo": "qsl/QSL_VE2SIG_2026-10.webp"
+  "archivo": "qsl/QSL_VE2SIG_2026-11.webp"
  },
  {
   "indicativo": "VE2GFV",
@@ -22440,6 +22440,13 @@
   "fecha": "2026-10-22 14:55:21",
   "pais": "Polonia",
   "archivo": "qsl/QSL_SP6TT_2026-10.webp"
+ },
+ {
+  "indicativo": "VE2SIG",
+  "codigo": "6NS3BW",
+  "fecha": "2026-10-26 00:00:42",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE2SIG_2026-10.webp"
  },
  {
   "indicativo": "K2EHE",
