@@ -7406,6 +7406,13 @@
   "archivo": "qsl/QSL_EB7FAO_2026-11.webp"
  },
  {
+  "indicativo": "EB7FAO",
+  "codigo": "UE75XB",
+  "fecha": "2026-11-03 06:39:30",
+  "pais": "España",
+  "archivo": "qsl/QSL_EB7FAO_2026-11_EV.webp"
+ },
+ {
   "indicativo": "EA7KD",
   "codigo": "XD3NXF",
   "fecha": "2026-10-25 18:40:18",
