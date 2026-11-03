@@ -17710,6 +17710,13 @@
   "archivo": "qsl/QSL_HA1KHJ_2026-11.webp"
  },
  {
+  "indicativo": "HA1KHJ",
+  "codigo": "9H43SV",
+  "fecha": "2026-11-03 00:41:57",
+  "pais": "Hungria",
+  "archivo": "qsl/QSL_HA1KHJ_2026-11_EV.webp"
+ },
+ {
   "indicativo": "9A6AIB",
   "codigo": "5G2FFJ",
   "fecha": "2026-11-03 00:40:43",
