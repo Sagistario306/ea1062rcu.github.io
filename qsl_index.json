@@ -17704,17 +17704,10 @@
  },
  {
   "indicativo": "HA1KHJ",
-  "codigo": "XHR6X5",
-  "fecha": "2026-11-01 05:57:20",
+  "codigo": "G5N652",
+  "fecha": "2026-11-03 00:41:51",
   "pais": "Hungria",
   "archivo": "qsl/QSL_HA1KHJ_2026-11.webp"
- },
- {
-  "indicativo": "HA1KHJ",
-  "codigo": "VMKV8H",
-  "fecha": "2026-11-01 05:57:25",
-  "pais": "Hungria",
-  "archivo": "qsl/QSL_HA1KHJ_2026-11_EV.webp"
  },
  {
   "indicativo": "9A6AIB",
@@ -18835,6 +18828,13 @@
   "fecha": "2026-11-03 00:41:46",
   "pais": "Guantánamo Bay",
   "archivo": "qsl/QSL_KG4HIE_2026-11.webp"
+ },
+ {
+  "indicativo": "KG4HIE",
+  "codigo": "G8U44E",
+  "fecha": "2026-11-03 00:41:52",
+  "pais": "Guantánamo Bay",
+  "archivo": "qsl/QSL_KG4HIE_2026-11_EV.webp"
  },
  {
   "indicativo": "IK2ILW",
