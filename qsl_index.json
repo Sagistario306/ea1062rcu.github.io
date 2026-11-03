@@ -3402,6 +3402,13 @@
   "archivo": "qsl/QSL_XE2EM_2026-11.webp"
  },
  {
+  "indicativo": "XE2EM",
+  "codigo": "UMD57E",
+  "fecha": "2026-11-03 20:47:56",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2EM_2026-11_EV.webp"
+ },
+ {
   "indicativo": "JR9HGN",
   "codigo": "5J5TFY",
   "fecha": "2026-10-13 00:02:39",
