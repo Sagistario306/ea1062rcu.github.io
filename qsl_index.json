@@ -392,6 +392,13 @@
   "archivo": "qsl/QSL_9W2KHE_2026-11.webp"
  },
  {
+  "indicativo": "9W2KHE",
+  "codigo": "G38UWH",
+  "fecha": "2026-11-03 06:20:11",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2KHE_2026-11_EV.webp"
+ },
+ {
   "indicativo": "HP3ICC",
   "codigo": "JDNA8V",
   "fecha": "2026-10-04 19:50:06",
