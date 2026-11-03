@@ -1225,6 +1225,13 @@
   "archivo": "qsl/QSL_EA8DEJ_2026-11.webp"
  },
  {
+  "indicativo": "EA8DEJ",
+  "codigo": "VV3EEJ",
+  "fecha": "2026-11-03 00:20:15",
+  "pais": "Islas Canarias",
+  "archivo": "qsl/QSL_EA8DEJ_2026-11_EV.webp"
+ },
+ {
   "indicativo": "XE1DGC",
   "codigo": "99TPXR",
   "fecha": "2026-10-09 13:47:56",
