@@ -18326,6 +18326,13 @@
   "archivo": "qsl/QSL_CT2IKK_2026-11.webp"
  },
  {
+  "indicativo": "CT2IKK",
+  "codigo": "W5WHPT",
+  "fecha": "2026-11-03 00:28:22",
+  "pais": "Portugal",
+  "archivo": "qsl/QSL_CT2IKK_2026-11_EV.webp"
+ },
+ {
   "indicativo": "OK1AVK",
   "codigo": "T9Z4V6",
   "fecha": "2026-10-29 04:20:58",
