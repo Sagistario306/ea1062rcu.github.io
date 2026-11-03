@@ -18747,10 +18747,10 @@
  },
  {
   "indicativo": "LU3EEJ",
-  "codigo": "S6UJ4P",
-  "fecha": "2026-10-29 23:35:43",
+  "codigo": "72DTMT",
+  "fecha": "2026-11-03 10:42:23",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU3EEJ_2026-10.webp"
+  "archivo": "qsl/QSL_LU3EEJ_2026-11.webp"
  },
  {
   "indicativo": "N4VTO",
@@ -23861,6 +23861,13 @@
   "fecha": "2026-10-29 08:55:35",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PU5SZN_2026-10.webp"
+ },
+ {
+  "indicativo": "LU3EEJ",
+  "codigo": "S6UJ4P",
+  "fecha": "2026-10-29 23:35:43",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU3EEJ_2026-10.webp"
  },
  {
   "indicativo": "4S7DSB",
