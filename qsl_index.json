@@ -8177,10 +8177,10 @@
  },
  {
   "indicativo": "9M2LUT",
-  "codigo": "2ZJ66U",
-  "fecha": "2026-10-29 06:47:02",
+  "codigo": "3RP3ET",
+  "fecha": "2026-11-03 00:17:16",
   "pais": "Malasia Occidental",
-  "archivo": "qsl/QSL_9M2LUT_2026-10.webp"
+  "archivo": "qsl/QSL_9M2LUT_2026-11.webp"
  },
  {
   "indicativo": "EA1GTX",
@@ -22139,6 +22139,13 @@
   "fecha": "2026-10-17 00:18:29",
   "pais": "España",
   "archivo": "qsl/QSL_EA1GW_2026-10.webp"
+ },
+ {
+  "indicativo": "9M2LUT",
+  "codigo": "2ZJ66U",
+  "fecha": "2026-10-29 06:47:02",
+  "pais": "Malasia Occidental",
+  "archivo": "qsl/QSL_9M2LUT_2026-10.webp"
  },
  {
   "indicativo": "JR8FHF",
