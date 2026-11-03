@@ -15457,10 +15457,10 @@
  },
  {
   "indicativo": "TA3GR",
-  "codigo": "9GVKCM",
-  "fecha": "2026-10-26 13:07:25",
+  "codigo": "XUA96T",
+  "fecha": "2026-11-03 05:57:31",
   "pais": "Turquia",
-  "archivo": "qsl/QSL_TA3GR_2026-10.webp"
+  "archivo": "qsl/QSL_TA3GR_2026-11.webp"
  },
  {
   "indicativo": "IK1WHN",
@@ -22454,6 +22454,13 @@
   "fecha": "2026-10-26 13:03:56",
   "pais": "Francia",
   "archivo": "qsl/QSL_F4ERR_2026-10.webp"
+ },
+ {
+  "indicativo": "TA3GR",
+  "codigo": "9GVKCM",
+  "fecha": "2026-10-26 13:07:25",
+  "pais": "Turquia",
+  "archivo": "qsl/QSL_TA3GR_2026-10.webp"
  },
  {
   "indicativo": "OZ3LFG",
