@@ -15659,6 +15659,13 @@
   "archivo": "qsl/QSL_IU7IQS_2026-11.webp"
  },
  {
+  "indicativo": "IU7IQS",
+  "codigo": "4S6336",
+  "fecha": "2026-11-03 05:58:28",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IU7IQS_2026-11_EV.webp"
+ },
+ {
   "indicativo": "IW8RGI",
   "codigo": "5QQ855",
   "fecha": "2026-10-26 13:11:01",
@@ -17690,10 +17697,10 @@
  },
  {
   "indicativo": "VE2GPQ",
-  "codigo": "CKZ9WA",
-  "fecha": "2026-10-29 02:57:51",
+  "codigo": "S92PWY",
+  "fecha": "2026-11-03 05:58:27",
   "pais": "Canada",
-  "archivo": "qsl/QSL_VE2GPQ_2026-10.webp"
+  "archivo": "qsl/QSL_VE2GPQ_2026-11.webp"
  },
  {
   "indicativo": "IU1FIG",
@@ -22552,6 +22559,13 @@
   "fecha": "2026-10-29 02:56:19",
   "pais": "Turquia",
   "archivo": "qsl/QSL_TB4AVR_2026-10.webp"
+ },
+ {
+  "indicativo": "VE2GPQ",
+  "codigo": "CKZ9WA",
+  "fecha": "2026-10-29 02:57:51",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE2GPQ_2026-10.webp"
  },
  {
   "indicativo": "4S7DSB",
