@@ -17745,6 +17745,13 @@
   "archivo": "qsl/QSL_F4IPO_2026-11.webp"
  },
  {
+  "indicativo": "F4IPO",
+  "codigo": "HQTY36",
+  "fecha": "2026-11-03 00:01:27",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F4IPO_2026-11_EV.webp"
+ },
+ {
   "indicativo": "SL6ZAQ",
   "codigo": "2W5EMA",
   "fecha": "2026-11-01 05:43:44",
