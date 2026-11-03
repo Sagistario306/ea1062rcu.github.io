@@ -17543,10 +17543,10 @@
  },
  {
   "indicativo": "TA1FL",
-  "codigo": "DTJ7AG",
-  "fecha": "2026-10-29 02:52:48",
+  "codigo": "BAUTQ8",
+  "fecha": "2026-11-03 06:02:32",
   "pais": "Turquia",
-  "archivo": "qsl/QSL_TA1FL_2026-10.webp"
+  "archivo": "qsl/QSL_TA1FL_2026-11.webp"
  },
  {
   "indicativo": "SV3DCX",
@@ -22755,6 +22755,13 @@
   "fecha": "2026-10-29 02:50:49",
   "pais": "China",
   "archivo": "qsl/QSL_BG2TPK_2026-10.webp"
+ },
+ {
+  "indicativo": "TA1FL",
+  "codigo": "DTJ7AG",
+  "fecha": "2026-10-29 02:52:48",
+  "pais": "Turquia",
+  "archivo": "qsl/QSL_TA1FL_2026-10.webp"
  },
  {
   "indicativo": "TB4AVR",
