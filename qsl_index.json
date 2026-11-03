@@ -17150,6 +17150,13 @@
   "archivo": "qsl/QSL_RC3C_2026-11.webp"
  },
  {
+  "indicativo": "RC3C",
+  "codigo": "ASDDC5",
+  "fecha": "2026-11-03 00:22:10",
+  "pais": "Rusia",
+  "archivo": "qsl/QSL_RC3C_2026-11_EV.webp"
+ },
+ {
   "indicativo": "HA3MGA",
   "codigo": "EBACFK",
   "fecha": "2026-11-01 00:04:58",
