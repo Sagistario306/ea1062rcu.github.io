@@ -19517,10 +19517,10 @@
  },
  {
   "indicativo": "PD1ODE",
-  "codigo": "Y5GRTC",
-  "fecha": "2026-10-30 06:45:07",
+  "codigo": "ANGXRC",
+  "fecha": "2026-11-03 06:53:04",
   "pais": "Paises Bajos",
-  "archivo": "qsl/QSL_PD1ODE_2026-10.webp"
+  "archivo": "qsl/QSL_PD1ODE_2026-11.webp"
  },
  {
   "indicativo": "LY2EZ",
@@ -23364,6 +23364,13 @@
   "fecha": "2026-10-30 06:35:26",
   "pais": "Sicilia",
   "archivo": "qsl/QSL_IW3HXV_2026-10.webp"
+ },
+ {
+  "indicativo": "PD1ODE",
+  "codigo": "Y5GRTC",
+  "fecha": "2026-10-30 06:45:07",
+  "pais": "Paises Bajos",
+  "archivo": "qsl/QSL_PD1ODE_2026-10.webp"
  },
  {
   "indicativo": "SA4MDN",
