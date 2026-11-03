@@ -22855,6 +22855,13 @@
   "archivo": "qsl/QSL_LW4EPN_2026-11.webp"
  },
  {
+  "indicativo": "LW4EPN",
+  "codigo": "2X2RZR",
+  "fecha": "2026-11-03 21:01:55",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW4EPN_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
