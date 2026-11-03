@@ -18516,10 +18516,10 @@
  },
  {
   "indicativo": "OK2MD",
-  "codigo": "ZR3N9Y",
-  "fecha": "2026-10-29 05:00:55",
+  "codigo": "YH2NHH",
+  "fecha": "2026-11-03 07:32:52",
   "pais": "Republica Checa",
-  "archivo": "qsl/QSL_OK2MD_2026-10.webp"
+  "archivo": "qsl/QSL_OK2MD_2026-11.webp"
  },
  {
   "indicativo": "PU5SCI",
@@ -23434,6 +23434,13 @@
   "fecha": "2026-10-29 04:36:33",
   "pais": "Republica Checa",
   "archivo": "qsl/QSL_OK2PKT_2026-10.webp"
+ },
+ {
+  "indicativo": "OK2MD",
+  "codigo": "ZR3N9Y",
+  "fecha": "2026-10-29 05:00:55",
+  "pais": "Republica Checa",
+  "archivo": "qsl/QSL_OK2MD_2026-10.webp"
  },
  {
   "indicativo": "4S7DSB",
