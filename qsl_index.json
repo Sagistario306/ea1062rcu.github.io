@@ -10634,10 +10634,10 @@
  },
  {
   "indicativo": "4X1ZQ",
-  "codigo": "GZRSVP",
-  "fecha": "2026-10-10 05:19:40",
+  "codigo": "8YPBN6",
+  "fecha": "2026-11-03 11:10:29",
   "pais": "Israel",
-  "archivo": "qsl/QSL_4X1ZQ_2026-10.webp"
+  "archivo": "qsl/QSL_4X1ZQ_2026-11.webp"
  },
  {
   "indicativo": "HQ3CRP",
@@ -23609,6 +23609,13 @@
   "fecha": "2026-10-28 12:00:00",
   "pais": "Turquia",
   "archivo": "qsl/QSL_TA4CQ_2026-10.webp"
+ },
+ {
+  "indicativo": "4X1ZQ",
+  "codigo": "GZRSVP",
+  "fecha": "2026-10-10 05:19:40",
+  "pais": "Israel",
+  "archivo": "qsl/QSL_4X1ZQ_2026-10.webp"
  },
  {
   "indicativo": "4X5AS",
