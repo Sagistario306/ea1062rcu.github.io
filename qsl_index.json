@@ -19313,6 +19313,13 @@
   "archivo": "qsl/QSL_HA7BJA_2026-11.webp"
  },
  {
+  "indicativo": "HA7BJA",
+  "codigo": "QNQWMC",
+  "fecha": "2026-11-03 06:04:36",
+  "pais": "Hungria",
+  "archivo": "qsl/QSL_HA7BJA_2026-11_EV.png"
+ },
+ {
   "indicativo": "OH6KW",
   "codigo": "E5RVFM",
   "fecha": "2026-10-30 06:27:09",
