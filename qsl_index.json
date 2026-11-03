@@ -12103,6 +12103,13 @@
   "archivo": "qsl/QSL_PY1JSB_2026-11.webp"
  },
  {
+  "indicativo": "PY1JSB",
+  "codigo": "77FV6M",
+  "fecha": "2026-11-03 00:01:04",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY1JSB_2026-11_EV.webp"
+ },
+ {
   "indicativo": "VE3YRA",
   "codigo": "8SF232",
   "fecha": "2026-10-12 00:00:42",
@@ -17704,17 +17711,10 @@
  },
  {
   "indicativo": "IT9ELT",
-  "codigo": "9F8RUA",
-  "fecha": "2026-11-01 00:00:32",
+  "codigo": "DNG82J",
+  "fecha": "2026-11-03 00:01:01",
   "pais": "Sicilia",
   "archivo": "qsl/QSL_IT9ELT_2026-11.webp"
- },
- {
-  "indicativo": "IT9ELT",
-  "codigo": "SDT9G3",
-  "fecha": "2026-11-01 00:00:36",
-  "pais": "Sicilia",
-  "archivo": "qsl/QSL_IT9ELT_2026-11_EV.webp"
  },
  {
   "indicativo": "IU8UOQ",
