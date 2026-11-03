@@ -16710,10 +16710,10 @@
  },
  {
   "indicativo": "IU8TRB",
-  "codigo": "DFUWYJ",
-  "fecha": "2026-10-28 05:30:49",
+  "codigo": "P2DSS2",
+  "fecha": "2026-11-03 00:08:51",
   "pais": "Italia",
-  "archivo": "qsl/QSL_IU8TRB_2026-10.webp"
+  "archivo": "qsl/QSL_IU8TRB_2026-11.webp"
  },
  {
   "indicativo": "OY6DDC",
@@ -22468,6 +22468,13 @@
   "fecha": "2026-10-26 13:09:06",
   "pais": "Turquia",
   "archivo": "qsl/QSL_TB5TCA_2026-10.webp"
+ },
+ {
+  "indicativo": "IU8TRB",
+  "codigo": "DFUWYJ",
+  "fecha": "2026-10-28 05:30:49",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IU8TRB_2026-10.webp"
  },
  {
   "indicativo": "BH4HNL",
