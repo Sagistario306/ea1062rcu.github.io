@@ -22519,6 +22519,13 @@
   "archivo": "qsl/QSL_PU2TRO_2026-11.webp"
  },
  {
+  "indicativo": "PU2TRO",
+  "codigo": "WT7KWA",
+  "fecha": "2026-11-03 10:07:48",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU2TRO_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
