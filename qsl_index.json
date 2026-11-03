@@ -386,10 +386,10 @@
  },
  {
   "indicativo": "9W2KHE",
-  "codigo": "VNRJRF",
-  "fecha": "2026-10-09 00:00:42",
+  "codigo": "TQ5VJM",
+  "fecha": "2026-11-03 00:03:52",
   "pais": "Malasia",
-  "archivo": "qsl/QSL_9W2KHE_2026-10.webp"
+  "archivo": "qsl/QSL_9W2KHE_2026-11.webp"
  },
  {
   "indicativo": "HP3ICC",
@@ -22020,6 +22020,13 @@
   "fecha": "2026-10-16 00:33:20",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M8ZAL_2026-10.webp"
+ },
+ {
+  "indicativo": "9W2KHE",
+  "codigo": "VNRJRF",
+  "fecha": "2026-10-09 00:00:42",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2KHE_2026-10.webp"
  },
  {
   "indicativo": "JR5LLA",
