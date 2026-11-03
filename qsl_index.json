@@ -9346,10 +9346,10 @@
  },
  {
   "indicativo": "HJ6AFK",
-  "codigo": "BP5KZ2",
-  "fecha": "2026-10-12 20:54:41",
+  "codigo": "6WMHF5",
+  "fecha": "2026-11-03 02:48:27",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ6AFK_2026-10.webp"
+  "archivo": "qsl/QSL_HJ6AFK_2026-11.webp"
  },
  {
   "indicativo": "LW9DGO",
@@ -22517,6 +22517,13 @@
   "fecha": "2026-10-28 05:36:33",
   "pais": "Malasia Occidental",
   "archivo": "qsl/QSL_9M2PJA_2026-10.webp"
+ },
+ {
+  "indicativo": "HJ6AFK",
+  "codigo": "BP5KZ2",
+  "fecha": "2026-10-12 20:54:41",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ6AFK_2026-10.webp"
  },
  {
   "indicativo": "9M2EDQ",
