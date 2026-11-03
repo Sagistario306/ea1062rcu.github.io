@@ -3759,6 +3759,13 @@
   "archivo": "qsl/QSL_XE1ZJZ_2026-11.webp"
  },
  {
+  "indicativo": "XE1ZJZ",
+  "codigo": "YABQP8",
+  "fecha": "2026-11-03 22:10:03",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1ZJZ_2026-11_EV.webp"
+ },
+ {
   "indicativo": "OA4ELI",
   "codigo": "RBFZBG",
   "fecha": "2026-10-02 14:58:40",
