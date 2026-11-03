@@ -8183,6 +8183,13 @@
   "archivo": "qsl/QSL_9M2LUT_2026-11.webp"
  },
  {
+  "indicativo": "9M2LUT",
+  "codigo": "VJ5H3V",
+  "fecha": "2026-11-03 00:17:22",
+  "pais": "Malasia Occidental",
+  "archivo": "qsl/QSL_9M2LUT_2026-11_EV.webp"
+ },
+ {
   "indicativo": "EA1GTX",
   "codigo": "E2J9BX",
   "fecha": "2026-10-25 18:43:07",
