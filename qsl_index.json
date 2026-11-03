@@ -17536,10 +17536,10 @@
  },
  {
   "indicativo": "SV6NOB",
-  "codigo": "X4PSK6",
-  "fecha": "2026-10-29 02:52:38",
+  "codigo": "7YXMSG",
+  "fecha": "2026-11-03 06:03:03",
   "pais": "Grecia",
-  "archivo": "qsl/QSL_SV6NOB_2026-10.webp"
+  "archivo": "qsl/QSL_SV6NOB_2026-11.webp"
  },
  {
   "indicativo": "TA1FL",
@@ -22762,6 +22762,13 @@
   "fecha": "2026-10-29 02:50:49",
   "pais": "China",
   "archivo": "qsl/QSL_BG2TPK_2026-10.webp"
+ },
+ {
+  "indicativo": "SV6NOB",
+  "codigo": "X4PSK6",
+  "fecha": "2026-10-29 02:52:38",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV6NOB_2026-10.webp"
  },
  {
   "indicativo": "TA1FL",
