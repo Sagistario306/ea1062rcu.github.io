@@ -20665,10 +20665,10 @@
  },
  {
   "indicativo": "HS5NMF",
-  "codigo": "WGE975",
-  "fecha": "2026-10-31 10:10:26",
+  "codigo": "9ETUZZ",
+  "fecha": "2026-11-03 08:57:02",
   "pais": "Tailandia",
-  "archivo": "qsl/QSL_HS5NMF_2026-10.webp"
+  "archivo": "qsl/QSL_HS5NMF_2026-11.webp"
  },
  {
   "indicativo": "HL5BBD",
@@ -23749,6 +23749,13 @@
   "fecha": "2026-10-31 07:07:54",
   "pais": "Rumania",
   "archivo": "qsl/QSL_YO7EPY_2026-10.webp"
+ },
+ {
+  "indicativo": "HS5NMF",
+  "codigo": "WGE975",
+  "fecha": "2026-10-31 10:10:26",
+  "pais": "Tailandia",
+  "archivo": "qsl/QSL_HS5NMF_2026-10.webp"
  },
  {
   "indicativo": "9W2FII",
