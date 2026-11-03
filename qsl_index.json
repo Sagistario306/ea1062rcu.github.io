@@ -15646,10 +15646,10 @@
  },
  {
   "indicativo": "SM0XMX",
-  "codigo": "4KQC4Y",
-  "fecha": "2026-10-26 13:09:13",
+  "codigo": "K4GYYR",
+  "fecha": "2026-11-03 07:27:10",
   "pais": "Suecia",
-  "archivo": "qsl/QSL_SM0XMX_2026-10.webp"
+  "archivo": "qsl/QSL_SM0XMX_2026-11.webp"
  },
  {
   "indicativo": "OE3SMA",
@@ -23266,6 +23266,13 @@
   "fecha": "2026-10-26 13:07:25",
   "pais": "Turquia",
   "archivo": "qsl/QSL_TA3GR_2026-10.webp"
+ },
+ {
+  "indicativo": "SM0XMX",
+  "codigo": "4KQC4Y",
+  "fecha": "2026-10-26 13:09:13",
+  "pais": "Suecia",
+  "archivo": "qsl/QSL_SM0XMX_2026-10.webp"
  },
  {
   "indicativo": "LA5ESA",
