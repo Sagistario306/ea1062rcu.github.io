@@ -18488,10 +18488,10 @@
  },
  {
   "indicativo": "OK2PKT",
-  "codigo": "KBYV7B",
-  "fecha": "2026-10-29 04:36:33",
+  "codigo": "BUBY7S",
+  "fecha": "2026-11-03 07:06:34",
   "pais": "Republica Checa",
-  "archivo": "qsl/QSL_OK2PKT_2026-10.webp"
+  "archivo": "qsl/QSL_OK2PKT_2026-11.webp"
  },
  {
   "indicativo": "OK2MD",
@@ -23350,6 +23350,13 @@
   "fecha": "2026-10-29 03:03:41",
   "pais": "Alemania",
   "archivo": "qsl/QSL_DD5LF_2026-10.webp"
+ },
+ {
+  "indicativo": "OK2PKT",
+  "codigo": "KBYV7B",
+  "fecha": "2026-10-29 04:36:33",
+  "pais": "Republica Checa",
+  "archivo": "qsl/QSL_OK2PKT_2026-10.webp"
  },
  {
   "indicativo": "4S7DSB",
