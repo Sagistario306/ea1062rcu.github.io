@@ -17402,6 +17402,13 @@
   "archivo": "qsl/QSL_SV2FNT_2026-11.webp"
  },
  {
+  "indicativo": "SV2FNT",
+  "codigo": "Z9TE9Q",
+  "fecha": "2026-11-03 00:12:18",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV2FNT_2026-11_EV.webp"
+ },
+ {
   "indicativo": "BH4HNL",
   "codigo": "64CDK2",
   "fecha": "2026-11-03 00:04:32",
