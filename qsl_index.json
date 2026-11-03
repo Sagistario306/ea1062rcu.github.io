@@ -9731,10 +9731,10 @@
  },
  {
   "indicativo": "F5KGA",
-  "codigo": "7DZS2W",
-  "fecha": "2026-10-30 01:19:55",
+  "codigo": "A6A6FD",
+  "fecha": "2026-11-03 05:57:43",
   "pais": "Francia",
-  "archivo": "qsl/QSL_F5KGA_2026-10.webp"
+  "archivo": "qsl/QSL_F5KGA_2026-11.webp"
  },
  {
   "indicativo": "ZR1RTG",
@@ -14929,6 +14929,13 @@
   "fecha": "2026-11-03 05:57:39",
   "pais": "Canada",
   "archivo": "qsl/QSL_VE2SIG_2026-11.webp"
+ },
+ {
+  "indicativo": "VE2SIG",
+  "codigo": "9DFFGU",
+  "fecha": "2026-11-03 05:57:47",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE2SIG_2026-11_EV.webp"
  },
  {
   "indicativo": "VE2GFV",
@@ -22286,6 +22293,13 @@
   "fecha": "2026-10-15 05:45:26",
   "pais": "Sudafrica",
   "archivo": "qsl/QSL_ZS6DAB_2026-10.webp"
+ },
+ {
+  "indicativo": "F5KGA",
+  "codigo": "7DZS2W",
+  "fecha": "2026-10-30 01:19:55",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F5KGA_2026-10.webp"
  },
  {
   "indicativo": "CS5CC",
