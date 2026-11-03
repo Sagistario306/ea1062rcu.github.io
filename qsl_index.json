@@ -6328,6 +6328,13 @@
   "archivo": "qsl/QSL_TI3ATS_2026-11.webp"
  },
  {
+  "indicativo": "TI3ATS",
+  "codigo": "4WEHXR",
+  "fecha": "2026-11-03 19:11:05",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI3ATS_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4MUM",
   "codigo": "4Z5YYV",
   "fecha": "2026-10-10 12:31:15",
