@@ -14624,10 +14624,10 @@
  },
  {
   "indicativo": "KN1B",
-  "codigo": "JZS7C8",
-  "fecha": "2026-10-24 00:00:08",
+  "codigo": "QAQGDB",
+  "fecha": "2026-11-03 00:00:22",
   "pais": "EE.UU",
-  "archivo": "qsl/QSL_KN1B_2026-10.webp"
+  "archivo": "qsl/QSL_KN1B_2026-11.webp"
  },
  {
   "indicativo": "K0JNM",
@@ -16654,17 +16654,10 @@
  },
  {
   "indicativo": "OH8KA",
-  "codigo": "T3HGWF",
-  "fecha": "2026-11-01 05:59:59",
+  "codigo": "QP52ED",
+  "fecha": "2026-11-03 00:00:25",
   "pais": "Finlandia",
   "archivo": "qsl/QSL_OH8KA_2026-11.webp"
- },
- {
-  "indicativo": "OH8KA",
-  "codigo": "A37HCF",
-  "fecha": "2026-11-01 06:00:06",
-  "pais": "Finlandia",
-  "archivo": "qsl/QSL_OH8KA_2026-11_EV.webp"
  },
  {
   "indicativo": "IU8TRB",
@@ -22195,6 +22188,13 @@
   "fecha": "2026-10-11 05:35:50",
   "pais": "Israel",
   "archivo": "qsl/QSL_4X5AS_2026-10.webp"
+ },
+ {
+  "indicativo": "KN1B",
+  "codigo": "JZS7C8",
+  "fecha": "2026-10-24 00:00:08",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_KN1B_2026-10.webp"
  },
  {
   "indicativo": "9W2FII",
