@@ -16430,10 +16430,10 @@
  },
  {
   "indicativo": "VA3RCU",
-  "codigo": "T65VXF",
-  "fecha": "2026-10-28 00:04:21",
-  "pais": "Canada",
-  "archivo": "qsl/QSL_VA3RCU_2026-10.webp"
+  "codigo": "T7EFGA",
+  "fecha": "2026-11-03 23:16:53",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VA3RCU_2026-11.webp"
  },
  {
   "indicativo": "VE7GDH",
@@ -24302,6 +24302,13 @@
   "fecha": "2026-10-27 00:07:53",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HJ5VMG_2026-10.webp"
+ },
+ {
+  "indicativo": "VA3RCU",
+  "codigo": "T65VXF",
+  "fecha": "2026-10-28 00:04:21",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VA3RCU_2026-10.webp"
  },
  {
   "indicativo": "OZ3LFG",
