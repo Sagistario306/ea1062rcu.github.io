@@ -3878,6 +3878,13 @@
   "archivo": "qsl/QSL_9M2VIS_2026-11.webp"
  },
  {
+  "indicativo": "9M2VIS",
+  "codigo": "7KE4WZ",
+  "fecha": "2026-11-03 07:35:48",
+  "pais": "Malasia Occidental",
+  "archivo": "qsl/QSL_9M2VIS_2026-11_EV.webp"
+ },
+ {
   "indicativo": "HJ1BNL",
   "codigo": "HZTJ5N",
   "fecha": "2026-10-04 00:40:27",
