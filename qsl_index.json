@@ -21336,6 +21336,13 @@
   "archivo": "qsl/QSL_BI4RMD_2026-11.webp"
  },
  {
+  "indicativo": "BI4RMD",
+  "codigo": "YJG84D",
+  "fecha": "2026-11-03 00:03:05",
+  "pais": "China",
+  "archivo": "qsl/QSL_BI4RMD_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
