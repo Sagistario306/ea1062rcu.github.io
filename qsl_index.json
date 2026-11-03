@@ -7939,10 +7939,10 @@
  },
  {
   "indicativo": "YC1EKP",
-  "codigo": "ZJRFKJ",
-  "fecha": "2026-10-28 02:51:25",
+  "codigo": "PX7KR5",
+  "fecha": "2026-11-03 00:56:53",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YC1EKP_2026-10.webp"
+  "archivo": "qsl/QSL_YC1EKP_2026-11.webp"
  },
  {
   "indicativo": "EA3ACT",
@@ -22174,6 +22174,13 @@
   "fecha": "2026-10-03 19:41:51",
   "pais": "Cuba",
   "archivo": "qsl/QSL_CO5ABC_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "YC1EKP",
+  "codigo": "ZJRFKJ",
+  "fecha": "2026-10-28 02:51:25",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YC1EKP_2026-10.webp"
  },
  {
   "indicativo": "EA1GW",
