@@ -15625,10 +15625,10 @@
  },
  {
   "indicativo": "LA5ESA",
-  "codigo": "HBPCNE",
-  "fecha": "2026-10-26 13:09:46",
+  "codigo": "CRU6RB",
+  "fecha": "2026-11-03 06:08:55",
   "pais": "Noruega",
-  "archivo": "qsl/QSL_LA5ESA_2026-10.webp"
+  "archivo": "qsl/QSL_LA5ESA_2026-11.webp"
  },
  {
   "indicativo": "CT2GXB",
@@ -22874,6 +22874,13 @@
   "fecha": "2026-10-26 13:07:25",
   "pais": "Turquia",
   "archivo": "qsl/QSL_TA3GR_2026-10.webp"
+ },
+ {
+  "indicativo": "LA5ESA",
+  "codigo": "HBPCNE",
+  "fecha": "2026-10-26 13:09:46",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LA5ESA_2026-10.webp"
  },
  {
   "indicativo": "IU7IQS",
