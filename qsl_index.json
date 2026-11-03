@@ -21812,6 +21812,13 @@
   "archivo": "qsl/QSL_LY2HZ_2026-11.webp"
  },
  {
+  "indicativo": "LY2HZ",
+  "codigo": "9CPAPU",
+  "fecha": "2026-11-03 06:05:17",
+  "pais": "Lituania",
+  "archivo": "qsl/QSL_LY2HZ_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
