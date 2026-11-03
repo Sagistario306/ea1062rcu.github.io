@@ -8933,17 +8933,10 @@
  },
  {
   "indicativo": "CE3IBW",
-  "codigo": "RSTJUS",
-  "fecha": "2026-10-05 03:10:26",
+  "codigo": "WYHV25",
+  "fecha": "2026-11-03 21:34:05",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE3IBW_2026-10.webp"
- },
- {
-  "indicativo": "CE3IBW",
-  "codigo": "T24BQR",
-  "fecha": "2026-10-05 03:10:32",
-  "pais": "Chile",
-  "archivo": "qsl/QSL_CE3IBW_2026-10_EV.webp"
+  "archivo": "qsl/QSL_CE3IBW_2026-11.webp"
  },
  {
   "indicativo": "HP3AEC",
@@ -23525,6 +23518,20 @@
   "fecha": "2026-10-20 09:10:12",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU8ANS_2026-10.webp"
+ },
+ {
+  "indicativo": "CE3IBW",
+  "codigo": "RSTJUS",
+  "fecha": "2026-10-05 03:10:26",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3IBW_2026-10.webp"
+ },
+ {
+  "indicativo": "CE3IBW",
+  "codigo": "T24BQR",
+  "fecha": "2026-10-05 03:10:26",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3IBW_2026-10_EV.webp"
  },
  {
   "indicativo": "TI5LJR",
