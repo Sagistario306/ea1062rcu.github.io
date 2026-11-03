@@ -9248,10 +9248,10 @@
  },
  {
   "indicativo": "9M2PJA",
-  "codigo": "428SHR",
-  "fecha": "2026-10-28 05:36:33",
+  "codigo": "KRW89D",
+  "fecha": "2026-11-03 07:18:36",
   "pais": "Malasia Occidental",
-  "archivo": "qsl/QSL_9M2PJA_2026-10.webp"
+  "archivo": "qsl/QSL_9M2PJA_2026-11.webp"
  },
  {
   "indicativo": "9W3CYL",
@@ -22986,6 +22986,13 @@
   "fecha": "2026-10-13 00:17:46",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU4HH_2026-10.webp"
+ },
+ {
+  "indicativo": "9M2PJA",
+  "codigo": "428SHR",
+  "fecha": "2026-10-28 05:36:33",
+  "pais": "Malasia Occidental",
+  "archivo": "qsl/QSL_9M2PJA_2026-10.webp"
  },
  {
   "indicativo": "9M2EDQ",
