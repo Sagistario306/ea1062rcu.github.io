@@ -17396,10 +17396,10 @@
  },
  {
   "indicativo": "SV2FNT",
-  "codigo": "BQ8UEN",
-  "fecha": "2026-10-29 02:50:17",
+  "codigo": "SKJV9Q",
+  "fecha": "2026-11-03 00:12:13",
   "pais": "Grecia",
-  "archivo": "qsl/QSL_SV2FNT_2026-10.webp"
+  "archivo": "qsl/QSL_SV2FNT_2026-11.webp"
  },
  {
   "indicativo": "BH4HNL",
@@ -22552,6 +22552,13 @@
   "fecha": "2026-10-28 05:30:49",
   "pais": "Italia",
   "archivo": "qsl/QSL_IU8TRB_2026-10.webp"
+ },
+ {
+  "indicativo": "SV2FNT",
+  "codigo": "BQ8UEN",
+  "fecha": "2026-10-29 02:50:17",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV2FNT_2026-10.webp"
  },
  {
   "indicativo": "BH4HNL",
