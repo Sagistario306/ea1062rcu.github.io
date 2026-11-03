@@ -15236,7 +15236,7 @@
   "codigo": "B9KCXV",
   "fecha": "2026-11-03 05:56:24",
   "pais": "Francia",
-  "archivo": "qsl/QSL_F4ERR_2026-11.png"
+  "archivo": "qsl/QSL_F4ERR_2026-11.webp"
  },
  {
   "indicativo": "DG1EZ",
@@ -21446,6 +21446,13 @@
   "fecha": "2026-11-03 05:56:23",
   "pais": "China",
   "archivo": "qsl/QSL_BG5TVX_2026-11.webp"
+ },
+ {
+  "indicativo": "BG5TVX",
+  "codigo": "QZPTJ7",
+  "fecha": "2026-11-03 05:56:28",
+  "pais": "China",
+  "archivo": "qsl/QSL_BG5TVX_2026-11_EV.webp"
  },
  {
   "indicativo": "TI4GO",
