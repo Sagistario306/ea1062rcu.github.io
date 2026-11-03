@@ -19530,6 +19530,13 @@
   "archivo": "qsl/QSL_OE5DRM_2026-11.webp"
  },
  {
+  "indicativo": "OE5DRM",
+  "codigo": "2EUBTH",
+  "fecha": "2026-11-03 07:08:40",
+  "pais": "Austria",
+  "archivo": "qsl/QSL_OE5DRM_2026-11_EV.webp"
+ },
+ {
   "indicativo": "PD1ODE",
   "codigo": "ANGXRC",
   "fecha": "2026-11-03 06:53:04",
