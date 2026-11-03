@@ -19440,10 +19440,10 @@
  },
  {
   "indicativo": "OE8NDR",
-  "codigo": "QMZEST",
-  "fecha": "2026-10-30 06:03:02",
+  "codigo": "ZGWRVX",
+  "fecha": "2026-11-03 07:37:30",
   "pais": "Austria",
-  "archivo": "qsl/QSL_OE8NDR_2026-10.webp"
+  "archivo": "qsl/QSL_OE8NDR_2026-11.webp"
  },
  {
   "indicativo": "M0ZAV",
@@ -23525,6 +23525,13 @@
   "fecha": "2026-10-30 04:58:18",
   "pais": "Finlandia",
   "archivo": "qsl/QSL_OH2HCB_2026-10.webp"
+ },
+ {
+  "indicativo": "OE8NDR",
+  "codigo": "QMZEST",
+  "fecha": "2026-10-30 06:03:02",
+  "pais": "Austria",
+  "archivo": "qsl/QSL_OE8NDR_2026-10.webp"
  },
  {
   "indicativo": "PD2BVT",
