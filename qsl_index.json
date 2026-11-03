@@ -15191,17 +15191,10 @@
  },
  {
   "indicativo": "SP5BB",
-  "codigo": "RPM879",
-  "fecha": "2026-11-02 00:09:18",
+  "codigo": "9W9WKK",
+  "fecha": "2026-11-03 00:09:10",
   "pais": "Polonia",
   "archivo": "qsl/QSL_SP5BB_2026-11.webp"
- },
- {
-  "indicativo": "SP5BB",
-  "codigo": "2PV7SN",
-  "fecha": "2026-11-02 00:09:25",
-  "pais": "Polonia",
-  "archivo": "qsl/QSL_SP5BB_2026-11_EV.webp"
  },
  {
   "indicativo": "SP3QDU",
@@ -21474,6 +21467,13 @@
   "fecha": "2026-11-03 00:09:05",
   "pais": "Canada",
   "archivo": "qsl/QSL_VE1OR_2026-11.webp"
+ },
+ {
+  "indicativo": "VE1OR",
+  "codigo": "RGJF2H",
+  "fecha": "2026-11-03 00:09:12",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE1OR_2026-11_EV.webp"
  },
  {
   "indicativo": "TI4GO",
