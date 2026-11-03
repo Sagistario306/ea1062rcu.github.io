@@ -14687,10 +14687,10 @@
  },
  {
   "indicativo": "VE2SNI",
-  "codigo": "VRM3PG",
-  "fecha": "2026-10-24 00:00:42",
+  "codigo": "JEJC29",
+  "fecha": "2026-11-03 00:09:21",
   "pais": "Canada",
-  "archivo": "qsl/QSL_VE2SNI_2026-10.webp"
+  "archivo": "qsl/QSL_VE2SNI_2026-11.webp"
  },
  {
   "indicativo": "VA7NEZ",
@@ -22475,6 +22475,13 @@
   "fecha": "2026-10-24 00:00:08",
   "pais": "EE.UU",
   "archivo": "qsl/QSL_KN1B_2026-10.webp"
+ },
+ {
+  "indicativo": "VE2SNI",
+  "codigo": "VRM3PG",
+  "fecha": "2026-10-24 00:00:42",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE2SNI_2026-10.webp"
  },
  {
   "indicativo": "TA3GR",
