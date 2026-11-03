@@ -14840,6 +14840,13 @@
   "archivo": "qsl/QSL_KN1B_2026-11.webp"
  },
  {
+  "indicativo": "KN1B",
+  "codigo": "NU2Q37",
+  "fecha": "2026-11-03 23:17:22",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_KN1B_2026-11_EV.webp"
+ },
+ {
   "indicativo": "K0JNM",
   "codigo": "4FTM29",
   "fecha": "2026-10-24 00:00:13",
