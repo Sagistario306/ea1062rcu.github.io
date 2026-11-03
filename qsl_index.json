@@ -10466,17 +10466,10 @@
  },
  {
   "indicativo": "SV3SKM",
-  "codigo": "XR3XYH",
-  "fecha": "2026-11-01 00:08:12",
+  "codigo": "XJDCZD",
+  "fecha": "2026-11-03 00:05:17",
   "pais": "Grecia",
   "archivo": "qsl/QSL_SV3SKM_2026-11.webp"
- },
- {
-  "indicativo": "SV3SKM",
-  "codigo": "3EMYCN",
-  "fecha": "2026-11-01 00:08:16",
-  "pais": "Grecia",
-  "archivo": "qsl/QSL_SV3SKM_2026-11_EV.webp"
  },
  {
   "indicativo": "SR3DPN",
@@ -19388,6 +19381,13 @@
   "fecha": "2026-11-03 00:05:12",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W2KNZ_2026-11.webp"
+ },
+ {
+  "indicativo": "9W2KNZ",
+  "codigo": "R7ZCBJ",
+  "fecha": "2026-11-03 00:05:19",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2KNZ_2026-11_EV.webp"
  },
  {
   "indicativo": "CE8LFR",
