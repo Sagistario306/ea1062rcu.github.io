@@ -9870,6 +9870,13 @@
   "archivo": "qsl/QSL_CT2ENW_2026-11.webp"
  },
  {
+  "indicativo": "CT2ENW",
+  "codigo": "5S3YFE",
+  "fecha": "2026-11-03 07:50:12",
+  "pais": "Portugal",
+  "archivo": "qsl/QSL_CT2ENW_2026-11_EV.webp"
+ },
+ {
   "indicativo": "ZL2CJ",
   "codigo": "PB9RPR",
   "fecha": "2026-10-31 03:21:23",
