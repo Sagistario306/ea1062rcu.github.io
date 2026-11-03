@@ -19523,6 +19523,13 @@
   "archivo": "qsl/QSL_4S7VJ_2026-11.webp"
  },
  {
+  "indicativo": "4S7VJ",
+  "codigo": "MVFSGE",
+  "fecha": "2026-11-03 00:03:20",
+  "pais": "Sri Lanka",
+  "archivo": "qsl/QSL_4S7VJ_2026-11_EV.webp"
+ },
+ {
   "indicativo": "BH4JBV",
   "codigo": "JWM5S6",
   "fecha": "2026-10-31 00:02:06",
@@ -19664,17 +19671,10 @@
  },
  {
   "indicativo": "CT2GUO",
-  "codigo": "PX8CGS",
-  "fecha": "2026-11-02 00:43:02",
+  "codigo": "8A43FC",
+  "fecha": "2026-11-03 00:03:19",
   "pais": "Portugal",
   "archivo": "qsl/QSL_CT2GUO_2026-11.webp"
- },
- {
-  "indicativo": "CT2GUO",
-  "codigo": "MX9XQP",
-  "fecha": "2026-11-02 00:43:07",
-  "pais": "Portugal",
-  "archivo": "qsl/QSL_CT2GUO_2026-11_EV.webp"
  },
  {
   "indicativo": "SY2DKZ",
