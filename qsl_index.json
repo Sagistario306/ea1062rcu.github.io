@@ -15037,10 +15037,10 @@
  },
  {
   "indicativo": "K2EHE",
-  "codigo": "7DZUFC",
-  "fecha": "2026-10-26 04:42:46",
+  "codigo": "V76PCF",
+  "fecha": "2026-11-03 05:55:51",
   "pais": "EE.UU",
-  "archivo": "qsl/QSL_K2EHE_2026-10.webp"
+  "archivo": "qsl/QSL_K2EHE_2026-11.webp"
  },
  {
   "indicativo": "KO6HTC",
@@ -21245,6 +21245,160 @@
   "archivo": "qsl/QSL_N9EBJ_2026-11_EV.webp"
  },
  {
+  "indicativo": "CE4BRR",
+  "codigo": "N8FJXN",
+  "fecha": "2026-11-02 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_CE4BRR_2026-11.webp"
+ },
+ {
+  "indicativo": "JH6HXQ",
+  "codigo": "XG3NQ7",
+  "fecha": "2026-11-02 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_JH6HXQ_2026-11.webp"
+ },
+ {
+  "indicativo": "W7KYG",
+  "codigo": "P4BWD3",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_W7KYG_2026-11.webp"
+ },
+ {
+  "indicativo": "TA2KZY",
+  "codigo": "HQY6PS",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_TA2KZY_2026-11.webp"
+ },
+ {
+  "indicativo": "KI5AGS",
+  "codigo": "G76B4N",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_KI5AGS_2026-11.webp"
+ },
+ {
+  "indicativo": "KN6ZGY",
+  "codigo": "JNNXBW",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_KN6ZGY_2026-11.webp"
+ },
+ {
+  "indicativo": "BI4RMD",
+  "codigo": "WQNJBX",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_BI4RMD_2026-11.webp"
+ },
+ {
+  "indicativo": "BA4KKP",
+  "codigo": "C5SSSR",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_BA4KKP_2026-11.webp"
+ },
+ {
+  "indicativo": "IZ3QLR",
+  "codigo": "VGGXDR",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_IZ3QLR_2026-11.webp"
+ },
+ {
+  "indicativo": "BI3BNE",
+  "codigo": "RSGATC",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_BI3BNE_2026-11.webp"
+ },
+ {
+  "indicativo": "SV2TNO",
+  "codigo": "89T8KN",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_SV2TNO_2026-11.webp"
+ },
+ {
+  "indicativo": "PU1MTB",
+  "codigo": "7AE72G",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_PU1MTB_2026-11.webp"
+ },
+ {
+  "indicativo": "VE1OR",
+  "codigo": "69RPJ7",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_VE1OR_2026-11.webp"
+ },
+ {
+  "indicativo": "SR1BSZ",
+  "codigo": "54AERX",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_SR1BSZ_2026-11.webp"
+ },
+ {
+  "indicativo": "OH3DJP",
+  "codigo": "9KJUEX",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_OH3DJP_2026-11.webp"
+ },
+ {
+  "indicativo": "G0PYV",
+  "codigo": "9EFFW4",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_G0PYV_2026-11.webp"
+ },
+ {
+  "indicativo": "SR1NRE",
+  "codigo": "XNP4ST",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_SR1NRE_2026-11.webp"
+ },
+ {
+  "indicativo": "OK1TZL",
+  "codigo": "38KA7M",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_OK1TZL_2026-11.webp"
+ },
+ {
+  "indicativo": "YD2UAR",
+  "codigo": "R8MYC7",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_YD2UAR_2026-11.webp"
+ },
+ {
+  "indicativo": "CT7AXO",
+  "codigo": "7PRNQX",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_CT7AXO_2026-11.webp"
+ },
+ {
+  "indicativo": "JA7UDE",
+  "codigo": "QCJMK5",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_JA7UDE_2026-11.webp"
+ },
+ {
+  "indicativo": "ZS1BZ",
+  "codigo": "G3JCY6",
+  "fecha": "2026-11-03 00:00:00",
+  "pais": "",
+  "archivo": "qsl/QSL_ZS1BZ_2026-11.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
@@ -22153,6 +22307,13 @@
   "fecha": "2026-10-11 05:35:50",
   "pais": "Israel",
   "archivo": "qsl/QSL_4X5AS_2026-10.webp"
+ },
+ {
+  "indicativo": "K2EHE",
+  "codigo": "7DZUFC",
+  "fecha": "2026-10-26 04:42:46",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_K2EHE_2026-10.webp"
  },
  {
   "indicativo": "OZ3LFG",
