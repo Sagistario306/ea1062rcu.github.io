@@ -14834,10 +14834,10 @@
  },
  {
   "indicativo": "KN1B",
-  "codigo": "JZS7C8",
-  "fecha": "2026-10-24 00:00:08",
-  "pais": "EE.UU",
-  "archivo": "qsl/QSL_KN1B_2026-10.webp"
+  "codigo": "Y6JNU5",
+  "fecha": "2026-11-03 23:17:16",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_KN1B_2026-11.webp"
  },
  {
   "indicativo": "K0JNM",
@@ -24239,6 +24239,13 @@
   "fecha": "2026-10-23 00:00:06",
   "pais": "EE.UU",
   "archivo": "qsl/QSL_KG0KM_2026-10.webp"
+ },
+ {
+  "indicativo": "KN1B",
+  "codigo": "JZS7C8",
+  "fecha": "2026-10-24 00:00:08",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_KN1B_2026-10.webp"
  },
  {
   "indicativo": "VE2SIG",
