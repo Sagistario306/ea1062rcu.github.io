@@ -15667,17 +15667,10 @@
  },
  {
   "indicativo": "DG1ID",
-  "codigo": "2BJV8H",
-  "fecha": "2026-11-01 00:01:25",
+  "codigo": "MYFZHE",
+  "fecha": "2026-11-03 00:04:57",
   "pais": "Alemania",
   "archivo": "qsl/QSL_DG1ID_2026-11.webp"
- },
- {
-  "indicativo": "DG1ID",
-  "codigo": "WTZXGY",
-  "fecha": "2026-11-01 00:01:30",
-  "pais": "Alemania",
-  "archivo": "qsl/QSL_DG1ID_2026-11_EV.webp"
  },
  {
   "indicativo": "OE5RBO",
@@ -21411,6 +21404,13 @@
   "fecha": "2026-11-03 00:04:54",
   "pais": "China",
   "archivo": "qsl/QSL_BI3BNE_2026-11.webp"
+ },
+ {
+  "indicativo": "BI3BNE",
+  "codigo": "TSQ7RT",
+  "fecha": "2026-11-03 00:05:01",
+  "pais": "China",
+  "archivo": "qsl/QSL_BI3BNE_2026-11_EV.png"
  },
  {
   "indicativo": "TI4GO",
