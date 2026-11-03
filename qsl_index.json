@@ -5545,17 +5545,10 @@
  },
  {
   "indicativo": "HJ7OZ",
-  "codigo": "2CMTRJ",
-  "fecha": "2026-10-06 22:14:24",
+  "codigo": "4NN4MA",
+  "fecha": "2026-11-03 19:11:58",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ7OZ_2026-10.webp"
- },
- {
-  "indicativo": "HJ7OZ",
-  "codigo": "8U3374",
-  "fecha": "2026-10-06 22:14:32",
-  "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ7OZ_2026-10_EV.webp"
+  "archivo": "qsl/QSL_HJ7OZ_2026-11.webp"
  },
  {
   "indicativo": "KP4IA",
@@ -23217,6 +23210,20 @@
   "fecha": "2026-10-14 00:02:40",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W2GDB_2026-10.webp"
+ },
+ {
+  "indicativo": "HJ7OZ",
+  "codigo": "2CMTRJ",
+  "fecha": "2026-10-06 22:14:24",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ7OZ_2026-10.webp"
+ },
+ {
+  "indicativo": "HJ7OZ",
+  "codigo": "8U3374",
+  "fecha": "2026-10-06 22:14:24",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ7OZ_2026-10_EV.webp"
  },
  {
   "indicativo": "LU2XCV",
