@@ -17423,6 +17423,13 @@
   "archivo": "qsl/QSL_OZ2NML_2026-11.webp"
  },
  {
+  "indicativo": "OZ2NML",
+  "codigo": "FERZ3S",
+  "fecha": "2026-11-03 00:11:25",
+  "pais": "Dinamarca",
+  "archivo": "qsl/QSL_OZ2NML_2026-11_EV.webp"
+ },
+ {
   "indicativo": "BG2TPK",
   "codigo": "BYFFCX",
   "fecha": "2026-10-29 02:50:49",
