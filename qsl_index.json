@@ -13329,10 +13329,10 @@
  },
  {
   "indicativo": "HJ5RTD",
-  "codigo": "XB3C5Z",
-  "fecha": "2026-10-16 18:22:46",
+  "codigo": "FB7M45",
+  "fecha": "2026-11-03 12:44:27",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ5RTD_2026-10.webp"
+  "archivo": "qsl/QSL_HJ5RTD_2026-11.webp"
  },
  {
   "indicativo": "LA1SAR",
@@ -23791,6 +23791,13 @@
   "fecha": "2026-10-10 19:52:19",
   "pais": "Reino Unido",
   "archivo": "qsl/QSL_M0ZPG_2026-10.webp"
+ },
+ {
+  "indicativo": "HJ5RTD",
+  "codigo": "XB3C5Z",
+  "fecha": "2026-10-16 18:22:46",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ5RTD_2026-10.webp"
  },
  {
   "indicativo": "PA3GCO",
