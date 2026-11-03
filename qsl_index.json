@@ -11851,6 +11851,13 @@
   "archivo": "qsl/QSL_PY2RIC_2026-11.webp"
  },
  {
+  "indicativo": "PY2RIC",
+  "codigo": "CE3EB5",
+  "fecha": "2026-11-03 00:10:22",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY2RIC_2026-11_EV.webp"
+ },
+ {
   "indicativo": "KH6BFD",
   "codigo": "6RUJ5M",
   "fecha": "2026-10-11 00:02:20",
