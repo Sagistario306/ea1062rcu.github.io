@@ -19125,10 +19125,10 @@
  },
  {
   "indicativo": "DJ6CX",
-  "codigo": "SEZDS2",
-  "fecha": "2026-10-30 03:00:50",
+  "codigo": "9ZDTG5",
+  "fecha": "2026-11-03 06:03:39",
   "pais": "Alemania",
-  "archivo": "qsl/QSL_DJ6CX_2026-10.webp"
+  "archivo": "qsl/QSL_DJ6CX_2026-11.webp"
  },
  {
   "indicativo": "HS1LLO",
@@ -22818,6 +22818,13 @@
   "fecha": "2026-10-30 00:04:57",
   "pais": "Sri Lanka",
   "archivo": "qsl/QSL_4S7DSB_2026-10.webp"
+ },
+ {
+  "indicativo": "DJ6CX",
+  "codigo": "SEZDS2",
+  "fecha": "2026-10-30 03:00:50",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DJ6CX_2026-10.webp"
  },
  {
   "indicativo": "LA4XNA",
