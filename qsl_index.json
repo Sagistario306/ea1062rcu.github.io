@@ -21504,6 +21504,13 @@
   "archivo": "qsl/QSL_SR1BSZ_2026-11.webp"
  },
  {
+  "indicativo": "SR1BSZ",
+  "codigo": "FK3BTZ",
+  "fecha": "2026-11-03 00:11:01",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SR1BSZ_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
