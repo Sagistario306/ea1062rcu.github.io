@@ -16891,6 +16891,13 @@
   "archivo": "qsl/QSL_HS8TAB_2026-11.webp"
  },
  {
+  "indicativo": "HS8TAB",
+  "codigo": "JJKR4X",
+  "fecha": "2026-11-03 00:33:16",
+  "pais": "Tailandia",
+  "archivo": "qsl/QSL_HS8TAB_2026-11_EV.webp"
+ },
+ {
   "indicativo": "OZ1KX",
   "codigo": "7K4BJK",
   "fecha": "2026-11-03 00:14:06",
