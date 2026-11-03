@@ -21539,6 +21539,20 @@
   "archivo": "qsl/QSL_4S7UV_2026-11.webp"
  },
  {
+  "indicativo": "4S7UV",
+  "codigo": "AEBE3V",
+  "fecha": "2026-11-03 05:58:02",
+  "pais": "Sri Lanka",
+  "archivo": "qsl/QSL_4S7UV_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "IZ1LBN",
+  "codigo": "FM6TPP",
+  "fecha": "2026-11-03 05:58:00",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IZ1LBN_2026-11.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
