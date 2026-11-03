@@ -1960,6 +1960,13 @@
   "archivo": "qsl/QSL_9W3KMT_2026-11.webp"
  },
  {
+  "indicativo": "9W3KMT",
+  "codigo": "NFXJBC",
+  "fecha": "2026-11-03 06:05:08",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W3KMT_2026-11_EV.webp"
+ },
+ {
   "indicativo": "9M2KEN",
   "codigo": "DS927A",
   "fecha": "2026-10-15 05:39:35",
@@ -21796,6 +21803,13 @@
   "fecha": "2026-11-03 06:04:31",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W2DKQ_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "LY2HZ",
+  "codigo": "25FSVE",
+  "fecha": "2026-11-03 06:05:09",
+  "pais": "Lituania",
+  "archivo": "qsl/QSL_LY2HZ_2026-11.webp"
  },
  {
   "indicativo": "TI4GO",
