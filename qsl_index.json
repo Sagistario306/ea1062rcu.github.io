@@ -3605,6 +3605,13 @@
   "archivo": "qsl/QSL_CX4IC_2026-11.webp"
  },
  {
+  "indicativo": "CX4IC",
+  "codigo": "ZZYNRE",
+  "fecha": "2026-11-03 11:58:39",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX4IC_2026-11_EV.webp"
+ },
+ {
   "indicativo": "YD2AGT",
   "codigo": "9P62EA",
   "fecha": "2026-10-25 21:40:26",
