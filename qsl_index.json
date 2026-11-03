@@ -17606,10 +17606,10 @@
  },
  {
   "indicativo": "SV1GCX",
-  "codigo": "KAHXN3",
-  "fecha": "2026-10-29 02:53:09",
+  "codigo": "S69Y4S",
+  "fecha": "2026-11-03 06:09:08",
   "pais": "Grecia",
-  "archivo": "qsl/QSL_SV1GCX_2026-10.webp"
+  "archivo": "qsl/QSL_SV1GCX_2026-11.webp"
  },
  {
   "indicativo": "VK2BLR",
@@ -22965,6 +22965,13 @@
   "fecha": "2026-10-29 02:52:48",
   "pais": "Turquia",
   "archivo": "qsl/QSL_TA1FL_2026-10.webp"
+ },
+ {
+  "indicativo": "SV1GCX",
+  "codigo": "KAHXN3",
+  "fecha": "2026-10-29 02:53:09",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV1GCX_2026-10.webp"
  },
  {
   "indicativo": "TB4AVR",
