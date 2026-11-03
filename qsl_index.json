@@ -16185,10 +16185,10 @@
  },
  {
   "indicativo": "HJ5VMG",
-  "codigo": "3BWZVE",
-  "fecha": "2026-10-27 00:07:53",
+  "codigo": "P6AY7E",
+  "fecha": "2026-11-03 15:05:12",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ5VMG_2026-10.webp"
+  "archivo": "qsl/QSL_HJ5VMG_2026-11.webp"
  },
  {
   "indicativo": "PY7UK",
@@ -23945,6 +23945,13 @@
   "fecha": "2026-10-26 13:11:22",
   "pais": "Reino Unido",
   "archivo": "qsl/QSL_M7IDE_2026-10.webp"
+ },
+ {
+  "indicativo": "HJ5VMG",
+  "codigo": "3BWZVE",
+  "fecha": "2026-10-27 00:07:53",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ5VMG_2026-10.webp"
  },
  {
   "indicativo": "OZ3LFG",
