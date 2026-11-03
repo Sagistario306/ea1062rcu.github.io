@@ -15722,6 +15722,13 @@
   "archivo": "qsl/QSL_OE5RBO_2026-11.webp"
  },
  {
+  "indicativo": "OE5RBO",
+  "codigo": "PBEA55",
+  "fecha": "2026-11-03 00:33:09",
+  "pais": "Austria",
+  "archivo": "qsl/QSL_OE5RBO_2026-11_EV.webp"
+ },
+ {
   "indicativo": "OM2ASH",
   "codigo": "W7S3B9",
   "fecha": "2026-10-26 13:12:38",
@@ -16878,17 +16885,10 @@
  },
  {
   "indicativo": "HS8TAB",
-  "codigo": "PX56G6",
-  "fecha": "2026-11-02 00:25:10",
+  "codigo": "CSWQQC",
+  "fecha": "2026-11-03 00:33:08",
   "pais": "Tailandia",
   "archivo": "qsl/QSL_HS8TAB_2026-11.webp"
- },
- {
-  "indicativo": "HS8TAB",
-  "codigo": "8SV5TJ",
-  "fecha": "2026-11-02 00:25:16",
-  "pais": "Tailandia",
-  "archivo": "qsl/QSL_HS8TAB_2026-11_EV.webp"
  },
  {
   "indicativo": "OZ1KX",
