@@ -15043,6 +15043,13 @@
   "archivo": "qsl/QSL_K2EHE_2026-11.webp"
  },
  {
+  "indicativo": "K2EHE",
+  "codigo": "EVTAHF",
+  "fecha": "2026-11-03 05:55:56",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_K2EHE_2026-11_EV.webp"
+ },
+ {
   "indicativo": "KO6HTC",
   "codigo": "F4SQ28",
   "fecha": "2026-10-26 04:42:53",
@@ -19545,10 +19552,10 @@
  },
  {
   "indicativo": "LA4XNA",
-  "codigo": "UBMJ5R",
-  "fecha": "2026-10-31 00:03:32",
+  "codigo": "XJB3MV",
+  "fecha": "2026-11-03 05:55:54",
   "pais": "Noruega",
-  "archivo": "qsl/QSL_LA4XNA_2026-10.webp"
+  "archivo": "qsl/QSL_LA4XNA_2026-11.webp"
  },
  {
   "indicativo": "YU1INO",
@@ -22328,6 +22335,13 @@
   "fecha": "2026-10-29 02:48:41",
   "pais": "Sri Lanka",
   "archivo": "qsl/QSL_4S5SC_2026-10.webp"
+ },
+ {
+  "indicativo": "LA4XNA",
+  "codigo": "UBMJ5R",
+  "fecha": "2026-10-31 00:03:32",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LA4XNA_2026-10.webp"
  },
  {
   "indicativo": "9W2FII",
