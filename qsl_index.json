@@ -11740,10 +11740,10 @@
  },
  {
   "indicativo": "M0ZPG",
-  "codigo": "P87D3V",
-  "fecha": "2026-10-10 19:52:19",
+  "codigo": "AZUZR7",
+  "fecha": "2026-11-03 06:39:04",
   "pais": "Reino Unido",
-  "archivo": "qsl/QSL_M0ZPG_2026-10.webp"
+  "archivo": "qsl/QSL_M0ZPG_2026-11.webp"
  },
  {
   "indicativo": "VK2OL",
@@ -23035,6 +23035,13 @@
   "fecha": "2026-10-07 00:00:23",
   "pais": "España",
   "archivo": "qsl/QSL_EA1PVC_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "M0ZPG",
+  "codigo": "P87D3V",
+  "fecha": "2026-10-10 19:52:19",
+  "pais": "Reino Unido",
+  "archivo": "qsl/QSL_M0ZPG_2026-10.webp"
  },
  {
   "indicativo": "SP6TT",
