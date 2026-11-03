@@ -18494,6 +18494,13 @@
   "archivo": "qsl/QSL_OK2PKT_2026-11.webp"
  },
  {
+  "indicativo": "OK2PKT",
+  "codigo": "U9QP3R",
+  "fecha": "2026-11-03 07:06:44",
+  "pais": "Republica Checa",
+  "archivo": "qsl/QSL_OK2PKT_2026-11_EV.webp"
+ },
+ {
   "indicativo": "OK2MD",
   "codigo": "ZR3N9Y",
   "fecha": "2026-10-29 05:00:55",
