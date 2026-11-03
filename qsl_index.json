@@ -7504,6 +7504,13 @@
   "archivo": "qsl/QSL_CO5ABC_2026-11.webp"
  },
  {
+  "indicativo": "CO5ABC",
+  "codigo": "UCY8PY",
+  "fecha": "2026-11-03 16:23:17",
+  "pais": "Cuba",
+  "archivo": "qsl/QSL_CO5ABC_2026-11_EV.webp"
+ },
+ {
   "indicativo": "9M2GIA",
   "codigo": "YQNJRT",
   "fecha": "2026-10-31 15:49:40",
