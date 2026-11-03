@@ -9647,10 +9647,10 @@
  },
  {
   "indicativo": "KB7VGK",
-  "codigo": "XU8MXU",
-  "fecha": "2026-10-21 00:00:07",
+  "codigo": "XQJNRE",
+  "fecha": "2026-11-03 05:19:17",
   "pais": "EE.UU",
-  "archivo": "qsl/QSL_KB7VGK_2026-10.webp"
+  "archivo": "qsl/QSL_KB7VGK_2026-11.webp"
  },
  {
   "indicativo": "DB0SDA",
@@ -21999,6 +21999,13 @@
   "fecha": "2026-10-25 03:53:24",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2EDQ_2026-10.webp"
+ },
+ {
+  "indicativo": "KB7VGK",
+  "codigo": "XU8MXU",
+  "fecha": "2026-10-21 00:00:07",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_KB7VGK_2026-10.webp"
  },
  {
   "indicativo": "ZS6DAB",
