@@ -17711,10 +17711,10 @@
  },
  {
   "indicativo": "KD3BNW",
-  "codigo": "D4W64J",
-  "fecha": "2026-10-29 02:50:09",
-  "pais": "EE.UU",
-  "archivo": "qsl/QSL_KD3BNW_2026-10.webp"
+  "codigo": "6HTHVZ",
+  "fecha": "2026-11-03 23:18:00",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_KD3BNW_2026-11.webp"
  },
  {
   "indicativo": "SV2FNT",
@@ -24456,6 +24456,13 @@
   "fecha": "2026-10-29 02:48:41",
   "pais": "Sri Lanka",
   "archivo": "qsl/QSL_4S5SC_2026-10.webp"
+ },
+ {
+  "indicativo": "KD3BNW",
+  "codigo": "D4W64J",
+  "fecha": "2026-10-29 02:50:09",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_KD3BNW_2026-10.webp"
  },
  {
   "indicativo": "SV2FNT",
