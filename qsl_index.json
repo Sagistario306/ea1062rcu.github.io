@@ -19586,6 +19586,13 @@
   "archivo": "qsl/QSL_SV3BEF_2026-11.webp"
  },
  {
+  "indicativo": "SV3BEF",
+  "codigo": "PJSPGD",
+  "fecha": "2026-11-04 01:58:35",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV3BEF_2026-11_EV.webp"
+ },
+ {
   "indicativo": "VK2JPG",
   "codigo": "7UHPK2",
   "fecha": "2026-11-01 05:52:03",
