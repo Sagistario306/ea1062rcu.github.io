@@ -5489,17 +5489,10 @@
  },
  {
   "indicativo": "CE2RK",
-  "codigo": "KGYAJP",
-  "fecha": "2026-10-02 00:05:19",
+  "codigo": "2S3X68",
+  "fecha": "2026-11-04 02:57:55",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE2RK_2026-10.webp"
- },
- {
-  "indicativo": "CE2RK",
-  "codigo": "MZ44Y3",
-  "fecha": "2026-10-02 00:05:24",
-  "pais": "Chile",
-  "archivo": "qsl/QSL_CE2RK_2026-10_EV.webp"
+  "archivo": "qsl/QSL_CE2RK_2026-11.webp"
  },
  {
   "indicativo": "9W2GDB",
@@ -18645,7 +18638,7 @@
   "codigo": "G2TVXM",
   "fecha": "2026-11-04 02:25:12",
   "pais": "Noruega",
-  "archivo": "qsl/QSL_LA5LDA_2026-11_EV.webp"
+  "archivo": "qsl/QSL_LA5LDA_2026-11_EV.png"
  },
  {
   "indicativo": "IW0SAG",
@@ -24302,6 +24295,20 @@
   "fecha": "2026-10-29 10:56:34",
   "pais": "Malasia Occidental",
   "archivo": "qsl/QSL_9M2DAU_2026-10.webp"
+ },
+ {
+  "indicativo": "CE2RK",
+  "codigo": "KGYAJP",
+  "fecha": "2026-10-02 00:05:19",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE2RK_2026-10.webp"
+ },
+ {
+  "indicativo": "CE2RK",
+  "codigo": "MZ44Y3",
+  "fecha": "2026-10-02 00:05:19",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE2RK_2026-10_EV.webp"
  },
  {
   "indicativo": "9W2GDB",
