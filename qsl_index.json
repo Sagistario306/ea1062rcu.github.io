@@ -20371,10 +20371,10 @@
  },
  {
   "indicativo": "HK3DG",
-  "codigo": "44Z56B",
-  "fecha": "2026-10-30 19:03:34",
+  "codigo": "FEMNZ4",
+  "fecha": "2026-11-04 21:30:30",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK3DG_2026-10.webp"
+  "archivo": "qsl/QSL_HK3DG_2026-11.webp"
  },
  {
   "indicativo": "VK3AIF",
@@ -26997,6 +26997,13 @@
   "fecha": "2026-10-30 07:10:36",
   "pais": "Suecia",
   "archivo": "qsl/QSL_SM0GBG_2026-10.webp"
+ },
+ {
+  "indicativo": "HK3DG",
+  "codigo": "44Z56B",
+  "fecha": "2026-10-30 19:03:34",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK3DG_2026-10.webp"
  },
  {
   "indicativo": "SP3EOL",
