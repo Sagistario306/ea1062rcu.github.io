@@ -23744,6 +23744,13 @@
   "archivo": "qsl/QSL_VE9RMO_2026-11.webp"
  },
  {
+  "indicativo": "VE9RMO",
+  "codigo": "SGPR59",
+  "fecha": "2026-11-04 01:42:10",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VE9RMO_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
