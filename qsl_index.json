@@ -4872,6 +4872,13 @@
   "archivo": "qsl/QSL_DZ4E_2026-11.webp"
  },
  {
+  "indicativo": "DZ4E",
+  "codigo": "KXHY7R",
+  "fecha": "2026-11-04 23:54:11",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DZ4E_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4OLS",
   "codigo": "FDM34Y",
   "fecha": "2026-10-02 02:10:58",
