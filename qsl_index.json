@@ -20987,10 +20987,10 @@
  },
  {
   "indicativo": "M1XJC",
-  "codigo": "85GFJQ",
-  "fecha": "2026-10-31 06:00:19",
+  "codigo": "HBVNRZ",
+  "fecha": "2026-11-04 07:41:00",
   "pais": "Reino Unido",
-  "archivo": "qsl/QSL_M1XJC_2026-10.webp"
+  "archivo": "qsl/QSL_M1XJC_2026-11.webp"
  },
  {
   "indicativo": "OH7CBC",
@@ -26304,6 +26304,13 @@
   "fecha": "2026-10-31 03:29:16",
   "pais": "Noruega",
   "archivo": "qsl/QSL_LA9NT_2026-10.webp"
+ },
+ {
+  "indicativo": "M1XJC",
+  "codigo": "85GFJQ",
+  "fecha": "2026-10-31 06:00:19",
+  "pais": "Reino Unido",
+  "archivo": "qsl/QSL_M1XJC_2026-10.webp"
  },
  {
   "indicativo": "YO7EPY",
