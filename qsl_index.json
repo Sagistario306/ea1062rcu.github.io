@@ -18379,7 +18379,7 @@
   "codigo": "3G6K2N",
   "fecha": "2026-11-04 01:13:31",
   "pais": "Francia",
-  "archivo": "qsl/QSL_F5ZTH_2026-11_EV.webp"
+  "archivo": "qsl/QSL_F5ZTH_2026-11_EV.png"
  },
  {
   "indicativo": "OE7BOE",
@@ -23672,6 +23672,13 @@
   "fecha": "2026-11-04 01:13:26",
   "pais": "China",
   "archivo": "qsl/QSL_BH3HVI_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "VA2EP",
+  "codigo": "4Q5UBV",
+  "fecha": "2026-11-04 01:39:14",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VA2EP_2026-11.webp"
  },
  {
   "indicativo": "TI4GO",
