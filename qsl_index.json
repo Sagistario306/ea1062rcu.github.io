@@ -17991,10 +17991,10 @@
  },
  {
   "indicativo": "SV3DCX",
-  "codigo": "NHJG4R",
-  "fecha": "2026-10-29 02:52:58",
+  "codigo": "S5S2NZ",
+  "fecha": "2026-11-04 01:56:38",
   "pais": "Grecia",
-  "archivo": "qsl/QSL_SV3DCX_2026-10.webp"
+  "archivo": "qsl/QSL_SV3DCX_2026-11.webp"
  },
  {
   "indicativo": "SV1GCX",
@@ -25401,6 +25401,13 @@
   "fecha": "2026-10-29 02:52:48",
   "pais": "Turquia",
   "archivo": "qsl/QSL_TA1FL_2026-10.webp"
+ },
+ {
+  "indicativo": "SV3DCX",
+  "codigo": "NHJG4R",
+  "fecha": "2026-10-29 02:52:58",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV3DCX_2026-10.webp"
  },
  {
   "indicativo": "SV1GCX",
