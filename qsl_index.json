@@ -4866,10 +4866,10 @@
  },
  {
   "indicativo": "DZ4E",
-  "codigo": "FV4K2N",
-  "fecha": "2026-10-09 00:04:18",
+  "codigo": "SXD7EC",
+  "fecha": "2026-11-04 23:54:04",
   "pais": "Filipinas",
-  "archivo": "qsl/QSL_DZ4E_2026-10.webp"
+  "archivo": "qsl/QSL_DZ4E_2026-11.webp"
  },
  {
   "indicativo": "TI4OLS",
@@ -25191,6 +25191,13 @@
   "fecha": "2026-10-09 00:16:46",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU4DCL_2026-10.webp"
+ },
+ {
+  "indicativo": "DZ4E",
+  "codigo": "FV4K2N",
+  "fecha": "2026-10-09 00:04:18",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DZ4E_2026-10.webp"
  },
  {
   "indicativo": "YV7BMZ",
