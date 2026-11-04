@@ -1435,6 +1435,13 @@
   "archivo": "qsl/QSL_CX1AAO_2026-11.webp"
  },
  {
+  "indicativo": "CX1AAO",
+  "codigo": "U5UJ4Z",
+  "fecha": "2026-11-04 10:10:51",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX1AAO_2026-11_EV.webp"
+ },
+ {
   "indicativo": "YD2VSJ",
   "codigo": "YH2KW2",
   "fecha": "2026-10-29 04:28:01",
