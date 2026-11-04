@@ -12048,10 +12048,10 @@
  },
  {
   "indicativo": "KH6BFD",
-  "codigo": "6RUJ5M",
-  "fecha": "2026-10-11 00:02:20",
-  "pais": "Hawai",
-  "archivo": "qsl/QSL_KH6BFD_2026-10.webp"
+  "codigo": "2SKSVB",
+  "fecha": "2026-11-04 01:54:28",
+  "pais": "Hawái",
+  "archivo": "qsl/QSL_KH6BFD_2026-11.webp"
  },
  {
   "indicativo": "ZS1GFL",
@@ -25058,6 +25058,13 @@
   "fecha": "2026-10-11 00:00:38",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W2IHT_2026-10.webp"
+ },
+ {
+  "indicativo": "KH6BFD",
+  "codigo": "6RUJ5M",
+  "fecha": "2026-10-11 00:02:20",
+  "pais": "Hawai",
+  "archivo": "qsl/QSL_KH6BFD_2026-10.webp"
  },
  {
   "indicativo": "OH2BEA",
