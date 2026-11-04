@@ -18019,10 +18019,10 @@
  },
  {
   "indicativo": "SQ3TGN",
-  "codigo": "5YRPSF",
-  "fecha": "2026-10-29 02:55:57",
+  "codigo": "SW9XXF",
+  "fecha": "2026-11-04 00:10:59",
   "pais": "Polonia",
-  "archivo": "qsl/QSL_SQ3TGN_2026-10.webp"
+  "archivo": "qsl/QSL_SQ3TGN_2026-11.webp"
  },
  {
   "indicativo": "IW6DRY",
@@ -24876,6 +24876,13 @@
   "fecha": "2026-10-29 02:53:43",
   "pais": "Sicilia",
   "archivo": "qsl/QSL_IW2HJO_2026-10.webp"
+ },
+ {
+  "indicativo": "SQ3TGN",
+  "codigo": "5YRPSF",
+  "fecha": "2026-10-29 02:55:57",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SQ3TGN_2026-10.webp"
  },
  {
   "indicativo": "TB4AVR",
