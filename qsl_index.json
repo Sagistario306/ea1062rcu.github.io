@@ -23569,6 +23569,20 @@
   "archivo": "qsl/QSL_N4BCX_2026-11.webp"
  },
  {
+  "indicativo": "N4BCX",
+  "codigo": "KEHHT9",
+  "fecha": "2026-11-04 01:11:49",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_N4BCX_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "EA7FQB",
+  "codigo": "P58PPV",
+  "fecha": "2026-11-04 01:11:46",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA7FQB_2026-11.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
