@@ -3872,17 +3872,10 @@
  },
  {
   "indicativo": "NP4WX",
-  "codigo": "YYRCGE",
-  "fecha": "2026-10-02 00:07:03",
+  "codigo": "Z4PNR8",
+  "fecha": "2026-11-04 21:43:27",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_NP4WX_2026-10.webp"
- },
- {
-  "indicativo": "NP4WX",
-  "codigo": "5REJ8G",
-  "fecha": "2026-10-02 00:07:08",
-  "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_NP4WX_2026-10_EV.webp"
+  "archivo": "qsl/QSL_NP4WX_2026-11.webp"
  },
  {
   "indicativo": "KP4ASD",
@@ -25002,6 +24995,20 @@
   "fecha": "2026-10-04 00:06:39",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1XLI_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "NP4WX",
+  "codigo": "YYRCGE",
+  "fecha": "2026-10-02 00:07:03",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4WX_2026-10.webp"
+ },
+ {
+  "indicativo": "NP4WX",
+  "codigo": "5REJ8G",
+  "fecha": "2026-10-02 00:07:03",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4WX_2026-10_EV.webp"
  },
  {
   "indicativo": "9M2VIS",
