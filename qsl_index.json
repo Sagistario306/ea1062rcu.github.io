@@ -12362,6 +12362,13 @@
   "archivo": "qsl/QSL_KH6L_2026-11.webp"
  },
  {
+  "indicativo": "KH6L",
+  "codigo": "BEYUYJ",
+  "fecha": "2026-11-04 01:12:36",
+  "pais": "Hawái",
+  "archivo": "qsl/QSL_KH6L_2026-11_EV.webp"
+ },
+ {
   "indicativo": "LU3EBS",
   "codigo": "VZP589",
   "fecha": "2026-10-12 00:14:29",
