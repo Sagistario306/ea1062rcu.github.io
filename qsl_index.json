@@ -18761,10 +18761,10 @@
  },
  {
   "indicativo": "PY4EO",
-  "codigo": "HBXJUD",
-  "fecha": "2026-10-29 03:21:47",
+  "codigo": "UR33SH",
+  "fecha": "2026-11-04 02:23:46",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY4EO_2026-10.webp"
+  "archivo": "qsl/QSL_PY4EO_2026-11.webp"
  },
  {
   "indicativo": "OE6XTR",
@@ -25576,6 +25576,13 @@
   "fecha": "2026-10-29 03:08:18",
   "pais": "Francia",
   "archivo": "qsl/QSL_F4AEU_2026-10.webp"
+ },
+ {
+  "indicativo": "PY4EO",
+  "codigo": "HBXJUD",
+  "fecha": "2026-10-29 03:21:47",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY4EO_2026-10.webp"
  },
  {
   "indicativo": "OK2PKT",
