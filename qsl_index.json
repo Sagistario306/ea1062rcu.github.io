@@ -1429,17 +1429,10 @@
  },
  {
   "indicativo": "CX1AAO",
-  "codigo": "DY4DWG",
-  "fecha": "2026-10-04 21:49:42",
+  "codigo": "QAS9W5",
+  "fecha": "2026-11-04 10:10:34",
   "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX1AAO_2026-10.webp"
- },
- {
-  "indicativo": "CX1AAO",
-  "codigo": "A633S8",
-  "fecha": "2026-10-04 21:49:48",
-  "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX1AAO_2026-10_EV.webp"
+  "archivo": "qsl/QSL_CX1AAO_2026-11.webp"
  },
  {
   "indicativo": "YD2VSJ",
@@ -25226,6 +25219,20 @@
   "fecha": "2026-10-12 00:01:18",
   "pais": "Japon",
   "archivo": "qsl/QSL_JH8CLC_2026-10.webp"
+ },
+ {
+  "indicativo": "CX1AAO",
+  "codigo": "DY4DWG",
+  "fecha": "2026-10-04 21:49:42",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX1AAO_2026-10.webp"
+ },
+ {
+  "indicativo": "CX1AAO",
+  "codigo": "A633S8",
+  "fecha": "2026-10-04 21:49:42",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX1AAO_2026-10_EV.webp"
  },
  {
   "indicativo": "YV5KXE",
