@@ -16380,6 +16380,13 @@
   "archivo": "qsl/QSL_HI5YJM_2026-11.webp"
  },
  {
+  "indicativo": "HI5YJM",
+  "codigo": "5RGHKE",
+  "fecha": "2026-11-04 17:12:12",
+  "pais": "República Dominicana",
+  "archivo": "qsl/QSL_HI5YJM_2026-11_EV.webp"
+ },
+ {
   "indicativo": "N5TDY",
   "codigo": "FA3KSV",
   "fecha": "2026-10-27 00:00:01",
