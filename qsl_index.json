@@ -18439,10 +18439,10 @@
  },
  {
   "indicativo": "F4AEU",
-  "codigo": "W55NTW",
-  "fecha": "2026-10-29 03:08:18",
+  "codigo": "DTGR8Q",
+  "fecha": "2026-11-04 00:07:10",
   "pais": "Francia",
-  "archivo": "qsl/QSL_F4AEU_2026-10.webp"
+  "archivo": "qsl/QSL_F4AEU_2026-11.webp"
  },
  {
   "indicativo": "ZL3TV",
@@ -23184,6 +23184,13 @@
   "archivo": "qsl/QSL_AD1M_2026-11.webp"
  },
  {
+  "indicativo": "AD1M",
+  "codigo": "8V69F2",
+  "fecha": "2026-11-04 00:07:10",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_AD1M_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
@@ -24659,6 +24666,13 @@
   "fecha": "2026-10-29 03:03:41",
   "pais": "Alemania",
   "archivo": "qsl/QSL_DD5LF_2026-10.webp"
+ },
+ {
+  "indicativo": "F4AEU",
+  "codigo": "W55NTW",
+  "fecha": "2026-10-29 03:08:18",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F4AEU_2026-10.webp"
  },
  {
   "indicativo": "OK2PKT",
