@@ -20777,10 +20777,10 @@
  },
  {
   "indicativo": "LA9NT",
-  "codigo": "YSHNSA",
-  "fecha": "2026-10-31 03:29:16",
+  "codigo": "YD3FQ7",
+  "fecha": "2026-11-04 02:17:58",
   "pais": "Noruega",
-  "archivo": "qsl/QSL_LA9NT_2026-10.webp"
+  "archivo": "qsl/QSL_LA9NT_2026-11.webp"
  },
  {
   "indicativo": "SV2HYH",
@@ -25772,6 +25772,13 @@
   "fecha": "2026-10-31 00:05:40",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PY2AMW_2026-10.webp"
+ },
+ {
+  "indicativo": "LA9NT",
+  "codigo": "YSHNSA",
+  "fecha": "2026-10-31 03:29:16",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LA9NT_2026-10.webp"
  },
  {
   "indicativo": "YO7EPY",
