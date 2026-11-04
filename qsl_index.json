@@ -24101,6 +24101,13 @@
   "archivo": "qsl/QSL_HB9ESA_2026-11.webp"
  },
  {
+  "indicativo": "HB9ESA",
+  "codigo": "MDXZWF",
+  "fecha": "2026-11-04 06:00:19",
+  "pais": "Suiza",
+  "archivo": "qsl/QSL_HB9ESA_2026-11_EV.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
