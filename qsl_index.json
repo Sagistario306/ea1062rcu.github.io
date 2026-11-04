@@ -20013,6 +20013,13 @@
   "archivo": "qsl/QSL_SP3EOL_2026-11.webp"
  },
  {
+  "indicativo": "SP3EOL",
+  "codigo": "RX8HGA",
+  "fecha": "2026-11-04 00:09:37",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP3EOL_2026-11_EV.webp"
+ },
+ {
   "indicativo": "W4CVY",
   "codigo": "SFMJ2C",
   "fecha": "2026-10-31 00:00:27",
@@ -23322,6 +23329,13 @@
   "fecha": "2026-11-04 00:09:22",
   "pais": "Estados Unidos",
   "archivo": "qsl/QSL_AG4OS_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "N6UQ",
+  "codigo": "SBTSJ4",
+  "fecha": "2026-11-04 00:09:34",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_N6UQ_2026-11.webp"
  },
  {
   "indicativo": "TI4GO",
