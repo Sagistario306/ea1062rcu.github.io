@@ -13721,10 +13721,10 @@
  },
  {
   "indicativo": "HK6V",
-  "codigo": "3CTKSE",
-  "fecha": "2026-10-17 03:13:52",
+  "codigo": "VTJSPJ",
+  "fecha": "2026-11-04 23:59:22",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK6V_2026-10.webp"
+  "archivo": "qsl/QSL_HK6V_2026-11.webp"
  },
  {
   "indicativo": "LA1KUA",
@@ -26430,6 +26430,13 @@
   "fecha": "2026-10-16 18:22:46",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HJ5RTD_2026-10.webp"
+ },
+ {
+  "indicativo": "HK6V",
+  "codigo": "3CTKSE",
+  "fecha": "2026-10-17 03:13:52",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK6V_2026-10.webp"
  },
  {
   "indicativo": "PA3GCO",
