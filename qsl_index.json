@@ -19089,6 +19089,13 @@
   "archivo": "qsl/QSL_LB7YE_2026-11.webp"
  },
  {
+  "indicativo": "LB7YE",
+  "codigo": "M7QUHN",
+  "fecha": "2026-11-04 01:40:48",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LB7YE_2026-11_EV.webp"
+ },
+ {
   "indicativo": "VA7VSM",
   "codigo": "HFY2WS",
   "fecha": "2026-10-30 00:02:07",
