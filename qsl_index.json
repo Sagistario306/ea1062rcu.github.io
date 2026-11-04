@@ -14540,10 +14540,10 @@
  },
  {
   "indicativo": "VE7LHA",
-  "codigo": "WERYZ8",
-  "fecha": "2026-10-22 00:16:44",
-  "pais": "Canada",
-  "archivo": "qsl/QSL_VE7LHA_2026-10.webp"
+  "codigo": "QVDSE6",
+  "fecha": "2026-11-04 00:32:43",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VE7LHA_2026-11.webp"
  },
  {
   "indicativo": "VE3PZ",
@@ -24715,6 +24715,13 @@
   "fecha": "2026-10-21 14:41:44",
   "pais": "Paises Bajos",
   "archivo": "qsl/QSL_PA3GCO_2026-10.webp"
+ },
+ {
+  "indicativo": "VE7LHA",
+  "codigo": "WERYZ8",
+  "fecha": "2026-10-22 00:16:44",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE7LHA_2026-10.webp"
  },
  {
   "indicativo": "SP6TT",
