@@ -19909,10 +19909,10 @@
  },
  {
   "indicativo": "OH4JOU",
-  "codigo": "B76PB6",
-  "fecha": "2026-10-30 05:23:47",
+  "codigo": "8G6BQ8",
+  "fecha": "2026-11-04 09:08:51",
   "pais": "Finlandia",
-  "archivo": "qsl/QSL_OH4JOU_2026-10.webp"
+  "archivo": "qsl/QSL_OH4JOU_2026-11.webp"
  },
  {
   "indicativo": "PD5CL",
@@ -26248,6 +26248,13 @@
   "fecha": "2026-10-30 04:58:18",
   "pais": "Finlandia",
   "archivo": "qsl/QSL_OH2HCB_2026-10.webp"
+ },
+ {
+  "indicativo": "OH4JOU",
+  "codigo": "B76PB6",
+  "fecha": "2026-10-30 05:23:47",
+  "pais": "Finlandia",
+  "archivo": "qsl/QSL_OH4JOU_2026-10.webp"
  },
  {
   "indicativo": "LA5MIA",
