@@ -11271,10 +11271,10 @@
  },
  {
   "indicativo": "VE6EMV",
-  "codigo": "WY4YPR",
-  "fecha": "2026-10-09 00:01:01",
-  "pais": "Canada",
-  "archivo": "qsl/QSL_VE6EMV_2026-10.webp"
+  "codigo": "ZG2JJV",
+  "fecha": "2026-11-04 01:46:59",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VE6EMV_2026-11.webp"
  },
  {
   "indicativo": "VA7LWC",
@@ -24981,6 +24981,13 @@
   "fecha": "2026-10-09 00:00:55",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PY2PJA_2026-10.webp"
+ },
+ {
+  "indicativo": "VE6EMV",
+  "codigo": "WY4YPR",
+  "fecha": "2026-10-09 00:01:01",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE6EMV_2026-10.webp"
  },
  {
   "indicativo": "M0ZPG",
