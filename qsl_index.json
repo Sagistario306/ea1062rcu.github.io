@@ -18411,10 +18411,10 @@
  },
  {
   "indicativo": "HS3UAA",
-  "codigo": "MZRZPP",
-  "fecha": "2026-10-29 03:01:33",
+  "codigo": "8HX7DZ",
+  "fecha": "2026-11-04 03:43:04",
   "pais": "Tailandia",
-  "archivo": "qsl/QSL_HS3UAA_2026-10.webp"
+  "archivo": "qsl/QSL_HS3UAA_2026-11.webp"
  },
  {
   "indicativo": "VE2SIL",
@@ -25604,6 +25604,13 @@
   "fecha": "2026-10-29 02:58:19",
   "pais": "Italia",
   "archivo": "qsl/QSL_IK1MHM_2026-10.webp"
+ },
+ {
+  "indicativo": "HS3UAA",
+  "codigo": "MZRZPP",
+  "fecha": "2026-10-29 03:01:33",
+  "pais": "Tailandia",
+  "archivo": "qsl/QSL_HS3UAA_2026-10.webp"
  },
  {
   "indicativo": "F5ZTH",
