@@ -17340,10 +17340,10 @@
  },
  {
   "indicativo": "LY5LM",
-  "codigo": "7FHK8E",
-  "fecha": "2026-10-28 05:32:23",
+  "codigo": "B7ZTZN",
+  "fecha": "2026-11-04 12:15:31",
   "pais": "Lituania",
-  "archivo": "qsl/QSL_LY5LM_2026-10.webp"
+  "archivo": "qsl/QSL_LY5LM_2026-11.webp"
  },
  {
   "indicativo": "OM8KT",
@@ -26255,6 +26255,13 @@
   "fecha": "2026-10-28 05:32:11",
   "pais": "Suecia",
   "archivo": "qsl/QSL_SM6UNC_2026-10.webp"
+ },
+ {
+  "indicativo": "LY5LM",
+  "codigo": "7FHK8E",
+  "fecha": "2026-10-28 05:32:23",
+  "pais": "Lituania",
+  "archivo": "qsl/QSL_LY5LM_2026-10.webp"
  },
  {
   "indicativo": "VR2UGX",
