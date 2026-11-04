@@ -19069,10 +19069,10 @@
  },
  {
   "indicativo": "BX8AAN",
-  "codigo": "2AFEQT",
-  "fecha": "2026-10-30 00:03:50",
+  "codigo": "S9CYAQ",
+  "fecha": "2026-11-04 00:06:40",
   "pais": "China",
-  "archivo": "qsl/QSL_BX8AAN_2026-10.webp"
+  "archivo": "qsl/QSL_BX8AAN_2026-11.webp"
  },
  {
   "indicativo": "IT9CNT",
@@ -24659,6 +24659,13 @@
   "fecha": "2026-10-29 23:35:43",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU3EEJ_2026-10.webp"
+ },
+ {
+  "indicativo": "BX8AAN",
+  "codigo": "2AFEQT",
+  "fecha": "2026-10-30 00:03:50",
+  "pais": "China",
+  "archivo": "qsl/QSL_BX8AAN_2026-10.webp"
  },
  {
   "indicativo": "4S7DSB",
