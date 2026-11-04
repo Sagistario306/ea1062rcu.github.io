@@ -7498,10 +7498,10 @@
  },
  {
   "indicativo": "EA7KD",
-  "codigo": "XD3NXF",
-  "fecha": "2026-10-25 18:40:18",
+  "codigo": "Z24FWS",
+  "fecha": "2026-11-04 04:58:38",
   "pais": "España",
-  "archivo": "qsl/QSL_EA7KD_2026-10.webp"
+  "archivo": "qsl/QSL_EA7KD_2026-11.webp"
  },
  {
   "indicativo": "EA7P",
@@ -24659,6 +24659,13 @@
   "fecha": "2026-10-28 03:53:20",
   "pais": "España",
   "archivo": "qsl/QSL_EB7FAO_2026-10.webp"
+ },
+ {
+  "indicativo": "EA7KD",
+  "codigo": "XD3NXF",
+  "fecha": "2026-10-25 18:40:18",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA7KD_2026-10.webp"
  },
  {
   "indicativo": "CO5ABC",
