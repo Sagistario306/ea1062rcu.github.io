@@ -12356,10 +12356,10 @@
  },
  {
   "indicativo": "KH6L",
-  "codigo": "PTDVDD",
-  "fecha": "2026-10-12 00:11:54",
-  "pais": "Hawai",
-  "archivo": "qsl/QSL_KH6L_2026-10.webp"
+  "codigo": "EEQ6NM",
+  "fecha": "2026-11-04 01:12:29",
+  "pais": "Hawái",
+  "archivo": "qsl/QSL_KH6L_2026-11.webp"
  },
  {
   "indicativo": "LU3EBS",
@@ -24820,6 +24820,13 @@
   "fecha": "2026-10-11 05:31:54",
   "pais": "Finlandia",
   "archivo": "qsl/QSL_OH2BEA_2026-10.webp"
+ },
+ {
+  "indicativo": "KH6L",
+  "codigo": "PTDVDD",
+  "fecha": "2026-10-12 00:11:54",
+  "pais": "Hawai",
+  "archivo": "qsl/QSL_KH6L_2026-10.webp"
  },
  {
   "indicativo": "K7QEQ",
