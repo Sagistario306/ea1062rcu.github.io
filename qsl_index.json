@@ -15310,10 +15310,10 @@
  },
  {
   "indicativo": "WC3R",
-  "codigo": "U3266J",
-  "fecha": "2026-10-26 04:43:00",
-  "pais": "EE.UU",
-  "archivo": "qsl/QSL_WC3R_2026-10.webp"
+  "codigo": "BK4G7G",
+  "fecha": "2026-11-04 00:10:29",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_WC3R_2026-11.webp"
  },
  {
   "indicativo": "KG4LAA",
@@ -24638,6 +24638,13 @@
   "fecha": "2026-10-26 04:42:46",
   "pais": "EE.UU",
   "archivo": "qsl/QSL_K2EHE_2026-10.webp"
+ },
+ {
+  "indicativo": "WC3R",
+  "codigo": "U3266J",
+  "fecha": "2026-10-26 04:43:00",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_WC3R_2026-10.webp"
  },
  {
   "indicativo": "VE3SU",
