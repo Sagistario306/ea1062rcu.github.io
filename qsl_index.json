@@ -13098,10 +13098,10 @@
  },
  {
   "indicativo": "PU2OZC",
-  "codigo": "4S4Z4W",
-  "fecha": "2026-10-15 05:38:19",
+  "codigo": "AN3KM9",
+  "fecha": "2026-11-04 03:37:28",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PU2OZC_2026-10.webp"
+  "archivo": "qsl/QSL_PU2OZC_2026-11.webp"
  },
  {
   "indicativo": "N0AMY",
@@ -25205,6 +25205,13 @@
   "fecha": "2026-10-13 00:00:15",
   "pais": "EE.UU",
   "archivo": "qsl/QSL_K7QEQ_2026-10.webp"
+ },
+ {
+  "indicativo": "PU2OZC",
+  "codigo": "4S4Z4W",
+  "fecha": "2026-10-15 05:38:19",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU2OZC_2026-10.webp"
  },
  {
   "indicativo": "HJ5RTD",
