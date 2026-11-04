@@ -20377,6 +20377,13 @@
   "archivo": "qsl/QSL_HK3DG_2026-11.webp"
  },
  {
+  "indicativo": "HK3DG",
+  "codigo": "FRDRZT",
+  "fecha": "2026-11-04 21:30:37",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK3DG_2026-11_EV.webp"
+ },
+ {
   "indicativo": "VK3AIF",
   "codigo": "RBTTYC",
   "fecha": "2026-10-31 00:00:04",
