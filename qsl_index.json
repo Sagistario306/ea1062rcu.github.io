@@ -23618,11 +23618,18 @@
   "archivo": "qsl/QSL_SV1QVL_2026-11.webp"
  },
  {
+  "indicativo": "SV1QVL",
+  "codigo": "B9FAZR",
+  "fecha": "2026-11-04 01:12:47",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV1QVL_2026-11_EV.webp"
+ },
+ {
   "indicativo": "W4AQL",
   "codigo": "6GTW4V",
   "fecha": "2026-11-04 01:12:43",
   "pais": "Estados Unidos",
-  "archivo": "qsl/QSL_W4AQL_2026-11.png"
+  "archivo": "qsl/QSL_W4AQL_2026-11.webp"
  },
  {
   "indicativo": "TI4GO",
