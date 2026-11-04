@@ -7239,10 +7239,10 @@
  },
  {
   "indicativo": "CO5WE",
-  "codigo": "G6K6W4",
-  "fecha": "2026-10-23 05:18:34",
+  "codigo": "WKF7J2",
+  "fecha": "2026-11-04 01:46:48",
   "pais": "Cuba",
-  "archivo": "qsl/QSL_CO5WE_2026-10.webp"
+  "archivo": "qsl/QSL_CO5WE_2026-11.webp"
  },
  {
   "indicativo": "LU8ALE",
@@ -24309,6 +24309,13 @@
   "fecha": "2026-10-01 01:17:35",
   "pais": "Republica Dominicana",
   "archivo": "qsl/QSL_HI6LT_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "CO5WE",
+  "codigo": "G6K6W4",
+  "fecha": "2026-10-23 05:18:34",
+  "pais": "Cuba",
+  "archivo": "qsl/QSL_CO5WE_2026-10.webp"
  },
  {
   "indicativo": "HI8CJG",
