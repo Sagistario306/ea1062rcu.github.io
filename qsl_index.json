@@ -16178,10 +16178,10 @@
  },
  {
   "indicativo": "YT1NDO",
-  "codigo": "N64AZJ",
-  "fecha": "2026-10-26 13:14:36",
+  "codigo": "ANWGX4",
+  "fecha": "2026-11-04 06:41:22",
   "pais": "Serbia",
-  "archivo": "qsl/QSL_YT1NDO_2026-10.webp"
+  "archivo": "qsl/QSL_YT1NDO_2026-11.webp"
  },
  {
   "indicativo": "VR2XCH",
@@ -25639,6 +25639,13 @@
   "fecha": "2026-10-26 13:11:22",
   "pais": "Reino Unido",
   "archivo": "qsl/QSL_M7IDE_2026-10.webp"
+ },
+ {
+  "indicativo": "YT1NDO",
+  "codigo": "N64AZJ",
+  "fecha": "2026-10-26 13:14:36",
+  "pais": "Serbia",
+  "archivo": "qsl/QSL_YT1NDO_2026-10.webp"
  },
  {
   "indicativo": "HJ5VMG",
