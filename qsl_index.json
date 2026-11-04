@@ -23541,6 +23541,20 @@
   "archivo": "qsl/QSL_N9AZZ_2026-11.webp"
  },
  {
+  "indicativo": "N9AZZ",
+  "codigo": "HCET2F",
+  "fecha": "2026-11-04 01:11:23",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_N9AZZ_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "F4FAU",
+  "codigo": "VA9KPG",
+  "fecha": "2026-11-04 01:11:22",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F4FAU_2026-11.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
