@@ -11250,10 +11250,10 @@
  },
  {
   "indicativo": "PY2PJA",
-  "codigo": "X7KMYQ",
-  "fecha": "2026-10-09 00:00:55",
+  "codigo": "E3T2HS",
+  "fecha": "2026-11-04 01:39:54",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY2PJA_2026-10.webp"
+  "archivo": "qsl/QSL_PY2PJA_2026-11.webp"
  },
  {
   "indicativo": "VE6EMV",
@@ -24890,6 +24890,13 @@
   "fecha": "2026-10-07 00:00:23",
   "pais": "España",
   "archivo": "qsl/QSL_EA1PVC_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "PY2PJA",
+  "codigo": "X7KMYQ",
+  "fecha": "2026-10-09 00:00:55",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY2PJA_2026-10.webp"
  },
  {
   "indicativo": "M0ZPG",
