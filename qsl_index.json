@@ -5894,6 +5894,13 @@
   "archivo": "qsl/QSL_XE3K_2026-11.webp"
  },
  {
+  "indicativo": "XE3K",
+  "codigo": "MBPJ26",
+  "fecha": "2026-11-04 17:25:26",
+  "pais": "México",
+  "archivo": "qsl/QSL_XE3K_2026-11_EV.webp"
+ },
+ {
   "indicativo": "LU4MNE",
   "codigo": "37XNWX",
   "fecha": "2026-10-27 18:46:11",
