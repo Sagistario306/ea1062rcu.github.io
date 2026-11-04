@@ -15954,10 +15954,10 @@
  },
  {
   "indicativo": "OE3SMA",
-  "codigo": "JKDSMT",
-  "fecha": "2026-10-26 13:09:22",
+  "codigo": "Q3QB8K",
+  "fecha": "2026-11-04 07:29:33",
   "pais": "Austria",
-  "archivo": "qsl/QSL_OE3SMA_2026-10.webp"
+  "archivo": "qsl/QSL_OE3SMA_2026-11.webp"
  },
  {
   "indicativo": "LD9HB",
@@ -25723,6 +25723,13 @@
   "fecha": "2026-10-26 13:09:13",
   "pais": "Suecia",
   "archivo": "qsl/QSL_SM0XMX_2026-10.webp"
+ },
+ {
+  "indicativo": "OE3SMA",
+  "codigo": "JKDSMT",
+  "fecha": "2026-10-26 13:09:22",
+  "pais": "Austria",
+  "archivo": "qsl/QSL_OE3SMA_2026-10.webp"
  },
  {
   "indicativo": "LA5ESA",
