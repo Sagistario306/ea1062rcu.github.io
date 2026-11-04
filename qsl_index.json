@@ -12103,6 +12103,13 @@
   "archivo": "qsl/QSL_OH2BEA_2026-11.webp"
  },
  {
+  "indicativo": "OH2BEA",
+  "codigo": "X3UPHE",
+  "fecha": "2026-11-04 00:08:07",
+  "pais": "Finlandia",
+  "archivo": "qsl/QSL_OH2BEA_2026-11_EV.webp"
+ },
+ {
   "indicativo": "KL7MM",
   "codigo": "ENNM7E",
   "fecha": "2026-10-11 05:38:04",
