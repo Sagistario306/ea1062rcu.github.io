@@ -16983,10 +16983,10 @@
  },
  {
   "indicativo": "IK1VGG",
-  "codigo": "SAT6UM",
-  "fecha": "2026-10-28 05:28:50",
+  "codigo": "BQFA42",
+  "fecha": "2026-11-04 01:57:46",
   "pais": "Italia",
-  "archivo": "qsl/QSL_IK1VGG_2026-10.webp"
+  "archivo": "qsl/QSL_IK1VGG_2026-11.webp"
  },
  {
   "indicativo": "BD1AMC",
@@ -25303,6 +25303,13 @@
   "fecha": "2026-10-28 05:28:26",
   "pais": "Sicilia",
   "archivo": "qsl/QSL_IW6NH_2026-10.webp"
+ },
+ {
+  "indicativo": "IK1VGG",
+  "codigo": "SAT6UM",
+  "fecha": "2026-10-28 05:28:50",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IK1VGG_2026-10.webp"
  },
  {
   "indicativo": "BG5GKN",
