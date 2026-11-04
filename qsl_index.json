@@ -23366,6 +23366,20 @@
   "archivo": "qsl/QSL_N0FUL_2026-11.webp"
  },
  {
+  "indicativo": "N0FUL",
+  "codigo": "EW86HQ",
+  "fecha": "2026-11-04 00:10:23",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_N0FUL_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "SP2JGY",
+  "codigo": "CYYG4J",
+  "fecha": "2026-11-04 00:10:24",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP2JGY_2026-11.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
