@@ -9591,10 +9591,10 @@
  },
  {
   "indicativo": "HP3AXL",
-  "codigo": "Z7XR6X",
-  "fecha": "2026-10-09 14:42:06",
-  "pais": "Panama",
-  "archivo": "qsl/QSL_HP3AXL_2026-10.webp"
+  "codigo": "XDSMWK",
+  "fecha": "2026-11-04 21:35:47",
+  "pais": "Panamá",
+  "archivo": "qsl/QSL_HP3AXL_2026-11.webp"
  },
  {
   "indicativo": "LU1IAS",
@@ -25975,6 +25975,13 @@
   "fecha": "2026-10-28 05:36:33",
   "pais": "Malasia Occidental",
   "archivo": "qsl/QSL_9M2PJA_2026-10.webp"
+ },
+ {
+  "indicativo": "HP3AXL",
+  "codigo": "Z7XR6X",
+  "fecha": "2026-10-09 14:42:06",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP3AXL_2026-10.webp"
  },
  {
   "indicativo": "9M2EDQ",
