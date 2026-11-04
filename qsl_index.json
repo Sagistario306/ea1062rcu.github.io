@@ -21064,10 +21064,10 @@
  },
  {
   "indicativo": "OH6DPJ",
-  "codigo": "ZMGN7Z",
-  "fecha": "2026-10-31 08:38:24",
+  "codigo": "P23HZM",
+  "fecha": "2026-11-04 03:37:37",
   "pais": "Finlandia",
-  "archivo": "qsl/QSL_OH6DPJ_2026-10.webp"
+  "archivo": "qsl/QSL_OH6DPJ_2026-11.webp"
  },
  {
   "indicativo": "LY4RJ",
@@ -25856,6 +25856,13 @@
   "fecha": "2026-10-31 07:07:54",
   "pais": "Rumania",
   "archivo": "qsl/QSL_YO7EPY_2026-10.webp"
+ },
+ {
+  "indicativo": "OH6DPJ",
+  "codigo": "ZMGN7Z",
+  "fecha": "2026-10-31 08:38:24",
+  "pais": "Finlandia",
+  "archivo": "qsl/QSL_OH6DPJ_2026-10.webp"
  },
  {
   "indicativo": "HS5NMF",
