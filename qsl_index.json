@@ -23611,6 +23611,20 @@
   "archivo": "qsl/QSL_KK7YDH_2026-11_EV.webp"
  },
  {
+  "indicativo": "SV1QVL",
+  "codigo": "TN79H2",
+  "fecha": "2026-11-04 01:12:41",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV1QVL_2026-11.webp"
+ },
+ {
+  "indicativo": "W4AQL",
+  "codigo": "6GTW4V",
+  "fecha": "2026-11-04 01:12:43",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_W4AQL_2026-11.png"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
