@@ -2493,10 +2493,10 @@
  },
  {
   "indicativo": "9W2BWS",
-  "codigo": "CYGH9Y",
-  "fecha": "2026-10-28 13:57:55",
+  "codigo": "WH75BK",
+  "fecha": "2026-11-04 02:06:14",
   "pais": "Malasia",
-  "archivo": "qsl/QSL_9W2BWS_2026-10.webp"
+  "archivo": "qsl/QSL_9W2BWS_2026-11.webp"
  },
  {
   "indicativo": "EA2FFX",
@@ -23868,6 +23868,13 @@
   "fecha": "2026-11-04 02:00:59",
   "pais": "Dinamarca",
   "archivo": "qsl/QSL_OZ7MGJ_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "9W2BWS",
+  "codigo": "CYGH9Y",
+  "fecha": "2026-10-28 13:57:55",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2BWS_2026-10.webp"
  },
  {
   "indicativo": "TI4GO",
