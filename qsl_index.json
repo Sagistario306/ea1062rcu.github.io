@@ -18943,10 +18943,10 @@
  },
  {
   "indicativo": "OE9FWV",
-  "codigo": "JFU53X",
-  "fecha": "2026-10-29 04:36:05",
+  "codigo": "3EVHGF",
+  "fecha": "2026-11-04 06:26:22",
   "pais": "Austria",
-  "archivo": "qsl/QSL_OE9FWV_2026-10.webp"
+  "archivo": "qsl/QSL_OE9FWV_2026-11.webp"
  },
  {
   "indicativo": "OK2PKT",
@@ -25905,6 +25905,13 @@
   "fecha": "2026-10-29 03:39:46",
   "pais": "Austria",
   "archivo": "qsl/QSL_OE6TXW_2026-10.webp"
+ },
+ {
+  "indicativo": "OE9FWV",
+  "codigo": "JFU53X",
+  "fecha": "2026-10-29 04:36:05",
+  "pais": "Austria",
+  "archivo": "qsl/QSL_OE9FWV_2026-10.webp"
  },
  {
   "indicativo": "OK2PKT",
