@@ -21133,6 +21133,13 @@
   "archivo": "qsl/QSL_HS2XQB_2026-11.webp"
  },
  {
+  "indicativo": "HS2XQB",
+  "codigo": "KGTTYS",
+  "fecha": "2026-11-04 03:10:19",
+  "pais": "Tailandia",
+  "archivo": "qsl/QSL_HS2XQB_2026-11_EV.webp"
+ },
+ {
   "indicativo": "LU1DQ",
   "codigo": "QMGEUE",
   "fecha": "2026-10-31 16:21:10",
