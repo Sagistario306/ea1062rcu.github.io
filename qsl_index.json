@@ -19580,10 +19580,10 @@
  },
  {
   "indicativo": "SV3BEF",
-  "codigo": "KJVWGB",
-  "fecha": "2026-10-30 00:32:14",
+  "codigo": "2XJTAK",
+  "fecha": "2026-11-04 01:58:30",
   "pais": "Grecia",
-  "archivo": "qsl/QSL_SV3BEF_2026-10.webp"
+  "archivo": "qsl/QSL_SV3BEF_2026-11.webp"
  },
  {
   "indicativo": "VK2JPG",
@@ -25562,6 +25562,13 @@
   "fecha": "2026-10-30 00:13:07",
   "pais": "Francia",
   "archivo": "qsl/QSL_F1CXG_2026-10.webp"
+ },
+ {
+  "indicativo": "SV3BEF",
+  "codigo": "KJVWGB",
+  "fecha": "2026-10-30 00:32:14",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV3BEF_2026-10.webp"
  },
  {
   "indicativo": "SV2HIA",
