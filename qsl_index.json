@@ -14550,7 +14550,7 @@
   "codigo": "PNRSM4",
   "fecha": "2026-11-04 00:32:51",
   "pais": "Canadá",
-  "archivo": "qsl/QSL_VE7LHA_2026-11_EV.webp"
+  "archivo": "qsl/QSL_VE7LHA_2026-11_EV.png"
  },
  {
   "indicativo": "VE3PZ",
@@ -23497,6 +23497,13 @@
   "fecha": "2026-11-04 00:32:33",
   "pais": "Estados Unidos",
   "archivo": "qsl/QSL_W8DGZ_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "KA5WPS",
+  "codigo": "WPAT8B",
+  "fecha": "2026-11-04 01:10:43",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_KA5WPS_2026-11.webp"
  },
  {
   "indicativo": "TI4GO",
