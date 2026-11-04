@@ -20007,10 +20007,10 @@
  },
  {
   "indicativo": "SP3EOL",
-  "codigo": "6YD4Q2",
-  "fecha": "2026-10-31 00:00:16",
+  "codigo": "D7Z3KZ",
+  "fecha": "2026-11-04 00:09:29",
   "pais": "Polonia",
-  "archivo": "qsl/QSL_SP3EOL_2026-10.webp"
+  "archivo": "qsl/QSL_SP3EOL_2026-11.webp"
  },
  {
   "indicativo": "W4CVY",
@@ -24974,6 +24974,13 @@
   "fecha": "2026-10-30 07:10:36",
   "pais": "Suecia",
   "archivo": "qsl/QSL_SM0GBG_2026-10.webp"
+ },
+ {
+  "indicativo": "SP3EOL",
+  "codigo": "6YD4Q2",
+  "fecha": "2026-10-31 00:00:16",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP3EOL_2026-10.webp"
  },
  {
   "indicativo": "LA4XNA",
