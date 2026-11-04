@@ -8751,17 +8751,10 @@
  },
  {
   "indicativo": "TI3OMY",
-  "codigo": "XRUSW8",
-  "fecha": "2026-10-04 19:03:31",
+  "codigo": "93M2B3",
+  "fecha": "2026-11-04 19:25:22",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI3OMY_2026-10.webp"
- },
- {
-  "indicativo": "TI3OMY",
-  "codigo": "Z574WC",
-  "fecha": "2026-10-04 19:03:37",
-  "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI3OMY_2026-10_EV.webp"
+  "archivo": "qsl/QSL_TI3OMY_2026-11.webp"
  },
  {
   "indicativo": "XE2PDV",
@@ -25541,6 +25534,20 @@
   "fecha": "2026-10-27 00:36:17",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W8ABM_2026-10.webp"
+ },
+ {
+  "indicativo": "TI3OMY",
+  "codigo": "XRUSW8",
+  "fecha": "2026-10-04 19:03:31",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI3OMY_2026-10.webp"
+ },
+ {
+  "indicativo": "TI3OMY",
+  "codigo": "Z574WC",
+  "fecha": "2026-10-04 19:03:31",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI3OMY_2026-10_EV.webp"
  },
  {
   "indicativo": "XE2PDV",
