@@ -20133,10 +20133,10 @@
  },
  {
   "indicativo": "IW1BND",
-  "codigo": "NT6KQ6",
-  "fecha": "2026-10-30 07:08:42",
+  "codigo": "BA7WSJ",
+  "fecha": "2026-11-04 06:40:34",
   "pais": "Sicilia",
-  "archivo": "qsl/QSL_IW1BND_2026-10.webp"
+  "archivo": "qsl/QSL_IW1BND_2026-11.webp"
  },
  {
   "indicativo": "SM0GBG",
@@ -26101,6 +26101,13 @@
   "fecha": "2026-10-30 07:08:21",
   "pais": "Suecia",
   "archivo": "qsl/QSL_SA4MDN_2026-10.webp"
+ },
+ {
+  "indicativo": "IW1BND",
+  "codigo": "NT6KQ6",
+  "fecha": "2026-10-30 07:08:42",
+  "pais": "Sicilia",
+  "archivo": "qsl/QSL_IW1BND_2026-10.webp"
  },
  {
   "indicativo": "SM0GBG",
