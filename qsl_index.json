@@ -18551,10 +18551,10 @@
  },
  {
   "indicativo": "LD1FA",
-  "codigo": "RRYV4F",
-  "fecha": "2026-10-29 03:06:51",
+  "codigo": "XWCD3Y",
+  "fecha": "2026-11-04 02:03:18",
   "pais": "Noruega",
-  "archivo": "qsl/QSL_LD1FA_2026-10.webp"
+  "archivo": "qsl/QSL_LD1FA_2026-11.webp"
  },
  {
   "indicativo": "DC8OH",
@@ -25527,6 +25527,13 @@
   "fecha": "2026-10-29 03:03:41",
   "pais": "Alemania",
   "archivo": "qsl/QSL_DD5LF_2026-10.webp"
+ },
+ {
+  "indicativo": "LD1FA",
+  "codigo": "RRYV4F",
+  "fecha": "2026-10-29 03:06:51",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LD1FA_2026-10.webp"
  },
  {
   "indicativo": "F4AEU",
