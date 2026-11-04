@@ -15912,10 +15912,10 @@
  },
  {
   "indicativo": "DH4KAS",
-  "codigo": "BQWT2Y",
-  "fecha": "2026-10-26 13:10:13",
+  "codigo": "D2YQZV",
+  "fecha": "2026-11-04 01:41:05",
   "pais": "Alemania",
-  "archivo": "qsl/QSL_DH4KAS_2026-10.webp"
+  "archivo": "qsl/QSL_DH4KAS_2026-11.webp"
  },
  {
   "indicativo": "M5MOW",
@@ -25072,6 +25072,13 @@
   "fecha": "2026-10-26 13:09:54",
   "pais": "Portugal",
   "archivo": "qsl/QSL_CT2GXB_2026-10.webp"
+ },
+ {
+  "indicativo": "DH4KAS",
+  "codigo": "BQWT2Y",
+  "fecha": "2026-10-26 13:10:13",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DH4KAS_2026-10.webp"
  },
  {
   "indicativo": "IU7IQS",
