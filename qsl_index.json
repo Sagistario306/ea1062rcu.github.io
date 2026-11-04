@@ -23429,6 +23429,13 @@
   "archivo": "qsl/QSL_AC4GM_2026-11_EV.webp"
  },
  {
+  "indicativo": "KE2INJ",
+  "codigo": "KEYEXY",
+  "fecha": "2026-11-04 00:31:56",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_KE2INJ_2026-11.webp"
+ },
+ {
   "indicativo": "TI4GO",
   "codigo": "HNU4TW",
   "fecha": "2026-10-04 14:35:32",
