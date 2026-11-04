@@ -21127,10 +21127,10 @@
  },
  {
   "indicativo": "HS2XQB",
-  "codigo": "94KXHG",
-  "fecha": "2026-10-31 15:14:12",
+  "codigo": "HE6PDY",
+  "fecha": "2026-11-04 03:10:13",
   "pais": "Tailandia",
-  "archivo": "qsl/QSL_HS2XQB_2026-10.webp"
+  "archivo": "qsl/QSL_HS2XQB_2026-11.webp"
  },
  {
   "indicativo": "LU1DQ",
@@ -25842,6 +25842,13 @@
   "fecha": "2026-10-31 10:10:26",
   "pais": "Tailandia",
   "archivo": "qsl/QSL_HS5NMF_2026-10.webp"
+ },
+ {
+  "indicativo": "HS2XQB",
+  "codigo": "94KXHG",
+  "fecha": "2026-10-31 15:14:12",
+  "pais": "Tailandia",
+  "archivo": "qsl/QSL_HS2XQB_2026-10.webp"
  },
  {
   "indicativo": "9W2FII",
