@@ -14932,10 +14932,10 @@
  },
  {
   "indicativo": "4Z5AB",
-  "codigo": "53S57M",
-  "fecha": "2026-10-23 11:26:02",
+  "codigo": "F5V96U",
+  "fecha": "2026-11-04 09:36:06",
   "pais": "Israel",
-  "archivo": "qsl/QSL_4Z5AB_2026-10.webp"
+  "archivo": "qsl/QSL_4Z5AB_2026-11.webp"
  },
  {
   "indicativo": "LU7MT",
@@ -25772,6 +25772,13 @@
   "fecha": "2026-10-23 01:56:09",
   "pais": "Indonesia",
   "archivo": "qsl/QSL_YD3CSC_2026-10.webp"
+ },
+ {
+  "indicativo": "4Z5AB",
+  "codigo": "53S57M",
+  "fecha": "2026-10-23 11:26:02",
+  "pais": "Israel",
+  "archivo": "qsl/QSL_4Z5AB_2026-10.webp"
  },
  {
   "indicativo": "KN1B",
