@@ -10424,17 +10424,10 @@
  },
  {
   "indicativo": "HQ7CEE",
-  "codigo": "U5D8YW",
-  "fecha": "2026-10-01 20:45:17",
+  "codigo": "AX2HK7",
+  "fecha": "2026-11-05 02:37:24",
   "pais": "Honduras",
-  "archivo": "qsl/QSL_HQ7CEE_2026-10.webp"
- },
- {
-  "indicativo": "HQ7CEE",
-  "codigo": "BRUT9N",
-  "fecha": "2026-10-01 20:45:23",
-  "pais": "Honduras",
-  "archivo": "qsl/QSL_HQ7CEE_2026-10_EV.webp"
+  "archivo": "qsl/QSL_HQ7CEE_2026-11.webp"
  },
  {
   "indicativo": "LU1BA",
@@ -26815,6 +26808,20 @@
   "fecha": "2026-10-01 13:36:54",
   "pais": "Honduras",
   "archivo": "qsl/QSL_HR2LED_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "HQ7CEE",
+  "codigo": "U5D8YW",
+  "fecha": "2026-10-01 20:45:17",
+  "pais": "Honduras",
+  "archivo": "qsl/QSL_HQ7CEE_2026-10.webp"
+ },
+ {
+  "indicativo": "HQ7CEE",
+  "codigo": "BRUT9N",
+  "fecha": "2026-10-01 20:45:17",
+  "pais": "Honduras",
+  "archivo": "qsl/QSL_HQ7CEE_2026-10_EV.webp"
  },
  {
   "indicativo": "LU1BA",
