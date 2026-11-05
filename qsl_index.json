@@ -19797,10 +19797,10 @@
  },
  {
   "indicativo": "F1HRJ",
-  "codigo": "3EN7HG",
-  "fecha": "2026-10-30 00:11:14",
+  "codigo": "7J6F3A",
+  "fecha": "2026-11-05 01:58:10",
   "pais": "Francia",
-  "archivo": "qsl/QSL_F1HRJ_2026-10.webp"
+  "archivo": "qsl/QSL_F1HRJ_2026-11.webp"
  },
  {
   "indicativo": "IT9DXE",
@@ -27634,6 +27634,13 @@
   "fecha": "2026-10-30 00:06:54",
   "pais": "Portugal",
   "archivo": "qsl/QSL_CT1ETG_2026-10.webp"
+ },
+ {
+  "indicativo": "F1HRJ",
+  "codigo": "3EN7HG",
+  "fecha": "2026-10-30 00:11:14",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F1HRJ_2026-10.webp"
  },
  {
   "indicativo": "F1CXG",
