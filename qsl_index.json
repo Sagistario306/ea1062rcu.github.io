@@ -4096,10 +4096,10 @@
  },
  {
   "indicativo": "YD2VDY",
-  "codigo": "JMUTUR",
-  "fecha": "2026-10-16 00:36:54",
+  "codigo": "25SMFG",
+  "fecha": "2026-11-05 01:32:43",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YD2VDY_2026-10.webp"
+  "archivo": "qsl/QSL_YD2VDY_2026-11.webp"
  },
  {
   "indicativo": "CE1VPG",
@@ -25569,6 +25569,13 @@
   "fecha": "2026-10-01 00:04:59",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP4LCA_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "YD2VDY",
+  "codigo": "JMUTUR",
+  "fecha": "2026-10-16 00:36:54",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YD2VDY_2026-10.webp"
  },
  {
   "indicativo": "CE1VPG",
