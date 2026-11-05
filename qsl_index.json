@@ -24906,6 +24906,20 @@
   "archivo": "qsl/QSL_N5FAZ_2026-11.webp"
  },
  {
+  "indicativo": "N5FAZ",
+  "codigo": "WF82YT",
+  "fecha": "2026-11-05 00:00:22",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_N5FAZ_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "SP7WME",
+  "codigo": "BQCEPH",
+  "fecha": "2026-11-05 00:00:20",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP7WME_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
