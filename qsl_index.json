@@ -10367,6 +10367,13 @@
   "archivo": "qsl/QSL_EA1IXG_2026-11.webp"
  },
  {
+  "indicativo": "EA1IXG",
+  "codigo": "K28JQN",
+  "fecha": "2026-11-05 05:19:05",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA1IXG_2026-11_EV.webp"
+ },
+ {
   "indicativo": "CE6RLA",
   "codigo": "KBWAAU",
   "fecha": "2026-10-02 00:02:28",
