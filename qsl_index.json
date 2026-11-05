@@ -25046,6 +25046,20 @@
   "archivo": "qsl/QSL_BG5BQB_2026-11.webp"
  },
  {
+  "indicativo": "BG5BQB",
+  "codigo": "7QEM52",
+  "fecha": "2026-11-05 00:02:48",
+  "pais": "China",
+  "archivo": "qsl/QSL_BG5BQB_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "SP9ANC",
+  "codigo": "ZW3MHE",
+  "fecha": "2026-11-05 00:02:45",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP9ANC_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
