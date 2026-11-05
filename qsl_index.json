@@ -20923,6 +20923,13 @@
   "archivo": "qsl/QSL_IZ3CFY_2026-11.webp"
  },
  {
+  "indicativo": "IZ3CFY",
+  "codigo": "B363J6",
+  "fecha": "2026-11-05 00:35:25",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IZ3CFY_2026-11_EV.webp"
+ },
+ {
   "indicativo": "IS0QLX",
   "codigo": "EPUARW",
   "fecha": "2026-11-01 05:52:09",
