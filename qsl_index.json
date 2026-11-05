@@ -25795,6 +25795,13 @@
   "archivo": "qsl/QSL_UD6AWI_2026-11.webp"
  },
  {
+  "indicativo": "UD6AWI",
+  "codigo": "NH2RR2",
+  "fecha": "2026-11-05 07:31:28",
+  "pais": "Rusia",
+  "archivo": "qsl/QSL_UD6AWI_2026-11_EV.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
