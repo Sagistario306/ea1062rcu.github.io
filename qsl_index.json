@@ -19741,10 +19741,10 @@
  },
  {
   "indicativo": "VE2SXD",
-  "codigo": "D5UZCF",
-  "fecha": "2026-10-30 00:17:45",
-  "pais": "Canada",
-  "archivo": "qsl/QSL_VE2SXD_2026-10.webp"
+  "codigo": "793JPZ",
+  "fecha": "2026-11-05 00:01:11",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VE2SXD_2026-11.webp"
  },
  {
   "indicativo": "VE4DRK",
@@ -27074,6 +27074,13 @@
   "fecha": "2026-10-30 00:13:07",
   "pais": "Francia",
   "archivo": "qsl/QSL_F1CXG_2026-10.webp"
+ },
+ {
+  "indicativo": "VE2SXD",
+  "codigo": "D5UZCF",
+  "fecha": "2026-10-30 00:17:45",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE2SXD_2026-10.webp"
  },
  {
   "indicativo": "SV3BEF",
