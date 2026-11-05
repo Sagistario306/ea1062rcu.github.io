@@ -20917,10 +20917,10 @@
  },
  {
   "indicativo": "IZ3CFY",
-  "codigo": "FYM6NM",
-  "fecha": "2026-10-31 00:18:37",
+  "codigo": "FGXACR",
+  "fecha": "2026-11-05 00:35:18",
   "pais": "Italia",
-  "archivo": "qsl/QSL_IZ3CFY_2026-10.webp"
+  "archivo": "qsl/QSL_IZ3CFY_2026-11.webp"
  },
  {
   "indicativo": "IS0QLX",
@@ -27648,6 +27648,13 @@
   "fecha": "2026-10-31 00:17:30",
   "pais": "Italia",
   "archivo": "qsl/QSL_IZ1RWC_2026-10.webp"
+ },
+ {
+  "indicativo": "IZ3CFY",
+  "codigo": "FYM6NM",
+  "fecha": "2026-10-31 00:18:37",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IZ3CFY_2026-10.webp"
  },
  {
   "indicativo": "VE7MRP",
