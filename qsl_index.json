@@ -18222,10 +18222,10 @@
  },
  {
   "indicativo": "PR2UHD",
-  "codigo": "24MA58",
-  "fecha": "2026-10-29 02:51:59",
+  "codigo": "ZT7CDC",
+  "fecha": "2026-11-05 01:55:11",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PR2UHD_2026-10.webp"
+  "archivo": "qsl/QSL_PR2UHD_2026-11.webp"
  },
  {
   "indicativo": "SQ2LIP",
@@ -27403,6 +27403,13 @@
   "fecha": "2026-10-29 02:50:49",
   "pais": "China",
   "archivo": "qsl/QSL_BG2TPK_2026-10.webp"
+ },
+ {
+  "indicativo": "PR2UHD",
+  "codigo": "24MA58",
+  "fecha": "2026-10-29 02:51:59",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PR2UHD_2026-10.webp"
  },
  {
   "indicativo": "SQ9RHZ",
