@@ -15408,10 +15408,10 @@
  },
  {
   "indicativo": "PY5TSP",
-  "codigo": "SXA6XB",
-  "fecha": "2026-10-26 00:18:12",
+  "codigo": "5BT4SP",
+  "fecha": "2026-11-05 00:23:05",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY5TSP_2026-10.webp"
+  "archivo": "qsl/QSL_PY5TSP_2026-11.webp"
  },
  {
   "indicativo": "HI3K",
@@ -26871,6 +26871,13 @@
   "fecha": "2026-10-26 00:00:42",
   "pais": "Canada",
   "archivo": "qsl/QSL_VE2SIG_2026-10.webp"
+ },
+ {
+  "indicativo": "PY5TSP",
+  "codigo": "SXA6XB",
+  "fecha": "2026-10-26 00:18:12",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY5TSP_2026-10.webp"
  },
  {
   "indicativo": "N7EEL",
