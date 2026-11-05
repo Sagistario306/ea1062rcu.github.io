@@ -20231,10 +20231,10 @@
  },
  {
   "indicativo": "F0GEX",
-  "codigo": "3CR288",
-  "fecha": "2026-10-30 05:30:32",
+  "codigo": "D3999Y",
+  "fecha": "2026-11-05 05:33:05",
   "pais": "Francia",
-  "archivo": "qsl/QSL_F0GEX_2026-10.webp"
+  "archivo": "qsl/QSL_F0GEX_2026-11.webp"
  },
  {
   "indicativo": "HS8JNF",
@@ -27935,6 +27935,13 @@
   "fecha": "2026-10-30 05:29:52",
   "pais": "Noruega",
   "archivo": "qsl/QSL_LA5MIA_2026-10.webp"
+ },
+ {
+  "indicativo": "F0GEX",
+  "codigo": "3CR288",
+  "fecha": "2026-10-30 05:30:32",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F0GEX_2026-10.webp"
  },
  {
   "indicativo": "OE8NDR",
