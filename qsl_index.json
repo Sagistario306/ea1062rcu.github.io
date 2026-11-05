@@ -4005,17 +4005,10 @@
  },
  {
   "indicativo": "CE8TDO",
-  "codigo": "NT37KX",
-  "fecha": "2026-10-06 14:38:20",
+  "codigo": "Y2YBF4",
+  "fecha": "2026-11-05 13:48:31",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE8TDO_2026-10.webp"
- },
- {
-  "indicativo": "CE8TDO",
-  "codigo": "BE4P9N",
-  "fecha": "2026-10-06 14:38:26",
-  "pais": "Chile",
-  "archivo": "qsl/QSL_CE8TDO_2026-10_EV.webp"
+  "archivo": "qsl/QSL_CE8TDO_2026-11.webp"
  },
  {
   "indicativo": "KP4LCA",
@@ -26297,6 +26290,20 @@
   "fecha": "2026-10-26 13:12:25",
   "pais": "Malasia Occidental",
   "archivo": "qsl/QSL_9M2VIS_2026-10.webp"
+ },
+ {
+  "indicativo": "CE8TDO",
+  "codigo": "NT37KX",
+  "fecha": "2026-10-06 14:38:20",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE8TDO_2026-10.webp"
+ },
+ {
+  "indicativo": "CE8TDO",
+  "codigo": "BE4P9N",
+  "fecha": "2026-10-06 14:38:20",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE8TDO_2026-10_EV.webp"
  },
  {
   "indicativo": "KP4LCA",
