@@ -14518,6 +14518,13 @@
   "archivo": "qsl/QSL_ZS1TAF_2026-11.webp"
  },
  {
+  "indicativo": "ZS1TAF",
+  "codigo": "AUK3QW",
+  "fecha": "2026-11-05 07:19:17",
+  "pais": "Sudáfrica",
+  "archivo": "qsl/QSL_ZS1TAF_2026-11_EV.webp"
+ },
+ {
   "indicativo": "ZS6ZR",
   "codigo": "VAQ88K",
   "fecha": "2026-10-20 04:30:27",
