@@ -7953,17 +7953,10 @@
  },
  {
   "indicativo": "LW1DOW",
-  "codigo": "PVRNZT",
-  "fecha": "2026-10-02 00:06:00",
+  "codigo": "HSEVX3",
+  "fecha": "2026-11-05 10:54:39",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LW1DOW_2026-10.webp"
- },
- {
-  "indicativo": "LW1DOW",
-  "codigo": "GUNAJM",
-  "fecha": "2026-10-02 00:06:05",
-  "pais": "Argentina",
-  "archivo": "qsl/QSL_LW1DOW_2026-10_EV.webp"
+  "archivo": "qsl/QSL_LW1DOW_2026-11.webp"
  },
  {
   "indicativo": "YS1RM",
@@ -26829,6 +26822,20 @@
   "fecha": "2026-10-03 19:41:51",
   "pais": "Cuba",
   "archivo": "qsl/QSL_CO5ABC_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "LW1DOW",
+  "codigo": "PVRNZT",
+  "fecha": "2026-10-02 00:06:00",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW1DOW_2026-10.webp"
+ },
+ {
+  "indicativo": "LW1DOW",
+  "codigo": "GUNAJM",
+  "fecha": "2026-10-02 00:06:00",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW1DOW_2026-10_EV.webp"
  },
  {
   "indicativo": "YD6ASC",
