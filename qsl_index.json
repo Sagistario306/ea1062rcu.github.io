@@ -20910,10 +20910,10 @@
  },
  {
   "indicativo": "VE7MRP",
-  "codigo": "5SGUKU",
-  "fecha": "2026-10-31 00:25:57",
-  "pais": "Canada",
-  "archivo": "qsl/QSL_VE7MRP_2026-10.webp"
+  "codigo": "CECTRF",
+  "fecha": "2026-11-05 00:04:31",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VE7MRP_2026-11.webp"
  },
  {
   "indicativo": "VA3UG",
@@ -27431,6 +27431,13 @@
   "fecha": "2026-10-31 00:05:40",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PY2AMW_2026-10.webp"
+ },
+ {
+  "indicativo": "VE7MRP",
+  "codigo": "5SGUKU",
+  "fecha": "2026-10-31 00:25:57",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE7MRP_2026-10.webp"
  },
  {
   "indicativo": "M0WHL",
