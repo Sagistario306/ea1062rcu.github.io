@@ -7575,10 +7575,10 @@
  },
  {
   "indicativo": "EA7P",
-  "codigo": "29F368",
-  "fecha": "2026-10-27 07:00:29",
+  "codigo": "CNA6EY",
+  "fecha": "2026-11-05 06:21:40",
   "pais": "España",
-  "archivo": "qsl/QSL_EA7P_2026-10.webp"
+  "archivo": "qsl/QSL_EA7P_2026-11.webp"
  },
  {
   "indicativo": "EA5FOG",
@@ -26451,6 +26451,13 @@
   "fecha": "2026-10-25 18:40:18",
   "pais": "España",
   "archivo": "qsl/QSL_EA7KD_2026-10.webp"
+ },
+ {
+  "indicativo": "EA7P",
+  "codigo": "29F368",
+  "fecha": "2026-10-27 07:00:29",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA7P_2026-10.webp"
  },
  {
   "indicativo": "CO5ABC",
