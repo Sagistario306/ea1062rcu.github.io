@@ -10361,10 +10361,10 @@
  },
  {
   "indicativo": "EA1IXG",
-  "codigo": "W57XJ4",
-  "fecha": "2026-10-23 00:23:56",
+  "codigo": "ST6KPS",
+  "fecha": "2026-11-05 05:18:59",
   "pais": "España",
-  "archivo": "qsl/QSL_EA1IXG_2026-10.webp"
+  "archivo": "qsl/QSL_EA1IXG_2026-11.webp"
  },
  {
   "indicativo": "CE6RLA",
@@ -26927,6 +26927,13 @@
   "fecha": "2026-10-01 13:36:54",
   "pais": "Honduras",
   "archivo": "qsl/QSL_HR2LED_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "EA1IXG",
+  "codigo": "W57XJ4",
+  "fecha": "2026-10-23 00:23:56",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA1IXG_2026-10.webp"
  },
  {
   "indicativo": "HQ7CEE",
