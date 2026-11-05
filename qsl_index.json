@@ -7141,17 +7141,10 @@
  },
  {
   "indicativo": "9Y4QA",
-  "codigo": "D7BRDJ",
-  "fecha": "2026-10-01 10:29:28",
+  "codigo": "NNER59",
+  "fecha": "2026-11-05 00:49:48",
   "pais": "Trinidad y Tobago",
-  "archivo": "qsl/QSL_9Y4QA_2026-10.webp"
- },
- {
-  "indicativo": "9Y4QA",
-  "codigo": "9RACFD",
-  "fecha": "2026-10-01 10:29:37",
-  "pais": "Trinidad y Tobago",
-  "archivo": "qsl/QSL_9Y4QA_2026-10_EV.webp"
+  "archivo": "qsl/QSL_9Y4QA_2026-11.webp"
  },
  {
   "indicativo": "KP4KYG",
@@ -25975,6 +25968,20 @@
   "fecha": "2026-10-01 01:17:35",
   "pais": "Republica Dominicana",
   "archivo": "qsl/QSL_HI6LT_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "9Y4QA",
+  "codigo": "D7BRDJ",
+  "fecha": "2026-10-01 10:29:28",
+  "pais": "Trinidad y Tobago",
+  "archivo": "qsl/QSL_9Y4QA_2026-10.webp"
+ },
+ {
+  "indicativo": "9Y4QA",
+  "codigo": "9RACFD",
+  "fecha": "2026-10-01 10:29:28",
+  "pais": "Trinidad y Tobago",
+  "archivo": "qsl/QSL_9Y4QA_2026-10_EV.webp"
  },
  {
   "indicativo": "LU7QAY",
