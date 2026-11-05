@@ -10598,6 +10598,13 @@
   "archivo": "qsl/QSL_CE3PJD_2026-11.webp"
  },
  {
+  "indicativo": "CE3PJD",
+  "codigo": "4VWPT5",
+  "fecha": "2026-11-05 20:00:52",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3PJD_2026-11_EV.webp"
+ },
+ {
   "indicativo": "OA4DKS",
   "codigo": "STADZ4",
   "fecha": "2026-11-01 00:12:13",
