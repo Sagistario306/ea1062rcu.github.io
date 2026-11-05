@@ -10781,10 +10781,10 @@
  },
  {
   "indicativo": "PY2KUU",
-  "codigo": "J93GRB",
-  "fecha": "2026-10-08 13:43:42",
+  "codigo": "W8SHRH",
+  "fecha": "2026-11-05 00:03:53",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY2KUU_2026-10.webp"
+  "archivo": "qsl/QSL_PY2KUU_2026-11.webp"
  },
  {
   "indicativo": "YY6IJP",
@@ -26514,6 +26514,13 @@
   "fecha": "2026-10-28 12:00:00",
   "pais": "Turquia",
   "archivo": "qsl/QSL_TA4CQ_2026-10.webp"
+ },
+ {
+  "indicativo": "PY2KUU",
+  "codigo": "J93GRB",
+  "fecha": "2026-10-08 13:43:42",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY2KUU_2026-10.webp"
  },
  {
   "indicativo": "4X1ZQ",
