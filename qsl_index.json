@@ -19369,6 +19369,13 @@
   "archivo": "qsl/QSL_N1ZNJ_2026-11.webp"
  },
  {
+  "indicativo": "N1ZNJ",
+  "codigo": "CG7JDW",
+  "fecha": "2026-11-05 00:01:54",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_N1ZNJ_2026-11_EV.webp"
+ },
+ {
   "indicativo": "YO6LRV",
   "codigo": "QC2D62",
   "fecha": "2026-10-30 00:01:44",
