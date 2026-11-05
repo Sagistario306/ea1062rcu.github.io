@@ -5454,17 +5454,10 @@
  },
  {
   "indicativo": "HJ6ZLJ",
-  "codigo": "US3ADK",
-  "fecha": "2026-10-01 00:03:35",
+  "codigo": "GJR5TP",
+  "fecha": "2026-11-05 17:16:08",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ6ZLJ_2026-10.webp"
- },
- {
-  "indicativo": "HJ6ZLJ",
-  "codigo": "KDW5UT",
-  "fecha": "2026-10-01 00:03:41",
-  "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ6ZLJ_2026-10_EV.webp"
+  "archivo": "qsl/QSL_HJ6ZLJ_2026-11.webp"
  },
  {
   "indicativo": "LW9EUE",
@@ -26682,6 +26675,20 @@
   "fecha": "2026-10-01 13:33:04",
   "pais": "Guatemala",
   "archivo": "qsl/QSL_TG9JMR_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "HJ6ZLJ",
+  "codigo": "US3ADK",
+  "fecha": "2026-10-01 00:03:35",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ6ZLJ_2026-10.webp"
+ },
+ {
+  "indicativo": "HJ6ZLJ",
+  "codigo": "KDW5UT",
+  "fecha": "2026-10-01 00:03:35",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ6ZLJ_2026-10_EV.webp"
  },
  {
   "indicativo": "YD7KVL",
