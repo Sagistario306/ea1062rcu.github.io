@@ -25004,6 +25004,13 @@
   "archivo": "qsl/QSL_NV4F_2026-11.webp"
  },
  {
+  "indicativo": "NV4F",
+  "codigo": "ZUB95T",
+  "fecha": "2026-11-05 00:02:09",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_NV4F_2026-11_EV.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
