@@ -17752,6 +17752,13 @@
   "archivo": "qsl/QSL_F1LVT_2026-11.webp"
  },
  {
+  "indicativo": "F1LVT",
+  "codigo": "9XMTJX",
+  "fecha": "2026-11-05 01:50:48",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F1LVT_2026-11_EV.webp"
+ },
+ {
   "indicativo": "HG8GL",
   "codigo": "JR2SPZ",
   "fecha": "2026-11-01 00:10:33",
