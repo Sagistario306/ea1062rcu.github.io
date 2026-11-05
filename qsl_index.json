@@ -17746,10 +17746,10 @@
  },
  {
   "indicativo": "F1LVT",
-  "codigo": "VXWNVW",
-  "fecha": "2026-10-28 05:39:17",
+  "codigo": "NZ55Z2",
+  "fecha": "2026-11-05 01:50:41",
   "pais": "Francia",
-  "archivo": "qsl/QSL_F1LVT_2026-10.webp"
+  "archivo": "qsl/QSL_F1LVT_2026-11.webp"
  },
  {
   "indicativo": "HG8GL",
@@ -27340,6 +27340,13 @@
   "fecha": "2026-10-28 05:36:53",
   "pais": "Grecia",
   "archivo": "qsl/QSL_SY2DZW_2026-10.webp"
+ },
+ {
+  "indicativo": "F1LVT",
+  "codigo": "VXWNVW",
+  "fecha": "2026-10-28 05:39:17",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F1LVT_2026-10.webp"
  },
  {
   "indicativo": "4S5SC",
