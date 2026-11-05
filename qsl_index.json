@@ -18054,10 +18054,10 @@
  },
  {
   "indicativo": "4S6CPT",
-  "codigo": "6DFVBC",
-  "fecha": "2026-10-29 02:50:03",
+  "codigo": "Z4PSTB",
+  "fecha": "2026-11-05 00:05:40",
   "pais": "Sri Lanka",
-  "archivo": "qsl/QSL_4S6CPT_2026-10.webp"
+  "archivo": "qsl/QSL_4S6CPT_2026-11.webp"
  },
  {
   "indicativo": "KD3BNW",
@@ -27067,6 +27067,13 @@
   "fecha": "2026-10-29 02:49:57",
   "pais": "Polonia",
   "archivo": "qsl/QSL_SR3AK_2026-10.webp"
+ },
+ {
+  "indicativo": "4S6CPT",
+  "codigo": "6DFVBC",
+  "fecha": "2026-10-29 02:50:03",
+  "pais": "Sri Lanka",
+  "archivo": "qsl/QSL_4S6CPT_2026-10.webp"
  },
  {
   "indicativo": "KD3BNW",
