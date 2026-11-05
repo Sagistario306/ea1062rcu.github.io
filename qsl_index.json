@@ -19440,10 +19440,10 @@
  },
  {
   "indicativo": "4S6VNN",
-  "codigo": "DSMVYM",
-  "fecha": "2026-10-30 00:02:21",
+  "codigo": "4R2YBA",
+  "fecha": "2026-11-05 00:07:53",
   "pais": "Sri Lanka",
-  "archivo": "qsl/QSL_4S6VNN_2026-10.webp"
+  "archivo": "qsl/QSL_4S6VNN_2026-11.webp"
  },
  {
   "indicativo": "SR4NWO",
@@ -27284,6 +27284,13 @@
   "fecha": "2026-10-30 00:02:00",
   "pais": "Noruega",
   "archivo": "qsl/QSL_LB7YE_2026-10.webp"
+ },
+ {
+  "indicativo": "4S6VNN",
+  "codigo": "DSMVYM",
+  "fecha": "2026-10-30 00:02:21",
+  "pais": "Sri Lanka",
+  "archivo": "qsl/QSL_4S6VNN_2026-10.webp"
  },
  {
   "indicativo": "BX8AAN",
