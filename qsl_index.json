@@ -19825,10 +19825,10 @@
  },
  {
   "indicativo": "G4PTK",
-  "codigo": "NFCJT5",
-  "fecha": "2026-10-30 00:23:14",
+  "codigo": "5CWPKX",
+  "fecha": "2026-11-05 00:03:28",
   "pais": "Reino Unido",
-  "archivo": "qsl/QSL_G4PTK_2026-10.webp"
+  "archivo": "qsl/QSL_G4PTK_2026-11.webp"
  },
  {
   "indicativo": "LA2MLA",
@@ -27228,6 +27228,13 @@
   "fecha": "2026-10-30 00:17:45",
   "pais": "Canada",
   "archivo": "qsl/QSL_VE2SXD_2026-10.webp"
+ },
+ {
+  "indicativo": "G4PTK",
+  "codigo": "NFCJT5",
+  "fecha": "2026-10-30 00:23:14",
+  "pais": "Reino Unido",
+  "archivo": "qsl/QSL_G4PTK_2026-10.webp"
  },
  {
   "indicativo": "SV3BEF",
