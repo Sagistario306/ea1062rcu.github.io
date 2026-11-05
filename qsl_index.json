@@ -6147,10 +6147,10 @@
  },
  {
   "indicativo": "LU8DTA",
-  "codigo": "3AR42G",
-  "fecha": "2026-10-22 11:04:41",
+  "codigo": "WBQB6G",
+  "fecha": "2026-11-05 00:50:51",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU8DTA_2026-10.webp"
+  "archivo": "qsl/QSL_LU8DTA_2026-11.webp"
  },
  {
   "indicativo": "LU1HMQ",
@@ -25870,6 +25870,13 @@
   "fecha": "2026-10-09 00:03:33",
   "pais": "España",
   "archivo": "qsl/QSL_EA7LGA_2026-10.webp"
+ },
+ {
+  "indicativo": "LU8DTA",
+  "codigo": "3AR42G",
+  "fecha": "2026-10-22 11:04:41",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU8DTA_2026-10.webp"
  },
  {
   "indicativo": "XE1SAY",
