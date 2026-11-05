@@ -14512,10 +14512,10 @@
  },
  {
   "indicativo": "ZS1TAF",
-  "codigo": "9SJKGT",
-  "fecha": "2026-10-20 04:04:43",
-  "pais": "Sudafrica",
-  "archivo": "qsl/QSL_ZS1TAF_2026-10.webp"
+  "codigo": "NZY8VU",
+  "fecha": "2026-11-05 07:19:11",
+  "pais": "Sudáfrica",
+  "archivo": "qsl/QSL_ZS1TAF_2026-11.webp"
  },
  {
   "indicativo": "ZS6ZR",
@@ -27473,6 +27473,13 @@
   "fecha": "2026-10-17 03:13:52",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK6V_2026-10.webp"
+ },
+ {
+  "indicativo": "ZS1TAF",
+  "codigo": "9SJKGT",
+  "fecha": "2026-10-20 04:04:43",
+  "pais": "Sudafrica",
+  "archivo": "qsl/QSL_ZS1TAF_2026-10.webp"
  },
  {
   "indicativo": "PA3GCO",
