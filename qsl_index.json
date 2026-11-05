@@ -20896,10 +20896,10 @@
  },
  {
   "indicativo": "IZ1RWC",
-  "codigo": "3YTQ36",
-  "fecha": "2026-10-31 00:17:30",
+  "codigo": "RHPDK6",
+  "fecha": "2026-11-05 00:28:30",
   "pais": "Italia",
-  "archivo": "qsl/QSL_IZ1RWC_2026-10.webp"
+  "archivo": "qsl/QSL_IZ1RWC_2026-11.webp"
  },
  {
   "indicativo": "EA1RKF",
@@ -27634,6 +27634,13 @@
   "fecha": "2026-10-31 00:05:40",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PY2AMW_2026-10.webp"
+ },
+ {
+  "indicativo": "IZ1RWC",
+  "codigo": "3YTQ36",
+  "fecha": "2026-10-31 00:17:30",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IZ1RWC_2026-10.webp"
  },
  {
   "indicativo": "VE7MRP",
