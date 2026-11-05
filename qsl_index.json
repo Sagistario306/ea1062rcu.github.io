@@ -4040,17 +4040,10 @@
  },
  {
   "indicativo": "OA4DVG",
-  "codigo": "VKUXD2",
-  "fecha": "2026-10-02 11:05:36",
-  "pais": "Peru",
-  "archivo": "qsl/QSL_OA4DVG_2026-10.webp"
- },
- {
-  "indicativo": "OA4DVG",
-  "codigo": "5V397Y",
-  "fecha": "2026-10-02 11:05:42",
-  "pais": "Peru",
-  "archivo": "qsl/QSL_OA4DVG_2026-10_EV.webp"
+  "codigo": "DTBUJ9",
+  "fecha": "2026-11-05 03:44:28",
+  "pais": "Perú",
+  "archivo": "qsl/QSL_OA4DVG_2026-11.webp"
  },
  {
   "indicativo": "HK3RLG",
@@ -25674,6 +25667,20 @@
   "fecha": "2026-10-01 00:04:59",
   "pais": "Puerto Rico",
   "archivo": "qsl/QSL_KP4LCA_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "OA4DVG",
+  "codigo": "VKUXD2",
+  "fecha": "2026-10-02 11:05:36",
+  "pais": "Peru",
+  "archivo": "qsl/QSL_OA4DVG_2026-10.webp"
+ },
+ {
+  "indicativo": "OA4DVG",
+  "codigo": "5V397Y",
+  "fecha": "2026-10-02 11:05:36",
+  "pais": "Peru",
+  "archivo": "qsl/QSL_OA4DVG_2026-10_EV.webp"
  },
  {
   "indicativo": "YD2VDY",
