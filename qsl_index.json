@@ -20161,10 +20161,10 @@
  },
  {
   "indicativo": "LA9SHA",
-  "codigo": "FTPYK3",
-  "fecha": "2026-10-30 05:20:47",
+  "codigo": "ATGJ4M",
+  "fecha": "2026-11-05 03:09:35",
   "pais": "Noruega",
-  "archivo": "qsl/QSL_LA9SHA_2026-10.webp"
+  "archivo": "qsl/QSL_LA9SHA_2026-11.webp"
  },
  {
   "indicativo": "OH4JOU",
@@ -27795,6 +27795,13 @@
   "fecha": "2026-10-30 04:58:18",
   "pais": "Finlandia",
   "archivo": "qsl/QSL_OH2HCB_2026-10.webp"
+ },
+ {
+  "indicativo": "LA9SHA",
+  "codigo": "FTPYK3",
+  "fecha": "2026-10-30 05:20:47",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LA9SHA_2026-10.webp"
  },
  {
   "indicativo": "OH4JOU",
