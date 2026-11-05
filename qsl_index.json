@@ -24927,6 +24927,13 @@
   "archivo": "qsl/QSL_SP7WME_2026-11_EV.webp"
  },
  {
+  "indicativo": "WD8SAB",
+  "codigo": "NA36PP",
+  "fecha": "2026-11-05 00:00:33",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_WD8SAB_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
