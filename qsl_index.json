@@ -21414,10 +21414,10 @@
  },
  {
   "indicativo": "OH7CBC",
-  "codigo": "QMZ4UP",
-  "fecha": "2026-10-31 06:07:31",
+  "codigo": "TV5HM5",
+  "fecha": "2026-11-05 11:33:23",
   "pais": "Finlandia",
-  "archivo": "qsl/QSL_OH7CBC_2026-10.webp"
+  "archivo": "qsl/QSL_OH7CBC_2026-11.webp"
  },
  {
   "indicativo": "G6XRX",
@@ -28656,6 +28656,13 @@
   "fecha": "2026-10-31 06:00:19",
   "pais": "Reino Unido",
   "archivo": "qsl/QSL_M1XJC_2026-10.webp"
+ },
+ {
+  "indicativo": "OH7CBC",
+  "codigo": "QMZ4UP",
+  "fecha": "2026-10-31 06:07:31",
+  "pais": "Finlandia",
+  "archivo": "qsl/QSL_OH7CBC_2026-10.webp"
  },
  {
   "indicativo": "IW9DLL",
