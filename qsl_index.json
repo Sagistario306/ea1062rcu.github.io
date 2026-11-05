@@ -21652,10 +21652,10 @@
  },
  {
   "indicativo": "HS9LWR",
-  "codigo": "YFTFRE",
-  "fecha": "2026-10-31 16:58:05",
+  "codigo": "GVFPDC",
+  "fecha": "2026-11-05 06:33:15",
   "pais": "Tailandia",
-  "archivo": "qsl/QSL_HS9LWR_2026-10.webp"
+  "archivo": "qsl/QSL_HS9LWR_2026-11.webp"
  },
  {
   "indicativo": "TA6ATK",
@@ -28250,6 +28250,13 @@
   "fecha": "2026-10-31 15:14:12",
   "pais": "Tailandia",
   "archivo": "qsl/QSL_HS2XQB_2026-10.webp"
+ },
+ {
+  "indicativo": "HS9LWR",
+  "codigo": "YFTFRE",
+  "fecha": "2026-10-31 16:58:05",
+  "pais": "Tailandia",
+  "archivo": "qsl/QSL_HS9LWR_2026-10.webp"
  },
  {
   "indicativo": "9W2FII",
