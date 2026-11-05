@@ -10536,10 +10536,10 @@
  },
  {
   "indicativo": "OA4EGY",
-  "codigo": "TWBEUY",
-  "fecha": "2026-10-22 14:24:27",
-  "pais": "Peru",
-  "archivo": "qsl/QSL_OA4EGY_2026-10.webp"
+  "codigo": "G2AEXX",
+  "fecha": "2026-11-05 04:02:00",
+  "pais": "Perú",
+  "archivo": "qsl/QSL_OA4EGY_2026-11.webp"
  },
  {
   "indicativo": "XE1HJN",
@@ -26899,6 +26899,13 @@
   "fecha": "2026-10-01 11:51:00",
   "pais": "Peru",
   "archivo": "qsl/QSL_OA4DKS_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "OA4EGY",
+  "codigo": "TWBEUY",
+  "fecha": "2026-10-22 14:24:27",
+  "pais": "Peru",
+  "archivo": "qsl/QSL_OA4EGY_2026-10.webp"
  },
  {
   "indicativo": "XE2MVZ",
