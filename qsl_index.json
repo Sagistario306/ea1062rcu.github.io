@@ -9591,10 +9591,10 @@
  },
  {
   "indicativo": "XE1ASJ",
-  "codigo": "KWWN74",
-  "fecha": "2026-10-08 02:08:35",
-  "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1ASJ_2026-10.webp"
+  "codigo": "GFAH8S",
+  "fecha": "2026-11-05 02:23:47",
+  "pais": "México",
+  "archivo": "qsl/QSL_XE1ASJ_2026-11.webp"
  },
  {
   "indicativo": "ZP6EUA",
@@ -26647,6 +26647,13 @@
   "fecha": "2026-10-28 05:36:33",
   "pais": "Malasia Occidental",
   "archivo": "qsl/QSL_9M2PJA_2026-10.webp"
+ },
+ {
+  "indicativo": "XE1ASJ",
+  "codigo": "KWWN74",
+  "fecha": "2026-10-08 02:08:35",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1ASJ_2026-10.webp"
  },
  {
   "indicativo": "HP3AXL",
