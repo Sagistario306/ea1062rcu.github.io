@@ -10542,6 +10542,13 @@
   "archivo": "qsl/QSL_OA4EGY_2026-11.webp"
  },
  {
+  "indicativo": "OA4EGY",
+  "codigo": "ARQPNS",
+  "fecha": "2026-11-05 04:02:07",
+  "pais": "Perú",
+  "archivo": "qsl/QSL_OA4EGY_2026-11_EV.webp"
+ },
+ {
   "indicativo": "XE1HJN",
   "codigo": "AFQ27K",
   "fecha": "2026-10-21 18:35:08",
