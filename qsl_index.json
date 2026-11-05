@@ -5048,10 +5048,10 @@
  },
  {
   "indicativo": "LU4FGS",
-  "codigo": "63VNZK",
-  "fecha": "2026-10-15 10:37:09",
+  "codigo": "DWKQ23",
+  "fecha": "2026-11-05 02:03:37",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU4FGS_2026-10.webp"
+  "archivo": "qsl/QSL_LU4FGS_2026-11.webp"
  },
  {
   "indicativo": "TI3JVH",
@@ -25765,6 +25765,13 @@
   "fecha": "2026-10-01 00:14:44",
   "pais": "Venezuela",
   "archivo": "qsl/QSL_YV7BMZ_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "LU4FGS",
+  "codigo": "63VNZK",
+  "fecha": "2026-10-15 10:37:09",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU4FGS_2026-10.webp"
  },
  {
   "indicativo": "XE2YWH",
