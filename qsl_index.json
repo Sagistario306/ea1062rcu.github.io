@@ -9597,6 +9597,13 @@
   "archivo": "qsl/QSL_XE1ASJ_2026-11.webp"
  },
  {
+  "indicativo": "XE1ASJ",
+  "codigo": "CHB4NF",
+  "fecha": "2026-11-05 02:23:54",
+  "pais": "México",
+  "archivo": "qsl/QSL_XE1ASJ_2026-11_EV.webp"
+ },
+ {
   "indicativo": "ZP6EUA",
   "codigo": "NESTZG",
   "fecha": "2026-10-02 15:14:08",
