@@ -20910,10 +20910,10 @@
  },
  {
   "indicativo": "CE8LFR",
-  "codigo": "KTVQR3",
-  "fecha": "2026-10-30 16:05:57",
+  "codigo": "ECTUKM",
+  "fecha": "2026-11-06 11:47:43",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE8LFR_2026-10.webp"
+  "archivo": "qsl/QSL_CE8LFR_2026-11.webp"
  },
  {
   "indicativo": "ZS6MSQ",
@@ -30140,6 +30140,13 @@
   "fecha": "2026-10-30 10:42:56",
   "pais": "Malasia Occidental",
   "archivo": "qsl/QSL_9M2VDY_2026-10.webp"
+ },
+ {
+  "indicativo": "CE8LFR",
+  "codigo": "KTVQR3",
+  "fecha": "2026-10-30 16:05:57",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE8LFR_2026-10.webp"
  },
  {
   "indicativo": "HK3DG",
