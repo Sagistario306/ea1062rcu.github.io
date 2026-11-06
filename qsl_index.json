@@ -16948,10 +16948,10 @@
  },
  {
   "indicativo": "VE3TLV",
-  "codigo": "UP572C",
-  "fecha": "2026-10-28 00:06:11",
-  "pais": "Canada",
-  "archivo": "qsl/QSL_VE3TLV_2026-10.webp"
+  "codigo": "HSYRBW",
+  "fecha": "2026-11-06 00:06:20",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VE3TLV_2026-11.webp"
  },
  {
   "indicativo": "KG4VUK",
@@ -28656,6 +28656,13 @@
   "fecha": "2026-10-28 00:04:21",
   "pais": "Canada",
   "archivo": "qsl/QSL_VA3RCU_2026-10.webp"
+ },
+ {
+  "indicativo": "VE3TLV",
+  "codigo": "UP572C",
+  "fecha": "2026-10-28 00:06:11",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE3TLV_2026-10.webp"
  },
  {
   "indicativo": "PY1YE",
