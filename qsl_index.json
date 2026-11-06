@@ -1884,17 +1884,10 @@
  },
  {
   "indicativo": "CE3PBR",
-  "codigo": "WBCEJW",
-  "fecha": "2026-10-07 14:34:05",
+  "codigo": "JEGA93",
+  "fecha": "2026-11-06 19:10:11",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE3PBR_2026-10.webp"
- },
- {
-  "indicativo": "CE3PBR",
-  "codigo": "G58C6F",
-  "fecha": "2026-10-07 14:34:11",
-  "pais": "Chile",
-  "archivo": "qsl/QSL_CE3PBR_2026-10_EV.webp"
+  "archivo": "qsl/QSL_CE3PBR_2026-11.webp"
  },
  {
   "indicativo": "HJ3DAG",
@@ -28936,6 +28929,20 @@
   "fecha": "2026-10-03 00:12:08",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK6RM_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "CE3PBR",
+  "codigo": "WBCEJW",
+  "fecha": "2026-10-07 14:34:05",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3PBR_2026-10.webp"
+ },
+ {
+  "indicativo": "CE3PBR",
+  "codigo": "G58C6F",
+  "fecha": "2026-10-07 14:34:05",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3PBR_2026-10_EV.webp"
  },
  {
   "indicativo": "9W3FAB",
