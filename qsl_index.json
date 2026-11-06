@@ -27559,6 +27559,13 @@
   "archivo": "qsl/QSL_MM3STU_2026-11.webp"
  },
  {
+  "indicativo": "MM3STU",
+  "codigo": "24GRAA",
+  "fecha": "2026-11-06 18:31:23",
+  "pais": "Escocia",
+  "archivo": "qsl/QSL_MM3STU_2026-11_EV.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
