@@ -5468,10 +5468,10 @@
  },
  {
   "indicativo": "LU9DUV",
-  "codigo": "859URX",
-  "fecha": "2026-10-10 00:06:43",
+  "codigo": "YX8HZF",
+  "fecha": "2026-11-06 15:38:36",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU9DUV_2026-10.webp"
+  "archivo": "qsl/QSL_LU9DUV_2026-11.webp"
  },
  {
   "indicativo": "XE2KUI",
@@ -27998,6 +27998,13 @@
   "fecha": "2026-10-01 13:33:04",
   "pais": "Guatemala",
   "archivo": "qsl/QSL_TG9JMR_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "LU9DUV",
+  "codigo": "859URX",
+  "fecha": "2026-10-10 00:06:43",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU9DUV_2026-10.webp"
  },
  {
   "indicativo": "HJ6ZLJ",
