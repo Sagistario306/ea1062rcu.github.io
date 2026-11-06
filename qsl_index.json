@@ -15534,10 +15534,10 @@
  },
  {
   "indicativo": "PY2RMF",
-  "codigo": "WGPUA6",
-  "fecha": "2026-10-25 18:38:48",
+  "codigo": "3EEWKM",
+  "fecha": "2026-11-06 01:04:44",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY2RMF_2026-10.webp"
+  "archivo": "qsl/QSL_PY2RMF_2026-11.webp"
  },
  {
   "indicativo": "HI3QMT",
@@ -28691,6 +28691,13 @@
   "fecha": "2026-10-24 00:00:08",
   "pais": "EE.UU",
   "archivo": "qsl/QSL_KN1B_2026-10.webp"
+ },
+ {
+  "indicativo": "PY2RMF",
+  "codigo": "WGPUA6",
+  "fecha": "2026-10-25 18:38:48",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY2RMF_2026-10.webp"
  },
  {
   "indicativo": "VE2SIG",
