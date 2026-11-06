@@ -15961,10 +15961,10 @@
  },
  {
   "indicativo": "4S7MD",
-  "codigo": "BEJFTU",
-  "fecha": "2026-10-26 13:04:39",
+  "codigo": "W88KZC",
+  "fecha": "2026-11-06 00:09:22",
   "pais": "Sri Lanka",
-  "archivo": "qsl/QSL_4S7MD_2026-10.webp"
+  "archivo": "qsl/QSL_4S7MD_2026-11.webp"
  },
  {
   "indicativo": "BA7OLK",
@@ -28607,6 +28607,13 @@
   "fecha": "2026-10-26 13:03:56",
   "pais": "Francia",
   "archivo": "qsl/QSL_F4ERR_2026-10.webp"
+ },
+ {
+  "indicativo": "4S7MD",
+  "codigo": "BEJFTU",
+  "fecha": "2026-10-26 13:04:39",
+  "pais": "Sri Lanka",
+  "archivo": "qsl/QSL_4S7MD_2026-10.webp"
  },
  {
   "indicativo": "4S6TAM",
