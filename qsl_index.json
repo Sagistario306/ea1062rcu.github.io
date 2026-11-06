@@ -11824,10 +11824,10 @@
  },
  {
   "indicativo": "CT2HEV",
-  "codigo": "9ASSXC",
-  "fecha": "2026-10-09 11:07:20",
+  "codigo": "PDYCMA",
+  "fecha": "2026-11-06 08:24:39",
   "pais": "Portugal",
-  "archivo": "qsl/QSL_CT2HEV_2026-10.webp"
+  "archivo": "qsl/QSL_CT2HEV_2026-11.webp"
  },
  {
   "indicativo": "G8JBQ",
@@ -29041,6 +29041,13 @@
   "fecha": "2026-10-09 00:01:01",
   "pais": "Canada",
   "archivo": "qsl/QSL_VE6EMV_2026-10.webp"
+ },
+ {
+  "indicativo": "CT2HEV",
+  "codigo": "9ASSXC",
+  "fecha": "2026-10-09 11:07:20",
+  "pais": "Portugal",
+  "archivo": "qsl/QSL_CT2HEV_2026-10.webp"
  },
  {
   "indicativo": "LB7XI",
