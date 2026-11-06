@@ -26642,6 +26642,20 @@
   "archivo": "qsl/QSL_PY1LP_2026-11.webp"
  },
  {
+  "indicativo": "PY1LP",
+  "codigo": "8AENF4",
+  "fecha": "2026-11-06 00:07:24",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY1LP_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "SR5NOS",
+  "codigo": "J8J96G",
+  "fecha": "2026-11-06 00:07:26",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SR5NOS_2026-11.png"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
