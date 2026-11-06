@@ -26404,6 +26404,13 @@
   "archivo": "qsl/QSL_KB7PTS_2026-11.webp"
  },
  {
+  "indicativo": "KB7PTS",
+  "codigo": "PR974Y",
+  "fecha": "2026-11-06 00:00:10",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_KB7PTS_2026-11_EV.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
