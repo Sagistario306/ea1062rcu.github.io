@@ -6896,10 +6896,10 @@
  },
  {
   "indicativo": "CE3AEA",
-  "codigo": "HVBXUZ",
-  "fecha": "2026-10-09 21:43:20",
+  "codigo": "YB6XZJ",
+  "fecha": "2026-11-06 22:13:59",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE3AEA_2026-10.webp"
+  "archivo": "qsl/QSL_CE3AEA_2026-11.webp"
  },
  {
   "indicativo": "HC3MC",
@@ -28425,6 +28425,13 @@
   "fecha": "2026-10-10 00:01:10",
   "pais": "España",
   "archivo": "qsl/QSL_EA3CU_2026-10.webp"
+ },
+ {
+  "indicativo": "CE3AEA",
+  "codigo": "HVBXUZ",
+  "fecha": "2026-10-09 21:43:20",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3AEA_2026-10.webp"
  },
  {
   "indicativo": "HI6LT",
