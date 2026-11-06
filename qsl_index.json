@@ -295,10 +295,10 @@
  },
  {
   "indicativo": "YF9UAG",
-  "codigo": "PYGP63",
-  "fecha": "2026-10-13 00:04:12",
+  "codigo": "CABBN5",
+  "fecha": "2026-11-06 00:10:59",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YF9UAG_2026-10.webp"
+  "archivo": "qsl/QSL_YF9UAG_2026-11.webp"
  },
  {
   "indicativo": "XE1IFV",
@@ -28390,6 +28390,13 @@
   "fecha": "2026-10-30 00:19:34",
   "pais": "Italia",
   "archivo": "qsl/QSL_IK8TGH_2026-10.webp"
+ },
+ {
+  "indicativo": "YF9UAG",
+  "codigo": "PYGP63",
+  "fecha": "2026-10-13 00:04:12",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YF9UAG_2026-10.webp"
  },
  {
   "indicativo": "YD2VKR",
