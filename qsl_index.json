@@ -18404,10 +18404,10 @@
  },
  {
   "indicativo": "VA7DHR",
-  "codigo": "TQ8D3C",
-  "fecha": "2026-10-29 02:52:31",
-  "pais": "Canada",
-  "archivo": "qsl/QSL_VA7DHR_2026-10.webp"
+  "codigo": "CGAHYU",
+  "fecha": "2026-11-06 00:04:00",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VA7DHR_2026-11.webp"
  },
  {
   "indicativo": "SV6NOB",
@@ -28817,6 +28817,13 @@
   "fecha": "2026-10-29 02:52:23",
   "pais": "Polonia",
   "archivo": "qsl/QSL_SQ9RHZ_2026-10.webp"
+ },
+ {
+  "indicativo": "VA7DHR",
+  "codigo": "TQ8D3C",
+  "fecha": "2026-10-29 02:52:31",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VA7DHR_2026-10.webp"
  },
  {
   "indicativo": "SV6NOB",
