@@ -27048,6 +27048,13 @@
   "archivo": "qsl/QSL_EA4HSS_2026-11.webp"
  },
  {
+  "indicativo": "EA4HSS",
+  "codigo": "9S7C8T",
+  "fecha": "2026-11-06 06:44:40",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA4HSS_2026-11_EV.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
