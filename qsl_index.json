@@ -5090,10 +5090,10 @@
  },
  {
   "indicativo": "TI3JVH",
-  "codigo": "97Q7W7",
-  "fecha": "2026-10-09 03:38:01",
+  "codigo": "Q2Y4JR",
+  "fecha": "2026-11-06 06:26:31",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI3JVH_2026-10.webp"
+  "archivo": "qsl/QSL_TI3JVH_2026-11.webp"
  },
  {
   "indicativo": "LU5DWK",
@@ -27459,6 +27459,13 @@
   "fecha": "2026-10-15 10:37:09",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU4FGS_2026-10.webp"
+ },
+ {
+  "indicativo": "TI3JVH",
+  "codigo": "97Q7W7",
+  "fecha": "2026-10-09 03:38:01",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI3JVH_2026-10.webp"
  },
  {
   "indicativo": "XE2YWH",
