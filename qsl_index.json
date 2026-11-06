@@ -7673,10 +7673,10 @@
  },
  {
   "indicativo": "LU7AGT",
-  "codigo": "6PE7TJ",
-  "fecha": "2026-10-31 11:18:42",
+  "codigo": "AJMTWP",
+  "fecha": "2026-11-06 07:04:28",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU7AGT_2026-10.webp"
+  "archivo": "qsl/QSL_LU7AGT_2026-11.webp"
  },
  {
   "indicativo": "CO5ABC",
@@ -27970,6 +27970,13 @@
   "fecha": "2026-10-27 07:00:29",
   "pais": "España",
   "archivo": "qsl/QSL_EA7P_2026-10.webp"
+ },
+ {
+  "indicativo": "LU7AGT",
+  "codigo": "6PE7TJ",
+  "fecha": "2026-10-31 11:18:42",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU7AGT_2026-10.webp"
  },
  {
   "indicativo": "CO5ABC",
