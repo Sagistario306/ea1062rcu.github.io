@@ -15442,6 +15442,13 @@
   "archivo": "qsl/QSL_HJ5K_2026-11.webp"
  },
  {
+  "indicativo": "HJ5K",
+  "codigo": "BA7CVV",
+  "fecha": "2026-11-06 01:10:28",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ5K_2026-11_EV.webp"
+ },
+ {
   "indicativo": "AC5RN",
   "codigo": "PBXU77",
   "fecha": "2026-10-25 03:44:50",
