@@ -17052,6 +17052,13 @@
   "archivo": "qsl/QSL_4S6TWO_2026-11.webp"
  },
  {
+  "indicativo": "4S6TWO",
+  "codigo": "VYVJDD",
+  "fecha": "2026-11-06 00:08:40",
+  "pais": "Sri Lanka",
+  "archivo": "qsl/QSL_4S6TWO_2026-11_EV.webp"
+ },
+ {
   "indicativo": "SP1MWA",
   "codigo": "VD6AC4",
   "fecha": "2026-11-01 00:00:53",
