@@ -1555,10 +1555,10 @@
  },
  {
   "indicativo": "9W8ASR",
-  "codigo": "396TYG",
-  "fecha": "2026-10-09 00:00:30",
+  "codigo": "Y24A45",
+  "fecha": "2026-11-06 03:12:02",
   "pais": "Malasia",
-  "archivo": "qsl/QSL_9W8ASR_2026-10.webp"
+  "archivo": "qsl/QSL_9W8ASR_2026-11.webp"
  },
  {
   "indicativo": "XE3JP",
@@ -28026,6 +28026,13 @@
   "fecha": "2026-10-16 00:33:20",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M8ZAL_2026-10.webp"
+ },
+ {
+  "indicativo": "9W8ASR",
+  "codigo": "396TYG",
+  "fecha": "2026-10-09 00:00:30",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W8ASR_2026-10.webp"
  },
  {
   "indicativo": "9W2KHE",
