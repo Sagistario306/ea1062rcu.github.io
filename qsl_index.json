@@ -15436,10 +15436,10 @@
  },
  {
   "indicativo": "HJ5K",
-  "codigo": "H6UUDX",
-  "fecha": "2026-10-24 12:20:12",
+  "codigo": "HCA3XJ",
+  "fecha": "2026-11-06 01:10:20",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ5K_2026-10.webp"
+  "archivo": "qsl/QSL_HJ5K_2026-11.webp"
  },
  {
   "indicativo": "AC5RN",
@@ -28698,6 +28698,13 @@
   "fecha": "2026-10-24 00:00:08",
   "pais": "EE.UU",
   "archivo": "qsl/QSL_KN1B_2026-10.webp"
+ },
+ {
+  "indicativo": "HJ5K",
+  "codigo": "H6UUDX",
+  "fecha": "2026-10-24 12:20:12",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ5K_2026-10.webp"
  },
  {
   "indicativo": "PY2RMF",
