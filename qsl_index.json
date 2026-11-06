@@ -16689,10 +16689,10 @@
  },
  {
   "indicativo": "VA2CT",
-  "codigo": "A996A2",
-  "fecha": "2026-10-27 00:01:17",
-  "pais": "Canada",
-  "archivo": "qsl/QSL_VA2CT_2026-10.webp"
+  "codigo": "T3QTQY",
+  "fecha": "2026-11-06 00:02:55",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VA2CT_2026-11.webp"
  },
  {
   "indicativo": "VE3WEJ",
@@ -28565,6 +28565,13 @@
   "fecha": "2026-10-26 15:05:35",
   "pais": "Republica Dominicana",
   "archivo": "qsl/QSL_HI5YJM_2026-10.webp"
+ },
+ {
+  "indicativo": "VA2CT",
+  "codigo": "A996A2",
+  "fecha": "2026-10-27 00:01:17",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VA2CT_2026-10.webp"
  },
  {
   "indicativo": "HJ5VMG",
