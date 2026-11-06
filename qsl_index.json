@@ -16199,10 +16199,10 @@
  },
  {
   "indicativo": "4S5CNH",
-  "codigo": "G9U2ZZ",
-  "fecha": "2026-10-26 13:08:39",
+  "codigo": "D78F6S",
+  "fecha": "2026-11-06 00:08:19",
   "pais": "Sri Lanka",
-  "archivo": "qsl/QSL_4S5CNH_2026-10.webp"
+  "archivo": "qsl/QSL_4S5CNH_2026-11.webp"
  },
  {
   "indicativo": "IT9APJ",
@@ -28600,6 +28600,13 @@
   "fecha": "2026-10-26 13:07:25",
   "pais": "Turquia",
   "archivo": "qsl/QSL_TA3GR_2026-10.webp"
+ },
+ {
+  "indicativo": "4S5CNH",
+  "codigo": "G9U2ZZ",
+  "fecha": "2026-10-26 13:08:39",
+  "pais": "Sri Lanka",
+  "archivo": "qsl/QSL_4S5CNH_2026-10.webp"
  },
  {
   "indicativo": "SM0XMX",
