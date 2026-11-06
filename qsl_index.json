@@ -17046,10 +17046,10 @@
  },
  {
   "indicativo": "4S6TWO",
-  "codigo": "K9XJKR",
-  "fecha": "2026-10-28 05:23:31",
+  "codigo": "NKFR4F",
+  "fecha": "2026-11-06 00:08:33",
   "pais": "Sri Lanka",
-  "archivo": "qsl/QSL_4S6TWO_2026-10.webp"
+  "archivo": "qsl/QSL_4S6TWO_2026-11.webp"
  },
  {
   "indicativo": "SP1MWA",
@@ -28733,6 +28733,13 @@
   "fecha": "2026-10-28 05:23:18",
   "pais": "Dinamarca",
   "archivo": "qsl/QSL_OZ3LFG_2026-10.webp"
+ },
+ {
+  "indicativo": "4S6TWO",
+  "codigo": "K9XJKR",
+  "fecha": "2026-10-28 05:23:31",
+  "pais": "Sri Lanka",
+  "archivo": "qsl/QSL_4S6TWO_2026-10.webp"
  },
  {
   "indicativo": "BG4USS",
