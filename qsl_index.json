@@ -3781,10 +3781,10 @@
  },
  {
   "indicativo": "YD6HHD",
-  "codigo": "24JSJU",
-  "fecha": "2026-10-08 13:43:48",
+  "codigo": "MRPX2D",
+  "fecha": "2026-11-06 06:51:29",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YD6HHD_2026-10.webp"
+  "archivo": "qsl/QSL_YD6HHD_2026-11.webp"
  },
  {
   "indicativo": "XE1ZJZ",
@@ -27228,6 +27228,13 @@
   "fecha": "2026-10-01 00:05:39",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE7DE_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "YD6HHD",
+  "codigo": "24JSJU",
+  "fecha": "2026-10-08 13:43:48",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YD6HHD_2026-10.webp"
  },
  {
   "indicativo": "XE1ZJZ",
