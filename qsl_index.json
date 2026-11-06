@@ -26887,6 +26887,13 @@
   "archivo": "qsl/QSL_IN3GID_2026-11.webp"
  },
  {
+  "indicativo": "IN3GID",
+  "codigo": "TDWXQK",
+  "fecha": "2026-11-06 04:42:38",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IN3GID_2026-11_EV.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
