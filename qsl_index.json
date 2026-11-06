@@ -12237,10 +12237,10 @@
  },
  {
   "indicativo": "KH6RD",
-  "codigo": "RGE66G",
-  "fecha": "2026-10-10 13:43:16",
-  "pais": "Hawai",
-  "archivo": "qsl/QSL_KH6RD_2026-10.webp"
+  "codigo": "69SXC9",
+  "fecha": "2026-11-06 10:33:51",
+  "pais": "Hawái",
+  "archivo": "qsl/QSL_KH6RD_2026-11.webp"
  },
  {
   "indicativo": "KL7AA",
@@ -29146,6 +29146,13 @@
   "fecha": "2026-10-10 13:33:34",
   "pais": "Noruega",
   "archivo": "qsl/QSL_LB7XI_2026-10.webp"
+ },
+ {
+  "indicativo": "KH6RD",
+  "codigo": "RGE66G",
+  "fecha": "2026-10-10 13:43:16",
+  "pais": "Hawai",
+  "archivo": "qsl/QSL_KH6RD_2026-10.webp"
  },
  {
   "indicativo": "M0ZPG",
