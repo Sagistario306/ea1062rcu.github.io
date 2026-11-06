@@ -9353,10 +9353,10 @@
  },
  {
   "indicativo": "CE3WTZ",
-  "codigo": "PPV9YP",
-  "fecha": "2026-10-16 15:15:15",
+  "codigo": "AQC83W",
+  "fecha": "2026-11-06 21:06:57",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE3WTZ_2026-10.webp"
+  "archivo": "qsl/QSL_CE3WTZ_2026-11.webp"
  },
  {
   "indicativo": "EA7FGJ",
@@ -29111,6 +29111,13 @@
   "fecha": "2026-10-31 03:42:57",
   "pais": "España",
   "archivo": "qsl/QSL_EA7IQH_2026-10.webp"
+ },
+ {
+  "indicativo": "CE3WTZ",
+  "codigo": "PPV9YP",
+  "fecha": "2026-10-16 15:15:15",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3WTZ_2026-10.webp"
  },
  {
   "indicativo": "EA3HMZ",
