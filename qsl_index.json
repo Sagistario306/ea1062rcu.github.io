@@ -27118,6 +27118,13 @@
   "archivo": "qsl/QSL_F1TPL_2026-11.webp"
  },
  {
+  "indicativo": "F1TPL",
+  "codigo": "Q8B4RS",
+  "fecha": "2026-11-06 07:17:26",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F1TPL_2026-11_EV.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
