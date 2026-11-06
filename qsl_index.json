@@ -15002,10 +15002,10 @@
  },
  {
   "indicativo": "YC6ANO",
-  "codigo": "HJSPUH",
-  "fecha": "2026-10-22 02:36:18",
+  "codigo": "GG5C9F",
+  "fecha": "2026-11-06 00:28:28",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YC6ANO_2026-10.webp"
+  "archivo": "qsl/QSL_YC6ANO_2026-11.webp"
  },
  {
   "indicativo": "G1SRD",
@@ -28565,6 +28565,13 @@
   "fecha": "2026-10-22 00:16:44",
   "pais": "Canada",
   "archivo": "qsl/QSL_VE7LHA_2026-10.webp"
+ },
+ {
+  "indicativo": "YC6ANO",
+  "codigo": "HJSPUH",
+  "fecha": "2026-10-22 02:36:18",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YC6ANO_2026-10.webp"
  },
  {
   "indicativo": "ZR1JL",
