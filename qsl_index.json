@@ -4642,17 +4642,10 @@
  },
  {
   "indicativo": "HJ4CID",
-  "codigo": "3KBNJA",
-  "fecha": "2026-10-03 00:58:31",
+  "codigo": "GE3JKC",
+  "fecha": "2026-11-06 20:57:18",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ4CID_2026-10.webp"
- },
- {
-  "indicativo": "HJ4CID",
-  "codigo": "46BETP",
-  "fecha": "2026-10-03 00:58:37",
-  "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ4CID_2026-10_EV.webp"
+  "archivo": "qsl/QSL_HJ4CID_2026-11.webp"
  },
  {
   "indicativo": "YC5KWZ",
@@ -27991,6 +27984,20 @@
   "fecha": "2026-10-07 00:01:36",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LW2DBP_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "HJ4CID",
+  "codigo": "3KBNJA",
+  "fecha": "2026-10-03 00:58:31",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ4CID_2026-10.webp"
+ },
+ {
+  "indicativo": "HJ4CID",
+  "codigo": "46BETP",
+  "fecha": "2026-10-03 00:58:31",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ4CID_2026-10_EV.webp"
  },
  {
   "indicativo": "YV5VE",
