@@ -13868,10 +13868,10 @@
  },
  {
   "indicativo": "PR2RM",
-  "codigo": "KY4VC3",
-  "fecha": "2026-10-17 00:01:10",
+  "codigo": "AUM7AQ",
+  "fecha": "2026-11-06 01:10:50",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PR2RM_2026-10.webp"
+  "archivo": "qsl/QSL_PR2RM_2026-11.webp"
  },
  {
   "indicativo": "PY2ARS",
@@ -28628,6 +28628,13 @@
   "fecha": "2026-10-16 18:22:46",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HJ5RTD_2026-10.webp"
+ },
+ {
+  "indicativo": "PR2RM",
+  "codigo": "KY4VC3",
+  "fecha": "2026-10-17 00:01:10",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PR2RM_2026-10.webp"
  },
  {
   "indicativo": "HK6V",
