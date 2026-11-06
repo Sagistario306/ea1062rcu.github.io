@@ -20175,10 +20175,10 @@
  },
  {
   "indicativo": "F6INI",
-  "codigo": "UA34P4",
-  "fecha": "2026-10-30 00:22:52",
+  "codigo": "5CVKEM",
+  "fecha": "2026-11-06 01:22:22",
   "pais": "Francia",
-  "archivo": "qsl/QSL_F6INI_2026-10.webp"
+  "archivo": "qsl/QSL_F6INI_2026-11.webp"
  },
  {
   "indicativo": "G4PTK",
@@ -29363,6 +29363,13 @@
   "fecha": "2026-10-30 00:17:45",
   "pais": "Canada",
   "archivo": "qsl/QSL_VE2SXD_2026-10.webp"
+ },
+ {
+  "indicativo": "F6INI",
+  "codigo": "UA34P4",
+  "fecha": "2026-10-30 00:22:52",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F6INI_2026-10.webp"
  },
  {
   "indicativo": "G4PTK",
