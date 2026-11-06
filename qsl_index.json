@@ -8722,6 +8722,13 @@
   "archivo": "qsl/QSL_XE1YGA_2026-11.webp"
  },
  {
+  "indicativo": "XE1YGA",
+  "codigo": "4E53VU",
+  "fecha": "2026-11-06 15:09:41",
+  "pais": "México",
+  "archivo": "qsl/QSL_XE1YGA_2026-11_EV.webp"
+ },
+ {
   "indicativo": "CE1SJJ",
   "codigo": "A3AZZ4",
   "fecha": "2026-10-09 09:27:27",
