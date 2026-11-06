@@ -20987,10 +20987,10 @@
  },
  {
   "indicativo": "BG2FRH",
-  "codigo": "6FP6UR",
-  "fecha": "2026-10-31 00:07:50",
+  "codigo": "EWZQAR",
+  "fecha": "2026-11-06 00:01:48",
   "pais": "China",
-  "archivo": "qsl/QSL_BG2FRH_2026-10.webp"
+  "archivo": "qsl/QSL_BG2FRH_2026-11.webp"
  },
  {
   "indicativo": "DG5MLA",
@@ -29132,6 +29132,13 @@
   "fecha": "2026-10-31 00:05:40",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PY2AMW_2026-10.webp"
+ },
+ {
+  "indicativo": "BG2FRH",
+  "codigo": "6FP6UR",
+  "fecha": "2026-10-31 00:07:50",
+  "pais": "China",
+  "archivo": "qsl/QSL_BG2FRH_2026-10.webp"
  },
  {
   "indicativo": "IZ1RWC",
