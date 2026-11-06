@@ -8933,10 +8933,10 @@
  },
  {
   "indicativo": "EB5JJX",
-  "codigo": "QR5BRR",
-  "fecha": "2026-10-31 07:11:29",
+  "codigo": "4D8CAC",
+  "fecha": "2026-11-06 05:47:46",
   "pais": "España",
-  "archivo": "qsl/QSL_EB5JJX_2026-10.webp"
+  "archivo": "qsl/QSL_EB5JJX_2026-11.webp"
  },
  {
   "indicativo": "EA4ADM",
@@ -28012,6 +28012,13 @@
   "fecha": "2026-10-22 00:19:14",
   "pais": "España",
   "archivo": "qsl/QSL_EB2DPT_2026-10.webp"
+ },
+ {
+  "indicativo": "EB5JJX",
+  "codigo": "QR5BRR",
+  "fecha": "2026-10-31 07:11:29",
+  "pais": "España",
+  "archivo": "qsl/QSL_EB5JJX_2026-10.webp"
  },
  {
   "indicativo": "LU8ANS",
