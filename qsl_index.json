@@ -26509,6 +26509,20 @@
   "archivo": "qsl/QSL_SP9MLI_2026-11.webp"
  },
  {
+  "indicativo": "SP9MLI",
+  "codigo": "3A5G4Y",
+  "fecha": "2026-11-06 00:02:04",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP9MLI_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "VA7PLC",
+  "codigo": "EWY3VV",
+  "fecha": "2026-11-06 00:02:03",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VA7PLC_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
