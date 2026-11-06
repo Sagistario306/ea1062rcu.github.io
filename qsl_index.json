@@ -19660,7 +19660,7 @@
   "codigo": "ZHQVBY",
   "fecha": "2026-11-06 00:02:37",
   "pais": "Polonia",
-  "archivo": "qsl/QSL_SR4NWO_2026-11.png"
+  "archivo": "qsl/QSL_SR4NWO_2026-11.webp"
  },
  {
   "indicativo": "SP2PNP",
@@ -26549,6 +26549,13 @@
   "fecha": "2026-11-06 00:02:35",
   "pais": "China",
   "archivo": "qsl/QSL_BI4PMQ_2026-11.webp"
+ },
+ {
+  "indicativo": "BI4PMQ",
+  "codigo": "9PT4GH",
+  "fecha": "2026-11-06 00:02:41",
+  "pais": "China",
+  "archivo": "qsl/QSL_BI4PMQ_2026-11_EV.webp"
  },
  {
   "indicativo": "9W2BWS",
