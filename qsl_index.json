@@ -15540,6 +15540,13 @@
   "archivo": "qsl/QSL_PY2RMF_2026-11.webp"
  },
  {
+  "indicativo": "PY2RMF",
+  "codigo": "YFBVN5",
+  "fecha": "2026-11-06 01:04:50",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY2RMF_2026-11_EV.webp"
+ },
+ {
   "indicativo": "HI3QMT",
   "codigo": "4BPHRS",
   "fecha": "2026-10-25 18:43:14",
