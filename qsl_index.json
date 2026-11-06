@@ -6902,6 +6902,13 @@
   "archivo": "qsl/QSL_CE3AEA_2026-11.webp"
  },
  {
+  "indicativo": "CE3AEA",
+  "codigo": "AP4FGU",
+  "fecha": "2026-11-06 22:14:05",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3AEA_2026-11_EV.webp"
+ },
+ {
   "indicativo": "HC3MC",
   "codigo": "RV52RC",
   "fecha": "2026-10-12 01:15:28",
