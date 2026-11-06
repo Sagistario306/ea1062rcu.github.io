@@ -19979,10 +19979,10 @@
  },
  {
   "indicativo": "IT9DXE",
-  "codigo": "JPDM4X",
-  "fecha": "2026-10-30 00:12:57",
+  "codigo": "D9NG9Z",
+  "fecha": "2026-11-06 00:06:50",
   "pais": "Sicilia",
-  "archivo": "qsl/QSL_IT9DXE_2026-10.webp"
+  "archivo": "qsl/QSL_IT9DXE_2026-11.webp"
  },
  {
   "indicativo": "F1CXG",
@@ -29083,6 +29083,13 @@
   "fecha": "2026-10-30 00:11:14",
   "pais": "Francia",
   "archivo": "qsl/QSL_F1HRJ_2026-10.webp"
+ },
+ {
+  "indicativo": "IT9DXE",
+  "codigo": "JPDM4X",
+  "fecha": "2026-10-30 00:12:57",
+  "pais": "Sicilia",
+  "archivo": "qsl/QSL_IT9DXE_2026-10.webp"
  },
  {
   "indicativo": "F1CXG",
