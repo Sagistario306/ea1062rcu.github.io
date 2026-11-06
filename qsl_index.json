@@ -19111,10 +19111,10 @@
  },
  {
   "indicativo": "OE7BOE",
-  "codigo": "UGFPEJ",
-  "fecha": "2026-10-29 03:03:10",
+  "codigo": "MH8AM7",
+  "fecha": "2026-11-06 17:25:09",
   "pais": "Austria",
-  "archivo": "qsl/QSL_OE7BOE_2026-10.webp"
+  "archivo": "qsl/QSL_OE7BOE_2026-11.webp"
  },
  {
   "indicativo": "OY6DDA",
@@ -30070,6 +30070,13 @@
   "fecha": "2026-10-29 03:02:59",
   "pais": "Francia",
   "archivo": "qsl/QSL_F5ZTH_2026-10.webp"
+ },
+ {
+  "indicativo": "OE7BOE",
+  "codigo": "UGFPEJ",
+  "fecha": "2026-10-29 03:03:10",
+  "pais": "Austria",
+  "archivo": "qsl/QSL_OE7BOE_2026-10.webp"
  },
  {
   "indicativo": "DD5LF",
