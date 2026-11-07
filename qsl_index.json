@@ -19615,10 +19615,10 @@
  },
  {
   "indicativo": "OZ0AL",
-  "codigo": "B9TS27",
-  "fecha": "2026-10-29 04:12:30",
+  "codigo": "89EVQ5",
+  "fecha": "2026-11-07 11:12:41",
   "pais": "Dinamarca",
-  "archivo": "qsl/QSL_OZ0AL_2026-10.webp"
+  "archivo": "qsl/QSL_OZ0AL_2026-11.webp"
  },
  {
   "indicativo": "CT2IKK",
@@ -30910,6 +30910,13 @@
   "fecha": "2026-10-29 03:39:46",
   "pais": "Austria",
   "archivo": "qsl/QSL_OE6TXW_2026-10.webp"
+ },
+ {
+  "indicativo": "OZ0AL",
+  "codigo": "B9TS27",
+  "fecha": "2026-10-29 04:12:30",
+  "pais": "Dinamarca",
+  "archivo": "qsl/QSL_OZ0AL_2026-10.webp"
  },
  {
   "indicativo": "OE9FWV",
