@@ -11369,17 +11369,10 @@
  },
  {
   "indicativo": "TG9EWR",
-  "codigo": "DEUQFP",
-  "fecha": "2026-10-01 13:58:38",
+  "codigo": "7XNHZZ",
+  "fecha": "2026-11-07 15:13:37",
   "pais": "Guatemala",
-  "archivo": "qsl/QSL_TG9EWR_2026-10.webp"
- },
- {
-  "indicativo": "TG9EWR",
-  "codigo": "D4U55U",
-  "fecha": "2026-10-01 13:58:45",
-  "pais": "Guatemala",
-  "archivo": "qsl/QSL_TG9EWR_2026-10_EV.png"
+  "archivo": "qsl/QSL_TG9EWR_2026-11.webp"
  },
  {
   "indicativo": "YS1AHL",
@@ -30336,6 +30329,20 @@
   "fecha": "2026-10-07 00:00:23",
   "pais": "España",
   "archivo": "qsl/QSL_EA1PVC_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "TG9EWR",
+  "codigo": "DEUQFP",
+  "fecha": "2026-10-01 13:58:38",
+  "pais": "Guatemala",
+  "archivo": "qsl/QSL_TG9EWR_2026-10.webp"
+ },
+ {
+  "indicativo": "TG9EWR",
+  "codigo": "D4U55U",
+  "fecha": "2026-10-01 13:58:38",
+  "pais": "Guatemala",
+  "archivo": "qsl/QSL_TG9EWR_2026-10_EV.webp"
  },
  {
   "indicativo": "PY2PJA",
