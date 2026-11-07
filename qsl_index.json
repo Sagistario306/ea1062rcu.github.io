@@ -28427,6 +28427,13 @@
   "archivo": "qsl/QSL_HK1PLA_2026-11.webp"
  },
  {
+  "indicativo": "HK1PLA",
+  "codigo": "GU59YU",
+  "fecha": "2026-11-07 19:56:08",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK1PLA_2026-11_EV.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
