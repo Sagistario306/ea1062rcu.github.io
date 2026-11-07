@@ -8758,10 +8758,10 @@
  },
  {
   "indicativo": "HJ4FG",
-  "codigo": "Y33J36",
-  "fecha": "2026-10-21 11:18:51",
+  "codigo": "HEB3MD",
+  "fecha": "2026-11-07 16:07:08",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HJ4FG_2026-10.webp"
+  "archivo": "qsl/QSL_HJ4FG_2026-11.webp"
  },
  {
   "indicativo": "XE1YGA",
@@ -29489,6 +29489,13 @@
   "fecha": "2026-10-23 00:04:47",
   "pais": "Japon",
   "archivo": "qsl/QSL_JR0IVN_2026-10.webp"
+ },
+ {
+  "indicativo": "HJ4FG",
+  "codigo": "Y33J36",
+  "fecha": "2026-10-21 11:18:51",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ4FG_2026-10.webp"
  },
  {
   "indicativo": "XE1YGA",
