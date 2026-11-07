@@ -19223,10 +19223,10 @@
  },
  {
   "indicativo": "IZ6BXV",
-  "codigo": "BNEFA4",
-  "fecha": "2026-10-29 03:02:40",
+  "codigo": "BJDPAT",
+  "fecha": "2026-11-07 23:09:31",
   "pais": "Italia",
-  "archivo": "qsl/QSL_IZ6BXV_2026-10.webp"
+  "archivo": "qsl/QSL_IZ6BXV_2026-11.webp"
  },
  {
   "indicativo": "F5ZTH",
@@ -31379,6 +31379,13 @@
   "fecha": "2026-10-29 03:01:33",
   "pais": "Tailandia",
   "archivo": "qsl/QSL_HS3UAA_2026-10.webp"
+ },
+ {
+  "indicativo": "IZ6BXV",
+  "codigo": "BNEFA4",
+  "fecha": "2026-10-29 03:02:40",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IZ6BXV_2026-10.webp"
  },
  {
   "indicativo": "F5ZTH",
