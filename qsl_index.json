@@ -21071,10 +21071,10 @@
  },
  {
   "indicativo": "KC0ZZQ",
-  "codigo": "Y64MBE",
-  "fecha": "2026-10-31 00:00:48",
-  "pais": "EE.UU",
-  "archivo": "qsl/QSL_KC0ZZQ_2026-10.webp"
+  "codigo": "7UM96A",
+  "fecha": "2026-11-07 00:01:35",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_KC0ZZQ_2026-11.webp"
  },
  {
   "indicativo": "IZ6ENY",
@@ -30630,6 +30630,13 @@
   "fecha": "2026-10-31 00:00:16",
   "pais": "Polonia",
   "archivo": "qsl/QSL_SP3EOL_2026-10.webp"
+ },
+ {
+  "indicativo": "KC0ZZQ",
+  "codigo": "Y64MBE",
+  "fecha": "2026-10-31 00:00:48",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_KC0ZZQ_2026-10.webp"
  },
  {
   "indicativo": "LA4XNA",
