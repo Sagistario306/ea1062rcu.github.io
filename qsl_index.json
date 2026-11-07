@@ -16283,10 +16283,10 @@
  },
  {
   "indicativo": "IN3XSV",
-  "codigo": "GCHESP",
-  "fecha": "2026-10-26 13:05:22",
+  "codigo": "CXXEXV",
+  "fecha": "2026-11-07 22:51:49",
   "pais": "Italia",
-  "archivo": "qsl/QSL_IN3XSV_2026-10.webp"
+  "archivo": "qsl/QSL_IN3XSV_2026-11.webp"
  },
  {
   "indicativo": "LA8RHA",
@@ -30854,6 +30854,13 @@
   "fecha": "2026-10-26 13:04:39",
   "pais": "Sri Lanka",
   "archivo": "qsl/QSL_4S7MD_2026-10.webp"
+ },
+ {
+  "indicativo": "IN3XSV",
+  "codigo": "GCHESP",
+  "fecha": "2026-10-26 13:05:22",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IN3XSV_2026-10.webp"
  },
  {
   "indicativo": "4S6TAM",
