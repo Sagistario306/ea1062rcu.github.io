@@ -4110,10 +4110,10 @@
  },
  {
   "indicativo": "HK3RLG",
-  "codigo": "26WUUZ",
-  "fecha": "2026-10-12 19:44:13",
+  "codigo": "7A96QM",
+  "fecha": "2026-11-07 17:50:54",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK3RLG_2026-10.webp"
+  "archivo": "qsl/QSL_HK3RLG_2026-11.webp"
  },
  {
   "indicativo": "TG6NER",
@@ -28663,6 +28663,13 @@
   "fecha": "2026-10-02 11:05:36",
   "pais": "Peru",
   "archivo": "qsl/QSL_OA4DVG_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "HK3RLG",
+  "codigo": "26WUUZ",
+  "fecha": "2026-10-12 19:44:13",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK3RLG_2026-10.webp"
  },
  {
   "indicativo": "YE3CLS",
