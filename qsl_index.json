@@ -17186,10 +17186,10 @@
  },
  {
   "indicativo": "PP5NY",
-  "codigo": "RZY7JR",
-  "fecha": "2026-10-28 00:20:49",
+  "codigo": "2RKXH4",
+  "fecha": "2026-11-07 00:00:02",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PP5NY_2026-10.webp"
+  "archivo": "qsl/QSL_PP5NY_2026-11.webp"
  },
  {
   "indicativo": "PY2RX",
@@ -29930,6 +29930,13 @@
   "fecha": "2026-10-28 00:16:59",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PY1YE_2026-10.webp"
+ },
+ {
+  "indicativo": "PP5NY",
+  "codigo": "RZY7JR",
+  "fecha": "2026-10-28 00:20:49",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PP5NY_2026-10.webp"
  },
  {
   "indicativo": "OZ3LFG",
