@@ -4116,6 +4116,13 @@
   "archivo": "qsl/QSL_HK3RLG_2026-11.webp"
  },
  {
+  "indicativo": "HK3RLG",
+  "codigo": "NX4JGK",
+  "fecha": "2026-11-07 17:51:03",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK3RLG_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TG6NER",
   "codigo": "66TGH2",
   "fecha": "2026-10-07 18:47:44",
