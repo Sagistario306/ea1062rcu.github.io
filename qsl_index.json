@@ -2108,10 +2108,10 @@
  },
  {
   "indicativo": "9W2DCW",
-  "codigo": "ET7B7G",
-  "fecha": "2026-10-10 00:00:54",
+  "codigo": "ER2YM5",
+  "fecha": "2026-11-07 00:22:13",
   "pais": "Malasia",
-  "archivo": "qsl/QSL_9W2DCW_2026-10.webp"
+  "archivo": "qsl/QSL_9W2DCW_2026-11.webp"
  },
  {
   "indicativo": "TI0ATI",
@@ -29195,6 +29195,13 @@
   "fecha": "2026-10-01 00:04:30",
   "pais": "Venezuela",
   "archivo": "qsl/QSL_YY4OPM_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "9W2DCW",
+  "codigo": "ET7B7G",
+  "fecha": "2026-10-10 00:00:54",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2DCW_2026-10.webp"
  },
  {
   "indicativo": "YC3LDO",
