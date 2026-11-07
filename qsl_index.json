@@ -22023,10 +22023,10 @@
  },
  {
   "indicativo": "LA4FPA",
-  "codigo": "258BMQ",
-  "fecha": "2026-10-31 08:11:26",
+  "codigo": "DR7T8P",
+  "fecha": "2026-11-07 22:53:37",
   "pais": "Noruega",
-  "archivo": "qsl/QSL_LA4FPA_2026-10.webp"
+  "archivo": "qsl/QSL_LA4FPA_2026-11.webp"
  },
  {
   "indicativo": "YC2MHO",
@@ -31806,6 +31806,13 @@
   "fecha": "2026-10-31 07:07:54",
   "pais": "Rumania",
   "archivo": "qsl/QSL_YO7EPY_2026-10.webp"
+ },
+ {
+  "indicativo": "LA4FPA",
+  "codigo": "258BMQ",
+  "fecha": "2026-10-31 08:11:26",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LA4FPA_2026-10.webp"
  },
  {
   "indicativo": "OH6DPJ",
