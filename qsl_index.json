@@ -1477,6 +1477,13 @@
   "archivo": "qsl/QSL_EA1IVR_2026-11.webp"
  },
  {
+  "indicativo": "EA1IVR",
+  "codigo": "55MNR6",
+  "fecha": "2026-11-07 00:00:50",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA1IVR_2026-11_EV.webp"
+ },
+ {
   "indicativo": "XE2RCS",
   "codigo": "8T49ST",
   "fecha": "2026-10-04 00:03:22",
@@ -27668,7 +27675,7 @@
   "codigo": "R5YNQJ",
   "fecha": "2026-11-07 00:00:45",
   "pais": "Estados Unidos",
-  "archivo": "qsl/QSL_K9KMV_2026-11_EV.png"
+  "archivo": "qsl/QSL_K9KMV_2026-11_EV.webp"
  },
  {
   "indicativo": "9W2BWS",
