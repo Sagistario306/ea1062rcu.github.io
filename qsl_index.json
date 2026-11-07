@@ -19832,10 +19832,10 @@
  },
  {
   "indicativo": "W7GSV",
-  "codigo": "9KGAYK",
-  "fecha": "2026-10-30 00:01:21",
-  "pais": "EE.UU",
-  "archivo": "qsl/QSL_W7GSV_2026-10.webp"
+  "codigo": "NVKNKF",
+  "fecha": "2026-11-07 00:00:55",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_W7GSV_2026-11.png"
  },
  {
   "indicativo": "TA3NHI",
@@ -30343,6 +30343,13 @@
   "fecha": "2026-10-29 23:35:43",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU3EEJ_2026-10.webp"
+ },
+ {
+  "indicativo": "W7GSV",
+  "codigo": "9KGAYK",
+  "fecha": "2026-10-30 00:01:21",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_W7GSV_2026-10.webp"
  },
  {
   "indicativo": "N1ZNJ",
