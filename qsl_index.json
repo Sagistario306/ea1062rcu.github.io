@@ -21715,10 +21715,10 @@
  },
  {
   "indicativo": "PS7JAP",
-  "codigo": "VQ4KMS",
-  "fecha": "2026-10-31 01:48:03",
+  "codigo": "DDAV94",
+  "fecha": "2026-11-07 22:50:11",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PS7JAP_2026-10.webp"
+  "archivo": "qsl/QSL_PS7JAP_2026-11.webp"
  },
  {
   "indicativo": "IT9LPI",
@@ -31722,6 +31722,13 @@
   "fecha": "2026-10-31 01:08:43",
   "pais": "Reino Unido",
   "archivo": "qsl/QSL_M0WHL_2026-10.webp"
+ },
+ {
+  "indicativo": "PS7JAP",
+  "codigo": "VQ4KMS",
+  "fecha": "2026-10-31 01:48:03",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PS7JAP_2026-10.webp"
  },
  {
   "indicativo": "LA9NT",
