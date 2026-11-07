@@ -5195,10 +5195,10 @@
  },
  {
   "indicativo": "CX2JO",
-  "codigo": "AJKAYB",
-  "fecha": "2026-10-19 14:18:07",
+  "codigo": "ZK2HNK",
+  "fecha": "2026-11-07 00:47:11",
   "pais": "Uruguay",
-  "archivo": "qsl/QSL_CX2JO_2026-10.png"
+  "archivo": "qsl/QSL_CX2JO_2026-11.webp"
  },
  {
   "indicativo": "KP4NET",
@@ -28369,6 +28369,13 @@
   "fecha": "2026-10-10 21:56:16",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2YWH_2026-10.webp"
+ },
+ {
+  "indicativo": "CX2JO",
+  "codigo": "AJKAYB",
+  "fecha": "2026-10-19 14:18:07",
+  "pais": "Uruguay",
+  "archivo": "qsl/QSL_CX2JO_2026-10.webp"
  },
  {
   "indicativo": "KP4NET",
