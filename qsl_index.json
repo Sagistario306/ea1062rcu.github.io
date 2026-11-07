@@ -7610,10 +7610,10 @@
  },
  {
   "indicativo": "EB1HRW",
-  "codigo": "AJQTSJ",
-  "fecha": "2026-10-15 05:42:40",
+  "codigo": "K97QBD",
+  "fecha": "2026-11-07 06:42:34",
   "pais": "España",
-  "archivo": "qsl/QSL_EB1HRW_2026-10.webp"
+  "archivo": "qsl/QSL_EB1HRW_2026-11.webp"
  },
  {
   "indicativo": "9W3ASD",
@@ -28978,6 +28978,13 @@
   "fecha": "2026-10-08 00:09:52",
   "pais": "Cuba",
   "archivo": "qsl/QSL_CO5RMM_2026-10.webp"
+ },
+ {
+  "indicativo": "EB1HRW",
+  "codigo": "AJQTSJ",
+  "fecha": "2026-10-15 05:42:40",
+  "pais": "España",
+  "archivo": "qsl/QSL_EB1HRW_2026-10.webp"
  },
  {
   "indicativo": "EB7FAO",
