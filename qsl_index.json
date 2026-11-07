@@ -19838,6 +19838,13 @@
   "archivo": "qsl/QSL_W7GSV_2026-11.webp"
  },
  {
+  "indicativo": "W7GSV",
+  "codigo": "ZFSY7V",
+  "fecha": "2026-11-07 00:01:06",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_W7GSV_2026-11_EV.webp"
+ },
+ {
   "indicativo": "TA3NHI",
   "codigo": "5GZDEG",
   "fecha": "2026-11-02 00:05:12",
