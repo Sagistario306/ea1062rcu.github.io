@@ -18859,10 +18859,10 @@
  },
  {
   "indicativo": "VA3RT",
-  "codigo": "UC2QU7",
-  "fecha": "2026-10-29 02:56:36",
-  "pais": "Canada",
-  "archivo": "qsl/QSL_VA3RT_2026-10.webp"
+  "codigo": "G3Z6VG",
+  "fecha": "2026-11-07 00:07:53",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VA3RT_2026-11.webp"
  },
  {
   "indicativo": "HA1KHJ",
@@ -30336,6 +30336,13 @@
   "fecha": "2026-10-29 02:56:19",
   "pais": "Turquia",
   "archivo": "qsl/QSL_TB4AVR_2026-10.webp"
+ },
+ {
+  "indicativo": "VA3RT",
+  "codigo": "UC2QU7",
+  "fecha": "2026-10-29 02:56:36",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VA3RT_2026-10.webp"
  },
  {
   "indicativo": "VE2GPQ",
