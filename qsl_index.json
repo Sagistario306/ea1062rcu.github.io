@@ -27741,6 +27741,20 @@
   "archivo": "qsl/QSL_IZ3WRL_2026-11.webp"
  },
  {
+  "indicativo": "IZ3WRL",
+  "codigo": "TZKYGY",
+  "fecha": "2026-11-07 00:03:43",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IZ3WRL_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "VA7AQD",
+  "codigo": "XQ25BR",
+  "fecha": "2026-11-07 00:03:46",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VA7AQD_2026-11.png"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
