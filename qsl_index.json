@@ -3417,10 +3417,10 @@
  },
  {
   "indicativo": "9V1LH",
-  "codigo": "AY84X4",
-  "fecha": "2026-10-09 02:56:14",
+  "codigo": "JGTQH2",
+  "fecha": "2026-11-08 07:10:42",
   "pais": "Singapur",
-  "archivo": "qsl/QSL_9V1LH_2026-10.webp"
+  "archivo": "qsl/QSL_9V1LH_2026-11.webp"
  },
  {
   "indicativo": "YD0BSK",
@@ -29111,6 +29111,13 @@
   "fecha": "2026-10-12 00:06:14",
   "pais": "Indonesia",
   "archivo": "qsl/QSL_YF1FRI_2026-10.webp"
+ },
+ {
+  "indicativo": "9V1LH",
+  "codigo": "AY84X4",
+  "fecha": "2026-10-09 02:56:14",
+  "pais": "Singapur",
+  "archivo": "qsl/QSL_9V1LH_2026-10.webp"
  },
  {
   "indicativo": "XE2EM",
