@@ -22030,10 +22030,10 @@
  },
  {
   "indicativo": "G0JKQ",
-  "codigo": "68R4X4",
-  "fecha": "2026-10-31 07:50:25",
+  "codigo": "QNRCBM",
+  "fecha": "2026-11-08 09:30:46",
   "pais": "Reino Unido",
-  "archivo": "qsl/QSL_G0JKQ_2026-10.webp"
+  "archivo": "qsl/QSL_G0JKQ_2026-11.webp"
  },
  {
   "indicativo": "SV9FBP",
@@ -32457,6 +32457,13 @@
   "fecha": "2026-10-31 07:07:54",
   "pais": "Rumania",
   "archivo": "qsl/QSL_YO7EPY_2026-10.webp"
+ },
+ {
+  "indicativo": "G0JKQ",
+  "codigo": "68R4X4",
+  "fecha": "2026-10-31 07:50:25",
+  "pais": "Reino Unido",
+  "archivo": "qsl/QSL_G0JKQ_2026-10.webp"
  },
  {
   "indicativo": "LA4FPA",
