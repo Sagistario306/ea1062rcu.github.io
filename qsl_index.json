@@ -21512,10 +21512,10 @@
  },
  {
   "indicativo": "VE2XS",
-  "codigo": "NT2JCD",
-  "fecha": "2026-10-31 00:15:42",
-  "pais": "Canada",
-  "archivo": "qsl/QSL_VE2XS_2026-10.webp"
+  "codigo": "YM8W8K",
+  "fecha": "2026-11-08 00:00:46",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VE2XS_2026-11.webp"
  },
  {
   "indicativo": "TA1HK",
@@ -31890,6 +31890,13 @@
   "fecha": "2026-10-31 00:07:50",
   "pais": "China",
   "archivo": "qsl/QSL_BG2FRH_2026-10.webp"
+ },
+ {
+  "indicativo": "VE2XS",
+  "codigo": "NT2JCD",
+  "fecha": "2026-10-31 00:15:42",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE2XS_2026-10.webp"
  },
  {
   "indicativo": "IZ1RWC",
