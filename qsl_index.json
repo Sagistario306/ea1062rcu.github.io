@@ -21211,10 +21211,10 @@
  },
  {
   "indicativo": "IZ3LIR",
-  "codigo": "W8S66V",
-  "fecha": "2026-10-31 00:01:02",
+  "codigo": "4FP6GX",
+  "fecha": "2026-11-08 07:03:33",
   "pais": "Italia",
-  "archivo": "qsl/QSL_IZ3LIR_2026-10.webp"
+  "archivo": "qsl/QSL_IZ3LIR_2026-11.webp"
  },
  {
   "indicativo": "K9RDX",
@@ -32184,6 +32184,13 @@
   "fecha": "2026-10-31 00:00:48",
   "pais": "EE.UU",
   "archivo": "qsl/QSL_KC0ZZQ_2026-10.webp"
+ },
+ {
+  "indicativo": "IZ3LIR",
+  "codigo": "W8S66V",
+  "fecha": "2026-10-31 00:01:02",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IZ3LIR_2026-10.webp"
  },
  {
   "indicativo": "LA4XNA",
