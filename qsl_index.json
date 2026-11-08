@@ -10053,10 +10053,10 @@
  },
  {
   "indicativo": "LU2ALS",
-  "codigo": "BSVXEY",
-  "fecha": "2026-10-21 02:28:40",
+  "codigo": "3Z66V6",
+  "fecha": "2026-11-08 00:39:18",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU2ALS_2026-10.webp"
+  "archivo": "qsl/QSL_LU2ALS_2026-11.webp"
  },
  {
   "indicativo": "KP4RDS",
@@ -30511,6 +30511,13 @@
   "fecha": "2026-10-30 19:28:03",
   "pais": "Japon",
   "archivo": "qsl/QSL_JH1NHK_2026-10.webp"
+ },
+ {
+  "indicativo": "LU2ALS",
+  "codigo": "BSVXEY",
+  "fecha": "2026-10-21 02:28:40",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU2ALS_2026-10.webp"
  },
  {
   "indicativo": "ZS5X",
