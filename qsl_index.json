@@ -14708,10 +14708,10 @@
  },
  {
   "indicativo": "CN8GFH",
-  "codigo": "ZS2373",
-  "fecha": "2026-10-19 20:15:53",
+  "codigo": "E68J4T",
+  "fecha": "2026-11-08 18:50:50",
   "pais": "Marruecos",
-  "archivo": "qsl/QSL_CN8GFH_2026-10.webp"
+  "archivo": "qsl/QSL_CN8GFH_2026-11.webp"
  },
  {
   "indicativo": "K9JBO",
@@ -31512,6 +31512,13 @@
   "fecha": "2026-10-17 03:13:52",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK6V_2026-10.webp"
+ },
+ {
+  "indicativo": "CN8GFH",
+  "codigo": "ZS2373",
+  "fecha": "2026-10-19 20:15:53",
+  "pais": "Marruecos",
+  "archivo": "qsl/QSL_CN8GFH_2026-10.webp"
  },
  {
   "indicativo": "ZS1TAF",
