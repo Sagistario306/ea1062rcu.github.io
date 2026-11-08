@@ -21925,10 +21925,10 @@
  },
  {
   "indicativo": "OH8MTM",
-  "codigo": "NFUGPX",
-  "fecha": "2026-10-31 06:30:50",
+  "codigo": "QMEE85",
+  "fecha": "2026-11-08 07:38:20",
   "pais": "Finlandia",
-  "archivo": "qsl/QSL_OH8MTM_2026-10.webp"
+  "archivo": "qsl/QSL_OH8MTM_2026-11.webp"
  },
  {
   "indicativo": "IT9ITT",
@@ -32352,6 +32352,13 @@
   "fecha": "2026-10-31 06:28:58",
   "pais": "Sicilia",
   "archivo": "qsl/QSL_IW9DLL_2026-10.webp"
+ },
+ {
+  "indicativo": "OH8MTM",
+  "codigo": "NFUGPX",
+  "fecha": "2026-10-31 06:30:50",
+  "pais": "Finlandia",
+  "archivo": "qsl/QSL_OH8MTM_2026-10.webp"
  },
  {
   "indicativo": "YO7EPY",
