@@ -21498,10 +21498,10 @@
  },
  {
   "indicativo": "DD3MG",
-  "codigo": "TSYZK2",
-  "fecha": "2026-10-31 00:14:40",
+  "codigo": "B3Y2BB",
+  "fecha": "2026-11-08 01:21:58",
   "pais": "Alemania",
-  "archivo": "qsl/QSL_DD3MG_2026-10.webp"
+  "archivo": "qsl/QSL_DD3MG_2026-11.webp"
  },
  {
   "indicativo": "VE2XS",
@@ -32030,6 +32030,13 @@
   "fecha": "2026-10-31 00:07:50",
   "pais": "China",
   "archivo": "qsl/QSL_BG2FRH_2026-10.webp"
+ },
+ {
+  "indicativo": "DD3MG",
+  "codigo": "TSYZK2",
+  "fecha": "2026-10-31 00:14:40",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DD3MG_2026-10.webp"
  },
  {
   "indicativo": "VE2XS",
