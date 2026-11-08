@@ -16185,10 +16185,10 @@
  },
  {
   "indicativo": "DG1EZ",
-  "codigo": "WJ4WR3",
-  "fecha": "2026-10-26 13:04:04",
+  "codigo": "DYEFQA",
+  "fecha": "2026-11-08 03:21:10",
   "pais": "Alemania",
-  "archivo": "qsl/QSL_DG1EZ_2026-10.webp"
+  "archivo": "qsl/QSL_DG1EZ_2026-11.webp"
  },
  {
   "indicativo": "VK4FN",
@@ -31162,6 +31162,13 @@
   "fecha": "2026-10-26 13:03:56",
   "pais": "Francia",
   "archivo": "qsl/QSL_F4ERR_2026-10.webp"
+ },
+ {
+  "indicativo": "DG1EZ",
+  "codigo": "WJ4WR3",
+  "fecha": "2026-10-26 13:04:04",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DG1EZ_2026-10.webp"
  },
  {
   "indicativo": "4S7MD",
