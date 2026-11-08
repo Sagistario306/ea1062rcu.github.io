@@ -21897,10 +21897,10 @@
  },
  {
   "indicativo": "G6XRX",
-  "codigo": "C49Z2A",
-  "fecha": "2026-10-31 06:19:40",
+  "codigo": "FKP2DN",
+  "fecha": "2026-11-08 06:38:41",
   "pais": "Reino Unido",
-  "archivo": "qsl/QSL_G6XRX_2026-10.webp"
+  "archivo": "qsl/QSL_G6XRX_2026-11.webp"
  },
  {
   "indicativo": "IW9DLL",
@@ -32261,6 +32261,13 @@
   "fecha": "2026-10-31 06:07:31",
   "pais": "Finlandia",
   "archivo": "qsl/QSL_OH7CBC_2026-10.webp"
+ },
+ {
+  "indicativo": "G6XRX",
+  "codigo": "C49Z2A",
+  "fecha": "2026-10-31 06:19:40",
+  "pais": "Reino Unido",
+  "archivo": "qsl/QSL_G6XRX_2026-10.webp"
  },
  {
   "indicativo": "IW9DLL",
