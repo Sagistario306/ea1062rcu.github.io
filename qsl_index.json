@@ -6630,10 +6630,10 @@
  },
  {
   "indicativo": "9W2VDN",
-  "codigo": "G7CASD",
-  "fecha": "2026-10-31 13:31:08",
+  "codigo": "XH2AGE",
+  "fecha": "2026-11-08 04:24:18",
   "pais": "Malasia",
-  "archivo": "qsl/QSL_9W2VDN_2026-10.webp"
+  "archivo": "qsl/QSL_9W2VDN_2026-11.webp"
  },
  {
   "indicativo": "JR4EUD",
@@ -29699,6 +29699,13 @@
   "fecha": "2026-10-01 00:16:19",
   "pais": "Uruguay",
   "archivo": "qsl/QSL_CX4AT_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "9W2VDN",
+  "codigo": "G7CASD",
+  "fecha": "2026-10-31 13:31:08",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2VDN_2026-10.webp"
  },
  {
   "indicativo": "9W2EIS",
