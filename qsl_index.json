@@ -4950,17 +4950,10 @@
  },
  {
   "indicativo": "TI4OLS",
-  "codigo": "FDM34Y",
-  "fecha": "2026-10-02 02:10:58",
+  "codigo": "CBB3HV",
+  "fecha": "2026-11-08 19:44:19",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI4OLS_2026-10.webp"
- },
- {
-  "indicativo": "TI4OLS",
-  "codigo": "MSD3A3",
-  "fecha": "2026-10-02 02:11:04",
-  "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI4OLS_2026-10_EV.webp"
+  "archivo": "qsl/QSL_TI4OLS_2026-11.webp"
  },
  {
   "indicativo": "YD0BOQ",
@@ -29790,6 +29783,20 @@
   "fecha": "2026-10-09 00:04:18",
   "pais": "Filipinas",
   "archivo": "qsl/QSL_DZ4E_2026-10.webp"
+ },
+ {
+  "indicativo": "TI4OLS",
+  "codigo": "FDM34Y",
+  "fecha": "2026-10-02 02:10:58",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI4OLS_2026-10.webp"
+ },
+ {
+  "indicativo": "TI4OLS",
+  "codigo": "MSD3A3",
+  "fecha": "2026-10-02 02:10:58",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI4OLS_2026-10_EV.webp"
  },
  {
   "indicativo": "YV7BMZ",
