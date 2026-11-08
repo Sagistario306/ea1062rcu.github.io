@@ -13875,10 +13875,10 @@
  },
  {
   "indicativo": "VE1RIK",
-  "codigo": "A2B23R",
-  "fecha": "2026-10-16 00:32:24",
-  "pais": "Canada",
-  "archivo": "qsl/QSL_VE1RIK_2026-10.webp"
+  "codigo": "5X5ABA",
+  "fecha": "2026-11-08 00:04:30",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VE1RIK_2026-11.webp"
  },
  {
   "indicativo": "VE7KGV",
@@ -30882,6 +30882,13 @@
   "fecha": "2026-10-15 05:38:19",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PU2OZC_2026-10.webp"
+ },
+ {
+  "indicativo": "VE1RIK",
+  "codigo": "A2B23R",
+  "fecha": "2026-10-16 00:32:24",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE1RIK_2026-10.webp"
  },
  {
   "indicativo": "HJ5RTD",
