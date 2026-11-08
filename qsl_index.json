@@ -16080,10 +16080,10 @@
  },
  {
   "indicativo": "9W3KIL",
-  "codigo": "E63VXK",
-  "fecha": "2026-10-26 10:20:09",
+  "codigo": "82H8UX",
+  "fecha": "2026-11-08 11:21:31",
   "pais": "Malasia",
-  "archivo": "qsl/QSL_9W3KIL_2026-10.webp"
+  "archivo": "qsl/QSL_9W3KIL_2026-11.webp"
  },
  {
   "indicativo": "PU1PCR",
@@ -31540,6 +31540,13 @@
   "fecha": "2026-10-26 10:14:56",
   "pais": "Canada",
   "archivo": "qsl/QSL_VE3SU_2026-10.webp"
+ },
+ {
+  "indicativo": "9W3KIL",
+  "codigo": "E63VXK",
+  "fecha": "2026-10-26 10:20:09",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W3KIL_2026-10.webp"
  },
  {
   "indicativo": "F4ERR",
