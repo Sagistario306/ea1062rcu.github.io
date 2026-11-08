@@ -21022,10 +21022,10 @@
  },
  {
   "indicativo": "HS4NIY",
-  "codigo": "GNNBHJ",
-  "fecha": "2026-10-30 08:29:48",
+  "codigo": "899AP2",
+  "fecha": "2026-11-08 07:19:55",
   "pais": "Tailandia",
-  "archivo": "qsl/QSL_HS4NIY_2026-10.webp"
+  "archivo": "qsl/QSL_HS4NIY_2026-11.webp"
  },
  {
   "indicativo": "9M2RPN",
@@ -32170,6 +32170,13 @@
   "fecha": "2026-10-30 07:10:36",
   "pais": "Suecia",
   "archivo": "qsl/QSL_SM0GBG_2026-10.webp"
+ },
+ {
+  "indicativo": "HS4NIY",
+  "codigo": "GNNBHJ",
+  "fecha": "2026-10-30 08:29:48",
+  "pais": "Tailandia",
+  "archivo": "qsl/QSL_HS4NIY_2026-10.webp"
  },
  {
   "indicativo": "9M2VDY",
