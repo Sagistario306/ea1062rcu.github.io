@@ -17200,10 +17200,10 @@
  },
  {
   "indicativo": "VA7PG",
-  "codigo": "NZSWA2",
-  "fecha": "2026-10-28 00:02:47",
-  "pais": "Canada",
-  "archivo": "qsl/QSL_VA7PG_2026-10.webp"
+  "codigo": "PF4EXM",
+  "fecha": "2026-11-08 00:01:46",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VA7PG_2026-11.webp"
  },
  {
   "indicativo": "PU2VEM",
@@ -31169,6 +31169,13 @@
   "fecha": "2026-10-27 08:07:45",
   "pais": "Sudafrica",
   "archivo": "qsl/QSL_ZS1TVN_2026-10.webp"
+ },
+ {
+  "indicativo": "VA7PG",
+  "codigo": "NZSWA2",
+  "fecha": "2026-10-28 00:02:47",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VA7PG_2026-10.webp"
  },
  {
   "indicativo": "VA3RCU",
