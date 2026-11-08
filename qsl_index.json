@@ -20140,10 +20140,10 @@
  },
  {
   "indicativo": "BI3ODB",
-  "codigo": "AR9MHE",
-  "fecha": "2026-10-30 00:04:01",
+  "codigo": "3W3B65",
+  "fecha": "2026-11-08 00:08:06",
   "pais": "China",
-  "archivo": "qsl/QSL_BI3ODB_2026-10.webp"
+  "archivo": "qsl/QSL_BI3ODB_2026-11.webp"
  },
  {
   "indicativo": "DF1MP",
@@ -31687,6 +31687,13 @@
   "fecha": "2026-10-30 00:03:50",
   "pais": "China",
   "archivo": "qsl/QSL_BX8AAN_2026-10.webp"
+ },
+ {
+  "indicativo": "BI3ODB",
+  "codigo": "AR9MHE",
+  "fecha": "2026-10-30 00:04:01",
+  "pais": "China",
+  "archivo": "qsl/QSL_BI3ODB_2026-10.webp"
  },
  {
   "indicativo": "4S7DSB",
