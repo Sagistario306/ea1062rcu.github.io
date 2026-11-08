@@ -5762,10 +5762,10 @@
  },
  {
   "indicativo": "LU1UDP",
-  "codigo": "WH3TJ5",
-  "fecha": "2026-10-08 00:02:16",
+  "codigo": "G8MNPK",
+  "fecha": "2026-11-08 02:16:19",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU1UDP_2026-10.webp"
+  "archivo": "qsl/QSL_LU1UDP_2026-11.webp"
  },
  {
   "indicativo": "HP1SEB",
@@ -29510,6 +29510,13 @@
   "fecha": "2026-10-06 22:14:24",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HJ7OZ_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "LU1UDP",
+  "codigo": "WH3TJ5",
+  "fecha": "2026-10-08 00:02:16",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU1UDP_2026-10.webp"
  },
  {
   "indicativo": "LU2XCV",
