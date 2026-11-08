@@ -19804,10 +19804,10 @@
  },
  {
   "indicativo": "9A3XZ",
-  "codigo": "STDGG4",
-  "fecha": "2026-10-29 05:54:54",
+  "codigo": "Y64RDK",
+  "fecha": "2026-11-08 14:59:45",
   "pais": "Croacia",
-  "archivo": "qsl/QSL_9A3XZ_2026-10.webp"
+  "archivo": "qsl/QSL_9A3XZ_2026-11.webp"
  },
  {
   "indicativo": "HS1QPQ",
@@ -32191,6 +32191,13 @@
   "fecha": "2026-10-29 05:00:55",
   "pais": "Republica Checa",
   "archivo": "qsl/QSL_OK2MD_2026-10.webp"
+ },
+ {
+  "indicativo": "9A3XZ",
+  "codigo": "STDGG4",
+  "fecha": "2026-10-29 05:54:54",
+  "pais": "Croacia",
+  "archivo": "qsl/QSL_9A3XZ_2026-10.webp"
  },
  {
   "indicativo": "PU5SZN",
