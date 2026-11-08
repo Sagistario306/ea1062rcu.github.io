@@ -5979,17 +5979,10 @@
  },
  {
   "indicativo": "NP3ZY",
-  "codigo": "6SY5YD",
-  "fecha": "2026-10-03 00:20:32",
+  "codigo": "VMRHMT",
+  "fecha": "2026-11-08 19:14:02",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_NP3ZY_2026-10.webp"
- },
- {
-  "indicativo": "NP3ZY",
-  "codigo": "8AVKNG",
-  "fecha": "2026-10-03 00:20:37",
-  "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_NP3ZY_2026-10_EV.webp"
+  "archivo": "qsl/QSL_NP3ZY_2026-11.webp"
  },
  {
   "indicativo": "CX3BZ",
@@ -30000,6 +29993,20 @@
   "fecha": "2026-10-02 00:49:36",
   "pais": "Uruguay",
   "archivo": "qsl/QSL_CX3JG_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "NP3ZY",
+  "codigo": "6SY5YD",
+  "fecha": "2026-10-03 00:20:32",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP3ZY_2026-10.webp"
+ },
+ {
+  "indicativo": "NP3ZY",
+  "codigo": "8AVKNG",
+  "fecha": "2026-10-03 00:20:32",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP3ZY_2026-10_EV.webp"
  },
  {
   "indicativo": "XE3K",
