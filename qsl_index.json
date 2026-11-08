@@ -10830,10 +10830,10 @@
  },
  {
   "indicativo": "PU2LGC",
-  "codigo": "UYFTMU",
-  "fecha": "2026-10-25 18:39:42",
+  "codigo": "NNP5HP",
+  "fecha": "2026-11-08 10:02:52",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PU2LGC_2026-10.webp"
+  "archivo": "qsl/QSL_PU2LGC_2026-11.webp"
  },
  {
   "indicativo": "LU3QDF",
@@ -31008,6 +31008,13 @@
   "fecha": "2026-10-22 14:24:27",
   "pais": "Peru",
   "archivo": "qsl/QSL_OA4EGY_2026-10.webp"
+ },
+ {
+  "indicativo": "PU2LGC",
+  "codigo": "UYFTMU",
+  "fecha": "2026-10-25 18:39:42",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU2LGC_2026-10.webp"
  },
  {
   "indicativo": "XE2MVZ",
