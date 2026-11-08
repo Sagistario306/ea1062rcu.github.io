@@ -6917,10 +6917,10 @@
  },
  {
   "indicativo": "HC3MC",
-  "codigo": "RV52RC",
-  "fecha": "2026-10-12 01:15:28",
+  "codigo": "C2S3WE",
+  "fecha": "2026-11-08 22:28:19",
   "pais": "Ecuador",
-  "archivo": "qsl/QSL_HC3MC_2026-10.webp"
+  "archivo": "qsl/QSL_HC3MC_2026-11.webp"
  },
  {
   "indicativo": "HI3LAG",
@@ -30203,6 +30203,13 @@
   "fecha": "2026-10-09 21:43:20",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE3AEA_2026-10.webp"
+ },
+ {
+  "indicativo": "HC3MC",
+  "codigo": "RV52RC",
+  "fecha": "2026-10-12 01:15:28",
+  "pais": "Ecuador",
+  "archivo": "qsl/QSL_HC3MC_2026-10.webp"
  },
  {
   "indicativo": "EA5KGJ",
