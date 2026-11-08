@@ -2850,17 +2850,10 @@
  },
  {
   "indicativo": "EC5M",
-  "codigo": "RHM372",
-  "fecha": "2026-10-06 00:00:56",
+  "codigo": "MTM47Y",
+  "fecha": "2026-11-08 04:52:52",
   "pais": "España",
-  "archivo": "qsl/QSL_EC5M_2026-10.webp"
- },
- {
-  "indicativo": "EC5M",
-  "codigo": "TVVR75",
-  "fecha": "2026-10-06 00:01:01",
-  "pais": "España",
-  "archivo": "qsl/QSL_EC5M_2026-10_EV.webp"
+  "archivo": "qsl/QSL_EC5M_2026-11.webp"
  },
  {
   "indicativo": "YB2CYA",
@@ -28915,6 +28908,20 @@
   "fecha": "2026-10-03 00:09:49",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK6L_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "EC5M",
+  "codigo": "RHM372",
+  "fecha": "2026-10-06 00:00:56",
+  "pais": "España",
+  "archivo": "qsl/QSL_EC5M_2026-10.webp"
+ },
+ {
+  "indicativo": "EC5M",
+  "codigo": "TVVR75",
+  "fecha": "2026-10-06 00:00:56",
+  "pais": "España",
+  "archivo": "qsl/QSL_EC5M_2026-10_EV.webp"
  },
  {
   "indicativo": "TI4GO",
