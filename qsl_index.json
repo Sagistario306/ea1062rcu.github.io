@@ -729,10 +729,10 @@
  },
  {
   "indicativo": "LW2EDM",
-  "codigo": "8RX3FC",
-  "fecha": "2026-10-18 00:21:26",
+  "codigo": "CRVNQQ",
+  "fecha": "2026-11-08 15:44:37",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LW2EDM_2026-10.webp"
+  "archivo": "qsl/QSL_LW2EDM_2026-11.webp"
  },
  {
   "indicativo": "XE3O",
@@ -31316,6 +31316,13 @@
   "fecha": "2026-10-23 04:51:04",
   "pais": "España",
   "archivo": "qsl/QSL_EA5HPA_2026-10.webp"
+ },
+ {
+  "indicativo": "LW2EDM",
+  "codigo": "8RX3FC",
+  "fecha": "2026-10-18 00:21:26",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW2EDM_2026-10.webp"
  },
  {
   "indicativo": "YD2VKR",
