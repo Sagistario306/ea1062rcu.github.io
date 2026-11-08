@@ -19937,10 +19937,10 @@
  },
  {
   "indicativo": "RC7LL",
-  "codigo": "WUD7S4",
-  "fecha": "2026-10-30 00:01:06",
+  "codigo": "KHU3F2",
+  "fecha": "2026-11-08 20:41:18",
   "pais": "Rusia",
-  "archivo": "qsl/QSL_RC7LL_2026-10.webp"
+  "archivo": "qsl/QSL_RC7LL_2026-11.webp"
  },
  {
   "indicativo": "PA3GCG",
@@ -32289,6 +32289,13 @@
   "fecha": "2026-10-29 23:35:43",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU3EEJ_2026-10.webp"
+ },
+ {
+  "indicativo": "RC7LL",
+  "codigo": "WUD7S4",
+  "fecha": "2026-10-30 00:01:06",
+  "pais": "Rusia",
+  "archivo": "qsl/QSL_RC7LL_2026-10.webp"
  },
  {
   "indicativo": "W7GSV",
