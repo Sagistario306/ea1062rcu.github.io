@@ -2087,17 +2087,10 @@
  },
  {
   "indicativo": "HP2DFA",
-  "codigo": "DU6HJ5",
-  "fecha": "2026-10-01 00:07:18",
-  "pais": "Panama",
-  "archivo": "qsl/QSL_HP2DFA_2026-10.webp"
- },
- {
-  "indicativo": "HP2DFA",
-  "codigo": "CYA8DF",
-  "fecha": "2026-10-01 00:07:23",
-  "pais": "Panama",
-  "archivo": "qsl/QSL_HP2DFA_2026-10_EV.webp"
+  "codigo": "V96V46",
+  "fecha": "2026-11-08 21:09:51",
+  "pais": "Panamá",
+  "archivo": "qsl/QSL_HP2DFA_2026-11.webp"
  },
  {
   "indicativo": "HR1LEO",
@@ -30945,6 +30938,20 @@
   "fecha": "2026-10-24 00:10:12",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2PJU_2026-10.webp"
+ },
+ {
+  "indicativo": "HP2DFA",
+  "codigo": "DU6HJ5",
+  "fecha": "2026-10-01 00:07:18",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP2DFA_2026-10.webp"
+ },
+ {
+  "indicativo": "HP2DFA",
+  "codigo": "CYA8DF",
+  "fecha": "2026-10-01 00:07:18",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP2DFA_2026-10_EV.webp"
  },
  {
   "indicativo": "LU4HH",
