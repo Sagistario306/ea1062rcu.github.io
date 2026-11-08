@@ -11173,17 +11173,10 @@
  },
  {
   "indicativo": "YY6IJP",
-  "codigo": "UH5XJV",
-  "fecha": "2026-10-01 00:06:18",
+  "codigo": "XCP9NW",
+  "fecha": "2026-11-08 14:05:27",
   "pais": "Venezuela",
-  "archivo": "qsl/QSL_YY6IJP_2026-10.webp"
- },
- {
-  "indicativo": "YY6IJP",
-  "codigo": "GKV9CK",
-  "fecha": "2026-10-01 00:06:23",
-  "pais": "Venezuela",
-  "archivo": "qsl/QSL_YY6IJP_2026-10_EV.webp"
+  "archivo": "qsl/QSL_YY6IJP_2026-11.webp"
  },
  {
   "indicativo": "HK9NEP",
@@ -31225,6 +31218,20 @@
   "fecha": "2026-10-08 13:43:42",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PY2KUU_2026-10.webp"
+ },
+ {
+  "indicativo": "YY6IJP",
+  "codigo": "UH5XJV",
+  "fecha": "2026-10-01 00:06:18",
+  "pais": "Venezuela",
+  "archivo": "qsl/QSL_YY6IJP_2026-10.webp"
+ },
+ {
+  "indicativo": "YY6IJP",
+  "codigo": "GKV9CK",
+  "fecha": "2026-10-01 00:06:18",
+  "pais": "Venezuela",
+  "archivo": "qsl/QSL_YY6IJP_2026-10_EV.webp"
  },
  {
   "indicativo": "4X1ZQ",
