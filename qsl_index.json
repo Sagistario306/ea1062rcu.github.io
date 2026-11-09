@@ -10585,10 +10585,10 @@
  },
  {
   "indicativo": "HR5PAR",
-  "codigo": "T78CJ6",
-  "fecha": "2026-10-11 14:05:07",
+  "codigo": "YMWE2G",
+  "fecha": "2026-11-09 21:37:21",
   "pais": "Honduras",
-  "archivo": "qsl/QSL_HR5PAR_2026-10.webp"
+  "archivo": "qsl/QSL_HR5PAR_2026-11.webp"
  },
  {
   "indicativo": "HJ4JSN",
@@ -31729,6 +31729,13 @@
   "fecha": "2026-10-01 13:36:54",
   "pais": "Honduras",
   "archivo": "qsl/QSL_HR2LED_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "HR5PAR",
+  "codigo": "T78CJ6",
+  "fecha": "2026-10-11 14:05:07",
+  "pais": "Honduras",
+  "archivo": "qsl/QSL_HR5PAR_2026-10.webp"
  },
  {
   "indicativo": "EA1IXG",
