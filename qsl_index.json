@@ -20553,10 +20553,10 @@
  },
  {
   "indicativo": "OE1ACM",
-  "codigo": "FN9FHM",
-  "fecha": "2026-10-30 01:06:45",
+  "codigo": "5WX7DG",
+  "fecha": "2026-11-09 08:22:47",
   "pais": "Austria",
-  "archivo": "qsl/QSL_OE1ACM_2026-10.webp"
+  "archivo": "qsl/QSL_OE1ACM_2026-11.webp"
  },
  {
   "indicativo": "SV2HJW",
@@ -32905,6 +32905,13 @@
   "fecha": "2026-10-30 00:32:14",
   "pais": "Grecia",
   "archivo": "qsl/QSL_SV3BEF_2026-10.webp"
+ },
+ {
+  "indicativo": "OE1ACM",
+  "codigo": "FN9FHM",
+  "fecha": "2026-10-30 01:06:45",
+  "pais": "Austria",
+  "archivo": "qsl/QSL_OE1ACM_2026-10.webp"
  },
  {
   "indicativo": "SV2HIA",
