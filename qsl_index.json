@@ -5051,7 +5051,7 @@
   "codigo": "ZTGCR4",
   "fecha": "2026-11-09 16:53:37",
   "pais": "México",
-  "archivo": "qsl/QSL_XE1FAS_2026-11.webp"
+  "archivo": "qsl/QSL_XE1FAS_2026-11.png"
  },
  {
   "indicativo": "LW1EA",
@@ -29818,6 +29818,13 @@
   "fecha": "2026-11-09 16:36:56",
   "pais": "Sicilia",
   "archivo": "qsl/QSL_IW9BAX_2026-11.webp"
+ },
+ {
+  "indicativo": "HJ4DK",
+  "codigo": "XGZDPR",
+  "fecha": "2026-11-09 18:55:21",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ4DK_2026-11.webp"
  },
  {
   "indicativo": "9W2BWS",
