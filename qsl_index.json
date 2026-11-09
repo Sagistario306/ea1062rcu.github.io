@@ -19755,10 +19755,10 @@
  },
  {
   "indicativo": "G7EPE",
-  "codigo": "Y2KCVH",
-  "fecha": "2026-10-29 05:44:31",
+  "codigo": "NFFQ6C",
+  "fecha": "2026-11-09 05:44:41",
   "pais": "Reino Unido",
-  "archivo": "qsl/QSL_G7EPE_2026-10.webp"
+  "archivo": "qsl/QSL_G7EPE_2026-11.webp"
  },
  {
   "indicativo": "PD3RON",
@@ -32576,6 +32576,13 @@
   "fecha": "2026-10-29 05:00:55",
   "pais": "Republica Checa",
   "archivo": "qsl/QSL_OK2MD_2026-10.webp"
+ },
+ {
+  "indicativo": "G7EPE",
+  "codigo": "Y2KCVH",
+  "fecha": "2026-10-29 05:44:31",
+  "pais": "Reino Unido",
+  "archivo": "qsl/QSL_G7EPE_2026-10.webp"
  },
  {
   "indicativo": "9A3XZ",
