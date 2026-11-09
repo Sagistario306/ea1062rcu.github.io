@@ -20091,10 +20091,10 @@
  },
  {
   "indicativo": "BV3VP",
-  "codigo": "5ECSTS",
-  "fecha": "2026-10-30 00:03:33",
+  "codigo": "MRM9NT",
+  "fecha": "2026-11-09 00:03:08",
   "pais": "China",
-  "archivo": "qsl/QSL_BV3VP_2026-10.webp"
+  "archivo": "qsl/QSL_BV3VP_2026-11.webp"
  },
  {
   "indicativo": "4S7SA",
@@ -32457,6 +32457,13 @@
   "fecha": "2026-10-30 00:02:33",
   "pais": "Polonia",
   "archivo": "qsl/QSL_SR4NWO_2026-10.webp"
+ },
+ {
+  "indicativo": "BV3VP",
+  "codigo": "5ECSTS",
+  "fecha": "2026-10-30 00:03:33",
+  "pais": "China",
+  "archivo": "qsl/QSL_BV3VP_2026-10.webp"
  },
  {
   "indicativo": "BX8AAN",
