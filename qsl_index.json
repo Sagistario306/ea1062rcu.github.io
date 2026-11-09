@@ -21603,10 +21603,10 @@
  },
  {
   "indicativo": "VA3UG",
-  "codigo": "SWQE8M",
-  "fecha": "2026-10-31 00:28:24",
-  "pais": "Canada",
-  "archivo": "qsl/QSL_VA3UG_2026-10.webp"
+  "codigo": "PRPR49",
+  "fecha": "2026-11-09 00:08:20",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VA3UG_2026-11.webp"
  },
  {
   "indicativo": "JR2QZY",
@@ -32828,6 +32828,13 @@
   "fecha": "2026-10-31 00:25:57",
   "pais": "Canada",
   "archivo": "qsl/QSL_VE7MRP_2026-10.webp"
+ },
+ {
+  "indicativo": "VA3UG",
+  "codigo": "SWQE8M",
+  "fecha": "2026-10-31 00:28:24",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VA3UG_2026-10.webp"
  },
  {
   "indicativo": "M0WHL",
