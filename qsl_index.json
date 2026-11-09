@@ -99,10 +99,10 @@
  },
  {
   "indicativo": "EB2EMZ",
-  "codigo": "DNSEGG",
-  "fecha": "2026-10-11 00:04:06",
+  "codigo": "YR2H45",
+  "fecha": "2026-11-09 05:41:46",
   "pais": "España",
-  "archivo": "qsl/QSL_EB2EMZ_2026-10.webp"
+  "archivo": "qsl/QSL_EB2EMZ_2026-11.webp"
  },
  {
   "indicativo": "EB5RCA",
@@ -31617,6 +31617,13 @@
   "fecha": "2026-10-30 00:19:34",
   "pais": "Italia",
   "archivo": "qsl/QSL_IK8TGH_2026-10.webp"
+ },
+ {
+  "indicativo": "EB2EMZ",
+  "codigo": "DNSEGG",
+  "fecha": "2026-10-11 00:04:06",
+  "pais": "España",
+  "archivo": "qsl/QSL_EB2EMZ_2026-10.webp"
  },
  {
   "indicativo": "YF9UAG",
