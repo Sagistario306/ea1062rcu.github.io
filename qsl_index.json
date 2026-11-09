@@ -2605,17 +2605,10 @@
  },
  {
   "indicativo": "XE1GT",
-  "codigo": "SRCFEX",
-  "fecha": "2026-10-01 00:08:11",
-  "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1GT_2026-10.webp"
- },
- {
-  "indicativo": "XE1GT",
-  "codigo": "28D8DU",
-  "fecha": "2026-10-01 00:08:16",
-  "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1GT_2026-10_EV.webp"
+  "codigo": "Q7MYEC",
+  "fecha": "2026-11-09 02:09:31",
+  "pais": "México",
+  "archivo": "qsl/QSL_XE1GT_2026-11.webp"
  },
  {
   "indicativo": "HP1COO",
@@ -29468,6 +29461,20 @@
   "fecha": "2026-10-28 13:57:55",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W2BWS_2026-10.webp"
+ },
+ {
+  "indicativo": "XE1GT",
+  "codigo": "SRCFEX",
+  "fecha": "2026-10-01 00:08:11",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1GT_2026-10.webp"
+ },
+ {
+  "indicativo": "XE1GT",
+  "codigo": "28D8DU",
+  "fecha": "2026-10-01 00:08:11",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1GT_2026-10_EV.webp"
  },
  {
   "indicativo": "HK6L",
