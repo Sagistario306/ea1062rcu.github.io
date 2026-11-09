@@ -5048,10 +5048,10 @@
  },
  {
   "indicativo": "XE1FAS",
-  "codigo": "39MTB3",
-  "fecha": "2026-10-09 00:02:16",
-  "pais": "Mexico",
-  "archivo": "qsl/QSL_XE1FAS_2026-10.webp"
+  "codigo": "ZTGCR4",
+  "fecha": "2026-11-09 16:53:37",
+  "pais": "México",
+  "archivo": "qsl/QSL_XE1FAS_2026-11.webp"
  },
  {
   "indicativo": "LW1EA",
@@ -30357,6 +30357,13 @@
   "fecha": "2026-10-01 00:14:44",
   "pais": "Venezuela",
   "archivo": "qsl/QSL_YV7BMZ_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "XE1FAS",
+  "codigo": "39MTB3",
+  "fecha": "2026-10-09 00:02:16",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE1FAS_2026-10.webp"
  },
  {
   "indicativo": "LU4FGS",
