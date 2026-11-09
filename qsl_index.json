@@ -10739,10 +10739,10 @@
  },
  {
   "indicativo": "PY4ARR",
-  "codigo": "ZHVQ5M",
-  "fecha": "2026-10-14 00:00:48",
+  "codigo": "6B29SX",
+  "fecha": "2026-11-09 01:32:00",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY4ARR_2026-10.webp"
+  "archivo": "qsl/QSL_PY4ARR_2026-11.webp"
  },
  {
   "indicativo": "PU2AMA",
@@ -31337,6 +31337,13 @@
   "fecha": "2026-10-26 12:35:29",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1BA_2026-10.webp"
+ },
+ {
+  "indicativo": "PY4ARR",
+  "codigo": "ZHVQ5M",
+  "fecha": "2026-10-14 00:00:48",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY4ARR_2026-10.webp"
  },
  {
   "indicativo": "CE3PJD",
