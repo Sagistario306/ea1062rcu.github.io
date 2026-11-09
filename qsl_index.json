@@ -13140,10 +13140,10 @@
  },
  {
   "indicativo": "SV2JAO",
-  "codigo": "QECSGJ",
-  "fecha": "2026-10-12 18:55:54",
+  "codigo": "Q9HXS4",
+  "fecha": "2026-11-09 15:51:15",
   "pais": "Grecia",
-  "archivo": "qsl/QSL_SV2JAO_2026-10.webp"
+  "archivo": "qsl/QSL_SV2JAO_2026-11.webp"
  },
  {
   "indicativo": "LA9VBA",
@@ -32100,6 +32100,13 @@
   "fecha": "2026-10-12 00:11:54",
   "pais": "Hawai",
   "archivo": "qsl/QSL_KH6L_2026-10.webp"
+ },
+ {
+  "indicativo": "SV2JAO",
+  "codigo": "QECSGJ",
+  "fecha": "2026-10-12 18:55:54",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV2JAO_2026-10.webp"
  },
  {
   "indicativo": "K7QEQ",
