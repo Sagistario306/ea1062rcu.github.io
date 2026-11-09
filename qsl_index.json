@@ -876,10 +876,10 @@
  },
  {
   "indicativo": "9M2EDU",
-  "codigo": "HX2546",
-  "fecha": "2026-10-22 00:18:20",
-  "pais": "Malasia",
-  "archivo": "qsl/QSL_9M2EDU_2026-10.webp"
+  "codigo": "XXTAZ7",
+  "fecha": "2026-11-09 14:04:51",
+  "pais": "Malasia Occidental",
+  "archivo": "qsl/QSL_9M2EDU_2026-11.webp"
  },
  {
   "indicativo": "EA5SW",
@@ -31351,6 +31351,13 @@
   "fecha": "2026-10-03 00:12:08",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK6RM_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "9M2EDU",
+  "codigo": "HX2546",
+  "fecha": "2026-10-22 00:18:20",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9M2EDU_2026-10.webp"
  },
  {
   "indicativo": "CE3PBR",
