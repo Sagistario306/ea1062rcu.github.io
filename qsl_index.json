@@ -20623,10 +20623,10 @@
  },
  {
   "indicativo": "DF8FL",
-  "codigo": "ZSNWES",
-  "fecha": "2026-10-30 03:13:35",
+  "codigo": "BAEM3G",
+  "fecha": "2026-11-09 06:08:35",
   "pais": "Alemania",
-  "archivo": "qsl/QSL_DF8FL_2026-10.webp"
+  "archivo": "qsl/QSL_DF8FL_2026-11.webp"
  },
  {
   "indicativo": "VK2WJ",
@@ -32772,6 +32772,13 @@
   "fecha": "2026-10-30 03:00:50",
   "pais": "Alemania",
   "archivo": "qsl/QSL_DJ6CX_2026-10.webp"
+ },
+ {
+  "indicativo": "DF8FL",
+  "codigo": "ZSNWES",
+  "fecha": "2026-10-30 03:13:35",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DF8FL_2026-10.webp"
  },
  {
   "indicativo": "EA4HGA",
