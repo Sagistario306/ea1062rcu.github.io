@@ -16710,10 +16710,10 @@
  },
  {
   "indicativo": "F8WAZ",
-  "codigo": "AKABYW",
-  "fecha": "2026-10-26 13:12:47",
+  "codigo": "V9GQQ3",
+  "fecha": "2026-11-09 06:37:35",
   "pais": "Francia",
-  "archivo": "qsl/QSL_F8WAZ_2026-10.webp"
+  "archivo": "qsl/QSL_F8WAZ_2026-11.webp"
  },
  {
   "indicativo": "SM6MDF",
@@ -32135,6 +32135,13 @@
   "fecha": "2026-10-26 13:11:22",
   "pais": "Reino Unido",
   "archivo": "qsl/QSL_M7IDE_2026-10.webp"
+ },
+ {
+  "indicativo": "F8WAZ",
+  "codigo": "AKABYW",
+  "fecha": "2026-10-26 13:12:47",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F8WAZ_2026-10.webp"
  },
  {
   "indicativo": "YT1NDO",
