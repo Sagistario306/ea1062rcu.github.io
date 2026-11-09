@@ -29652,6 +29652,13 @@
   "archivo": "qsl/QSL_LE4CTD_2026-11.webp"
  },
  {
+  "indicativo": "LE4CTC",
+  "codigo": "2DGHK8",
+  "fecha": "2026-11-09 08:02:29",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LE4CTC_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
