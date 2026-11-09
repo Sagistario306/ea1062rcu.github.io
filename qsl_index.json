@@ -19748,10 +19748,10 @@
  },
  {
   "indicativo": "HS4HLW",
-  "codigo": "9HHV2N",
-  "fecha": "2026-10-29 05:30:18",
+  "codigo": "RNVC8K",
+  "fecha": "2026-11-09 06:03:15",
   "pais": "Tailandia",
-  "archivo": "qsl/QSL_HS4HLW_2026-10.webp"
+  "archivo": "qsl/QSL_HS4HLW_2026-11.webp"
  },
  {
   "indicativo": "G7EPE",
@@ -32590,6 +32590,13 @@
   "fecha": "2026-10-29 05:00:55",
   "pais": "Republica Checa",
   "archivo": "qsl/QSL_OK2MD_2026-10.webp"
+ },
+ {
+  "indicativo": "HS4HLW",
+  "codigo": "9HHV2N",
+  "fecha": "2026-10-29 05:30:18",
+  "pais": "Tailandia",
+  "archivo": "qsl/QSL_HS4HLW_2026-10.webp"
  },
  {
   "indicativo": "G7EPE",
