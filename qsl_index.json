@@ -29316,6 +29316,13 @@
   "archivo": "qsl/QSL_HS5SQI_2026-11.webp"
  },
  {
+  "indicativo": "AD6G",
+  "codigo": "QMH27U",
+  "fecha": "2026-11-09 00:00:06",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_AD6G_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
