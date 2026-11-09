@@ -22002,10 +22002,10 @@
  },
  {
   "indicativo": "EA1FMI",
-  "codigo": "UC3REV",
-  "fecha": "2026-10-31 07:39:07",
+  "codigo": "5KKYKC",
+  "fecha": "2026-11-09 06:46:59",
   "pais": "España",
-  "archivo": "qsl/QSL_EA1FMI_2026-10.webp"
+  "archivo": "qsl/QSL_EA1FMI_2026-11.webp"
  },
  {
   "indicativo": "ZL2UFI",
@@ -33143,6 +33143,13 @@
   "fecha": "2026-10-31 07:07:54",
   "pais": "Rumania",
   "archivo": "qsl/QSL_YO7EPY_2026-10.webp"
+ },
+ {
+  "indicativo": "EA1FMI",
+  "codigo": "UC3REV",
+  "fecha": "2026-10-31 07:39:07",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA1FMI_2026-10.webp"
  },
  {
   "indicativo": "G0JKQ",
