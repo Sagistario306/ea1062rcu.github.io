@@ -13455,10 +13455,10 @@
  },
  {
   "indicativo": "TI5LUA",
-  "codigo": "CX6UD9",
-  "fecha": "2026-10-13 14:00:00",
+  "codigo": "KSJGGQ",
+  "fecha": "2026-11-09 09:52:48",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI5LUA_2026-10.webp"
+  "archivo": "qsl/QSL_TI5LUA_2026-11.webp"
  },
  {
   "indicativo": "TI3LRO",
@@ -32009,6 +32009,13 @@
   "fecha": "2026-10-13 00:00:15",
   "pais": "EE.UU",
   "archivo": "qsl/QSL_K7QEQ_2026-10.webp"
+ },
+ {
+  "indicativo": "TI5LUA",
+  "codigo": "CX6UD9",
+  "fecha": "2026-10-13 14:00:00",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI5LUA_2026-10.webp"
  },
  {
   "indicativo": "PU2OZC",
