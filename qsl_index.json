@@ -17627,10 +17627,10 @@
  },
  {
   "indicativo": "IZ1NGU",
-  "codigo": "P6CUUB",
-  "fecha": "2026-10-28 05:27:31",
+  "codigo": "7NA32B",
+  "fecha": "2026-11-10 05:00:20",
   "pais": "Italia",
-  "archivo": "qsl/QSL_IZ1NGU_2026-10.webp"
+  "archivo": "qsl/QSL_IZ1NGU_2026-11.webp"
  },
  {
   "indicativo": "IZ1NJN",
@@ -32870,6 +32870,13 @@
   "fecha": "2026-10-28 05:27:16",
   "pais": "Alemania",
   "archivo": "qsl/QSL_DN9MSN_2026-10.webp"
+ },
+ {
+  "indicativo": "IZ1NGU",
+  "codigo": "P6CUUB",
+  "fecha": "2026-10-28 05:27:31",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IZ1NGU_2026-10.webp"
  },
  {
   "indicativo": "IW6NH",
