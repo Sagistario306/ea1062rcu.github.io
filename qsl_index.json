@@ -13854,10 +13854,10 @@
  },
  {
   "indicativo": "PY2OAL",
-  "codigo": "ZWYX5M",
-  "fecha": "2026-10-16 00:31:43",
+  "codigo": "65VWCW",
+  "fecha": "2026-11-10 04:05:38",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY2OAL_2026-10.webp"
+  "archivo": "qsl/QSL_PY2OAL_2026-11.webp"
  },
  {
   "indicativo": "KD5JGD",
@@ -32345,6 +32345,13 @@
   "fecha": "2026-10-15 05:38:19",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PU2OZC_2026-10.webp"
+ },
+ {
+  "indicativo": "PY2OAL",
+  "codigo": "ZWYX5M",
+  "fecha": "2026-10-16 00:31:43",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY2OAL_2026-10.webp"
  },
  {
   "indicativo": "VE1RIK",
