@@ -20420,10 +20420,10 @@
  },
  {
   "indicativo": "VE4DRK",
-  "codigo": "E6K6WQ",
-  "fecha": "2026-10-30 00:18:33",
-  "pais": "Canada",
-  "archivo": "qsl/QSL_VE4DRK_2026-10.webp"
+  "codigo": "X5TQJA",
+  "fecha": "2026-11-10 00:18:33",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VE4DRK_2026-11.webp"
  },
  {
   "indicativo": "IW1GAV",
@@ -33234,6 +33234,13 @@
   "fecha": "2026-10-30 00:17:45",
   "pais": "Canada",
   "archivo": "qsl/QSL_VE2SXD_2026-10.webp"
+ },
+ {
+  "indicativo": "VE4DRK",
+  "codigo": "E6K6WQ",
+  "fecha": "2026-10-30 00:18:33",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE4DRK_2026-10.webp"
  },
  {
   "indicativo": "F6INI",
