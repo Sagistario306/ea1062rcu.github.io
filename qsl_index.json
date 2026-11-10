@@ -17032,10 +17032,10 @@
  },
  {
   "indicativo": "PY7UK",
-  "codigo": "C36NVT",
-  "fecha": "2026-10-27 00:08:25",
+  "codigo": "9JD6TT",
+  "fecha": "2026-11-10 01:03:59",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY7UK_2026-10.webp"
+  "archivo": "qsl/QSL_PY7UK_2026-11.webp"
  },
  {
   "indicativo": "PU1EPM",
@@ -32646,6 +32646,13 @@
   "fecha": "2026-10-27 00:07:53",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HJ5VMG_2026-10.webp"
+ },
+ {
+  "indicativo": "PY7UK",
+  "codigo": "C36NVT",
+  "fecha": "2026-10-27 00:08:25",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY7UK_2026-10.webp"
  },
  {
   "indicativo": "YD6AAE",
