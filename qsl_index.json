@@ -14883,10 +14883,10 @@
  },
  {
   "indicativo": "8P6NW",
-  "codigo": "6XRJPA",
-  "fecha": "2026-10-20 23:22:55",
+  "codigo": "GFVHEZ",
+  "fecha": "2026-11-10 19:22:35",
   "pais": "Barbados",
-  "archivo": "qsl/QSL_8P6NW_2026-10.webp"
+  "archivo": "qsl/QSL_8P6NW_2026-11.webp"
  },
  {
   "indicativo": "K4EX",
@@ -32800,6 +32800,13 @@
   "fecha": "2026-10-20 04:04:43",
   "pais": "Sudafrica",
   "archivo": "qsl/QSL_ZS1TAF_2026-10.webp"
+ },
+ {
+  "indicativo": "8P6NW",
+  "codigo": "6XRJPA",
+  "fecha": "2026-10-20 23:22:55",
+  "pais": "Barbados",
+  "archivo": "qsl/QSL_8P6NW_2026-10.webp"
  },
  {
   "indicativo": "PY5LUI",
