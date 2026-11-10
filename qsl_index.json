@@ -7617,10 +7617,10 @@
  },
  {
   "indicativo": "YD2VMP",
-  "codigo": "8KCS7M",
-  "fecha": "2026-10-27 07:09:54",
+  "codigo": "73E4VC",
+  "fecha": "2026-11-10 05:22:13",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YD2VMP_2026-10.webp"
+  "archivo": "qsl/QSL_YD2VMP_2026-11.webp"
  },
  {
   "indicativo": "EB5EEV",
@@ -31099,6 +31099,13 @@
   "fecha": "2026-10-15 05:42:40",
   "pais": "España",
   "archivo": "qsl/QSL_EB1HRW_2026-10.webp"
+ },
+ {
+  "indicativo": "YD2VMP",
+  "codigo": "8KCS7M",
+  "fecha": "2026-10-27 07:09:54",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YD2VMP_2026-10.webp"
  },
  {
   "indicativo": "EB7FAO",
