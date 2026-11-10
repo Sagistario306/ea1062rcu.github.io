@@ -17130,10 +17130,10 @@
  },
  {
   "indicativo": "PU2ELE",
-  "codigo": "C5298R",
-  "fecha": "2026-10-27 09:02:41",
+  "codigo": "NQZX2D",
+  "fecha": "2026-11-10 09:00:18",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PU2ELE_2026-10.webp"
+  "archivo": "qsl/QSL_PU2ELE_2026-11.webp"
  },
  {
   "indicativo": "KG4ZGB",
@@ -32940,6 +32940,13 @@
   "fecha": "2026-10-27 08:07:45",
   "pais": "Sudafrica",
   "archivo": "qsl/QSL_ZS1TVN_2026-10.webp"
+ },
+ {
+  "indicativo": "PU2ELE",
+  "codigo": "C5298R",
+  "fecha": "2026-10-27 09:02:41",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU2ELE_2026-10.webp"
  },
  {
   "indicativo": "VA7PG",
