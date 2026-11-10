@@ -22030,10 +22030,10 @@
  },
  {
   "indicativo": "SV9FBP",
-  "codigo": "2K48PU",
-  "fecha": "2026-10-31 07:52:33",
+  "codigo": "UCQRES",
+  "fecha": "2026-11-10 17:45:03",
   "pais": "Creta",
-  "archivo": "qsl/QSL_SV9FBP_2026-10.webp"
+  "archivo": "qsl/QSL_SV9FBP_2026-11.webp"
  },
  {
   "indicativo": "YO2ZZA",
@@ -34116,6 +34116,13 @@
   "fecha": "2026-10-31 07:50:25",
   "pais": "Reino Unido",
   "archivo": "qsl/QSL_G0JKQ_2026-10.webp"
+ },
+ {
+  "indicativo": "SV9FBP",
+  "codigo": "2K48PU",
+  "fecha": "2026-10-31 07:52:33",
+  "pais": "Creta",
+  "archivo": "qsl/QSL_SV9FBP_2026-10.webp"
  },
  {
   "indicativo": "LA4FPA",
