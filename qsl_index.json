@@ -20784,10 +20784,10 @@
  },
  {
   "indicativo": "M0HWK",
-  "codigo": "VVMXX8",
-  "fecha": "2026-10-30 05:50:26",
+  "codigo": "MJD7DK",
+  "fecha": "2026-11-10 05:30:10",
   "pais": "Reino Unido",
-  "archivo": "qsl/QSL_M0HWK_2026-10.webp"
+  "archivo": "qsl/QSL_M0HWK_2026-11.webp"
  },
  {
   "indicativo": "ER1EP",
@@ -33493,6 +33493,13 @@
   "fecha": "2026-10-30 05:30:32",
   "pais": "Francia",
   "archivo": "qsl/QSL_F0GEX_2026-10.webp"
+ },
+ {
+  "indicativo": "M0HWK",
+  "codigo": "VVMXX8",
+  "fecha": "2026-10-30 05:50:26",
+  "pais": "Reino Unido",
+  "archivo": "qsl/QSL_M0HWK_2026-10.webp"
  },
  {
   "indicativo": "ER1EP",
