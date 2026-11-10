@@ -12923,10 +12923,10 @@
  },
  {
   "indicativo": "LU6MDG",
-  "codigo": "9E2Q8X",
-  "fecha": "2026-10-12 00:10:30",
+  "codigo": "X7VP56",
+  "fecha": "2026-11-10 14:20:52",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU6MDG_2026-10.webp"
+  "archivo": "qsl/QSL_LU6MDG_2026-11.webp"
  },
  {
   "indicativo": "KH6L",
@@ -32632,6 +32632,13 @@
   "fecha": "2026-10-11 05:31:54",
   "pais": "Finlandia",
   "archivo": "qsl/QSL_OH2BEA_2026-10.webp"
+ },
+ {
+  "indicativo": "LU6MDG",
+  "codigo": "9E2Q8X",
+  "fecha": "2026-10-12 00:10:30",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU6MDG_2026-10.webp"
  },
  {
   "indicativo": "KH6L",
