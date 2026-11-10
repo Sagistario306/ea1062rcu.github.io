@@ -21078,10 +21078,10 @@
  },
  {
   "indicativo": "VU2NXG",
-  "codigo": "WN56SN",
-  "fecha": "2026-10-30 13:49:01",
+  "codigo": "UM6NWG",
+  "fecha": "2026-11-10 13:53:14",
   "pais": "India",
-  "archivo": "qsl/QSL_VU2NXG_2026-10.webp"
+  "archivo": "qsl/QSL_VU2NXG_2026-11.webp"
  },
  {
   "indicativo": "9W2KNZ",
@@ -33829,6 +33829,13 @@
   "fecha": "2026-10-30 10:42:56",
   "pais": "Malasia Occidental",
   "archivo": "qsl/QSL_9M2VDY_2026-10.webp"
+ },
+ {
+  "indicativo": "VU2NXG",
+  "codigo": "WN56SN",
+  "fecha": "2026-10-30 13:49:01",
+  "pais": "India",
+  "archivo": "qsl/QSL_VU2NXG_2026-10.webp"
  },
  {
   "indicativo": "CE8LFR",
