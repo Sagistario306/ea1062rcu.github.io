@@ -16955,10 +16955,10 @@
  },
  {
   "indicativo": "VE7MHW",
-  "codigo": "6Q527R",
-  "fecha": "2026-10-27 00:00:46",
-  "pais": "Canada",
-  "archivo": "qsl/QSL_VE7MHW_2026-10.webp"
+  "codigo": "78DNEA",
+  "fecha": "2026-11-10 00:02:16",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VE7MHW_2026-11.webp"
  },
  {
   "indicativo": "VE3KMS",
@@ -32569,6 +32569,13 @@
   "fecha": "2026-10-26 15:05:35",
   "pais": "Republica Dominicana",
   "archivo": "qsl/QSL_HI5YJM_2026-10.webp"
+ },
+ {
+  "indicativo": "VE7MHW",
+  "codigo": "6Q527R",
+  "fecha": "2026-10-27 00:00:46",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE7MHW_2026-10.webp"
  },
  {
   "indicativo": "VA2CT",
