@@ -15436,10 +15436,10 @@
  },
  {
   "indicativo": "ZS1MDT",
-  "codigo": "SX9CCM",
-  "fecha": "2026-10-23 06:18:22",
-  "pais": "Sudafrica",
-  "archivo": "qsl/QSL_ZS1MDT_2026-10.webp"
+  "codigo": "3UYPQP",
+  "fecha": "2026-11-10 05:51:38",
+  "pais": "Sudáfrica",
+  "archivo": "qsl/QSL_ZS1MDT_2026-11.webp"
  },
  {
   "indicativo": "ZS1RB",
@@ -32541,6 +32541,13 @@
   "fecha": "2026-10-23 02:38:28",
   "pais": "Indonesia",
   "archivo": "qsl/QSL_YB2VKT_2026-10.webp"
+ },
+ {
+  "indicativo": "ZS1MDT",
+  "codigo": "SX9CCM",
+  "fecha": "2026-10-23 06:18:22",
+  "pais": "Sudafrica",
+  "archivo": "qsl/QSL_ZS1MDT_2026-10.webp"
  },
  {
   "indicativo": "4Z5AB",
