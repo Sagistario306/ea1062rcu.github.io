@@ -7190,10 +7190,10 @@
  },
  {
   "indicativo": "9W2HDK",
-  "codigo": "ZBCEC3",
-  "fecha": "2026-10-29 10:18:34",
+  "codigo": "5MCQEV",
+  "fecha": "2026-11-10 22:36:59",
   "pais": "Malasia",
-  "archivo": "qsl/QSL_9W2HDK_2026-10.webp"
+  "archivo": "qsl/QSL_9W2HDK_2026-11.webp"
  },
  {
   "indicativo": "EA1CZ",
@@ -31323,6 +31323,13 @@
   "fecha": "2026-10-01 01:17:35",
   "pais": "Republica Dominicana",
   "archivo": "qsl/QSL_HI6LT_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "9W2HDK",
+  "codigo": "ZBCEC3",
+  "fecha": "2026-10-29 10:18:34",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2HDK_2026-10.webp"
  },
  {
   "indicativo": "YD1DKW",
