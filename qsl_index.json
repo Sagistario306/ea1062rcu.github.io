@@ -21946,10 +21946,10 @@
  },
  {
   "indicativo": "F5LCM",
-  "codigo": "KK7AZT",
-  "fecha": "2026-10-31 06:34:20",
+  "codigo": "CS8KFX",
+  "fecha": "2026-11-10 07:03:58",
   "pais": "Francia",
-  "archivo": "qsl/QSL_F5LCM_2026-10.webp"
+  "archivo": "qsl/QSL_F5LCM_2026-11.webp"
  },
  {
   "indicativo": "YO6IGJ",
@@ -33850,6 +33850,13 @@
   "fecha": "2026-10-31 06:30:50",
   "pais": "Finlandia",
   "archivo": "qsl/QSL_OH8MTM_2026-10.webp"
+ },
+ {
+  "indicativo": "F5LCM",
+  "codigo": "KK7AZT",
+  "fecha": "2026-10-31 06:34:20",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F5LCM_2026-10.webp"
  },
  {
   "indicativo": "YO7EPY",
