@@ -14886,7 +14886,7 @@
   "codigo": "GFVHEZ",
   "fecha": "2026-11-10 19:22:35",
   "pais": "Barbados",
-  "archivo": "qsl/QSL_8P6NW_2026-11.webp"
+  "archivo": "qsl/QSL_8P6NW_2026-11.png"
  },
  {
   "indicativo": "K4EX",
@@ -30329,6 +30329,13 @@
   "fecha": "2026-11-10 19:21:55",
   "pais": "Sicilia",
   "archivo": "qsl/QSL_IW0FKO_2026-11.webp"
+ },
+ {
+  "indicativo": "UR5SSB",
+  "codigo": "QPUCUX",
+  "fecha": "2026-11-10 20:50:22",
+  "pais": "Ucrania",
+  "archivo": "qsl/QSL_UR5SSB_2026-11.webp"
  },
  {
   "indicativo": "9W2BWS",
