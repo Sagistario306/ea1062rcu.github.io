@@ -16353,10 +16353,10 @@
  },
  {
   "indicativo": "DJ1AA",
-  "codigo": "U4PNZJ",
-  "fecha": "2026-10-26 13:06:14",
+  "codigo": "3X2RBJ",
+  "fecha": "2026-11-10 06:53:50",
   "pais": "Alemania",
-  "archivo": "qsl/QSL_DJ1AA_2026-10.webp"
+  "archivo": "qsl/QSL_DJ1AA_2026-11.webp"
  },
  {
   "indicativo": "OK1LPD",
@@ -32723,6 +32723,13 @@
   "fecha": "2026-10-26 13:05:22",
   "pais": "Italia",
   "archivo": "qsl/QSL_IN3XSV_2026-10.webp"
+ },
+ {
+  "indicativo": "DJ1AA",
+  "codigo": "U4PNZJ",
+  "fecha": "2026-10-26 13:06:14",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DJ1AA_2026-10.webp"
  },
  {
   "indicativo": "4S6TAM",
