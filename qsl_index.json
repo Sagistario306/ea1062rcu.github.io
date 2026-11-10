@@ -8737,10 +8737,10 @@
  },
  {
   "indicativo": "EA3IWJ",
-  "codigo": "J682U4",
-  "fecha": "2026-10-30 07:24:24",
+  "codigo": "PPGT9E",
+  "fecha": "2026-11-10 12:31:33",
   "pais": "España",
-  "archivo": "qsl/QSL_EA3IWJ_2026-10.webp"
+  "archivo": "qsl/QSL_EA3IWJ_2026-11.webp"
  },
  {
   "indicativo": "HJ4FG",
@@ -31477,6 +31477,13 @@
   "fecha": "2026-10-23 00:04:47",
   "pais": "Japon",
   "archivo": "qsl/QSL_JR0IVN_2026-10.webp"
+ },
+ {
+  "indicativo": "EA3IWJ",
+  "codigo": "J682U4",
+  "fecha": "2026-10-30 07:24:24",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA3IWJ_2026-10.webp"
  },
  {
   "indicativo": "HJ4FG",
