@@ -561,10 +561,10 @@
  },
  {
   "indicativo": "YC1GDF",
-  "codigo": "AE7VTK",
-  "fecha": "2026-10-21 00:47:50",
+  "codigo": "VSZ45P",
+  "fecha": "2026-11-11 02:32:01",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YC1GDF_2026-10.webp"
+  "archivo": "qsl/QSL_YC1GDF_2026-11.webp"
  },
  {
   "indicativo": "XE1RBV",
@@ -31988,6 +31988,13 @@
   "fecha": "2026-10-03 00:41:51",
   "pais": "Panama",
   "archivo": "qsl/QSL_HP1MRA_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "YC1GDF",
+  "codigo": "AE7VTK",
+  "fecha": "2026-10-21 00:47:50",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YC1GDF_2026-10.webp"
  },
  {
   "indicativo": "9M8ZAL",
