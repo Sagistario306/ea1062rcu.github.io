@@ -17228,10 +17228,10 @@
  },
  {
   "indicativo": "PU2VEM",
-  "codigo": "GCH8UZ",
-  "fecha": "2026-10-28 00:03:19",
+  "codigo": "PDRQMW",
+  "fecha": "2026-11-11 11:51:22",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PU2VEM_2026-10.webp"
+  "archivo": "qsl/QSL_PU2VEM_2026-11.webp"
  },
  {
   "indicativo": "VE7PGK",
@@ -33668,6 +33668,13 @@
   "fecha": "2026-10-28 00:02:47",
   "pais": "Canada",
   "archivo": "qsl/QSL_VA7PG_2026-10.webp"
+ },
+ {
+  "indicativo": "PU2VEM",
+  "codigo": "GCH8UZ",
+  "fecha": "2026-10-28 00:03:19",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU2VEM_2026-10.webp"
  },
  {
   "indicativo": "VA3RCU",
