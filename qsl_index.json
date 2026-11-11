@@ -4894,10 +4894,10 @@
  },
  {
   "indicativo": "YB1PHB",
-  "codigo": "KR3EAJ",
-  "fecha": "2026-10-16 00:44:13",
+  "codigo": "E9UASE",
+  "fecha": "2026-11-11 02:12:39",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YB1PHB_2026-10.webp"
+  "archivo": "qsl/QSL_YB1PHB_2026-11.webp"
  },
  {
   "indicativo": "KP4PNP",
@@ -30959,6 +30959,13 @@
   "fecha": "2026-10-05 00:00:23",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LW2ECC_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "YB1PHB",
+  "codigo": "KR3EAJ",
+  "fecha": "2026-10-16 00:44:13",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YB1PHB_2026-10.webp"
  },
  {
   "indicativo": "LU4DCL",
