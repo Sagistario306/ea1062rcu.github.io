@@ -2199,10 +2199,10 @@
  },
  {
   "indicativo": "YC0TBU",
-  "codigo": "447HRX",
-  "fecha": "2026-10-08 13:44:29",
+  "codigo": "BEY3GP",
+  "fecha": "2026-11-11 00:31:47",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YC0TBU_2026-10.webp"
+  "archivo": "qsl/QSL_YC0TBU_2026-11.webp"
  },
  {
   "indicativo": "XE2OK",
@@ -32009,6 +32009,13 @@
   "fecha": "2026-10-18 00:01:42",
   "pais": "Japon",
   "archivo": "qsl/QSL_JR5LLA_2026-10.webp"
+ },
+ {
+  "indicativo": "YC0TBU",
+  "codigo": "447HRX",
+  "fecha": "2026-10-08 13:44:29",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YC0TBU_2026-10.webp"
  },
  {
   "indicativo": "9W2JRQ",
