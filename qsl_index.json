@@ -16080,10 +16080,10 @@
  },
  {
   "indicativo": "PU1PCR",
-  "codigo": "ZU4S5T",
-  "fecha": "2026-10-26 10:20:40",
+  "codigo": "WJJ4KX",
+  "fecha": "2026-11-11 00:14:24",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PU1PCR_2026-10.webp"
+  "archivo": "qsl/QSL_PU1PCR_2026-11.webp"
  },
  {
   "indicativo": "PP5ED",
@@ -33108,6 +33108,13 @@
   "fecha": "2026-10-26 10:20:09",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W3KIL_2026-10.webp"
+ },
+ {
+  "indicativo": "PU1PCR",
+  "codigo": "ZU4S5T",
+  "fecha": "2026-10-26 10:20:40",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU1PCR_2026-10.webp"
  },
  {
   "indicativo": "F4ERR",
