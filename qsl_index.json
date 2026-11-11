@@ -21071,10 +21071,10 @@
  },
  {
   "indicativo": "PU5PLR",
-  "codigo": "26V82Y",
-  "fecha": "2026-10-30 10:48:56",
+  "codigo": "JRUTPD",
+  "fecha": "2026-11-11 12:00:34",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PU5PLR_2026-10.webp"
+  "archivo": "qsl/QSL_PU5PLR_2026-11.webp"
  },
  {
   "indicativo": "PT7KG",
@@ -34480,6 +34480,13 @@
   "fecha": "2026-10-30 10:42:56",
   "pais": "Malasia Occidental",
   "archivo": "qsl/QSL_9M2VDY_2026-10.webp"
+ },
+ {
+  "indicativo": "PU5PLR",
+  "codigo": "26V82Y",
+  "fecha": "2026-10-30 10:48:56",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU5PLR_2026-10.webp"
  },
  {
   "indicativo": "VU2NXG",
