@@ -17578,10 +17578,10 @@
  },
  {
   "indicativo": "SQ9PQL",
-  "codigo": "99Y2WY",
-  "fecha": "2026-10-28 05:26:54",
+  "codigo": "V6ZB3P",
+  "fecha": "2026-11-11 05:04:45",
   "pais": "Polonia",
-  "archivo": "qsl/QSL_SQ9PQL_2026-10.webp"
+  "archivo": "qsl/QSL_SQ9PQL_2026-11.webp"
  },
  {
   "indicativo": "TA2HZ",
@@ -33486,6 +33486,13 @@
   "fecha": "2026-10-28 05:26:47",
   "pais": "Polonia",
   "archivo": "qsl/QSL_SP3Q_2026-10.webp"
+ },
+ {
+  "indicativo": "SQ9PQL",
+  "codigo": "99Y2WY",
+  "fecha": "2026-10-28 05:26:54",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SQ9PQL_2026-10.webp"
  },
  {
   "indicativo": "DN9MSN",
