@@ -15954,10 +15954,10 @@
  },
  {
   "indicativo": "KO6KEC",
-  "codigo": "UARDUK",
-  "fecha": "2026-10-26 04:42:26",
-  "pais": "EE.UU",
-  "archivo": "qsl/QSL_KO6KEC_2026-10.webp"
+  "codigo": "NS2KSV",
+  "fecha": "2026-11-11 00:00:38",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_KO6KEC_2026-11.webp"
  },
  {
   "indicativo": "N1KAB",
@@ -33003,6 +33003,13 @@
   "fecha": "2026-10-26 04:41:58",
   "pais": "EE.UU",
   "archivo": "qsl/QSL_N7EEL_2026-10.webp"
+ },
+ {
+  "indicativo": "KO6KEC",
+  "codigo": "UARDUK",
+  "fecha": "2026-10-26 04:42:26",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_KO6KEC_2026-10.webp"
  },
  {
   "indicativo": "K2EHE",
