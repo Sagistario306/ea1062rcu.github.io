@@ -12076,10 +12076,10 @@
  },
  {
   "indicativo": "LA9ULA",
-  "codigo": "7JZW57",
-  "fecha": "2026-10-09 16:16:30",
+  "codigo": "65TPT8",
+  "fecha": "2026-11-11 06:56:31",
   "pais": "Noruega",
-  "archivo": "qsl/QSL_LA9ULA_2026-10.webp"
+  "archivo": "qsl/QSL_LA9ULA_2026-11.webp"
  },
  {
   "indicativo": "4Z1KD",
@@ -32926,6 +32926,13 @@
   "fecha": "2026-10-09 11:07:20",
   "pais": "Portugal",
   "archivo": "qsl/QSL_CT2HEV_2026-10.webp"
+ },
+ {
+  "indicativo": "LA9ULA",
+  "codigo": "7JZW57",
+  "fecha": "2026-10-09 16:16:30",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LA9ULA_2026-10.webp"
  },
  {
   "indicativo": "LB7XI",
