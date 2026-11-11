@@ -13217,10 +13217,10 @@
  },
  {
   "indicativo": "VY2JOE",
-  "codigo": "GRQZZK",
-  "fecha": "2026-10-13 00:00:46",
-  "pais": "Canada",
-  "archivo": "qsl/QSL_VY2JOE_2026-10.webp"
+  "codigo": "YQ7SCF",
+  "fecha": "2026-11-11 00:19:34",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VY2JOE_2026-11.webp"
  },
  {
   "indicativo": "VA7GWS",
@@ -32870,6 +32870,13 @@
   "fecha": "2026-10-13 00:00:15",
   "pais": "EE.UU",
   "archivo": "qsl/QSL_K7QEQ_2026-10.webp"
+ },
+ {
+  "indicativo": "VY2JOE",
+  "codigo": "GRQZZK",
+  "fecha": "2026-10-13 00:00:46",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VY2JOE_2026-10.webp"
  },
  {
   "indicativo": "TI5LUA",
