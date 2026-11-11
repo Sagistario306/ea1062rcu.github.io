@@ -190,10 +190,10 @@
  },
  {
   "indicativo": "TI4OP",
-  "codigo": "PZD7AT",
-  "fecha": "2026-10-25 23:33:24",
+  "codigo": "99WFM4",
+  "fecha": "2026-11-11 01:08:16",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI4OP_2026-10.png"
+  "archivo": "qsl/QSL_TI4OP_2026-11.webp"
  },
  {
   "indicativo": "HK4D",
@@ -32520,6 +32520,13 @@
   "fecha": "2026-10-22 01:05:16",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU4QCI_2026-10.webp"
+ },
+ {
+  "indicativo": "TI4OP",
+  "codigo": "PZD7AT",
+  "fecha": "2026-10-25 23:33:24",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI4OP_2026-10.webp"
  },
  {
   "indicativo": "XE2MVZ",
