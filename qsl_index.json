@@ -15205,10 +15205,10 @@
  },
  {
   "indicativo": "PY2OIA",
-  "codigo": "5WPF6X",
-  "fecha": "2026-10-22 00:21:16",
+  "codigo": "K7J8XF",
+  "fecha": "2026-11-12 10:29:35",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY2OIA_2026-10.webp"
+  "archivo": "qsl/QSL_PY2OIA_2026-11.webp"
  },
  {
   "indicativo": "PY2TK",
@@ -33780,6 +33780,13 @@
   "fecha": "2026-10-22 00:16:44",
   "pais": "Canada",
   "archivo": "qsl/QSL_VE7LHA_2026-10.webp"
+ },
+ {
+  "indicativo": "PY2OIA",
+  "codigo": "5WPF6X",
+  "fecha": "2026-10-22 00:21:16",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY2OIA_2026-10.webp"
  },
  {
   "indicativo": "YC6ANO",
