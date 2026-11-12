@@ -30926,6 +30926,20 @@
   "archivo": "qsl/QSL_BG5IOR_2026-11.webp"
  },
  {
+  "indicativo": "VE7TIN",
+  "codigo": "CUBSRT",
+  "fecha": "2026-11-12 00:06:02",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VE7TIN_2026-11.webp"
+ },
+ {
+  "indicativo": "BG7BUM",
+  "codigo": "XBZ33J",
+  "fecha": "2026-11-12 00:07:05",
+  "pais": "China",
+  "archivo": "qsl/QSL_BG7BUM_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
