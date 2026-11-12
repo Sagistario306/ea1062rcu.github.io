@@ -22135,10 +22135,10 @@
  },
  {
   "indicativo": "2E1MCT",
-  "codigo": "PHJ2DR",
-  "fecha": "2026-10-31 08:52:46",
+  "codigo": "KS4VFM",
+  "fecha": "2026-11-12 09:50:11",
   "pais": "Reino Unido",
-  "archivo": "qsl/QSL_2E1MCT_2026-10.webp"
+  "archivo": "qsl/QSL_2E1MCT_2026-11.webp"
  },
  {
   "indicativo": "ZS1AGB",
@@ -35180,6 +35180,13 @@
   "fecha": "2026-10-31 08:38:24",
   "pais": "Finlandia",
   "archivo": "qsl/QSL_OH6DPJ_2026-10.webp"
+ },
+ {
+  "indicativo": "2E1MCT",
+  "codigo": "PHJ2DR",
+  "fecha": "2026-10-31 08:52:46",
+  "pais": "Reino Unido",
+  "archivo": "qsl/QSL_2E1MCT_2026-10.webp"
  },
  {
   "indicativo": "HS5NMF",
