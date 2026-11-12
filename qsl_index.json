@@ -6882,17 +6882,10 @@
  },
  {
   "indicativo": "HP3EYZ",
-  "codigo": "D5TMPC",
-  "fecha": "2026-10-04 17:00:38",
-  "pais": "Panama",
-  "archivo": "qsl/QSL_HP3EYZ_2026-10.webp"
- },
- {
-  "indicativo": "HP3EYZ",
-  "codigo": "NQJQ6U",
-  "fecha": "2026-10-04 17:00:47",
-  "pais": "Panama",
-  "archivo": "qsl/QSL_HP3EYZ_2026-10_EV.webp"
+  "codigo": "K3DHGF",
+  "fecha": "2026-11-12 21:39:37",
+  "pais": "Panamá",
+  "archivo": "qsl/QSL_HP3EYZ_2026-11.webp"
  },
  {
   "indicativo": "LU8EQA",
@@ -32247,6 +32240,20 @@
   "fecha": "2026-10-10 00:01:10",
   "pais": "España",
   "archivo": "qsl/QSL_EA3CU_2026-10.webp"
+ },
+ {
+  "indicativo": "HP3EYZ",
+  "codigo": "D5TMPC",
+  "fecha": "2026-10-04 17:00:38",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP3EYZ_2026-10.webp"
+ },
+ {
+  "indicativo": "HP3EYZ",
+  "codigo": "NQJQ6U",
+  "fecha": "2026-10-04 17:00:38",
+  "pais": "Panama",
+  "archivo": "qsl/QSL_HP3EYZ_2026-10_EV.webp"
  },
  {
   "indicativo": "CE3AEA",
