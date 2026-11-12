@@ -5482,10 +5482,10 @@
  },
  {
   "indicativo": "LU8EHB",
-  "codigo": "TPP827",
-  "fecha": "2026-10-09 00:04:30",
+  "codigo": "ADWGHR",
+  "fecha": "2026-11-12 12:11:52",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU8EHB_2026-10.webp"
+  "archivo": "qsl/QSL_LU8EHB_2026-11.webp"
  },
  {
   "indicativo": "LU9DUV",
@@ -31904,6 +31904,13 @@
   "fecha": "2026-10-01 13:33:04",
   "pais": "Guatemala",
   "archivo": "qsl/QSL_TG9JMR_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "LU8EHB",
+  "codigo": "TPP827",
+  "fecha": "2026-10-09 00:04:30",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU8EHB_2026-10.webp"
  },
  {
   "indicativo": "LU9DUV",
