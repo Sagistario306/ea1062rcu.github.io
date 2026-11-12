@@ -20105,10 +20105,10 @@
  },
  {
   "indicativo": "VE3OMP",
-  "codigo": "YAJYZ9",
-  "fecha": "2026-10-30 00:03:03",
-  "pais": "Canada",
-  "archivo": "qsl/QSL_VE3OMP_2026-10.webp"
+  "codigo": "UES83J",
+  "fecha": "2026-11-12 00:47:39",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VE3OMP_2026-11.webp"
  },
  {
   "indicativo": "SR6NPK",
@@ -34445,6 +34445,13 @@
   "fecha": "2026-10-30 00:02:33",
   "pais": "Polonia",
   "archivo": "qsl/QSL_SR4NWO_2026-10.webp"
+ },
+ {
+  "indicativo": "VE3OMP",
+  "codigo": "YAJYZ9",
+  "fecha": "2026-10-30 00:03:03",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE3OMP_2026-10.webp"
  },
  {
   "indicativo": "BV3VP",
