@@ -20609,10 +20609,10 @@
  },
  {
   "indicativo": "PY5SG",
-  "codigo": "3GVXEX",
-  "fecha": "2026-10-30 01:30:26",
+  "codigo": "P4ZEZ4",
+  "fecha": "2026-11-12 02:24:45",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY5SG_2026-10.webp"
+  "archivo": "qsl/QSL_PY5SG_2026-11.webp"
  },
  {
   "indicativo": "VK5VMR",
@@ -34592,6 +34592,13 @@
   "fecha": "2026-10-30 01:14:16",
   "pais": "Grecia",
   "archivo": "qsl/QSL_SV2HIA_2026-10.webp"
+ },
+ {
+  "indicativo": "PY5SG",
+  "codigo": "3GVXEX",
+  "fecha": "2026-10-30 01:30:26",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY5SG_2026-10.webp"
  },
  {
   "indicativo": "DJ6CX",
