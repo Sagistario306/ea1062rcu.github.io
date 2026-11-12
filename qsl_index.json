@@ -30968,6 +30968,20 @@
   "archivo": "qsl/QSL_SP5TBR_2026-11.webp"
  },
  {
+  "indicativo": "DG6DAT",
+  "codigo": "CY9TC9",
+  "fecha": "2026-11-12 00:13:10",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DG6DAT_2026-11.webp"
+ },
+ {
+  "indicativo": "BG6JDU",
+  "codigo": "2AWB7P",
+  "fecha": "2026-11-12 00:14:28",
+  "pais": "China",
+  "archivo": "qsl/QSL_BG6JDU_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
