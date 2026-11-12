@@ -17473,10 +17473,10 @@
  },
  {
   "indicativo": "DD1DU",
-  "codigo": "PUXKF9",
-  "fecha": "2026-10-28 05:24:57",
+  "codigo": "5DVX7M",
+  "fecha": "2026-11-12 05:22:35",
   "pais": "Alemania",
-  "archivo": "qsl/QSL_DD1DU_2026-10.webp"
+  "archivo": "qsl/QSL_DD1DU_2026-11.webp"
  },
  {
   "indicativo": "4S6TKA",
@@ -34060,6 +34060,13 @@
   "fecha": "2026-10-28 05:24:45",
   "pais": "China",
   "archivo": "qsl/QSL_BG4USS_2026-10.webp"
+ },
+ {
+  "indicativo": "DD1DU",
+  "codigo": "PUXKF9",
+  "fecha": "2026-10-28 05:24:57",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DD1DU_2026-10.webp"
  },
  {
   "indicativo": "4S6TKA",
