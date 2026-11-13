@@ -3871,6 +3871,13 @@
   "archivo": "qsl/QSL_CE6PL_2026-10_EV.webp"
  },
  {
+  "indicativo": "HJ7NLB",
+  "codigo": "RYBJUP",
+  "fecha": "2026-11-13 20:29:06",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HJ7NLB_2026-11.webp"
+ },
+ {
   "indicativo": "TI2HAS",
   "codigo": "T9ADXT",
   "fecha": "2026-10-01 01:20:44",
@@ -30049,6 +30056,20 @@
   "fecha": "2026-11-13 20:26:52",
   "pais": "Sudáfrica",
   "archivo": "qsl/QSL_ZS6SHN_2026-11.webp"
+ },
+ {
+  "indicativo": "J73CC",
+  "codigo": "AGP83J",
+  "fecha": "2026-11-13 20:29:03",
+  "pais": "Dominica",
+  "archivo": "qsl/QSL_J73CC_2026-11.webp"
+ },
+ {
+  "indicativo": "HS0ZLZ",
+  "codigo": "B9NQ2K",
+  "fecha": "2026-11-13 20:29:29",
+  "pais": "Tailandia",
+  "archivo": "qsl/QSL_HS0ZLZ_2026-11.webp"
  },
  {
   "indicativo": "9W2BWS",
