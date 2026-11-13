@@ -29337,6 +29337,76 @@
   "archivo": "qsl/QSL_CE0GWM_2026-11.webp"
  },
  {
+  "indicativo": "DD0OW",
+  "codigo": "5DZXS9",
+  "fecha": "2026-11-13 08:37:02",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DD0OW_2026-11.webp"
+ },
+ {
+  "indicativo": "SQ8AQL",
+  "codigo": "TQ8FY2",
+  "fecha": "2026-11-13 08:37:19",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SQ8AQL_2026-11.webp"
+ },
+ {
+  "indicativo": "DH4FE",
+  "codigo": "TRD9Y6",
+  "fecha": "2026-11-13 08:37:48",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DH4FE_2026-11.png"
+ },
+ {
+  "indicativo": "BI5UNM",
+  "codigo": "4Q7QE4",
+  "fecha": "2026-11-13 08:47:32",
+  "pais": "China",
+  "archivo": "qsl/QSL_BI5UNM_2026-11.webp"
+ },
+ {
+  "indicativo": "BI9CLP",
+  "codigo": "5XUDRN",
+  "fecha": "2026-11-13 08:47:35",
+  "pais": "China",
+  "archivo": "qsl/QSL_BI9CLP_2026-11.webp"
+ },
+ {
+  "indicativo": "BA4QAO",
+  "codigo": "QQWPCK",
+  "fecha": "2026-11-13 08:48:25",
+  "pais": "China",
+  "archivo": "qsl/QSL_BA4QAO_2026-11.webp"
+ },
+ {
+  "indicativo": "SP6IZU",
+  "codigo": "F8YHVU",
+  "fecha": "2026-11-13 08:48:28",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP6IZU_2026-11.webp"
+ },
+ {
+  "indicativo": "SP6FEN",
+  "codigo": "EX75FW",
+  "fecha": "2026-11-13 08:48:31",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP6FEN_2026-11.webp"
+ },
+ {
+  "indicativo": "DH2SL",
+  "codigo": "SYJ4BR",
+  "fecha": "2026-11-13 08:48:37",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DH2SL_2026-11.webp"
+ },
+ {
+  "indicativo": "9M2CKG",
+  "codigo": "GQY4QP",
+  "fecha": "2026-11-13 08:48:38",
+  "pais": "Malasia Occidental",
+  "archivo": "qsl/QSL_9M2CKG_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
