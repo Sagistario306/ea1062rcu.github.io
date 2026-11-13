@@ -2626,10 +2626,10 @@
  },
  {
   "indicativo": "9W2RUT",
-  "codigo": "KAY6MN",
-  "fecha": "2026-10-20 00:00:51",
+  "codigo": "UNCGRK",
+  "fecha": "2026-11-13 13:24:54",
   "pais": "Malasia",
-  "archivo": "qsl/QSL_9W2RUT_2026-10.webp"
+  "archivo": "qsl/QSL_9W2RUT_2026-11.webp"
  },
  {
   "indicativo": "XE1SEW",
@@ -29636,6 +29636,13 @@
   "fecha": "2026-10-01 00:08:11",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1GT_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "9W2RUT",
+  "codigo": "KAY6MN",
+  "fecha": "2026-10-20 00:00:51",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2RUT_2026-10.webp"
  },
  {
   "indicativo": "HK6L",
