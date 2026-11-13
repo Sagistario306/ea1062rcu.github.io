@@ -12818,10 +12818,10 @@
  },
  {
   "indicativo": "9W2FVC",
-  "codigo": "2FJBSP",
-  "fecha": "2026-10-12 00:00:07",
+  "codigo": "PYAJH4",
+  "fecha": "2026-11-13 10:01:58",
   "pais": "Malasia",
-  "archivo": "qsl/QSL_9W2FVC_2026-10.webp"
+  "archivo": "qsl/QSL_9W2FVC_2026-11.webp"
  },
  {
   "indicativo": "KF5RLL",
@@ -32016,6 +32016,13 @@
   "fecha": "2026-10-11 05:31:54",
   "pais": "Finlandia",
   "archivo": "qsl/QSL_OH2BEA_2026-10.webp"
+ },
+ {
+  "indicativo": "9W2FVC",
+  "codigo": "2FJBSP",
+  "fecha": "2026-10-12 00:00:07",
+  "pais": "Malasia",
+  "archivo": "qsl/QSL_9W2FVC_2026-10.webp"
  },
  {
   "indicativo": "LU6MDG",
