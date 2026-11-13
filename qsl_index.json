@@ -20595,10 +20595,10 @@
  },
  {
   "indicativo": "VK7KAM",
-  "codigo": "ZXE3E6",
-  "fecha": "2026-10-31 00:13:22",
+  "codigo": "A6JWH5",
+  "fecha": "2026-11-13 17:25:43",
   "pais": "Australia",
-  "archivo": "qsl/QSL_VK7KAM_2026-10.webp"
+  "archivo": "qsl/QSL_VK7KAM_2026-11.webp"
  },
  {
   "indicativo": "VE2XS",
@@ -29764,6 +29764,13 @@
   "archivo": "qsl/QSL_S52O_2026-11.webp"
  },
  {
+  "indicativo": "SV1EIL",
+  "codigo": "YG2Z5E",
+  "fecha": "2026-11-13 17:25:53",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV1EIL_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
@@ -33514,6 +33521,13 @@
   "fecha": "2026-10-31 00:05:40",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PY2AMW_2026-10.webp"
+ },
+ {
+  "indicativo": "VK7KAM",
+  "codigo": "ZXE3E6",
+  "fecha": "2026-10-31 00:13:22",
+  "pais": "Australia",
+  "archivo": "qsl/QSL_VK7KAM_2026-10.webp"
  },
  {
   "indicativo": "VE2XS",
