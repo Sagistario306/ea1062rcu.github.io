@@ -29414,6 +29414,27 @@
   "archivo": "qsl/QSL_LA1LTA_2026-11.webp"
  },
  {
+  "indicativo": "DJ9DQ",
+  "codigo": "GPATMV",
+  "fecha": "2026-11-13 08:51:25",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DJ9DQ_2026-11.webp"
+ },
+ {
+  "indicativo": "F4DOH",
+  "codigo": "VNETFQ",
+  "fecha": "2026-11-13 08:52:12",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F4DOH_2026-11.webp"
+ },
+ {
+  "indicativo": "EA1FXO",
+  "codigo": "XPE974",
+  "fecha": "2026-11-13 08:52:59",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA1FXO_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
