@@ -10676,10 +10676,10 @@
  },
  {
   "indicativo": "PY5QQ",
-  "codigo": "5UCPMK",
-  "fecha": "2026-10-24 00:10:17",
+  "codigo": "M3CBYW",
+  "fecha": "2026-11-13 13:07:44",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY5QQ_2026-10.webp"
+  "archivo": "qsl/QSL_PY5QQ_2026-11.webp"
  },
  {
   "indicativo": "HQ7CEE",
@@ -31666,6 +31666,13 @@
   "fecha": "2026-10-23 00:23:56",
   "pais": "España",
   "archivo": "qsl/QSL_EA1IXG_2026-10.webp"
+ },
+ {
+  "indicativo": "PY5QQ",
+  "codigo": "5UCPMK",
+  "fecha": "2026-10-24 00:10:17",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY5QQ_2026-10.webp"
  },
  {
   "indicativo": "HQ7CEE",
