@@ -14064,10 +14064,10 @@
  },
  {
   "indicativo": "PY2ARS",
-  "codigo": "QJMNTZ",
-  "fecha": "2026-10-17 00:01:17",
+  "codigo": "XJGTBB",
+  "fecha": "2026-11-13 11:12:17",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY2ARS_2026-10.webp"
+  "archivo": "qsl/QSL_PY2ARS_2026-11.webp"
  },
  {
   "indicativo": "PP5AU",
@@ -32128,6 +32128,13 @@
   "fecha": "2026-10-17 00:01:10",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PR2RM_2026-10.webp"
+ },
+ {
+  "indicativo": "PY2ARS",
+  "codigo": "QJMNTZ",
+  "fecha": "2026-10-17 00:01:17",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY2ARS_2026-10.webp"
  },
  {
   "indicativo": "HK6V",
