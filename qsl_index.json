@@ -10283,6 +10283,13 @@
   "archivo": "qsl/QSL_VU2HS_2026-10.webp"
  },
  {
+  "indicativo": "CS1APO",
+  "codigo": "HFY85P",
+  "fecha": "2026-11-13 20:22:58",
+  "pais": "Portugal",
+  "archivo": "qsl/QSL_CS1APO_2026-11.webp"
+ },
+ {
   "indicativo": "ZL4VM",
   "codigo": "CR6KXE",
   "fecha": "2026-11-01 05:57:59",
@@ -29930,6 +29937,62 @@
   "fecha": "2026-11-13 20:21:48",
   "pais": "Austria",
   "archivo": "qsl/QSL_OE8ADF_2026-11.webp"
+ },
+ {
+  "indicativo": "ZL1TIG",
+  "codigo": "S5WBRA",
+  "fecha": "2026-11-13 20:22:03",
+  "pais": "Nueva Zelanda",
+  "archivo": "qsl/QSL_ZL1TIG_2026-11.webp"
+ },
+ {
+  "indicativo": "4S7SE",
+  "codigo": "K46P29",
+  "fecha": "2026-11-13 20:22:07",
+  "pais": "Sri Lanka",
+  "archivo": "qsl/QSL_4S7SE_2026-11.webp"
+ },
+ {
+  "indicativo": "OH1GUN",
+  "codigo": "UFTEVQ",
+  "fecha": "2026-11-13 20:22:09",
+  "pais": "Finlandia",
+  "archivo": "qsl/QSL_OH1GUN_2026-11.webp"
+ },
+ {
+  "indicativo": "9A3ETW",
+  "codigo": "6T8U9E",
+  "fecha": "2026-11-13 20:22:49",
+  "pais": "Croacia",
+  "archivo": "qsl/QSL_9A3ETW_2026-11.webp"
+ },
+ {
+  "indicativo": "R7MX",
+  "codigo": "66WS4A",
+  "fecha": "2026-11-13 20:23:02",
+  "pais": "Rusia",
+  "archivo": "qsl/QSL_R7MX_2026-11.webp"
+ },
+ {
+  "indicativo": "OH1KAO",
+  "codigo": "FC4BAR",
+  "fecha": "2026-11-13 20:23:10",
+  "pais": "Finlandia",
+  "archivo": "qsl/QSL_OH1KAO_2026-11.webp"
+ },
+ {
+  "indicativo": "ZL1RFF",
+  "codigo": "DU98SC",
+  "fecha": "2026-11-13 20:23:11",
+  "pais": "Nueva Zelanda",
+  "archivo": "qsl/QSL_ZL1RFF_2026-11.webp"
+ },
+ {
+  "indicativo": "HB9BV",
+  "codigo": "TYQ7UA",
+  "fecha": "2026-11-13 20:23:56",
+  "pais": "Suiza",
+  "archivo": "qsl/QSL_HB9BV_2026-11.webp"
  },
  {
   "indicativo": "9W2BWS",
