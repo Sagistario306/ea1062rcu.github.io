@@ -10417,10 +10417,10 @@
  },
  {
   "indicativo": "VK4MRK",
-  "codigo": "F5MVEC",
-  "fecha": "2026-10-28 05:39:43",
+  "codigo": "7SV97A",
+  "fecha": "2026-11-13 17:02:38",
   "pais": "Australia",
-  "archivo": "qsl/QSL_VK4MRK_2026-10.webp"
+  "archivo": "qsl/QSL_VK4MRK_2026-11.webp"
  },
  {
   "indicativo": "PR2AR",
@@ -16605,10 +16605,10 @@
  },
  {
   "indicativo": "OK8WIT",
-  "codigo": "W7RNEV",
-  "fecha": "2026-10-26 13:14:02",
-  "pais": "Republica Checa",
-  "archivo": "qsl/QSL_OK8WIT_2026-10.webp"
+  "codigo": "CRYZ4B",
+  "fecha": "2026-11-13 17:02:02",
+  "pais": "República Checa",
+  "archivo": "qsl/QSL_OK8WIT_2026-11.webp"
  },
  {
   "indicativo": "SM6YOW",
@@ -31766,6 +31766,13 @@
   "archivo": "qsl/QSL_VU3PXF_2026-10.webp"
  },
  {
+  "indicativo": "VK4MRK",
+  "codigo": "F5MVEC",
+  "fecha": "2026-10-28 05:39:43",
+  "pais": "Australia",
+  "archivo": "qsl/QSL_VK4MRK_2026-10.webp"
+ },
+ {
   "indicativo": "PR2KW",
   "codigo": "N8JAUM",
   "fecha": "2026-10-21 00:01:56",
@@ -32639,6 +32646,13 @@
   "fecha": "2026-10-26 13:11:22",
   "pais": "Reino Unido",
   "archivo": "qsl/QSL_M7IDE_2026-10.webp"
+ },
+ {
+  "indicativo": "OK8WIT",
+  "codigo": "W7RNEV",
+  "fecha": "2026-10-26 13:14:02",
+  "pais": "Republica Checa",
+  "archivo": "qsl/QSL_OK8WIT_2026-10.webp"
  },
  {
   "indicativo": "HI5YJM",
