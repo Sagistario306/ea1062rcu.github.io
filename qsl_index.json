@@ -21092,10 +21092,10 @@
  },
  {
   "indicativo": "YO2ZZA",
-  "codigo": "JURWA5",
-  "fecha": "2026-10-31 08:10:08",
+  "codigo": "4KXNKD",
+  "fecha": "2026-11-13 16:09:55",
   "pais": "Rumania",
-  "archivo": "qsl/QSL_YO2ZZA_2026-10.webp"
+  "archivo": "qsl/QSL_YO2ZZA_2026-11.webp"
  },
  {
   "indicativo": "LA4FPA",
@@ -33486,6 +33486,13 @@
   "fecha": "2026-10-31 07:52:33",
   "pais": "Creta",
   "archivo": "qsl/QSL_SV9FBP_2026-10.webp"
+ },
+ {
+  "indicativo": "YO2ZZA",
+  "codigo": "JURWA5",
+  "fecha": "2026-10-31 08:10:08",
+  "pais": "Rumania",
+  "archivo": "qsl/QSL_YO2ZZA_2026-10.webp"
  },
  {
   "indicativo": "LA4FPA",
