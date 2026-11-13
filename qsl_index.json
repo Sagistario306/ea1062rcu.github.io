@@ -9997,10 +9997,10 @@
  },
  {
   "indicativo": "JA2YSO",
-  "codigo": "JX2UFZ",
-  "fecha": "2026-10-19 00:03:47",
-  "pais": "Japon",
-  "archivo": "qsl/QSL_JA2YSO_2026-10.webp"
+  "codigo": "JN7YCT",
+  "fecha": "2026-11-13 17:20:30",
+  "pais": "Japón",
+  "archivo": "qsl/QSL_JA2YSO_2026-11.webp"
  },
  {
   "indicativo": "XE2RDX",
@@ -29743,6 +29743,20 @@
   "archivo": "qsl/QSL_A93MO_2026-11.webp"
  },
  {
+  "indicativo": "KG4OJL",
+  "codigo": "U4FJ2U",
+  "fecha": "2026-11-13 17:20:01",
+  "pais": "Guantánamo Bay",
+  "archivo": "qsl/QSL_KG4OJL_2026-11.webp"
+ },
+ {
+  "indicativo": "TF3VP",
+  "codigo": "JS7YYX",
+  "fecha": "2026-11-13 17:20:31",
+  "pais": "Islandia",
+  "archivo": "qsl/QSL_TF3VP_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
@@ -31694,6 +31708,13 @@
   "fecha": "2026-10-25 03:53:24",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9M2EDQ_2026-10.webp"
+ },
+ {
+  "indicativo": "JA2YSO",
+  "codigo": "JX2UFZ",
+  "fecha": "2026-10-19 00:03:47",
+  "pais": "Japon",
+  "archivo": "qsl/QSL_JA2YSO_2026-10.webp"
  },
  {
   "indicativo": "JH1NHK",
