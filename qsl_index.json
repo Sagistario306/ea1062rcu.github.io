@@ -20413,10 +20413,10 @@
  },
  {
   "indicativo": "SP7QAA",
-  "codigo": "QJ926M",
-  "fecha": "2026-10-31 00:01:50",
+  "codigo": "FVKQ9K",
+  "fecha": "2026-11-13 08:50:17",
   "pais": "Polonia",
-  "archivo": "qsl/QSL_SP7QAA_2026-10.webp"
+  "archivo": "qsl/QSL_SP7QAA_2026-11.webp"
  },
  {
   "indicativo": "4S7VJ",
@@ -29407,6 +29407,13 @@
   "archivo": "qsl/QSL_9M2CKG_2026-11.webp"
  },
  {
+  "indicativo": "LA1LTA",
+  "codigo": "SQE3VK",
+  "fecha": "2026-11-13 08:49:44",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LA1LTA_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
@@ -33052,6 +33059,13 @@
   "fecha": "2026-10-31 00:01:02",
   "pais": "Italia",
   "archivo": "qsl/QSL_IZ3LIR_2026-10.webp"
+ },
+ {
+  "indicativo": "SP7QAA",
+  "codigo": "QJ926M",
+  "fecha": "2026-10-31 00:01:50",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP7QAA_2026-10.webp"
  },
  {
   "indicativo": "LA4XNA",
