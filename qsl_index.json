@@ -7743,10 +7743,10 @@
  },
  {
   "indicativo": "HK5AKN",
-  "codigo": "KB7MHY",
-  "fecha": "2026-10-11 21:39:09",
+  "codigo": "8A6DW2",
+  "fecha": "2026-11-14 13:33:02",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK5AKN_2026-10.png"
+  "archivo": "qsl/QSL_HK5AKN_2026-11.webp"
  },
  {
   "indicativo": "CE3JSG",
@@ -32058,6 +32058,13 @@
   "fecha": "2026-10-03 19:41:51",
   "pais": "Cuba",
   "archivo": "qsl/QSL_CO5ABC_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "HK5AKN",
+  "codigo": "KB7MHY",
+  "fecha": "2026-10-11 21:39:09",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK5AKN_2026-10.webp"
  },
  {
   "indicativo": "HK4LGH",
