@@ -18131,10 +18131,10 @@
  },
  {
   "indicativo": "ZL2DJB",
-  "codigo": "3T8NYS",
-  "fecha": "2026-10-28 19:08:58",
+  "codigo": "XMWS83",
+  "fecha": "2026-11-14 00:27:31",
   "pais": "Nueva Zelanda",
-  "archivo": "qsl/QSL_ZL2DJB_2026-10.webp"
+  "archivo": "qsl/QSL_ZL2DJB_2026-11.webp"
  },
  {
   "indicativo": "CN8PG",
@@ -30464,6 +30464,20 @@
   "archivo": "qsl/QSL_LB2KE_2026-11.webp"
  },
  {
+  "indicativo": "F6DEV",
+  "codigo": "F963ZU",
+  "fecha": "2026-11-14 00:28:05",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F6DEV_2026-11.webp"
+ },
+ {
+  "indicativo": "DG3RCO",
+  "codigo": "98FA8N",
+  "fecha": "2026-11-14 00:28:07",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DG3RCO_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
@@ -33710,6 +33724,13 @@
   "fecha": "2026-10-28 05:39:17",
   "pais": "Francia",
   "archivo": "qsl/QSL_F1LVT_2026-10.webp"
+ },
+ {
+  "indicativo": "ZL2DJB",
+  "codigo": "3T8NYS",
+  "fecha": "2026-10-28 19:08:58",
+  "pais": "Nueva Zelanda",
+  "archivo": "qsl/QSL_ZL2DJB_2026-10.webp"
  },
  {
   "indicativo": "4S5SC",
