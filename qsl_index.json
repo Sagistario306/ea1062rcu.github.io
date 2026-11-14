@@ -30569,6 +30569,20 @@
   "archivo": "qsl/QSL_EA2RE_2026-11.webp"
  },
  {
+  "indicativo": "SV2RCV",
+  "codigo": "SUWW4D",
+  "fecha": "2026-11-14 01:29:18",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV2RCV_2026-11.webp"
+ },
+ {
+  "indicativo": "SV2GQO",
+  "codigo": "KTTQKR",
+  "fecha": "2026-11-14 01:30:20",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV2GQO_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
