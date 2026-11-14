@@ -12692,10 +12692,10 @@
  },
  {
   "indicativo": "ZS1GFL",
-  "codigo": "TBJFPS",
-  "fecha": "2026-10-11 00:19:28",
-  "pais": "Sudafrica",
-  "archivo": "qsl/QSL_ZS1GFL_2026-10.webp"
+  "codigo": "7WSJWU",
+  "fecha": "2026-11-14 15:31:01",
+  "pais": "Sudáfrica",
+  "archivo": "qsl/QSL_ZS1GFL_2026-11.webp"
  },
  {
   "indicativo": "CE3TPG",
@@ -33451,6 +33451,13 @@
   "fecha": "2026-10-11 00:02:20",
   "pais": "Hawai",
   "archivo": "qsl/QSL_KH6BFD_2026-10.webp"
+ },
+ {
+  "indicativo": "ZS1GFL",
+  "codigo": "TBJFPS",
+  "fecha": "2026-10-11 00:19:28",
+  "pais": "Sudafrica",
+  "archivo": "qsl/QSL_ZS1GFL_2026-10.webp"
  },
  {
   "indicativo": "OH2BEA",
