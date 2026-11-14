@@ -3837,17 +3837,10 @@
  },
  {
   "indicativo": "OA4ELI",
-  "codigo": "RBFZBG",
-  "fecha": "2026-10-02 14:58:40",
-  "pais": "Peru",
-  "archivo": "qsl/QSL_OA4ELI_2026-10.webp"
- },
- {
-  "indicativo": "OA4ELI",
-  "codigo": "A56XZ5",
-  "fecha": "2026-10-02 14:58:47",
-  "pais": "Peru",
-  "archivo": "qsl/QSL_OA4ELI_2026-10_EV.webp"
+  "codigo": "NJW9H8",
+  "fecha": "2026-11-14 16:45:45",
+  "pais": "Perú",
+  "archivo": "qsl/QSL_OA4ELI_2026-11.webp"
  },
  {
   "indicativo": "XE1PCA",
@@ -31141,6 +31134,20 @@
   "fecha": "2026-10-08 12:32:10",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1ZJZ_2026-10.webp"
+ },
+ {
+  "indicativo": "OA4ELI",
+  "codigo": "RBFZBG",
+  "fecha": "2026-10-02 14:58:40",
+  "pais": "Peru",
+  "archivo": "qsl/QSL_OA4ELI_2026-10.webp"
+ },
+ {
+  "indicativo": "OA4ELI",
+  "codigo": "A56XZ5",
+  "fecha": "2026-10-02 14:58:40",
+  "pais": "Peru",
+  "archivo": "qsl/QSL_OA4ELI_2026-10_EV.webp"
  },
  {
   "indicativo": "LU1XLI",
