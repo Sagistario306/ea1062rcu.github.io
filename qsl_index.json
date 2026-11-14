@@ -18180,10 +18180,10 @@
  },
  {
   "indicativo": "ZL2TCH",
-  "codigo": "N6MPDN",
-  "fecha": "2026-10-28 18:06:29",
+  "codigo": "FX2PBB",
+  "fecha": "2026-11-14 16:43:11",
   "pais": "Nueva Zelanda",
-  "archivo": "qsl/QSL_ZL2TCH_2026-10.webp"
+  "archivo": "qsl/QSL_ZL2TCH_2026-11.webp"
  },
  {
   "indicativo": "ZL2DJB",
@@ -34207,6 +34207,13 @@
   "fecha": "2026-10-28 06:00:33",
   "pais": "Australia",
   "archivo": "qsl/QSL_VK4XCS_2026-10.webp"
+ },
+ {
+  "indicativo": "ZL2TCH",
+  "codigo": "N6MPDN",
+  "fecha": "2026-10-28 18:06:29",
+  "pais": "Nueva Zelanda",
+  "archivo": "qsl/QSL_ZL2TCH_2026-10.webp"
  },
  {
   "indicativo": "ZL2DJB",
