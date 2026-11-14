@@ -4747,17 +4747,10 @@
  },
  {
   "indicativo": "HK1E",
-  "codigo": "K8JAUJ",
-  "fecha": "2026-10-02 00:04:19",
+  "codigo": "A48WJJ",
+  "fecha": "2026-11-14 17:16:05",
   "pais": "Colombia",
-  "archivo": "qsl/QSL_HK1E_2026-10.webp"
- },
- {
-  "indicativo": "HK1E",
-  "codigo": "EDSZF3",
-  "fecha": "2026-10-02 00:04:24",
-  "pais": "Colombia",
-  "archivo": "qsl/QSL_HK1E_2026-10_EV.webp"
+  "archivo": "qsl/QSL_HK1E_2026-11.webp"
  },
  {
   "indicativo": "HK6JCF",
@@ -31400,6 +31393,20 @@
   "fecha": "2026-10-17 00:01:35",
   "pais": "Indonesia",
   "archivo": "qsl/QSL_YC5KWZ_2026-10.webp"
+ },
+ {
+  "indicativo": "HK1E",
+  "codigo": "K8JAUJ",
+  "fecha": "2026-10-02 00:04:19",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK1E_2026-10.webp"
+ },
+ {
+  "indicativo": "HK1E",
+  "codigo": "EDSZF3",
+  "fecha": "2026-10-02 00:04:19",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK1E_2026-10_EV.webp"
  },
  {
   "indicativo": "YV5VE",
