@@ -6308,10 +6308,10 @@
  },
  {
   "indicativo": "LU2OMB",
-  "codigo": "8ZN3YB",
-  "fecha": "2026-10-08 00:04:53",
+  "codigo": "WHR9HR",
+  "fecha": "2026-11-14 19:24:44",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU2OMB_2026-10.webp"
+  "archivo": "qsl/QSL_LU2OMB_2026-11.webp"
  },
  {
   "indicativo": "YB2FWQ",
@@ -31841,6 +31841,13 @@
   "fecha": "2026-10-07 02:13:51",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1SAY_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "LU2OMB",
+  "codigo": "8ZN3YB",
+  "fecha": "2026-10-08 00:04:53",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU2OMB_2026-10.webp"
  },
  {
   "indicativo": "XE2MDH",
