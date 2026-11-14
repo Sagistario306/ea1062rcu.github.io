@@ -13595,10 +13595,10 @@
  },
  {
   "indicativo": "CE3RCJ",
-  "codigo": "TE2W42",
-  "fecha": "2026-10-13 20:07:36",
+  "codigo": "U7P82X",
+  "fecha": "2026-11-14 11:02:35",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE3RCJ_2026-10.webp"
+  "archivo": "qsl/QSL_CE3RCJ_2026-11.webp"
  },
  {
   "indicativo": "SP2BOT",
@@ -33444,6 +33444,13 @@
   "fecha": "2026-10-13 14:00:00",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI5LUA_2026-10.webp"
+ },
+ {
+  "indicativo": "CE3RCJ",
+  "codigo": "TE2W42",
+  "fecha": "2026-10-13 20:07:36",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3RCJ_2026-10.webp"
  },
  {
   "indicativo": "PU2OZC",
