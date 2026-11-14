@@ -30450,6 +30450,20 @@
   "archivo": "qsl/QSL_F1ZIA_2026-11.webp"
  },
  {
+  "indicativo": "OZ6DAL",
+  "codigo": "QANYR5",
+  "fecha": "2026-11-14 00:23:00",
+  "pais": "Dinamarca",
+  "archivo": "qsl/QSL_OZ6DAL_2026-11.webp"
+ },
+ {
+  "indicativo": "LB2KE",
+  "codigo": "335G28",
+  "fecha": "2026-11-14 00:23:51",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LB2KE_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
