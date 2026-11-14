@@ -21099,10 +21099,10 @@
  },
  {
   "indicativo": "YO6IGJ",
-  "codigo": "C8EHC4",
-  "fecha": "2026-10-31 06:57:00",
+  "codigo": "GAR3WE",
+  "fecha": "2026-11-14 12:22:07",
   "pais": "Rumania",
-  "archivo": "qsl/QSL_YO6IGJ_2026-10.webp"
+  "archivo": "qsl/QSL_YO6IGJ_2026-11.webp"
  },
  {
   "indicativo": "IW3HV",
@@ -34816,6 +34816,13 @@
   "fecha": "2026-10-31 06:34:20",
   "pais": "Francia",
   "archivo": "qsl/QSL_F5LCM_2026-10.webp"
+ },
+ {
+  "indicativo": "YO6IGJ",
+  "codigo": "C8EHC4",
+  "fecha": "2026-10-31 06:57:00",
+  "pais": "Rumania",
+  "archivo": "qsl/QSL_YO6IGJ_2026-10.webp"
  },
  {
   "indicativo": "YO7EPY",
