@@ -18096,10 +18096,10 @@
  },
  {
   "indicativo": "VK4XCS",
-  "codigo": "XKQ4VD",
-  "fecha": "2026-10-28 06:00:33",
+  "codigo": "H2K38N",
+  "fecha": "2026-11-14 03:14:16",
   "pais": "Australia",
-  "archivo": "qsl/QSL_VK4XCS_2026-10.webp"
+  "archivo": "qsl/QSL_VK4XCS_2026-11.webp"
  },
  {
   "indicativo": "HL4HQK",
@@ -33899,6 +33899,13 @@
   "fecha": "2026-10-28 05:39:17",
   "pais": "Francia",
   "archivo": "qsl/QSL_F1LVT_2026-10.webp"
+ },
+ {
+  "indicativo": "VK4XCS",
+  "codigo": "XKQ4VD",
+  "fecha": "2026-10-28 06:00:33",
+  "pais": "Australia",
+  "archivo": "qsl/QSL_VK4XCS_2026-10.webp"
  },
  {
   "indicativo": "ZL2DJB",
