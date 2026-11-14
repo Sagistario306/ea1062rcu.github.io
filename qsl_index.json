@@ -13203,10 +13203,10 @@
  },
  {
   "indicativo": "LA1AKA",
-  "codigo": "X7VZ2Y",
-  "fecha": "2026-10-12 18:34:08",
+  "codigo": "ZT6JQG",
+  "fecha": "2026-11-14 04:36:03",
   "pais": "Noruega",
-  "archivo": "qsl/QSL_LA1AKA_2026-10.webp"
+  "archivo": "qsl/QSL_LA1AKA_2026-11.webp"
  },
  {
   "indicativo": "SV2JAO",
@@ -33283,6 +33283,13 @@
   "fecha": "2026-10-12 01:35:05",
   "pais": "Australia",
   "archivo": "qsl/QSL_VK5AH_2026-10.webp"
+ },
+ {
+  "indicativo": "LA1AKA",
+  "codigo": "X7VZ2Y",
+  "fecha": "2026-10-12 18:34:08",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LA1AKA_2026-10.webp"
  },
  {
   "indicativo": "SV2JAO",
