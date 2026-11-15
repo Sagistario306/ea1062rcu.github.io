@@ -988,10 +988,10 @@
  },
  {
   "indicativo": "TI2FRN",
-  "codigo": "DPF5J9",
-  "fecha": "2026-10-08 21:26:15",
+  "codigo": "4V5DEY",
+  "fecha": "2026-11-15 23:26:43",
   "pais": "Costa Rica",
-  "archivo": "qsl/QSL_TI2FRN_2026-10.webp"
+  "archivo": "qsl/QSL_TI2FRN_2026-11.webp"
  },
  {
   "indicativo": "LU3DVN",
@@ -34186,6 +34186,13 @@
   "fecha": "2026-10-18 00:21:26",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LW2EDM_2026-10.webp"
+ },
+ {
+  "indicativo": "TI2FRN",
+  "codigo": "DPF5J9",
+  "fecha": "2026-10-08 21:26:15",
+  "pais": "Costa Rica",
+  "archivo": "qsl/QSL_TI2FRN_2026-10.webp"
  },
  {
   "indicativo": "YD2VKR",
