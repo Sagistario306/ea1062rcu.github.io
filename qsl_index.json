@@ -20966,10 +20966,10 @@
  },
  {
   "indicativo": "XX9RF",
-  "codigo": "RFMNWV",
-  "fecha": "2026-10-31 04:09:47",
+  "codigo": "4E92XN",
+  "fecha": "2026-11-15 08:30:25",
   "pais": "Macao",
-  "archivo": "qsl/QSL_XX9RF_2026-10.webp"
+  "archivo": "qsl/QSL_XX9RF_2026-11.webp"
  },
  {
   "indicativo": "DD5CF",
@@ -35362,6 +35362,13 @@
   "fecha": "2026-10-31 03:58:01",
   "pais": "Grecia",
   "archivo": "qsl/QSL_SV2HYH_2026-10.webp"
+ },
+ {
+  "indicativo": "XX9RF",
+  "codigo": "RFMNWV",
+  "fecha": "2026-10-31 04:09:47",
+  "pais": "Macao",
+  "archivo": "qsl/QSL_XX9RF_2026-10.webp"
  },
  {
   "indicativo": "OZ7GZ",
