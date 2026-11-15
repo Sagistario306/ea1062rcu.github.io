@@ -5019,6 +5019,13 @@
   "archivo": "qsl/QSL_LU2DKV_2026-10.webp"
  },
  {
+  "indicativo": "HK6LOZ",
+  "codigo": "JZ2XA5",
+  "fecha": "2026-11-15 22:33:27",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK6LOZ_2026-11.webp"
+ },
+ {
   "indicativo": "LW5DR",
   "codigo": "P3M7A4",
   "fecha": "2026-10-21 12:56:26",
@@ -31637,7 +31644,7 @@
   "codigo": "AFHJQK",
   "fecha": "2026-11-15 21:57:08",
   "pais": "Irlanda del Norte",
-  "archivo": "qsl/QSL_GI4SJQ_2026-11.webp"
+  "archivo": "qsl/QSL_GI4SJQ_2026-11.png"
  },
  {
   "indicativo": "9W2BWS",
