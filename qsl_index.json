@@ -2087,10 +2087,10 @@
  },
  {
   "indicativo": "HR1LEO",
-  "codigo": "C5JYRK",
-  "fecha": "2026-10-12 21:01:31",
+  "codigo": "Y8WU99",
+  "fecha": "2026-11-15 17:07:55",
   "pais": "Honduras",
-  "archivo": "qsl/QSL_HR1LEO_2026-10.webp"
+  "archivo": "qsl/QSL_HR1LEO_2026-11.webp"
  },
  {
   "indicativo": "9W2DCW",
@@ -34032,6 +34032,13 @@
   "fecha": "2026-10-11 05:35:50",
   "pais": "Israel",
   "archivo": "qsl/QSL_4X5AS_2026-10.webp"
+ },
+ {
+  "indicativo": "HR1LEO",
+  "codigo": "C5JYRK",
+  "fecha": "2026-10-12 21:01:31",
+  "pais": "Honduras",
+  "archivo": "qsl/QSL_HR1LEO_2026-10.webp"
  },
  {
   "indicativo": "SP2OFR",
