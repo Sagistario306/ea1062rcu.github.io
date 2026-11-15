@@ -31283,6 +31283,13 @@
   "archivo": "qsl/QSL_F4DHL_2026-11.webp"
  },
  {
+  "indicativo": "F4MAJ",
+  "codigo": "HQGNDT",
+  "fecha": "2026-11-15 07:44:37",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F4MAJ_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
