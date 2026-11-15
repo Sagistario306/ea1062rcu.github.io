@@ -11803,10 +11803,10 @@
  },
  {
   "indicativo": "VK6XC",
-  "codigo": "FPGJGP",
-  "fecha": "2026-10-08 15:11:37",
+  "codigo": "F55JGU",
+  "fecha": "2026-11-15 01:42:23",
   "pais": "Australia",
-  "archivo": "qsl/QSL_VK6XC_2026-10.webp"
+  "archivo": "qsl/QSL_VK6XC_2026-11.webp"
  },
  {
   "indicativo": "VK1MIC",
@@ -33752,6 +33752,13 @@
   "fecha": "2026-10-04 11:28:47",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HJ7WFM_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "VK6XC",
+  "codigo": "FPGJGP",
+  "fecha": "2026-10-08 15:11:37",
+  "pais": "Australia",
+  "archivo": "qsl/QSL_VK6XC_2026-10.webp"
  },
  {
   "indicativo": "PY2PJA",
