@@ -31780,6 +31780,27 @@
   "archivo": "qsl/QSL_G1PJJ_2026-11.webp"
  },
  {
+  "indicativo": "F4EEX",
+  "codigo": "XKBHS4",
+  "fecha": "2026-11-16 00:04:21",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F4EEX_2026-11.webp"
+ },
+ {
+  "indicativo": "SV1HDS",
+  "codigo": "W6WYYS",
+  "fecha": "2026-11-16 00:04:22",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV1HDS_2026-11.webp"
+ },
+ {
+  "indicativo": "F4KIO",
+  "codigo": "W2ZKP9",
+  "fecha": "2026-11-16 00:05:02",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F4KIO_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "fecha": "2026-10-28 13:57:55",
