@@ -19153,10 +19153,10 @@
  },
  {
   "indicativo": "VK3GP",
-  "codigo": "ABUGGR",
-  "fecha": "2026-10-29 03:32:28",
+  "codigo": "RFQUYB",
+  "fecha": "2026-11-16 07:34:00",
   "pais": "Australia",
-  "archivo": "qsl/QSL_VK3GP_2026-10.webp"
+  "archivo": "qsl/QSL_VK3GP_2026-11.webp"
  },
  {
   "indicativo": "PU2KZE",
@@ -35684,6 +35684,13 @@
   "fecha": "2026-10-29 03:21:47",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PY4EO_2026-10.webp"
+ },
+ {
+  "indicativo": "VK3GP",
+  "codigo": "ABUGGR",
+  "fecha": "2026-10-29 03:32:28",
+  "pais": "Australia",
+  "archivo": "qsl/QSL_VK3GP_2026-10.webp"
  },
  {
   "indicativo": "OE6TXW",
