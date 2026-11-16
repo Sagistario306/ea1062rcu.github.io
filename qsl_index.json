@@ -18502,10 +18502,10 @@
  },
  {
   "indicativo": "BG2YF",
-  "codigo": "GZ4GX4",
-  "fecha": "2026-10-29 02:54:49",
+  "codigo": "DDTXFS",
+  "fecha": "2026-11-16 00:50:09",
   "pais": "China",
-  "archivo": "qsl/QSL_BG2YF_2026-10.webp"
+  "archivo": "qsl/QSL_BG2YF_2026-11.webp"
  },
  {
   "indicativo": "F5SSM",
@@ -35439,6 +35439,13 @@
   "fecha": "2026-10-29 02:53:43",
   "pais": "Sicilia",
   "archivo": "qsl/QSL_IW2HJO_2026-10.webp"
+ },
+ {
+  "indicativo": "BG2YF",
+  "codigo": "GZ4GX4",
+  "fecha": "2026-10-29 02:54:49",
+  "pais": "China",
+  "archivo": "qsl/QSL_BG2YF_2026-10.webp"
  },
  {
   "indicativo": "SQ3TGN",
