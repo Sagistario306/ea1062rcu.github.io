@@ -13903,10 +13903,10 @@
  },
  {
   "indicativo": "SQ1SDQ",
-  "codigo": "PNTQEX",
-  "fecha": "2026-10-15 17:41:10",
+  "codigo": "VA9CTS",
+  "fecha": "2026-11-17 00:05:34",
   "pais": "Polonia",
-  "archivo": "qsl/QSL_SQ1SDQ_2026-10.webp"
+  "archivo": "qsl/QSL_SQ1SDQ_2026-11.webp"
  },
  {
   "indicativo": "SV2HRW",
@@ -35005,6 +35005,13 @@
   "fecha": "2026-10-15 05:38:19",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PU2OZC_2026-10.webp"
+ },
+ {
+  "indicativo": "SQ1SDQ",
+  "codigo": "PNTQEX",
+  "fecha": "2026-10-15 17:41:10",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SQ1SDQ_2026-10.webp"
  },
  {
   "indicativo": "PY2OAL",
