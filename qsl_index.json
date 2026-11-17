@@ -10332,6 +10332,13 @@
   "archivo": "qsl/QSL_VE1DJN_2026-11_EV.webp"
  },
  {
+  "indicativo": "VA7GFZ",
+  "codigo": "D6XKPM",
+  "fecha": "2026-11-17 05:26:15",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VA7GFZ_2026-11.webp"
+ },
+ {
   "indicativo": "ZS6LML",
   "codigo": "FU6M8T",
   "fecha": "2026-10-12 00:21:22",
@@ -32443,6 +32450,34 @@
   "fecha": "2026-11-17 05:25:08",
   "pais": "Reino Unido",
   "archivo": "qsl/QSL_M0GQS_2026-11.webp"
+ },
+ {
+  "indicativo": "S59ZO",
+  "codigo": "D6DQG2",
+  "fecha": "2026-11-17 05:25:46",
+  "pais": "Eslovenia",
+  "archivo": "qsl/QSL_S59ZO_2026-11.webp"
+ },
+ {
+  "indicativo": "VA7RMT",
+  "codigo": "82Z9NQ",
+  "fecha": "2026-11-17 05:26:04",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VA7RMT_2026-11.webp"
+ },
+ {
+  "indicativo": "IU5VJV",
+  "codigo": "V5FY3R",
+  "fecha": "2026-11-17 05:26:14",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IU5VJV_2026-11.webp"
+ },
+ {
+  "indicativo": "OE6VAG",
+  "codigo": "CJE47N",
+  "fecha": "2026-11-17 05:27:22",
+  "pais": "Austria",
+  "archivo": "qsl/QSL_OE6VAG_2026-11.webp"
  },
  {
   "indicativo": "9W2BWS",
