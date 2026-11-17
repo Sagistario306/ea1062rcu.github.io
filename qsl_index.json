@@ -10137,10 +10137,10 @@
  },
  {
   "indicativo": "DV4JD",
-  "codigo": "GM7PHN",
-  "fecha": "2026-10-30 03:17:53",
+  "codigo": "2D9NYQ",
+  "fecha": "2026-11-17 03:43:55",
   "pais": "Filipinas",
-  "archivo": "qsl/QSL_DV4JD_2026-10.webp"
+  "archivo": "qsl/QSL_DV4JD_2026-11.webp"
  },
  {
   "indicativo": "EA1HOT",
@@ -34487,6 +34487,13 @@
   "fecha": "2026-10-30 19:28:03",
   "pais": "Japon",
   "archivo": "qsl/QSL_JH1NHK_2026-10.webp"
+ },
+ {
+  "indicativo": "DV4JD",
+  "codigo": "GM7PHN",
+  "fecha": "2026-10-30 03:17:53",
+  "pais": "Filipinas",
+  "archivo": "qsl/QSL_DV4JD_2026-10.webp"
  },
  {
   "indicativo": "LU2ALS",
