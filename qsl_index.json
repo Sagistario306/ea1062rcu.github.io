@@ -10676,10 +10676,10 @@
  },
  {
   "indicativo": "LU4KEG",
-  "codigo": "YVJER2",
-  "fecha": "2026-10-29 15:37:12",
+  "codigo": "CR93EU",
+  "fecha": "2026-11-18 13:06:05",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU4KEG_2026-10.webp"
+  "archivo": "qsl/QSL_LU4KEG_2026-11.webp"
  },
  {
   "indicativo": "TI2MCS",
@@ -35236,6 +35236,13 @@
   "fecha": "2026-10-28 05:39:43",
   "pais": "Australia",
   "archivo": "qsl/QSL_VK4MRK_2026-10.webp"
+ },
+ {
+  "indicativo": "LU4KEG",
+  "codigo": "YVJER2",
+  "fecha": "2026-10-29 15:37:12",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU4KEG_2026-10.webp"
  },
  {
   "indicativo": "PR2KW",
