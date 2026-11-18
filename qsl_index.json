@@ -13728,10 +13728,10 @@
  },
  {
   "indicativo": "PU2LZB",
-  "codigo": "93JDHK",
-  "fecha": "2026-10-14 00:01:00",
+  "codigo": "2M9PQC",
+  "fecha": "2026-11-18 03:20:14",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PU2LZB_2026-10.webp"
+  "archivo": "qsl/QSL_PU2LZB_2026-11.webp"
  },
  {
   "indicativo": "PY5ZOZ",
@@ -35614,6 +35614,13 @@
   "fecha": "2026-10-13 20:07:36",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE3RCJ_2026-10.webp"
+ },
+ {
+  "indicativo": "PU2LZB",
+  "codigo": "93JDHK",
+  "fecha": "2026-10-14 00:01:00",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU2LZB_2026-10.webp"
  },
  {
   "indicativo": "PU2OZC",
