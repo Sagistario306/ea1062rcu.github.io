@@ -5216,10 +5216,10 @@
  },
  {
   "indicativo": "XE3MHM",
-  "codigo": "CUMJDB",
-  "fecha": "2026-10-11 18:12:03",
-  "pais": "Mexico",
-  "archivo": "qsl/QSL_XE3MHM_2026-10.webp"
+  "codigo": "75S99S",
+  "fecha": "2026-11-18 20:56:27",
+  "pais": "México",
+  "archivo": "qsl/QSL_XE3MHM_2026-11.webp"
  },
  {
   "indicativo": "HP1RY",
@@ -33710,6 +33710,13 @@
   "fecha": "2026-10-10 21:56:16",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE2YWH_2026-10.webp"
+ },
+ {
+  "indicativo": "XE3MHM",
+  "codigo": "CUMJDB",
+  "fecha": "2026-10-11 18:12:03",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE3MHM_2026-10.webp"
  },
  {
   "indicativo": "CX2JO",
