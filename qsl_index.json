@@ -10858,10 +10858,10 @@
  },
  {
   "indicativo": "EA3JBB",
-  "codigo": "SZ2VDR",
-  "fecha": "2026-10-27 06:58:25",
+  "codigo": "VVKJXD",
+  "fecha": "2026-11-18 05:46:20",
   "pais": "España",
-  "archivo": "qsl/QSL_EA3JBB_2026-10.webp"
+  "archivo": "qsl/QSL_EA3JBB_2026-11.webp"
  },
  {
   "indicativo": "XE2KAS",
@@ -35138,6 +35138,13 @@
   "fecha": "2026-10-26 12:35:29",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU1BA_2026-10.webp"
+ },
+ {
+  "indicativo": "EA3JBB",
+  "codigo": "SZ2VDR",
+  "fecha": "2026-10-27 06:58:25",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA3JBB_2026-10.webp"
  },
  {
   "indicativo": "PY4ARR",
