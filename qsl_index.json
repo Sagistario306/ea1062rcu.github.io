@@ -7257,11 +7257,11 @@
  },
  {
   "indicativo": "YB2FWQ",
-  "codigo": "UF6S9U",
-  "mes": "2026-10",
-  "fecha": "2026-10-11 00:03:00",
+  "codigo": "TPQ9CB",
+  "mes": "2026-11",
+  "fecha": "2026-11-19 12:42:54",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YB2FWQ_2026-10.webp"
+  "archivo": "qsl/QSL_YB2FWQ_2026-11.webp"
  },
  {
   "indicativo": "XE2MDH",
@@ -39334,6 +39334,14 @@
   "fecha": "2026-10-08 00:04:53",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU2OMB_2026-10.webp"
+ },
+ {
+  "indicativo": "YB2FWQ",
+  "codigo": "UF6S9U",
+  "mes": "2026-10",
+  "fecha": "2026-10-11 00:03:00",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YB2FWQ_2026-10.webp"
  },
  {
   "indicativo": "XE2MDH",
