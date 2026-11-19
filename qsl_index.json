@@ -38256,6 +38256,14 @@
   "archivo": "qsl/QSL_FR1LC_2026-11.webp"
  },
  {
+  "indicativo": "TA2SJ",
+  "codigo": "UNQCNY",
+  "mes": "2026-11",
+  "fecha": "2026-11-19 18:32:10",
+  "pais": "Turquía",
+  "archivo": "qsl/QSL_TA2SJ_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
