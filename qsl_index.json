@@ -4929,11 +4929,11 @@
  },
  {
   "indicativo": "XE2SFR",
-  "codigo": "PSV54U",
-  "mes": "2026-10",
-  "fecha": "2026-10-09 00:05:00",
-  "pais": "Mexico",
-  "archivo": "qsl/QSL_XE2SFR_2026-10.webp"
+  "codigo": "WRQUNX",
+  "mes": "2026-11",
+  "fecha": "2026-11-19 20:17:33",
+  "pais": "México",
+  "archivo": "qsl/QSL_XE2SFR_2026-11.webp"
  },
  {
   "indicativo": "KP4RY",
@@ -38710,6 +38710,14 @@
   "fecha": "2026-10-03 03:11:52",
   "pais": "Chile",
   "archivo": "qsl/QSL_CE1VPG_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "XE2SFR",
+  "codigo": "PSV54U",
+  "mes": "2026-10",
+  "fecha": "2026-10-09 00:05:00",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE2SFR_2026-10.webp"
  },
  {
   "indicativo": "OA4DEX",
