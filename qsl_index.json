@@ -38512,6 +38512,14 @@
   "archivo": "qsl/QSL_PU5BIF_2026-11.webp"
  },
  {
+  "indicativo": "PR2NET",
+  "codigo": "CDUA2E",
+  "mes": "2026-11",
+  "fecha": "2026-11-20 02:45:13",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PR2NET_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
