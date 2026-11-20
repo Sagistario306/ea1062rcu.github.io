@@ -38336,6 +38336,22 @@
   "archivo": "qsl/QSL_G5DAV_2026-11.webp"
  },
  {
+  "indicativo": "DK1KT",
+  "codigo": "TPNKBP",
+  "mes": "2026-11",
+  "fecha": "2026-11-20 00:01:12",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DK1KT_2026-11.webp"
+ },
+ {
+  "indicativo": "VE7DCF",
+  "codigo": "R9ZR5M",
+  "mes": "2026-11",
+  "fecha": "2026-11-20 00:02:20",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VE7DCF_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
