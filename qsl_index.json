@@ -24369,11 +24369,11 @@
  },
  {
   "indicativo": "LB8PI",
-  "codigo": "9GH4UP",
-  "mes": "2026-10",
-  "fecha": "2026-10-31 08:17:29",
+  "codigo": "T5SPDR",
+  "mes": "2026-11",
+  "fecha": "2026-11-20 08:45:13",
   "pais": "Noruega",
-  "archivo": "qsl/QSL_LB8PI_2026-10.webp"
+  "archivo": "qsl/QSL_LB8PI_2026-11.webp"
  },
  {
   "indicativo": "PA3HFT",
@@ -43662,6 +43662,14 @@
   "fecha": "2026-10-31 08:11:26",
   "pais": "Noruega",
   "archivo": "qsl/QSL_LA4FPA_2026-10.webp"
+ },
+ {
+  "indicativo": "LB8PI",
+  "codigo": "9GH4UP",
+  "mes": "2026-10",
+  "fecha": "2026-10-31 08:17:29",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LB8PI_2026-10.webp"
  },
  {
   "indicativo": "OH6DPJ",
