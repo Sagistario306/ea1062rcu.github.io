@@ -10856,6 +10856,14 @@
   "archivo": "qsl/QSL_EA7FGJ_2026-10.webp"
  },
  {
+  "indicativo": "EA3FHB",
+  "codigo": "GM929V",
+  "mes": "2026-11",
+  "fecha": "2026-11-20 00:04:19",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA3FHB_2026-11.webp"
+ },
+ {
   "indicativo": "EB1CAM",
   "codigo": "GGA4E6",
   "mes": "2026-11",
@@ -38350,6 +38358,14 @@
   "fecha": "2026-11-20 00:02:20",
   "pais": "Canadá",
   "archivo": "qsl/QSL_VE7DCF_2026-11.webp"
+ },
+ {
+  "indicativo": "SP9GKS",
+  "codigo": "5TH38V",
+  "mes": "2026-11",
+  "fecha": "2026-11-20 00:03:31",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP9GKS_2026-11.webp"
  },
  {
   "indicativo": "9W2BWS",
