@@ -38736,6 +38736,14 @@
   "archivo": "qsl/QSL_M8NCI_2026-11.webp"
  },
  {
+  "indicativo": "DG5NET",
+  "codigo": "M7D8AC",
+  "mes": "2026-11",
+  "fecha": "2026-11-20 10:30:11",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DG5NET_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
