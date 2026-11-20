@@ -38440,6 +38440,30 @@
   "archivo": "qsl/QSL_G1YRE_2026-11.webp"
  },
  {
+  "indicativo": "SP7LK",
+  "codigo": "82USET",
+  "mes": "2026-11",
+  "fecha": "2026-11-20 00:15:59",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP7LK_2026-11.png"
+ },
+ {
+  "indicativo": "F6DAV",
+  "codigo": "VAABHJ",
+  "mes": "2026-11",
+  "fecha": "2026-11-20 00:28:43",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F6DAV_2026-11.webp"
+ },
+ {
+  "indicativo": "VE7RPG",
+  "codigo": "AW8DMF",
+  "mes": "2026-11",
+  "fecha": "2026-11-20 00:29:22",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VE7RPG_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
