@@ -38797,7 +38797,15 @@
   "mes": "2026-11",
   "fecha": "2026-11-20 15:30:12",
   "pais": "Canadá",
-  "archivo": "qsl/QSL_VE2NAX_2026-11.webp"
+  "archivo": "qsl/QSL_VE2NAX_2026-11.png"
+ },
+ {
+  "indicativo": "HK2JT",
+  "codigo": "N9RBF6",
+  "mes": "2026-11",
+  "fecha": "2026-11-20 23:02:12",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK2JT_2026-11.webp"
  },
  {
   "indicativo": "9W2BWS",
