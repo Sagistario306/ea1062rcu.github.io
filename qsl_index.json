@@ -3009,19 +3009,11 @@
  },
  {
   "indicativo": "CE3SUR",
-  "codigo": "E4Q3EC",
-  "mes": "2026-10",
-  "fecha": "2026-10-01 00:05:29",
+  "codigo": "ZKVQRX",
+  "mes": "2026-11",
+  "fecha": "2026-11-21 14:39:50",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE3SUR_2026-10.webp"
- },
- {
-  "indicativo": "CE3SUR",
-  "codigo": "YRQ9FV",
-  "mes": "2026-10",
-  "fecha": "2026-10-01 00:05:34",
-  "pais": "Chile",
-  "archivo": "qsl/QSL_CE3SUR_2026-10_EV.webp"
+  "archivo": "qsl/QSL_CE3SUR_2026-11.webp"
  },
  {
   "indicativo": "HP1CDW",
@@ -39406,6 +39398,22 @@
   "fecha": "2026-10-01 00:08:11",
   "pais": "Mexico",
   "archivo": "qsl/QSL_XE1GT_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "CE3SUR",
+  "codigo": "E4Q3EC",
+  "mes": "2026-10",
+  "fecha": "2026-10-01 00:05:29",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3SUR_2026-10.webp"
+ },
+ {
+  "indicativo": "CE3SUR",
+  "codigo": "YRQ9FV",
+  "mes": "2026-10",
+  "fecha": "2026-10-01 00:05:29",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3SUR_2026-10_EV.webp"
  },
  {
   "indicativo": "9W2RUT",
