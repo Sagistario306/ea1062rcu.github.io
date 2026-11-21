@@ -12221,7 +12221,7 @@
   "mes": "2026-11",
   "fecha": "2026-11-21 17:11:44",
   "pais": "México",
-  "archivo": "qsl/QSL_XE3BGM_2026-11.webp"
+  "archivo": "qsl/QSL_XE3BGM_2026-11.png"
  },
  {
   "indicativo": "XE3JAR",
@@ -39398,6 +39398,14 @@
   "fecha": "2026-11-21 15:55:25",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HK4DRA_2026-11.webp"
+ },
+ {
+  "indicativo": "VE7WAE",
+  "codigo": "CG8336",
+  "mes": "2026-11",
+  "fecha": "2026-11-21 20:13:31",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VE7WAE_2026-11.webp"
  },
  {
   "indicativo": "9W2BWS",
