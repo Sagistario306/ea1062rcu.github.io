@@ -12217,11 +12217,11 @@
  },
  {
   "indicativo": "XE3BGM",
-  "codigo": "YQ59VS",
-  "mes": "2026-10",
-  "fecha": "2026-10-12 19:02:31",
-  "pais": "Mexico",
-  "archivo": "qsl/QSL_XE3BGM_2026-10.webp"
+  "codigo": "CKRYJE",
+  "mes": "2026-11",
+  "fecha": "2026-11-21 17:11:44",
+  "pais": "México",
+  "archivo": "qsl/QSL_XE3BGM_2026-11.webp"
  },
  {
   "indicativo": "XE3JAR",
@@ -42006,6 +42006,14 @@
   "fecha": "2026-10-28 05:39:43",
   "pais": "Australia",
   "archivo": "qsl/QSL_VK4MRK_2026-10.webp"
+ },
+ {
+  "indicativo": "XE3BGM",
+  "codigo": "YQ59VS",
+  "mes": "2026-10",
+  "fecha": "2026-10-12 19:02:31",
+  "pais": "Mexico",
+  "archivo": "qsl/QSL_XE3BGM_2026-10.webp"
  },
  {
   "indicativo": "LU4KEG",
