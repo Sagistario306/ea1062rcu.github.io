@@ -23945,11 +23945,11 @@
  },
  {
   "indicativo": "SV7LYK",
-  "codigo": "EMTCUJ",
-  "mes": "2026-10",
-  "fecha": "2026-10-31 00:45:09",
+  "codigo": "NWR9JX",
+  "mes": "2026-11",
+  "fecha": "2026-11-21 05:59:13",
   "pais": "Grecia",
-  "archivo": "qsl/QSL_SV7LYK_2026-10.webp"
+  "archivo": "qsl/QSL_SV7LYK_2026-11.webp"
  },
  {
   "indicativo": "OH6GZT",
@@ -43934,6 +43934,14 @@
   "fecha": "2026-10-31 00:28:24",
   "pais": "Canada",
   "archivo": "qsl/QSL_VA3UG_2026-10.webp"
+ },
+ {
+  "indicativo": "SV7LYK",
+  "codigo": "EMTCUJ",
+  "mes": "2026-10",
+  "fecha": "2026-10-31 00:45:09",
+  "pais": "Grecia",
+  "archivo": "qsl/QSL_SV7LYK_2026-10.webp"
  },
  {
   "indicativo": "M0WHL",
