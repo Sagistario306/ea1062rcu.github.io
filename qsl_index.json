@@ -5440,6 +5440,14 @@
   "archivo": "qsl/QSL_HJ4LSP_2026-10_EV.webp"
  },
  {
+  "indicativo": "HK4PNE",
+  "codigo": "APNQDR",
+  "mes": "2026-11",
+  "fecha": "2026-11-22 02:43:58",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK4PNE_2026-11.webp"
+ },
+ {
   "indicativo": "HK1E",
   "codigo": "A48WJJ",
   "mes": "2026-11",
@@ -39590,6 +39598,14 @@
   "fecha": "2026-11-22 02:40:30",
   "pais": "Alemania",
   "archivo": "qsl/QSL_DH5NT_2026-11.webp"
+ },
+ {
+  "indicativo": "HK5DAC",
+  "codigo": "8VW6M4",
+  "mes": "2026-11",
+  "fecha": "2026-11-22 02:44:10",
+  "pais": "Colombia",
+  "archivo": "qsl/QSL_HK5DAC_2026-11.webp"
  },
  {
   "indicativo": "9W2BWS",
