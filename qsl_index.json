@@ -43248,6 +43248,14 @@
   "archivo": "qsl/QSL_PY2TED_2026-11.webp"
  },
  {
+  "indicativo": "KP4USA",
+  "codigo": "UZKBZS",
+  "mes": "2026-11",
+  "fecha": "2026-11-22 22:31:07",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_KP4USA_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
