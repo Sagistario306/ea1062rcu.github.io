@@ -24529,11 +24529,11 @@
  },
  {
   "indicativo": "NP4H",
-  "codigo": "E4KB4C",
-  "mes": "2026-10",
-  "fecha": "2026-10-31 16:29:21",
+  "codigo": "UAGGKN",
+  "mes": "2026-11",
+  "fecha": "2026-11-22 07:28:28",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_NP4H_2026-10.webp"
+  "archivo": "qsl/QSL_NP4H_2026-11.webp"
  },
  {
   "indicativo": "HS9LWR",
@@ -39696,6 +39696,14 @@
   "archivo": "qsl/QSL_F8BSY_2026-11.webp"
  },
  {
+  "indicativo": "IU2WCL",
+  "codigo": "XK7SNP",
+  "mes": "2026-11",
+  "fecha": "2026-11-22 07:27:58",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IU2WCL_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
@@ -44806,6 +44814,14 @@
   "fecha": "2026-10-31 15:14:12",
   "pais": "Tailandia",
   "archivo": "qsl/QSL_HS2XQB_2026-10.webp"
+ },
+ {
+  "indicativo": "NP4H",
+  "codigo": "E4KB4C",
+  "mes": "2026-10",
+  "fecha": "2026-10-31 16:29:21",
+  "pais": "Puerto Rico",
+  "archivo": "qsl/QSL_NP4H_2026-10.webp"
  },
  {
   "indicativo": "HS9LWR",
