@@ -13601,11 +13601,11 @@
  },
  {
   "indicativo": "PP1AR",
-  "codigo": "2ZUUNZ",
-  "mes": "2026-10",
-  "fecha": "2026-10-08 13:42:51",
+  "codigo": "22FJV3",
+  "mes": "2026-11",
+  "fecha": "2026-11-22 00:08:48",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PP1AR_2026-10.webp"
+  "archivo": "qsl/QSL_PP1AR_2026-11.webp"
  },
  {
   "indicativo": "PT2AP",
@@ -42622,6 +42622,14 @@
   "fecha": "2026-10-04 11:28:47",
   "pais": "Colombia",
   "archivo": "qsl/QSL_HJ7WFM_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "PP1AR",
+  "codigo": "2ZUUNZ",
+  "mes": "2026-10",
+  "fecha": "2026-10-08 13:42:51",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PP1AR_2026-10.webp"
  },
  {
   "indicativo": "VK6XC",
