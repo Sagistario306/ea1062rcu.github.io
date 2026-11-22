@@ -12777,11 +12777,11 @@
  },
  {
   "indicativo": "4Z5VK",
-  "codigo": "97T66J",
-  "mes": "2026-10",
-  "fecha": "2026-10-13 08:33:53",
+  "codigo": "48C7Z6",
+  "mes": "2026-11",
+  "fecha": "2026-11-22 07:16:28",
   "pais": "Israel",
-  "archivo": "qsl/QSL_4Z5VK_2026-10.webp"
+  "archivo": "qsl/QSL_4Z5VK_2026-11.webp"
  },
  {
   "indicativo": "CM7ADV",
@@ -42550,6 +42550,14 @@
   "fecha": "2026-10-26 13:13:46",
   "pais": "Grecia",
   "archivo": "qsl/QSL_SV3BSF_2026-10.webp"
+ },
+ {
+  "indicativo": "4Z5VK",
+  "codigo": "97T66J",
+  "mes": "2026-10",
+  "fecha": "2026-10-13 08:33:53",
+  "pais": "Israel",
+  "archivo": "qsl/QSL_4Z5VK_2026-10.webp"
  },
  {
   "indicativo": "PU2KWZ",
