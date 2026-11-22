@@ -3097,11 +3097,11 @@
  },
  {
   "indicativo": "YG2BTP",
-  "codigo": "836VQV",
-  "mes": "2026-10",
-  "fecha": "2026-10-29 13:44:50",
+  "codigo": "J5UC3B",
+  "mes": "2026-11",
+  "fecha": "2026-11-22 05:57:52",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YG2BTP_2026-10.webp"
+  "archivo": "qsl/QSL_YG2BTP_2026-11.webp"
  },
  {
   "indicativo": "LU3DJ",
@@ -39710,6 +39710,14 @@
   "fecha": "2026-10-20 00:00:51",
   "pais": "Malasia",
   "archivo": "qsl/QSL_9W2RUT_2026-10.webp"
+ },
+ {
+  "indicativo": "YG2BTP",
+  "codigo": "836VQV",
+  "mes": "2026-10",
+  "fecha": "2026-10-29 13:44:50",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YG2BTP_2026-10.webp"
  },
  {
   "indicativo": "HK6L",
