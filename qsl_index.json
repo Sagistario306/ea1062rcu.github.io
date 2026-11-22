@@ -1281,11 +1281,11 @@
  },
  {
   "indicativo": "EA3EXE",
-  "codigo": "7HZC6P",
-  "mes": "2026-10",
-  "fecha": "2026-10-12 00:07:01",
+  "codigo": "C8759U",
+  "mes": "2026-11",
+  "fecha": "2026-11-22 11:54:07",
   "pais": "España",
-  "archivo": "qsl/QSL_EA3EXE_2026-10.webp"
+  "archivo": "qsl/QSL_EA3EXE_2026-11.webp"
  },
  {
   "indicativo": "HP1UPR",
@@ -42886,6 +42886,14 @@
   "fecha": "2026-10-08 21:26:15",
   "pais": "Costa Rica",
   "archivo": "qsl/QSL_TI2FRN_2026-10.webp"
+ },
+ {
+  "indicativo": "EA3EXE",
+  "codigo": "7HZC6P",
+  "mes": "2026-10",
+  "fecha": "2026-10-12 00:07:01",
+  "pais": "España",
+  "archivo": "qsl/QSL_EA3EXE_2026-10.webp"
  },
  {
   "indicativo": "YD2VKR",
