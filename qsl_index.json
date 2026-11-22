@@ -39904,6 +39904,22 @@
   "archivo": "qsl/QSL_VA7LNT_2026-11.webp"
  },
  {
+  "indicativo": "PY3MO",
+  "codigo": "JHDD6G",
+  "mes": "2026-11",
+  "fecha": "2026-11-22 15:24:54",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY3MO_2026-11.png"
+ },
+ {
+  "indicativo": "VA2KBR",
+  "codigo": "73E6CV",
+  "mes": "2026-11",
+  "fecha": "2026-11-22 15:59:37",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VA2KBR_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
