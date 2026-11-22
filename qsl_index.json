@@ -39464,6 +39464,30 @@
   "archivo": "qsl/QSL_AE6NM_2026-11.webp"
  },
  {
+  "indicativo": "VK4JBY",
+  "codigo": "WPCZK4",
+  "mes": "2026-11",
+  "fecha": "2026-11-22 00:02:44",
+  "pais": "Australia",
+  "archivo": "qsl/QSL_VK4JBY_2026-11.webp"
+ },
+ {
+  "indicativo": "SP5QWE",
+  "codigo": "KMFJV8",
+  "mes": "2026-11",
+  "fecha": "2026-11-22 00:02:47",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP5QWE_2026-11.webp"
+ },
+ {
+  "indicativo": "SP2DRP",
+  "codigo": "28RGNN",
+  "mes": "2026-11",
+  "fecha": "2026-11-22 00:02:50",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP2DRP_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
