@@ -11753,11 +11753,11 @@
  },
  {
   "indicativo": "VK2ADG",
-  "codigo": "HBBDTY",
-  "mes": "2026-10",
-  "fecha": "2026-10-28 05:44:21",
+  "codigo": "JYGPEP",
+  "mes": "2026-11",
+  "fecha": "2026-11-23 05:40:28",
   "pais": "Australia",
-  "archivo": "qsl/QSL_VK2ADG_2026-10.webp"
+  "archivo": "qsl/QSL_VK2ADG_2026-11.webp"
  },
  {
   "indicativo": "ZS5X",
@@ -45950,6 +45950,14 @@
   "fecha": "2026-10-21 02:28:40",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU2ALS_2026-10.webp"
+ },
+ {
+  "indicativo": "VK2ADG",
+  "codigo": "HBBDTY",
+  "mes": "2026-10",
+  "fecha": "2026-10-28 05:44:21",
+  "pais": "Australia",
+  "archivo": "qsl/QSL_VK2ADG_2026-10.webp"
  },
  {
   "indicativo": "ZS5X",
