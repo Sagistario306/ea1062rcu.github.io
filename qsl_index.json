@@ -12161,11 +12161,11 @@
  },
  {
   "indicativo": "PY3JRT",
-  "codigo": "9NXYHX",
-  "mes": "2026-10",
-  "fecha": "2026-10-10 00:01:05",
+  "codigo": "MBAZRK",
+  "mes": "2026-11",
+  "fecha": "2026-11-23 13:57:31",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PY3JRT_2026-10.webp"
+  "archivo": "qsl/QSL_PY3JRT_2026-11.webp"
  },
  {
   "indicativo": "VK4MRK",
@@ -46350,6 +46350,14 @@
   "fecha": "2026-10-28 05:35:31",
   "pais": "India",
   "archivo": "qsl/QSL_VU3PXF_2026-10.webp"
+ },
+ {
+  "indicativo": "PY3JRT",
+  "codigo": "9NXYHX",
+  "mes": "2026-10",
+  "fecha": "2026-10-10 00:01:05",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PY3JRT_2026-10.webp"
  },
  {
   "indicativo": "VK4MRK",
