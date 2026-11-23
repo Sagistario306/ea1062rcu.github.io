@@ -9641,19 +9641,11 @@
  },
  {
   "indicativo": "LW9DHM",
-  "codigo": "H24Z89",
-  "mes": "2026-10",
-  "fecha": "2026-10-03 00:02:03",
+  "codigo": "YC4AKU",
+  "mes": "2026-11",
+  "fecha": "2026-11-23 22:45:46",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LW9DHM_2026-10.webp"
- },
- {
-  "indicativo": "LW9DHM",
-  "codigo": "QMJMRH",
-  "mes": "2026-10",
-  "fecha": "2026-10-03 00:02:08",
-  "pais": "Argentina",
-  "archivo": "qsl/QSL_LW9DHM_2026-10_EV.webp"
+  "archivo": "qsl/QSL_LW9DHM_2026-11.webp"
  },
  {
   "indicativo": "HJ3OKR",
@@ -45478,6 +45470,22 @@
   "fecha": "2026-10-28 16:57:46",
   "pais": "Argentina",
   "archivo": "qsl/QSL_LU8AP_2026-10.webp"
+ },
+ {
+  "indicativo": "LW9DHM",
+  "codigo": "H24Z89",
+  "mes": "2026-10",
+  "fecha": "2026-10-03 00:02:03",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW9DHM_2026-10.webp"
+ },
+ {
+  "indicativo": "LW9DHM",
+  "codigo": "QMJMRH",
+  "mes": "2026-10",
+  "fecha": "2026-10-03 00:02:03",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LW9DHM_2026-10_EV.webp"
  },
  {
   "indicativo": "EA1GW",
