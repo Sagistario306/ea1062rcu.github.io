@@ -43632,6 +43632,14 @@
   "archivo": "qsl/QSL_IZ2IDS_2026-11.webp"
  },
  {
+  "indicativo": "PR2DP",
+  "codigo": "33F82C",
+  "mes": "2026-11",
+  "fecha": "2026-11-23 10:00:29",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PR2DP_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
