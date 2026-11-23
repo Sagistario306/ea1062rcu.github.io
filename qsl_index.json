@@ -43405,7 +43405,15 @@
   "mes": "2026-11",
   "fecha": "2026-11-23 05:43:29",
   "pais": "Polonia",
-  "archivo": "qsl/QSL_SP3FS_2026-11.webp"
+  "archivo": "qsl/QSL_SP3FS_2026-11.png"
+ },
+ {
+  "indicativo": "DJ2PP",
+  "codigo": "GRJH8S",
+  "mes": "2026-11",
+  "fecha": "2026-11-23 07:00:22",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DJ2PP_2026-11.webp"
  },
  {
   "indicativo": "9W2BWS",
