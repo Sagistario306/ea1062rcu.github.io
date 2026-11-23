@@ -43253,7 +43253,55 @@
   "mes": "2026-11",
   "fecha": "2026-11-22 22:31:07",
   "pais": "Puerto Rico",
-  "archivo": "qsl/QSL_KP4USA_2026-11.webp"
+  "archivo": "qsl/QSL_KP4USA_2026-11.png"
+ },
+ {
+  "indicativo": "W9FHC",
+  "codigo": "JHQHGX",
+  "mes": "2026-11",
+  "fecha": "2026-11-23 05:25:24",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_W9FHC_2026-11.webp"
+ },
+ {
+  "indicativo": "N0JVW",
+  "codigo": "JFFG8W",
+  "mes": "2026-11",
+  "fecha": "2026-11-23 05:25:30",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_N0JVW_2026-11.webp"
+ },
+ {
+  "indicativo": "KJ4TDM",
+  "codigo": "7BYK87",
+  "mes": "2026-11",
+  "fecha": "2026-11-23 05:25:32",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_KJ4TDM_2026-11.webp"
+ },
+ {
+  "indicativo": "KB2HSH",
+  "codigo": "ZA2EDS",
+  "mes": "2026-11",
+  "fecha": "2026-11-23 05:25:41",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_KB2HSH_2026-11.webp"
+ },
+ {
+  "indicativo": "W9STR",
+  "codigo": "BBAZ8J",
+  "mes": "2026-11",
+  "fecha": "2026-11-23 05:25:42",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_W9STR_2026-11.webp"
+ },
+ {
+  "indicativo": "SP9CBL",
+  "codigo": "AG43YB",
+  "mes": "2026-11",
+  "fecha": "2026-11-23 05:26:21",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP9CBL_2026-11.webp"
  },
  {
   "indicativo": "9W2BWS",
