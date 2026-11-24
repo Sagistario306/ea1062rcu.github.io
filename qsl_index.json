@@ -18081,11 +18081,11 @@
  },
  {
   "indicativo": "DF5KX",
-  "codigo": "Q3PQVU",
-  "mes": "2026-10",
-  "fecha": "2026-10-24 04:26:36",
+  "codigo": "H44ETY",
+  "mes": "2026-11",
+  "fecha": "2026-11-24 09:45:49",
   "pais": "Alemania",
-  "archivo": "qsl/QSL_DF5KX_2026-10.webp"
+  "archivo": "qsl/QSL_DF5KX_2026-11.webp"
  },
  {
   "indicativo": "EA1AFB",
@@ -47854,6 +47854,14 @@
   "fecha": "2026-10-24 00:13:39",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PU2WZA_2026-10.webp"
+ },
+ {
+  "indicativo": "DF5KX",
+  "codigo": "Q3PQVU",
+  "mes": "2026-10",
+  "fecha": "2026-10-24 04:26:36",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DF5KX_2026-10.webp"
  },
  {
   "indicativo": "HJ5K",
