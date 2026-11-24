@@ -44072,6 +44072,22 @@
   "archivo": "qsl/QSL_KP4INK_2026-11.webp"
  },
  {
+  "indicativo": "IK7WPI",
+  "codigo": "KES4QJ",
+  "mes": "2026-11",
+  "fecha": "2026-11-24 07:49:00",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IK7WPI_2026-11.webp"
+ },
+ {
+  "indicativo": "OZ9GP",
+  "codigo": "GUESCN",
+  "mes": "2026-11",
+  "fecha": "2026-11-24 07:49:32",
+  "pais": "Dinamarca",
+  "archivo": "qsl/QSL_OZ9GP_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
