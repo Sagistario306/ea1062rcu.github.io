@@ -18049,11 +18049,11 @@
  },
  {
   "indicativo": "PU2WZA",
-  "codigo": "QETN5F",
-  "mes": "2026-10",
-  "fecha": "2026-10-24 00:13:39",
+  "codigo": "JGNC99",
+  "mes": "2026-11",
+  "fecha": "2026-11-24 01:14:02",
   "pais": "Brasil",
-  "archivo": "qsl/QSL_PU2WZA_2026-10.webp"
+  "archivo": "qsl/QSL_PU2WZA_2026-11.webp"
  },
  {
   "indicativo": "YD2UNL",
@@ -47558,6 +47558,14 @@
   "fecha": "2026-10-24 00:00:42",
   "pais": "Canada",
   "archivo": "qsl/QSL_VE2SNI_2026-10.webp"
+ },
+ {
+  "indicativo": "PU2WZA",
+  "codigo": "QETN5F",
+  "mes": "2026-10",
+  "fecha": "2026-10-24 00:13:39",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PU2WZA_2026-10.webp"
  },
  {
   "indicativo": "HJ5K",
