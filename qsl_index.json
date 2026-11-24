@@ -15609,11 +15609,11 @@
  },
  {
   "indicativo": "CE3HRC",
-  "codigo": "GPV4SV",
-  "mes": "2026-10",
-  "fecha": "2026-10-13 11:16:08",
+  "codigo": "FP7KKP",
+  "mes": "2026-11",
+  "fecha": "2026-11-24 15:45:15",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE3HRC_2026-10.webp"
+  "archivo": "qsl/QSL_CE3HRC_2026-11.webp"
  },
  {
   "indicativo": "F5NRK",
@@ -47702,6 +47702,14 @@
   "fecha": "2026-10-13 00:00:46",
   "pais": "Canada",
   "archivo": "qsl/QSL_VY2JOE_2026-10.webp"
+ },
+ {
+  "indicativo": "CE3HRC",
+  "codigo": "GPV4SV",
+  "mes": "2026-10",
+  "fecha": "2026-10-13 11:16:08",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3HRC_2026-10.webp"
  },
  {
   "indicativo": "TI5LUA",
