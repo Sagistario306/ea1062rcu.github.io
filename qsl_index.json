@@ -44208,6 +44208,22 @@
   "archivo": "qsl/QSL_DG1FFJ_2026-11.webp"
  },
  {
+  "indicativo": "DC6MY",
+  "codigo": "FAKUF8",
+  "mes": "2026-11",
+  "fecha": "2026-11-24 10:42:34",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DC6MY_2026-11.webp"
+ },
+ {
+  "indicativo": "SM0YOL",
+  "codigo": "D3NMJD",
+  "mes": "2026-11",
+  "fecha": "2026-11-24 10:42:38",
+  "pais": "Suecia",
+  "archivo": "qsl/QSL_SM0YOL_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
