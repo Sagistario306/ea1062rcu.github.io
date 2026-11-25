@@ -44608,6 +44608,14 @@
   "archivo": "qsl/QSL_9M2VHF_2026-11.webp"
  },
  {
+  "indicativo": "DG2GG",
+  "codigo": "ZAHJG3",
+  "mes": "2026-11",
+  "fecha": "2026-11-25 05:34:32",
+  "pais": "Alemania",
+  "archivo": "qsl/QSL_DG2GG_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
