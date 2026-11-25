@@ -44861,7 +44861,15 @@
   "mes": "2026-11",
   "fecha": "2026-11-25 13:15:17",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU5CQC_2026-11.webp"
+  "archivo": "qsl/QSL_LU5CQC_2026-11.png"
+ },
+ {
+  "indicativo": "HB9ZIH",
+  "codigo": "KPBN9P",
+  "mes": "2026-11",
+  "fecha": "2026-11-25 13:38:44",
+  "pais": "Suiza",
+  "archivo": "qsl/QSL_HB9ZIH_2026-11.webp"
  },
  {
   "indicativo": "9W2BWS",
