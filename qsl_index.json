@@ -14393,11 +14393,11 @@
  },
  {
   "indicativo": "SP4RV",
-  "codigo": "9SVG86",
-  "mes": "2026-10",
-  "fecha": "2026-10-10 12:49:38",
+  "codigo": "K7UBKF",
+  "mes": "2026-11",
+  "fecha": "2026-11-25 06:13:10",
   "pais": "Polonia",
-  "archivo": "qsl/QSL_SP4RV_2026-10.webp"
+  "archivo": "qsl/QSL_SP4RV_2026-11.webp"
  },
  {
   "indicativo": "F6DDV",
@@ -47902,6 +47902,14 @@
   "fecha": "2026-10-10 10:34:31",
   "pais": "Polonia",
   "archivo": "qsl/QSL_SP1JT_2026-10.webp"
+ },
+ {
+  "indicativo": "SP4RV",
+  "codigo": "9SVG86",
+  "mes": "2026-10",
+  "fecha": "2026-10-10 12:49:38",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP4RV_2026-10.webp"
  },
  {
   "indicativo": "LB7XI",
