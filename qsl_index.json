@@ -9497,11 +9497,11 @@
  },
  {
   "indicativo": "YC2UAI",
-  "codigo": "DD93W2",
-  "mes": "2026-10",
-  "fecha": "2026-10-20 00:27:13",
+  "codigo": "WEPV8U",
+  "mes": "2026-11",
+  "fecha": "2026-11-25 10:30:14",
   "pais": "Indonesia",
-  "archivo": "qsl/QSL_YC2UAI_2026-10.webp"
+  "archivo": "qsl/QSL_YC2UAI_2026-11.webp"
  },
  {
   "indicativo": "EA7KHV",
@@ -12078,6 +12078,14 @@
   "fecha": "2026-11-03 07:50:12",
   "pais": "Portugal",
   "archivo": "qsl/QSL_CT2ENW_2026-11_EV.webp"
+ },
+ {
+  "indicativo": "VU2COR",
+  "codigo": "BYK3S4",
+  "mes": "2026-11",
+  "fecha": "2026-11-25 10:30:57",
+  "pais": "Lakshadweep",
+  "archivo": "qsl/QSL_VU2COR_2026-11.webp"
  },
  {
   "indicativo": "ZL2CJ",
@@ -44768,6 +44776,14 @@
   "archivo": "qsl/QSL_OE5UAM_2026-11.webp"
  },
  {
+  "indicativo": "CS7BGW",
+  "codigo": "ER4TDW",
+  "mes": "2026-11",
+  "fecha": "2026-11-25 10:29:07",
+  "pais": "Portugal",
+  "archivo": "qsl/QSL_CS7BGW_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
@@ -46438,6 +46454,14 @@
   "fecha": "2026-10-20 00:05:09",
   "pais": "Indonesia",
   "archivo": "qsl/QSL_YD6AOR_2026-10.webp"
+ },
+ {
+  "indicativo": "YC2UAI",
+  "codigo": "DD93W2",
+  "mes": "2026-10",
+  "fecha": "2026-10-20 00:27:13",
+  "pais": "Indonesia",
+  "archivo": "qsl/QSL_YC2UAI_2026-10.webp"
  },
  {
   "indicativo": "LU6MHO",
