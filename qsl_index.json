@@ -8729,11 +8729,11 @@
  },
  {
   "indicativo": "YV2FYY",
-  "codigo": "5KV4EJ",
-  "mes": "2026-10",
-  "fecha": "2026-10-09 21:25:56",
+  "codigo": "MNH8XZ",
+  "mes": "2026-11",
+  "fecha": "2026-11-26 11:35:55",
   "pais": "Venezuela",
-  "archivo": "qsl/QSL_YV2FYY_2026-10.webp"
+  "archivo": "qsl/QSL_YV2FYY_2026-11.webp"
  },
  {
   "indicativo": "LU4TDG",
@@ -46814,6 +46814,14 @@
   "fecha": "2026-10-08 00:09:52",
   "pais": "Cuba",
   "archivo": "qsl/QSL_CO5RMM_2026-10.webp"
+ },
+ {
+  "indicativo": "YV2FYY",
+  "codigo": "5KV4EJ",
+  "mes": "2026-10",
+  "fecha": "2026-10-09 21:25:56",
+  "pais": "Venezuela",
+  "archivo": "qsl/QSL_YV2FYY_2026-10.webp"
  },
  {
   "indicativo": "EB1HRW",
