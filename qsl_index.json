@@ -23441,11 +23441,11 @@
  },
  {
   "indicativo": "LU9HRM",
-  "codigo": "93QS2V",
-  "mes": "2026-10",
-  "fecha": "2026-10-30 10:30:36",
+  "codigo": "M6Z8FR",
+  "mes": "2026-11",
+  "fecha": "2026-11-26 02:49:19",
   "pais": "Argentina",
-  "archivo": "qsl/QSL_LU9HRM_2026-10.webp"
+  "archivo": "qsl/QSL_LU9HRM_2026-11.webp"
  },
  {
   "indicativo": "9M2VDY",
@@ -49998,6 +49998,14 @@
   "fecha": "2026-10-30 07:10:36",
   "pais": "Suecia",
   "archivo": "qsl/QSL_SM0GBG_2026-10.webp"
+ },
+ {
+  "indicativo": "LU9HRM",
+  "codigo": "93QS2V",
+  "mes": "2026-10",
+  "fecha": "2026-10-30 10:30:36",
+  "pais": "Argentina",
+  "archivo": "qsl/QSL_LU9HRM_2026-10.webp"
  },
  {
   "indicativo": "9M2VDY",
