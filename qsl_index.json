@@ -22529,11 +22529,11 @@
  },
  {
   "indicativo": "TA2TR",
-  "codigo": "5TSWBW",
-  "mes": "2026-10",
-  "fecha": "2026-10-30 00:02:53",
-  "pais": "Turquia",
-  "archivo": "qsl/QSL_TA2TR_2026-10.webp"
+  "codigo": "2VSFSU",
+  "mes": "2026-11",
+  "fecha": "2026-11-26 20:42:45",
+  "pais": "Turquía",
+  "archivo": "qsl/QSL_TA2TR_2026-11.webp"
  },
  {
   "indicativo": "VE3OMP",
@@ -50054,6 +50054,14 @@
   "fecha": "2026-10-30 00:02:07",
   "pais": "Canada",
   "archivo": "qsl/QSL_VA7VSM_2026-10.webp"
+ },
+ {
+  "indicativo": "TA2TR",
+  "codigo": "5TSWBW",
+  "mes": "2026-10",
+  "fecha": "2026-10-30 00:02:53",
+  "pais": "Turquia",
+  "archivo": "qsl/QSL_TA2TR_2026-10.webp"
  },
  {
   "indicativo": "VE3OMP",
