@@ -3361,19 +3361,11 @@
  },
  {
   "indicativo": "CE3TKG",
-  "codigo": "97N6S7",
-  "mes": "2026-10",
-  "fecha": "2026-10-07 13:54:35",
+  "codigo": "Z7F22U",
+  "mes": "2026-11",
+  "fecha": "2026-11-26 23:47:21",
   "pais": "Chile",
-  "archivo": "qsl/QSL_CE3TKG_2026-10.webp"
- },
- {
-  "indicativo": "CE3TKG",
-  "codigo": "C2HYH4",
-  "mes": "2026-10",
-  "fecha": "2026-10-07 13:54:42",
-  "pais": "Chile",
-  "archivo": "qsl/QSL_CE3TKG_2026-10_EV.webp"
+  "archivo": "qsl/QSL_CE3TKG_2026-11.webp"
  },
  {
   "indicativo": "XE2ERA",
@@ -45558,6 +45550,22 @@
   "fecha": "2026-10-06 00:00:56",
   "pais": "España",
   "archivo": "qsl/QSL_EC5M_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "CE3TKG",
+  "codigo": "97N6S7",
+  "mes": "2026-10",
+  "fecha": "2026-10-07 13:54:35",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3TKG_2026-10.webp"
+ },
+ {
+  "indicativo": "CE3TKG",
+  "codigo": "C2HYH4",
+  "mes": "2026-10",
+  "fecha": "2026-10-07 13:54:35",
+  "pais": "Chile",
+  "archivo": "qsl/QSL_CE3TKG_2026-10_EV.webp"
  },
  {
   "indicativo": "TI4GO",
