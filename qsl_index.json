@@ -7585,11 +7585,11 @@
  },
  {
   "indicativo": "HC1TCH",
-  "codigo": "MQU52K",
-  "mes": "2026-10",
-  "fecha": "2026-10-09 18:32:30",
+  "codigo": "367ZTB",
+  "mes": "2026-11",
+  "fecha": "2026-11-27 12:14:20",
   "pais": "Ecuador",
-  "archivo": "qsl/QSL_HC1TCH_2026-10.webp"
+  "archivo": "qsl/QSL_HC1TCH_2026-11.webp"
  },
  {
   "indicativo": "HK4EGW",
@@ -47158,6 +47158,14 @@
   "fecha": "2026-10-01 00:16:19",
   "pais": "Uruguay",
   "archivo": "qsl/QSL_CX4AT_2026-10_EV.webp"
+ },
+ {
+  "indicativo": "HC1TCH",
+  "codigo": "MQU52K",
+  "mes": "2026-10",
+  "fecha": "2026-10-09 18:32:30",
+  "pais": "Ecuador",
+  "archivo": "qsl/QSL_HC1TCH_2026-10.webp"
  },
  {
   "indicativo": "9W2VDN",
