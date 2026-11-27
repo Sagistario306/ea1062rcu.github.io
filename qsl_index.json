@@ -45496,6 +45496,30 @@
   "archivo": "qsl/QSL_KC1CDY_2026-11.webp"
  },
  {
+  "indicativo": "PR8JJO",
+  "codigo": "ZSRYZM",
+  "mes": "2026-11",
+  "fecha": "2026-11-27 00:05:23",
+  "pais": "Brasil",
+  "archivo": "qsl/QSL_PR8JJO_2026-11.webp"
+ },
+ {
+  "indicativo": "YT2FA",
+  "codigo": "9TGD96",
+  "mes": "2026-11",
+  "fecha": "2026-11-27 00:05:57",
+  "pais": "Serbia",
+  "archivo": "qsl/QSL_YT2FA_2026-11.webp"
+ },
+ {
+  "indicativo": "IU3SOC",
+  "codigo": "YTT8JY",
+  "mes": "2026-11",
+  "fecha": "2026-11-27 00:06:15",
+  "pais": "Italia",
+  "archivo": "qsl/QSL_IU3SOC_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
