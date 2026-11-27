@@ -23817,11 +23817,11 @@
  },
  {
   "indicativo": "VE7AFF",
-  "codigo": "D49U3S",
-  "mes": "2026-10",
-  "fecha": "2026-10-31 00:06:06",
-  "pais": "Canada",
-  "archivo": "qsl/QSL_VE7AFF_2026-10.webp"
+  "codigo": "AMVQ29",
+  "mes": "2026-11",
+  "fecha": "2026-11-27 01:26:44",
+  "pais": "Canadá",
+  "archivo": "qsl/QSL_VE7AFF_2026-11.webp"
  },
  {
   "indicativo": "DG5MLA",
@@ -50638,6 +50638,14 @@
   "fecha": "2026-10-31 00:05:40",
   "pais": "Brasil",
   "archivo": "qsl/QSL_PY2AMW_2026-10.webp"
+ },
+ {
+  "indicativo": "VE7AFF",
+  "codigo": "D49U3S",
+  "mes": "2026-10",
+  "fecha": "2026-10-31 00:06:06",
+  "pais": "Canada",
+  "archivo": "qsl/QSL_VE7AFF_2026-10.webp"
  },
  {
   "indicativo": "VK7KAM",
