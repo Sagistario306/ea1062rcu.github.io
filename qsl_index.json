@@ -45933,7 +45933,23 @@
   "mes": "2026-11",
   "fecha": "2026-11-27 14:01:08",
   "pais": "Reino Unido",
-  "archivo": "qsl/QSL_G7EKL_2026-11.webp"
+  "archivo": "qsl/QSL_G7EKL_2026-11.png"
+ },
+ {
+  "indicativo": "ZL1RL",
+  "codigo": "UEZVQ8",
+  "mes": "2026-11",
+  "fecha": "2026-11-27 20:58:44",
+  "pais": "Nueva Zelanda",
+  "archivo": "qsl/QSL_ZL1RL_2026-11.webp"
+ },
+ {
+  "indicativo": "Z32KWB",
+  "codigo": "NEKTR2",
+  "mes": "2026-11",
+  "fecha": "2026-11-27 21:00:19",
+  "pais": "Macedonia del Norte",
+  "archivo": "qsl/QSL_Z32KWB_2026-11.webp"
  },
  {
   "indicativo": "9W2BWS",
