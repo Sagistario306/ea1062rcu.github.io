@@ -45736,6 +45736,14 @@
   "archivo": "qsl/QSL_SP4TWQ_2026-11.webp"
  },
  {
+  "indicativo": "SP1SEM",
+  "codigo": "AA8TJN",
+  "mes": "2026-11",
+  "fecha": "2026-11-27 07:43:46",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP1SEM_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
