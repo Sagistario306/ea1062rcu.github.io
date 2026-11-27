@@ -45760,6 +45760,14 @@
   "archivo": "qsl/QSL_9A5AJT_2026-11.webp"
  },
  {
+  "indicativo": "LA2BSA",
+  "codigo": "ST2WST",
+  "mes": "2026-11",
+  "fecha": "2026-11-27 08:03:23",
+  "pais": "Noruega",
+  "archivo": "qsl/QSL_LA2BSA_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
