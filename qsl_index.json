@@ -45456,6 +45456,38 @@
   "archivo": "qsl/QSL_TI3DRF_2026-11.webp"
  },
  {
+  "indicativo": "KA9RXK",
+  "codigo": "J5TJ79",
+  "mes": "2026-11",
+  "fecha": "2026-11-27 00:00:07",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_KA9RXK_2026-11.webp"
+ },
+ {
+  "indicativo": "WB9YCZ",
+  "codigo": "DEX8Y4",
+  "mes": "2026-11",
+  "fecha": "2026-11-27 00:00:14",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_WB9YCZ_2026-11.webp"
+ },
+ {
+  "indicativo": "K7DCJ",
+  "codigo": "4E5X45",
+  "mes": "2026-11",
+  "fecha": "2026-11-27 00:00:21",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_K7DCJ_2026-11.webp"
+ },
+ {
+  "indicativo": "N2NWK",
+  "codigo": "E984UD",
+  "mes": "2026-11",
+  "fecha": "2026-11-27 00:00:30",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_N2NWK_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
