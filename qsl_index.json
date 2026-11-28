@@ -23841,11 +23841,11 @@
  },
  {
   "indicativo": "F5VLQ",
-  "codigo": "CSDM8Z",
-  "mes": "2026-10",
-  "fecha": "2026-10-31 00:10:33",
+  "codigo": "E5PY8H",
+  "mes": "2026-11",
+  "fecha": "2026-11-28 00:06:05",
   "pais": "Francia",
-  "archivo": "qsl/QSL_F5VLQ_2026-10.webp"
+  "archivo": "qsl/QSL_F5VLQ_2026-11.webp"
  },
  {
   "indicativo": "TA7OYG",
@@ -51118,6 +51118,14 @@
   "fecha": "2026-10-31 00:06:06",
   "pais": "Canada",
   "archivo": "qsl/QSL_VE7AFF_2026-10.webp"
+ },
+ {
+  "indicativo": "F5VLQ",
+  "codigo": "CSDM8Z",
+  "mes": "2026-10",
+  "fecha": "2026-10-31 00:10:33",
+  "pais": "Francia",
+  "archivo": "qsl/QSL_F5VLQ_2026-10.webp"
  },
  {
   "indicativo": "VK7KAM",
