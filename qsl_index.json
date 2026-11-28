@@ -46024,6 +46024,14 @@
   "archivo": "qsl/QSL_KD0RIH_2026-11.webp"
  },
  {
+  "indicativo": "SP3PAT",
+  "codigo": "EBSEJT",
+  "mes": "2026-11",
+  "fecha": "2026-11-28 00:03:03",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP3PAT_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
