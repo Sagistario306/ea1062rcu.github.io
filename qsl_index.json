@@ -46208,6 +46208,22 @@
   "archivo": "qsl/QSL_RC6AZ_2026-11.webp"
  },
  {
+  "indicativo": "SP1RAC",
+  "codigo": "S5B8ZP",
+  "mes": "2026-11",
+  "fecha": "2026-11-28 07:07:03",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP1RAC_2026-11.webp"
+ },
+ {
+  "indicativo": "SP7CC",
+  "codigo": "QHDT2U",
+  "mes": "2026-11",
+  "fecha": "2026-11-28 07:08:51",
+  "pais": "Polonia",
+  "archivo": "qsl/QSL_SP7CC_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
