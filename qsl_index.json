@@ -14593,11 +14593,11 @@
  },
  {
   "indicativo": "K6TVI",
-  "codigo": "3ETKYY",
-  "mes": "2026-10",
-  "fecha": "2026-10-11 00:00:22",
-  "pais": "EE.UU",
-  "archivo": "qsl/QSL_K6TVI_2026-10.webp"
+  "codigo": "76BMMS",
+  "mes": "2026-11",
+  "fecha": "2026-11-28 00:00:14",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_K6TVI_2026-11.webp"
  },
  {
   "indicativo": "AG6AH",
@@ -45984,6 +45984,46 @@
   "archivo": "qsl/QSL_CE6MS_2026-11.webp"
  },
  {
+  "indicativo": "KQ4PML",
+  "codigo": "D7Z5JA",
+  "mes": "2026-11",
+  "fecha": "2026-11-28 00:00:08",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_KQ4PML_2026-11.webp"
+ },
+ {
+  "indicativo": "KK7HBH",
+  "codigo": "ZYYM37",
+  "mes": "2026-11",
+  "fecha": "2026-11-28 00:00:28",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_KK7HBH_2026-11.webp"
+ },
+ {
+  "indicativo": "VU2NQD",
+  "codigo": "DUCG9G",
+  "mes": "2026-11",
+  "fecha": "2026-11-28 00:00:31",
+  "pais": "Lakshadweep",
+  "archivo": "qsl/QSL_VU2NQD_2026-11.webp"
+ },
+ {
+  "indicativo": "NB9D",
+  "codigo": "AWYJ9S",
+  "mes": "2026-11",
+  "fecha": "2026-11-28 00:00:37",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_NB9D_2026-11.webp"
+ },
+ {
+  "indicativo": "KD0RIH",
+  "codigo": "N55WMM",
+  "mes": "2026-11",
+  "fecha": "2026-11-28 00:00:39",
+  "pais": "Estados Unidos",
+  "archivo": "qsl/QSL_KD0RIH_2026-11.webp"
+ },
+ {
   "indicativo": "9W2BWS",
   "codigo": "CYGH9Y",
   "mes": "2026-10",
@@ -49366,6 +49406,14 @@
   "fecha": "2026-10-10 19:52:19",
   "pais": "Reino Unido",
   "archivo": "qsl/QSL_M0ZPG_2026-10.webp"
+ },
+ {
+  "indicativo": "K6TVI",
+  "codigo": "3ETKYY",
+  "mes": "2026-10",
+  "fecha": "2026-10-11 00:00:22",
+  "pais": "EE.UU",
+  "archivo": "qsl/QSL_K6TVI_2026-10.webp"
  },
  {
   "indicativo": "9W2IHT",
